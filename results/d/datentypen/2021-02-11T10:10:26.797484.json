@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Primitive Datentypen, Variablen und Arrays - lernen mit Serlo!de.serlo.org \u203a informatik \u203a primitive-datentypen-variablen-und-arrays",
+    "link": "https://de.serlo.org/informatik/35686/primitive-datentypen-variablen-und-arrays",
+    "description": "In Abh\u00e4ngigkeit davon, welcher Datentyp verwendet wird, werden vorhandene Daten unterschiedlich interpretiert. Folgende M\u00f6glichkeiten gibt es, um Werte zu repr\u00e4sentieren.",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/35686/primitive-datentypen-variablen-und-arrays&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQFnoECAMQAg&usg=AOvVaw0C-E5pYpwKyUOvMf8sf68v",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Datentyp \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Datentyp",
+    "link": "https://de.wikipedia.org/wiki/Datentyp",
+    "description": "Formal bezeichnet ein Datentyp (vom englischen data type) oder eine Datenart in der Informatik die Zusammenfassung von Objektmengen mit den darauf\u00a0...\nInteger \u00b7 Kategorie:Datentyp \u00b7 Feld \u00b7 Char",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Datentyp&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQFjAUegQIBxAB&usg=AOvVaw1EH5o7BIGT0oIbYaeeN10S",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Elementare Datentypen - Fachbereich 3 - Mathematik und Informatik ...www.informatik.uni-bremen.de \u203a ~roefer \u203a 2.pdf",
+    "link": "https://www.informatik.uni-bremen.de/~roefer/pi1help/2.pdf",
+    "description": "Elementare Datentypen. Datentyp. Default. Speicherplatz Wertebereich byte. 0. 1 Byte (8 Bits). -128 bis 127 short. 0. 2 Bytes (16 Bits) -32768 bis 32767 int. 0.",
+    "googleLink": "http://www.google.com/url?q=https://www.informatik.uni-bremen.de/~roefer/pi1help/2.pdf&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQFjAVegQIBhAB&usg=AOvVaw0aKvkoqpeQZfv8UzRUrpK1",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Datentypen \u00bb Fachkonzept - Datentyp - inf-schulewww.inf-schule.de \u203a konzepteimp \u203a datentypen \u203a konzept_datentyp",
+    "link": "https://www.inf-schule.de/programmierung/imperativeprogrammierung/konzepteimp/datentypen/konzept_datentyp",
+    "description": "Datentypen - eine \u00dcbersicht. Zur Darstellung von Zahlen werden in der Informatik oft die Datentypen ganze Zahl und Gleitkommazahl benutzt. Texte werden mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/programmierung/imperativeprogrammierung/konzepteimp/datentypen/konzept_datentyp&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQFjAWegQIChAB&usg=AOvVaw2hDtPpW47vd6M_mp-6dpzv",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Zusammenfassung der Datentypen | Microsoft Docsdocs.microsoft.com \u203a ... \u203a Sprachreferenz \u203a Referenz",
+    "link": "https://docs.microsoft.com/de-de/office/vba/language/reference/user-interface-help/data-type-summary",
+    "description": "19.11.2018 \u00b7 Festlegen systeminterner Datentypen. DatentypData type, Speicherbedarf\u200bStorage size, BereichRange. Boolescher WertBoolean, 2 Byte2 bytes\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/office/vba/language/reference/user-interface-help/data-type-summary&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQFjAXegQICRAB&usg=AOvVaw0lkXXUSNOu8cPVG9y_najB",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Variablen/Datentypen | informatikZentralewww.informatikzentrale.de \u203a variablen-verkettung-php",
+    "link": "https://www.informatikzentrale.de/variablen-verkettung-php.html",
+    "description": "03.08.2010 \u00b7 php, variablen, datentypen, string, integer, float, int, bool, array, uebungen, informatikunterricht, IT, unterrichtsmaterialien | Informatikunterricht.",
+    "googleLink": "http://www.google.com/url?q=https://www.informatikzentrale.de/variablen-verkettung-php.html&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQFjAYegQIBBAB&usg=AOvVaw2TcO_LdMztOSGsnqpUmWiu",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Was sind Datentypen? - einfach erkl\u00e4rt! | #5 Programmieren f\u00fcr ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=OQA14QM9YgU",
+    "description": "15.04.2020 \u00b7 In dieser Videoreihe lernt Ihr das Programmieren! Wir vermitteln alle Grundlagen, welche ...Dauer: 3:06\nGepostet: 15.04.2020",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DOQA14QM9YgU&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQtwIwHXoECAIQAQ&usg=AOvVaw0bSXEHMDrt2U3sLSOA1hVA",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "C Datentypen - einfach erkl\u00e4rt f\u00fcr dein Informatik Studium \u00b7 [mit Video]studyflix.de \u203a informatik \u203a typen-und-werte-626",
+    "link": "https://studyflix.de/informatik/typen-und-werte-626",
+    "description": "29.11.2018 \u00b7 Was ist ein C Datentyp? \u2705 Welche sind die grundlegenden Datentypen in C? \u2705 Was bedeuten int, double, float und char? \u2705 mit kostenlosem\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/informatik/typen-und-werte-626&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQFjAeegQIDBAB&usg=AOvVaw0IdFwNKIlBw68NY5J5Cicf",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Java Datentypen einfach mit Beispielen erkl\u00e4rt | [mit Video] - Studyflixstudyflix.de \u203a informatik \u203a primitive-datentypen-215",
+    "link": "https://studyflix.de/informatik/primitive-datentypen-215",
+    "description": "29.11.2018 \u00b7 Was sind Java Datentypen? \u2705 Welche primitive Datentypen gibt es in Java? \u2705 boolean ...Dauer: 6:39\nGepostet: 29.11.2018",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/informatik/primitive-datentypen-215&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQtwIwH3oECA4QAQ&usg=AOvVaw0cUzTFsxbm3zBkrOuAsYtW",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Datentypen und Operatorenkuepper.userweb.mwn.de \u203a informatik \u203a info2-k5-datentypen",
+    "link": "https://kuepper.userweb.mwn.de/informatik/info2-k5-datentypen.pdf",
+    "description": "Ganze Zahlen mit Vorzeichen (b):. Neben dem Datentyp int gibt es weitere Typen zur Darstellung vorzeichenbehafteter ganze Zahlen. Diese decken\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://kuepper.userweb.mwn.de/informatik/info2-k5-datentypen.pdf&sa=U&ved=2ahUKEwjpoJecvuHuAhWOv1kKHauHDLcQFjAgegQIBRAB&usg=AOvVaw1GEPno2wd9nc_5NsWd9OEd",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Numerische Datentypen - Elektronik-Kompendiumwww.elektronik-kompendium.de \u203a sites \u203a com",
+    "link": "https://www.elektronik-kompendium.de/sites/com/1807221.htm",
+    "description": "Deshalb bedarf also zus\u00e4tzlicher numerischer Datentypen. byte, int; signed, unsigned; short, long; float, double; decimal, currency, rational, complex, big. Jeder\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.elektronik-kompendium.de/sites/com/1807221.htm&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAB6BAgBEAE&usg=AOvVaw09w5zhylfwkktVpX55Mhqc",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Datentyp \u2014 Enzyklopaedie der Wirtschaftsinformatikwww.enzyklopaedie-der-wirtschaftsinformatik.de \u203a Kodierung-von-Daten",
+    "link": "https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/technologien-methoden/Informatik--Grundlagen/Kodierung-von-Daten/Datentyp/index.html",
+    "description": "29.09.2020 \u00b7 Ein Datentyp beschreibt eine Wertemenge mit darauf definierten Operationen. Man unterscheidet hierbei zwischen elementare Datentypen,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/technologien-methoden/Informatik--Grundlagen/Kodierung-von-Daten/Datentyp/index.html&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAF6BAgJEAE&usg=AOvVaw3YHBZFD1u3CB81o-vlE8pB",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Datentypen - Ulrich Helmichu-helmich.de \u203a inf \u203a lexikon \u203a Datentypen",
+    "link": "http://u-helmich.de/inf/lexikon/A-D/Datentypen.html",
+    "description": "Datentypen. Die Objekte einer Klasse haben bestimmte Attribute, die zum Speichern von Informationen (Koordinaten, Farbe, Gr\u00f6\u00dfe, Bezeichnung etc.) dienen.",
+    "googleLink": "http://www.google.com/url?q=http://u-helmich.de/inf/lexikon/A-D/Datentypen.html&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAJ6BAgIEAE&usg=AOvVaw33e1tHckx7-Yx883kZZh2m",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Programmierkurs Kapitel 4 Datentypen Arten von Datentypenwww.zaik.uni-koeln.de \u203a teachings \u203a ProgKurs \u203a script \u203a kap4_type4",
+    "link": "https://www.zaik.uni-koeln.de/AFS/teachings/ws0708/ProgKurs/script/kap4_type4.pdf",
+    "description": "Der alphanumerische Datentyp char. 2 / 62. Datentypen. Bei der Deklaration einer Variablen legt der Datentyp fest: Welche Werte die Variable annehmen kann.",
+    "googleLink": "http://www.google.com/url?q=https://www.zaik.uni-koeln.de/AFS/teachings/ws0708/ProgKurs/script/kap4_type4.pdf&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAN6BAgHEAE&usg=AOvVaw2mxpojLpp0QmsMq5jULnOA",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Programmiergrundlagen: Variablen, Datentypen, Algorithmenentwickler.de \u203a Online \u203a Development",
+    "link": "https://entwickler.de/online/development/einfuehrung-programmierung-variablen-datentypen-algorithmen-197249.html",
+    "description": "11.04.2016 \u00b7 Die Basics sind das A und O der Programmierung. Dazu geh\u00f6ren die Definition von Variablen und die Auswahl der Datentypen. Die meisten\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://entwickler.de/online/development/einfuehrung-programmierung-variablen-datentypen-algorithmen-197249.html&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAR6BAgFEAE&usg=AOvVaw0YoxrSwQCLTqvjizqH31VF",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Primitive Datentypen - Javabeginnersjavabeginners.de \u203a Grundlagen \u203a Datentypen \u203a Primitive_Datentypen",
+    "link": "https://javabeginners.de/Grundlagen/Datentypen/Primitive_Datentypen.php",
+    "description": "In Java unterscheidet man zwischen primitiven Datentypen und Referenz-\u200bDatentypen. Die Seite gibt einen \u00dcberblick \u00fcber die in Java definierten primitiven\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://javabeginners.de/Grundlagen/Datentypen/Primitive_Datentypen.php&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAV6BAgEEAE&usg=AOvVaw2-CC0VG0LSjLpNFDDQjdi4",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Rheinwerk Computing :: Java ist auch eine Insel \u2013 2.3 Datentypen ...openbook.rheinwerk-verlag.de \u203a javainsel9 \u203a javainsel_02_003",
+    "link": "http://openbook.rheinwerk-verlag.de/javainsel9/javainsel_02_003.htm",
+    "description": "Die primitiven (einfachen) Typen sind die eingebauten Datentypen f\u00fcr Zahlen, Unicode-Zeichen und Wahrheitswerte. Referenztypen. Mit diesem Datentyp lassen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://openbook.rheinwerk-verlag.de/javainsel9/javainsel_02_003.htm&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAZ6BAgDEAE&usg=AOvVaw14Wb14XwI2y0QL-aw9o5ue",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 1 Datentypenddi.cs.uni-potsdam.de \u203a Lehre \u203a GdP2 \u203a Folien \u203a Kapitel1",
+    "link": "http://ddi.cs.uni-potsdam.de/Lehre/GdP2/Folien/Kapitel1.pdf",
+    "description": "Der Datentyp bool. Wertemenge zweielementig { false (dt. falsch), true (dt. wahr)}, sog. Boolesche Werte oder Wahrheitswerte.",
+    "googleLink": "http://www.google.com/url?q=http://ddi.cs.uni-potsdam.de/Lehre/GdP2/Folien/Kapitel1.pdf&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAd6BAgGEAE&usg=AOvVaw0vAL3ezJg8Argcq0Xb0IfX",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Grundlegende Datentypen und Deklarationwww2.icp.uni-stuttgart.de \u203a 100-online \u203a skriptum \u203a html_book00 \u203a node25",
+    "link": "https://www2.icp.uni-stuttgart.de/~hilfer/lehre/100-online/skriptum/html_book00/node25.html",
+    "description": "Die grundlegenden, eingebauten Datentypen von C++ sind bool, char, int, float, double. Diese Datentypen werden besonders effizient vom Computer bearbeitet\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www2.icp.uni-stuttgart.de/~hilfer/lehre/100-online/skriptum/html_book00/node25.html&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAh6BAgCEAE&usg=AOvVaw2I7GYcd8hXqxe5iLsQHSuH",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "3. Standard Datentypen \u2014 Grundlagen des Programmierens VU 01 ...www.ilsb.tuwien.ac.at \u203a lva",
+    "link": "https://www.ilsb.tuwien.ac.at/lva/317.530_2019/03.html",
+    "description": "3.1. Datentypen im \u00dcberblick\u00b6. Eine Variable muss wissen welchen Datentyp sie speichern soll um entsprechend Speicher zu allozieren (Char, Integer,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ilsb.tuwien.ac.at/lva/317.530_2019/03.html&sa=U&ved=2ahUKEwiZo_ecvuHuAhWyslkKHV87Dcg4ChAWMAl6BAgAEAE&usg=AOvVaw1Vq6F-rtPj83uewb3USBcD",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Java Standard: Primitive Datentypen \u2013 Wikibooks, Sammlung freier ...de.wikibooks.org \u203a wiki \u203a Java_Standard:_Primitive_Datentypen",
+    "link": "https://de.wikibooks.org/wiki/Java_Standard:_Primitive_Datentypen",
+    "description": "Was sind Primitive Datentypen? Primitive Datentypen sind eine Gruppe von Typen, mit denen man Variablen erstellen kann, die Zahlen, einzelne Zeichen oder\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Java_Standard:_Primitive_Datentypen&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAB6BAgBEAE&usg=AOvVaw1Fuf4pZw2JbENnqupj0SJj",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Datentypen \u2013 Wikibooks, Sammlung freier Lehr-, Sach- und ...de.wikibooks.org \u203a wiki \u203a Einf\u00fchrung_in_SQL:_Datentypen",
+    "link": "https://de.wikibooks.org/wiki/Einf%C3%BChrung_in_SQL:_Datentypen",
+    "description": "SQL kennt verschiedene Arten von Datentypen: vordefinierte, konstruierte und benutzerdefinierte. Diese Arten und ihre Verwendungen werden in diesem\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Einf%25C3%25BChrung_in_SQL:_Datentypen&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAF6BAgIEAE&usg=AOvVaw2P--17VmSbCKfAk9hXOuZA",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Numerische Primitive Datentypen - Gailer-Netwww.gailer-net.de \u203a tutorials \u203a java \u203a Notes \u203a chap08",
+    "link": "http://www.gailer-net.de/tutorials/java/Notes/chap08/ch08_6.html",
+    "description": "Zahlen sind in Java so wichtig, dass 6 der 8 primitiven Datentypen numerische Typen sind. Sowohl Ganzzahlen (Integer) als auch Gleitpunktzahlen sind\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.gailer-net.de/tutorials/java/Notes/chap08/ch08_6.html&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAJ6BAgJEAE&usg=AOvVaw2-oKRFBLb2AGB-rTLHSOF8",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Datentypen - a free Hacking with Swift tutorialwww.hackingwithswift.com \u203a read \u203a datentypen",
+    "link": "https://www.hackingwithswift.com/read/de/0/3/datentypen",
+    "description": "Datentypen. Es gibt viele Arten von Daten und Swift behandelt diese alle individuell. Du hast bereits einen der wichtigsten Typen gesehen, als Du einen Text\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.hackingwithswift.com/read/de/0/3/datentypen&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAN6BAgHEAE&usg=AOvVaw20F4cP1suxLwN50ohn3TJV",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "JavaScript Datentypen und Datenstrukturen - JavaScript | MDNdeveloper.mozilla.org \u203a Webtechnologien f\u00fcr Entwickler \u203a JavaScript",
+    "link": "https://developer.mozilla.org/de/docs/Web/JavaScript/Datenstrukturen",
+    "description": "12.03.2020 \u00b7 Die Werte dieser Datentypen werden als \"primitive Werte\" bezeichnet. Boolean Datentyp. Boolean repr\u00e4sentiert eine logische Einheit und kann\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://developer.mozilla.org/de/docs/Web/JavaScript/Datenstrukturen&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAR6BAgCEAE&usg=AOvVaw1n6iQwY-3Kd96RZ_B8FeK1",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Datentypendoc.4d.com \u203a Datentypen.300-3818656.de.html",
+    "link": "https://doc.4d.com/4Dv15/4D/15.6/Datentypen.300-3818656.de.html",
+    "description": "Datentypen. \u00dcbersicht \u00fcber Datentypen f\u00fcr Datenfelder, Variablen und Ausdr\u00fccke von 4D: Datentyp\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://doc.4d.com/4Dv15/4D/15.6/Datentypen.300-3818656.de.html&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAV6BAgGEAE&usg=AOvVaw0j4uW16Ld_cfxy8OF0cRXG",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Datentypen im DBMS\u2014Hilfe | ArcGIS Desktopdesktop.arcgis.com \u203a manage-data \u203a tables \u203a design-data-types-in-the-dbms",
+    "link": "https://desktop.arcgis.com/de/arcmap/10.3/manage-data/tables/design-data-types-in-the-dbms.htm",
+    "description": "Die folgende Tabelle enth\u00e4lt die entsprechenden Access-Datentypen. ArcGIS-\u200bDatentyp, Access-Datentyp, Hinweise. OBJECTID. Long Integer.",
+    "googleLink": "http://www.google.com/url?q=https://desktop.arcgis.com/de/arcmap/10.3/manage-data/tables/design-data-types-in-the-dbms.htm&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAZ6BAgDEAE&usg=AOvVaw01Zncl2dHwVw4w5GQExXnj",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Datentypen\u2014ArcGIS Pro | Dokumentationpro.arcgis.com \u203a pro-app \u203a latest \u203a help \u203a data \u203a introduction \u203a data-types",
+    "link": "https://pro.arcgis.com/de/pro-app/latest/help/data/introduction/data-types.htm",
+    "description": "Datentypen. In ArcGIS Pro sind zahlreiche Datentypen zur Verwendung integriert\u200b. Dazu geh\u00f6ren Feature- und Raster-basierte Geodaten wie Bild- und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://pro.arcgis.com/de/pro-app/latest/help/data/introduction/data-types.htm&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAd6BAgAEAE&usg=AOvVaw2uXSPU7rZ3CV2bVifxJORF",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Datentypen und Wertebereichewww.dcc-moebel.org \u203a MODIFY_IDM_2_6_0_XML_Schema \u203a topic5",
+    "link": "https://www.dcc-moebel.org/dochtml/MODIFY_IDM_2_6_0_XML_Schema/topic5.html",
+    "description": "boolean. Der Datentyp bildet die Wahrheitswerte \"true\" oder \"false\" ab. Entsprechend der W3C-Empfehlung f\u00fcr XML-Schema k\u00f6nnen die Werte true/\u200bfalse oder\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dcc-moebel.org/dochtml/MODIFY_IDM_2_6_0_XML_Schema/topic5.html&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAh6BAgEEAE&usg=AOvVaw2nSQ9Z0XtNgR4d6lrXsedb",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Variablen, Datentypen und Operationenwww.wias-berlin.de \u203a john \u203a LEHRE \u203a MOD_PROG \u203a mod_prog_06",
+    "link": "https://www.wias-berlin.de/people/john/LEHRE/MOD_PROG/WS0607/mod_prog_06.pdf",
+    "description": "Datentyp Variablenname1, Variablenname2, ...,VariablennameN;. Bei der Deklaration k\u00f6nnen einer Variablen auch schon Werte zugewiesen werden,. d.h. eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wias-berlin.de/people/john/LEHRE/MOD_PROG/WS0607/mod_prog_06.pdf&sa=U&ved=2ahUKEwieubGdvuHuAhVOwVkKHRJdAQI4FBAWMAl6BAgFEAE&usg=AOvVaw3XoX3XYNFHBEUFveJj11Th",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Variablen, Datentypen und Operationenwww.wias-berlin.de \u203a MOD_PROG \u203a mod_prog_06",
+    "link": "https://www.wias-berlin.de/people/john/LEHRE/MOD_PROG/WS0607/mod_prog_06.pdf",
+    "description": "Datentyp Variablenname1, Variablenname2, ...,VariablennameN;. Bei der Deklaration k\u00f6nnen einer Variablen auch schon Werte zugewiesen werden,. d.h. eine\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Datentypen - Amazon Redshiftdocs.aws.amazon.com \u203a latest \u203a c_Supported_data_types",
+    "link": "https://docs.aws.amazon.com/de_de/redshift/latest/dg/c_Supported_data_types.html",
+    "description": "In der folgenden Tabelle sind alle Datentypen aufgef\u00fchrt, die Sie in Amazon Redshift-Tabellen verwenden k\u00f6nnen. Datentyp, Aliase, Beschreibung. SMALLINT\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "8 Java Datentypen, die du kennen solltest - Javablogmein-javablog.de \u203a java-datentypen",
+    "link": "https://mein-javablog.de/java-datentypen/",
+    "description": "Also hier erstmal die \u00dcbersicht zu den primitiven Datentypen. Datentyp, Minimalwert, Maximalwert, belegter Speicher, Wertebereich. Byte, -128, 127, 8 Bit\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Arithmetische Datentypenwww.mathematik.uni-muenchen.de \u203a numinf \u203a inf3",
+    "link": "http://www.mathematik.uni-muenchen.de/~spann/vorlesungen/numinf/ss10/inf3.pdf",
+    "description": "Ganzzahlige Datentypen byte (8 Bit), short (16 Bit), int (32 Bit), long (64 Bit). Zweierkomplementdarstellung: ganze Zahl. Darstellung. 0 \u2264 z \u2264 2n\u22121 \u2212 1.",
+    "googleLink": null,
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Die Programmiersprache C++ Datentypen - UFZwww.ufz.de \u203a data \u203a 237912_BHYWI-08-03-Datentypen",
+    "link": "https://www.ufz.de/export/data/2/237912_BHYWI-08-03-Datentypen.pdf",
+    "description": "Die Programmiersprache C++. Einf\u00fchrung / Datentypen. Karsten Rink. Department for Environmental Informatics, Helmholtz-Centre for Environmental Research,\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Java Datentypen [mit Video] - Die 8 Primitiven Datentypen im ...programmieren-starten.de \u203a blog \u203a java-tutorial-3-java-da...",
+    "link": "https://programmieren-starten.de/blog/java-tutorial-3-java-datentypen/",
+    "description": "Java Tutorial #3 \u2013 Primitive Java Datentypen. 0 Comments. Im dritten Artikel unserer Java Tutorialreihe ...",
+    "googleLink": null,
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Datentypen (SPS) - HERMOS Automationautomatisierung.engineering \u203a datentypen-sps-2_996",
+    "link": "https://automatisierung.engineering/d/datentypen-sps-2_996/",
+    "description": "Elementare Datentypen haben eine maximale L\u00e4nge von 32 Bits. Datentyp, Datentyp, Speicherbedarf, Wertebereich. BOOL, boolescher Wert, 1Bit, true (logisch 1)\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Datentypen - FreeBASIC-Befehlsreferenz - FreeBASIC-Portal.dewww.freebasic-portal.de \u203a datentypen-383",
+    "link": "https://www.freebasic-portal.de/befehlsreferenz/datentypen-383.html",
+    "description": "Die deutsche FreeBASIC-Befehlsreferenz (Onlinehilfe) zu Datentypen FreeBASIC-Portal.de, das deutschsprachige Informationsangebot zum Open Source\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "4.2 Primitive Datentypen - Handbuch der Java ...dbs.cs.uni-duesseldorf.de \u203a docs \u203a java \u203a javabuch \u203a html",
+    "link": "https://dbs.cs.uni-duesseldorf.de/lehre/docs/java/javabuch/html/k100024.html",
+    "description": "Java kennt acht elementare Datentypen, die gem\u00e4\u00df Sprachspezifikation als primitive Datentypen bezeichnet werden. Daneben gibt es die M\u00f6glichkeit, Arrays\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "MPI-Datentypenwww.math.tu-cottbus.de \u203a parallel \u203a vorl \u203a vorl \u203a node25",
+    "link": "https://www.math.tu-cottbus.de/~kd/parallel/vorl/vorl/node25.html",
+    "description": "Die Tabelle 3.1 zeigt die Abbildung der elementaren FORTRAN- und C-Typen auf die MPI Type-Handles. table1049. Tabelle 3.1: MPI Datentypen. Ein Datentyp,\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "MPI-Datentypenwww.math.tu-cottbus.de \u203a parallel \u203a vorl \u203a vorl \u203a node25",
+    "link": "https://www.math.tu-cottbus.de/~kd/parallel/vorl/vorl/node25.html",
+    "description": "Die Tabelle 3.1 zeigt die Abbildung der elementaren FORTRAN- und C-Typen auf die MPI Type-Handles. table1049. Tabelle 3.1: MPI Datentypen. Ein Datentyp\u200b,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tu-cottbus.de/~kd/parallel/vorl/vorl/node25.html&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAB6BAgGEAE&usg=AOvVaw2Q7rL_UBNo6RlzpGNvhgWB",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Java/Datentypen \u2013 ZUM-Unterrichtenunterrichten.zum.de \u203a wiki \u203a Java \u203a Datentypen",
+    "link": "https://unterrichten.zum.de/wiki/Java/Datentypen",
+    "description": "19.08.2019 \u00b7 4 Casting primitiver Datentypen in tabellarischer \u00dcbersicht; 5 Typumwandlung (\u200btypecasting) - Von double zu int zu String zu double; 6 Siehe\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://unterrichten.zum.de/wiki/Java/Datentypen&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAF6BAgJEAE&usg=AOvVaw1IHwlVOWrdYsbCt1l8OCM5",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Grundlegendes zu Datentypen in Go - Codeflowwww.codeflow.site \u203a article \u203a understanding-data-types-in-go",
+    "link": "https://www.codeflow.site/de/article/understanding-data-types-in-go",
+    "description": "Datentypen geben die Arten von Werten an, die bestimmte Variablen beim Schreiben eines Programms speichern. Der Datentyp bestimmt auch, welche\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.codeflow.site/de/article/understanding-data-types-in-go&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAJ6BAgIEAE&usg=AOvVaw3GJmZoyDHED4iSMC_jSNJq",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Datentypen \u2014 Snowflake Documentationdocs.snowflake.com \u203a sql-reference \u203a data-types",
+    "link": "https://docs.snowflake.com/de/sql-reference/data-types.html",
+    "description": "Snowflake unterst\u00fctzt die meisten grundlegenden SQL-Datentypen (mit einigen Einschr\u00e4nkungen) bei Verwendung in Spalten, lokalen Variablen, Ausdr\u00fccken,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.snowflake.com/de/sql-reference/data-types.html&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAN6BAgHEAE&usg=AOvVaw2NctxNulcmFlmp-8yggjaD",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "4.2 Primitive Datentypen - Handbuch der Java-Programmierung, 3 ...dbs.cs.uni-duesseldorf.de \u203a lehre \u203a docs \u203a java \u203a javabuch \u203a html",
+    "link": "https://dbs.cs.uni-duesseldorf.de/lehre/docs/java/javabuch/html/k100024.html",
+    "description": "Java kennt acht elementare Datentypen, die gem\u00e4\u00df Sprachspezifikation als primitive Datentypen bezeichnet werden. Daneben gibt es die M\u00f6glichkeit, Arrays\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dbs.cs.uni-duesseldorf.de/lehre/docs/java/javabuch/html/k100024.html&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAR6BAgBEAE&usg=AOvVaw2aWjbHP-aVwDW18GlVU3mP",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "MySQL 5.1 Referenzhandbuch :: 11 Datentypen - MySQLdownload.nust.na \u203a pub6 \u203a mysql \u203a doc \u203a refman \u203a data-types",
+    "link": "http://download.nust.na/pub6/mysql/doc/refman/5.1/de/data-types.html",
+    "description": "MySQL unterst\u00fctzt eine Vielzahl von Datentypen verschiedener Kategorien: numerische Typen, Typen f\u00fcr Datum und Uhrzeit und auch String-Typen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://download.nust.na/pub6/mysql/doc/refman/5.1/de/data-types.html&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAV6BAgAEAE&usg=AOvVaw07Slq6LLz7I47vrs06sZ7s",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 2.5 Datentypen in Javawww.gehirn-und-geist.de \u203a sixcms \u203a media.php \u203a Leseprobe.32482.pdf",
+    "link": "http://www.gehirn-und-geist.de/sixcms/media.php/370/Leseprobe.32482.pdf",
+    "description": "Zu den primitiven Datentypen geh\u00f6ren: t die numerischen Typen f\u00fcr Ganz- und Gleitkommazahlen, t der Zeichen-Datentyp, t der boolesche Datentyp.",
+    "googleLink": "http://www.google.com/url?q=http://www.gehirn-und-geist.de/sixcms/media.php/370/Leseprobe.32482.pdf&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAZ6BAgEEAE&usg=AOvVaw2GL0ccAdUaDv7nPb-RRlFw",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Datentypen - CAShilfe.cas.de \u203a CgW \u203a Administrator \u203a Datentypen",
+    "link": "https://hilfe.cas.de/CgW/de/Administrator/x11/Datentypen.htm",
+    "description": "Datentypen. Wenn Sie Spalten anlegen oder \u00e4ndern, w\u00e4hlen Sie den Datentyp aus der entsprechenden Dropdown-Liste. Gr\u00f6\u00dfen und Details unterscheiden\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://hilfe.cas.de/CgW/de/Administrator/x11/Datentypen.htm&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAd6BAgFEAE&usg=AOvVaw2cgm2V12ra56wbu6VQ54GC",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "2. Datentypen \u2014 Python Basics 1.0 Dokumentationwww.hdm-stuttgart.de \u203a ~maucher \u203a Python \u203a html \u203a Datentypen",
+    "link": "https://www.hdm-stuttgart.de/~maucher/Python/html/Datentypen.html",
+    "description": "Numerische Datentypen sind: f\u00fcr ganze Zahlen: int und long; f\u00fcr Gleitkommazahlen: float; f\u00fcr komplexe Zahlen: complex; f\u00fcr\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.hdm-stuttgart.de/~maucher/Python/html/Datentypen.html&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAh6BAgCEAE&usg=AOvVaw2c8V0mLtCu9NkQI2QEZWMz",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Datentypen (SPS) - HERMOS Automationautomatisierung.engineering \u203a datentypen-sps-2_996",
+    "link": "https://automatisierung.engineering/d/datentypen-sps-2_996/",
+    "description": "Elementare Datentypen haben eine maximale L\u00e4nge von 32 Bits. Datentyp, Datentyp, Speicherbedarf, Wertebereich. BOOL, boolescher Wert, 1Bit, true (\u200blogisch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://automatisierung.engineering/d/datentypen-sps-2_996/&sa=U&ved=2ahUKEwj47KWfvuHuAhVQi1kKHTwLABs4KBAWMAl6BAgDEAE&usg=AOvVaw1F3UNkpuNsiMzdpom46Lv_",
+    "page": 4,
+    "index": 9
+  }
+]

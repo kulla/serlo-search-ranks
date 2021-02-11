@@ -6,6 +6,7 @@ import random
 import sys
 import time
 
+from itertools import count
 from datetime import datetime, timedelta
 
 sys.path.insert(0, "/home/kulla/workspace/foss/google-search-api")
@@ -16,8 +17,11 @@ def main():
     with open(os.path.join(os.path.dirname(__file__), "keywords.json"), "r") as f:
         keywords = json.load(f)
 
-    for keyword in keywords:
+    for keyword, i in zip(keywords, count(1)):
         makeDownload(keyword)
+
+        if i % 30 == 0:
+            time.sleep(random.uniform(120,240))
 
 def makeDownload(keyword, retry=0):
     lastDownload = getLastDownloadTime(keyword)
@@ -48,7 +52,7 @@ def makeDownload(keyword, retry=0):
         with open(target, "w") as f:
             json.dump(results, f, indent=2)
 
-        time.sleep(random.uniform(2,10))
+        time.sleep(random.uniform(50,65))
 
 def parseResult(result):
     return {

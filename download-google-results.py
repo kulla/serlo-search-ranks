@@ -16,6 +16,7 @@ import googleapi
 def main():
     with open(os.path.join(os.path.dirname(__file__), "keywords.json"), "r") as f:
         keywords = json.load(f)
+        keywords = [k for k in keywords if shouldDownload(k)]
 
     for keyword, i in zip(keywords, count(1)):
         makeDownload(keyword)
@@ -23,13 +24,12 @@ def main():
         if i % 30 == 0:
             time.sleep(random.uniform(120,240))
 
-def makeDownload(keyword, retry=0):
+def shouldDownload(keyword):
     lastDownload = getLastDownloadTime(keyword)
 
-    if lastDownload != None and datetime.now() - lastDownload < timedelta(days=3):
-        print("Omit: %s" % keyword)
-        return
+    return lastDownload == None or datetime.now() - lastDownload >= timedelta(days=3)
 
+def makeDownload(keyword, retry=0):
     print("Download: %s" % keyword)
     results = googleapi.standard_search.search(keyword, 5)
     results = [parseResult(x) for x in results]

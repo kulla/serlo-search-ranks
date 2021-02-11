@@ -2,6 +2,7 @@
 
 import os
 import json
+import random
 import sys
 import time
 
@@ -47,7 +48,7 @@ def makeDownload(keyword, retry=0):
         with open(target, "w") as f:
             json.dump(results, f, indent=2)
 
-        time.sleep(2)
+        time.sleep(random.uniform(2,10))
 
 def parseResult(result):
     return {

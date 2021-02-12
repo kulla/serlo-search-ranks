@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Matrizen Grundlagen vollst\u00e4ndig erkl\u00e4rt - StudyHelpwww.studyhelp.de \u203a Online-Lernen \u203a Mathe \u203a Geometrie",
+    "link": "https://www.studyhelp.de/online-lernen/mathe/matrizen/",
+    "description": "",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Matrix (Mathematik) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Matrix_(Mathematik)",
+    "link": "https://de.wikipedia.org/wiki/Matrix_(Mathematik)",
+    "description": "In der Mathematik versteht man unter einer Matrix (Plural Matrizen) eine rechteckige Anordnung (Tabelle) von Elementen (meist mathematischer Objekte, etwa\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Matrizen \u2014 Grundwissen Mathematikwww.grund-wissen.de \u203a mathematik \u203a matrizen",
+    "link": "https://www.grund-wissen.de/mathematik/lineare-algebra-und-analytische-geometrie/matrizen.html",
+    "description": "Die wichtigsten Rechenoperationen f\u00fcr Matrizen sind die Addition zweier Matrizen sowie die Multiplikation einer Matrix mit einer Zahl, einem Vektor oder einer\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Matrizen - Mathematische Hintergr\u00fcnde - Mathe-Online.atwww.mathe-online.at \u203a mathint \u203a matr",
+    "link": "https://www.mathe-online.at/mathint/matr/i.html",
+    "description": "Konstrukte wie die Determinante und die Inverse einer Matrix geben Auskunft \u00fcber die L\u00f6sungsmengen linearer Gleichungssysteme. Stichworte: Matrizen und\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Matrizenrechnung - Grundlagen - Mathebibel.dewww.mathebibel.de \u203a ... \u203a Algebra \u203a Matrizenrechnung",
+    "link": "https://www.mathebibel.de/matrizenrechnung-grundlagen",
+    "description": "Matrizen lassen sich addieren, subtrahieren und multiplizieren. Au\u00dferdem kann man Matrizen transponieren sowie invertieren. Wie das funktioniert und was\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Matrizen - Deutsche Mathematiker-Vereinigungwww.mathematik.de \u203a matrizen \u203a 2424-matrizen",
+    "link": "https://www.mathematik.de/algebra/74-erste-hilfe/algebra/matrizen/2424-matrizen",
+    "description": "Matrizen. Inhalt: \u00bbDefinition \u00bbVektoraddition und skalare Multiplikation \u00bbMatrixmultiplikation \u00bbBeispiele. Matrizen begegnen uns in unz\u00e4hligen Anwendungen,\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Matrizen und Determinantenwww.uni-magdeburg.de \u203a exph \u203a mathe_gl \u203a matrizen",
+    "link": "http://www.uni-magdeburg.de/exph/mathe_gl/matrizen.pdf",
+    "description": "Dr. Hempel \u2013 Mathematische Grundlagen, Matrizen und Determinanten. Seite 3. Determinante einer Matrix. - H\u00e4ufig finden wir im Zusammenhang mit dem\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Matrizen - Analysis und Lineare Algebra - Online-Kursewww.ingenieurkurse.de \u203a hoehere-mathematik-analysis-lineare-algebra \u203a m...",
+    "link": "https://www.ingenieurkurse.de/hoehere-mathematik-analysis-lineare-algebra/matrizen.html",
+    "description": "Matrizen. Inhaltsverzeichnis. Einheitsmatrix; Matrix (m-Spalten, n-Zeilen); Quadratische Matrix; Nullmatrix\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ingenieurkurse.de/hoehere-mathematik-analysis-lineare-algebra/matrizen.html&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAB6BAgFEAE&usg=AOvVaw07HsTJUelGTSaY3BcOQ31c",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Matrize \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Matrize",
+    "link": "https://de.wikipedia.org/wiki/Matrize",
+    "description": "Matrize (\u201eMutterform\u201c, v. frz. matrice \u201eGussform\u201c, eigentlich \u201eGeb\u00e4rmutter\u201c, Plural Matrizen) steht f\u00fcr: Matrize (Druck), im Druckbereich eine Form zum Guss von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Matrize&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAF6BAgHEAE&usg=AOvVaw0WPDUpXXvXS2Pp95EbSJqM",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Rechnen mit Matrizen Beispiele, Erkl\u00e4rungen und Berechnungenwww.sofatutor.com \u203a lineare-algebra-und-analytische-geometrie \u203a rechnen...",
+    "link": "https://www.sofatutor.com/mathematik/lineare-algebra-und-analytische-geometrie/matrizen/rechnen-mit-matrizen",
+    "description": "Die Addition von Matrizen ist nur definiert, wenn diese von der gleichen Ordnung sind. Um zwei Matrizen AA und BB miteinander zu multiplizieren, multiplizierst\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sofatutor.com/mathematik/lineare-algebra-und-analytische-geometrie/matrizen/rechnen-mit-matrizen&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAJ6BAgIEAE&usg=AOvVaw3oy2mrYGKqkyaxeXtMtCxA",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Was sind Matrix und Matrizen? \u2013 Einfach online erkl\u00e4rt | sofatutorwww.sofatutor.com \u203a lineare-algebra-und-analytische-geometrie \u203a matrizen",
+    "link": "https://www.sofatutor.com/mathematik/lineare-algebra-und-analytische-geometrie/matrizen",
+    "description": "Matrizen. Matrizen wirst du in verschiedenen Bereichen finden. Hier lernst du, wie du mit Matrizen rechnen kannst. Alle Klassen.",
+    "googleLink": "http://www.google.com/url?q=https://www.sofatutor.com/mathematik/lineare-algebra-und-analytische-geometrie/matrizen&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAN6BAgJEAE&usg=AOvVaw2sFFFQibxdDNogywMUW1Ag",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Matrizenwww.matopt.de \u203a grundlagen \u203a einfuehrung-matrizen",
+    "link": "https://www.matopt.de/grundlagen/einfuehrung-matrizen.html",
+    "description": "G2 Matrizen. Einf\u00fchrung Matrizen. Die Vorteile der Verwendung von Matrizen sind die gleichen, die auch f\u00fcr die Verwendung von Vektoren sprechen:\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matopt.de/grundlagen/einfuehrung-matrizen.html&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAR6BAgGEAE&usg=AOvVaw1brt1Lv0mXPKz727F42Ow-",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Matrix und Matrizen Grundlagen - Frustfrei lernenwww.frustfrei-lernen.de \u203a mathematik \u203a matrix-matrizen",
+    "link": "https://www.frustfrei-lernen.de/mathematik/matrix-matrizen.html",
+    "description": "mit dem Einsatz von Matrizen. Dabei sollen hier zun\u00e4chst einmal die absoluten Grundlagen zu diesem Bereich der Mathematik gelegt werden. Viele erinnern sich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.frustfrei-lernen.de/mathematik/matrix-matrizen.html&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAV6BAgEEAE&usg=AOvVaw2RC-YwOCBkvD1ZkgjfyErL",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Matrizen | MassMaticswww.massmatics.de \u203a merkzettel",
+    "link": "https://www.massmatics.de/merkzettel/#!302:Matrizen",
+    "description": "Matrizen. Was ist eine Matrix? Eine Matrix ist erstmal einfach eine rechteckige Ansammlung von Zahlen, umgeben von Klammern. Zum Beispiel ist das hier eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.massmatics.de/merkzettel/%23!302:Matrizen&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAZ6BAgDEAE&usg=AOvVaw1TgZOqhuYWgAyrGK2Nhk7V",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Matrizen / Matrix | Mathematik - Welt der BWLwelt-der-bwl.de \u203a Matrizen",
+    "link": "https://welt-der-bwl.de/Matrizen",
+    "description": "Matrizen Definition. Mit Matrizen lassen sich z.B. Daten organisieren und Gleichungssysteme darstellen und einfach berechnen. Eine Matrix besteht aus \"\u200bZeilen\"\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://welt-der-bwl.de/Matrizen&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAd6BAgBEAE&usg=AOvVaw2PpgJuFkSlqg7m7goI7Mfb",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Jetzt alles zum Thema Matrizen lernen & die Klausur bestehenlearnattack.de \u203a Sch\u00fclerlexikon \u203a Mathematik Sch\u00fclerlexikon",
+    "link": "https://learnattack.de/schuelerlexikon/mathematik/matrizen",
+    "description": "Wie man Matrizen miteinander oder mit Vektoren multipliziert, wird hier erkl\u00e4rt. Begriffe: Die Spalten oder Zeilen einer Matrix kann man als Vektoren (\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://learnattack.de/schuelerlexikon/mathematik/matrizen&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAh6BAgCEAE&usg=AOvVaw2wuqyVWmBcjMC4-6jEzLmc",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Multiplikation zweier Matrizenstatistik.wu-wien.ac.at \u203a ~leydold \u203a MOK \u203a HTML \u203a node17",
+    "link": "http://statistik.wu-wien.ac.at/~leydold/MOK/HTML/node17.html",
+    "description": "Das Produkt zweier Matrizen $\\mathsfbf{A}$ und $\\mathsfbf{B}$ ist nur dann definiert, wenn die Anzahl der Spalten der ersten Matrix gleich der Anzahl der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://statistik.wu-wien.ac.at/~leydold/MOK/HTML/node17.html&sa=U&ved=2ahUKEwirhoO6quTuAhUSlKwKHVaeBZw4ChAWMAl6BAgAEAE&usg=AOvVaw39JoaSuVsSWXc7KDnNyFeA",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Geometrische Transformationen mit Matrizen - Matheretterwww.matheretter.de \u203a wiki \u203a geometrische-transformationen-matrizen",
+    "link": "https://www.matheretter.de/wiki/geometrische-transformationen-matrizen",
+    "description": "Im Folgenden soll untersucht werden, welche Matrizenoperationen diese Transformationen abbilden k\u00f6nnen. Transformationen in 2D mit Matrizen \u00b7 Homogene\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matheretter.de/wiki/geometrische-transformationen-matrizen&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBAWMAB6BAgBEAE&usg=AOvVaw1YP6A2gINAMBBKD2WmBIJq",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Matrizen in der Mathematik - Elektroniktutorwww.elektroniktutor.de \u203a fachmathematik \u203a matrix",
+    "link": "https://www.elektroniktutor.de/fachmathematik/matrix.html",
+    "description": "Im Plural sind es die Matrizen. Die Matrix ist ein rechteckiges System mit (m * n) Pl\u00e4tzen, wo die Komponenten oder Elemente in m Zeilen und n Spalten\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.elektroniktutor.de/fachmathematik/matrix.html&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBAWMAF6BAgJEAE&usg=AOvVaw31AaFbE7ttN3G6S3AvB538",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Multiplikation von Matrizen in Mathematik | Sch\u00fclerlexikon | Lernhelferwww.lernhelfer.de \u203a schuelerlexikon \u203a mathematik-abitur \u203a artikel \u203a multip...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/multiplikation-von-matrizen",
+    "description": "Neben der Vielfachbildung von Matrizen, d.h. der Multiplikation einer Matrix mit einer reellen Zahl (einem Skalar), ist es auch m\u00f6glich, eine Matrix mit einem\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/multiplikation-von-matrizen&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBAWMAJ6BAgIEAE&usg=AOvVaw15fWSD0Bx2UljP1LSlocqV",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Matrizen - Modellierung in der Geoinformationhomepage.univie.ac.at \u203a doris.riedl \u203a model0910 \u203a tut_sonstige \u203a Matrizen",
+    "link": "https://homepage.univie.ac.at/doris.riedl/model0910/tut_sonstige/Matrizen.htm",
+    "description": "Tutorial Matrizen. Eine Matrix ist ein rechteckiges Zahlenschema. Die Matrix (\u200bMehrzahl: Matrizen) besteht aus waagerecht verlaufenden Zeilen und senkrecht\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://homepage.univie.ac.at/doris.riedl/model0910/tut_sonstige/Matrizen.htm&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBAWMAN6BAgHEAE&usg=AOvVaw0lnb5QikuCAVE8Ub2AtIm8",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Matrizen - Alles zum Thema | Lernen mit der StudySmarter Appwww.studysmarter.de \u203a schule \u203a mathe \u203a matrizen",
+    "link": "https://www.studysmarter.de/schule/mathe/matrizen/",
+    "description": "Grunds\u00e4tzlich sind Matrizen rechteckige Anordnungen von Elementen (Zahlen und/oder Variablen). Dabei hat eine Matrix m Zeilen und n Spalten. Eine solche\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.studysmarter.de/schule/mathe/matrizen/&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBAWMAR6BAgFEAE&usg=AOvVaw3Ru7Tswtyci-qidZndBTdS",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Matrizenrechnung Grundlagen - Fernstudium WiWiwww.fernstudium-wiwi.de \u203a Module",
+    "link": "https://www.fernstudium-wiwi.de/matrizenrechnung-grundlagen/",
+    "description": "04.12.2011 \u00b7 Das Rechnen mit Matrizen erleichtert die Darstellung und Berechnung solcher Linearer Zusammenh\u00e4nge. Lecturio Onlinekurs Lineare Algebra.",
+    "googleLink": "http://www.google.com/url?q=https://www.fernstudium-wiwi.de/matrizenrechnung-grundlagen/&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBAWMAV6BAgCEAE&usg=AOvVaw0MmB54-imV2CDtwEYEpN4h",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Matrizen addieren / subtrahieren - auf gut-erklaert.dewww.gut-erklaert.de \u203a mathematik \u203a matrizen-addieren-subtrahieren",
+    "link": "https://www.gut-erklaert.de/mathematik/matrizen-addieren-subtrahieren.html",
+    "description": "28.08.2020 \u00b7 Eine Erkl\u00e4rung, wie man bei Matrizen addiert und subtrahiert. Beispiele f\u00fcr das Rechnen mit Matrizen. Aufgaben / \u00dcbungen um das Thema selbst\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gut-erklaert.de/mathematik/matrizen-addieren-subtrahieren.html&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBAWMAZ6BAgAEAE&usg=AOvVaw3x0BkRf5OO4trbn9Ic6bMu",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Matrizen multiplizieren \u00b7 Berechnung, Falk-Schema \u00b7 [mit Video]studyflix.de \u203a mathematik \u203a matrizen-multiplizieren-1521",
+    "link": "https://studyflix.de/mathematik/matrizen-multiplizieren-1521",
+    "description": "09.10.2019 \u00b7 Matrizen multiplizieren: Definition \u2705 Einfache Berechnung mit Falk-Schema \u2705 Eigenschaften ...Dauer: 3:16\nGepostet: 09.10.2019",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/mathematik/matrizen-multiplizieren-1521&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBC3AjAHegQIBhAB&usg=AOvVaw09BLbRnOs4Jcuut7GkSA0p",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Matrizen - Austromathwww.austromath.at \u203a daten \u203a maxima \u203a vektor \u203a c_vekt02",
+    "link": "http://www.austromath.at/daten/maxima/vektor/c_vekt02.htm",
+    "description": "23.10.2008 \u00b7 Eingabe von Matrizen: Eingabe \u00fcber das Men\u00fc: ALGEBRA - MATRIX EINGEBEN\u200b, Dialogfenster: Definition der Dimension der Matrix und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.austromath.at/daten/maxima/vektor/c_vekt02.htm&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBAWMAh6BAgDEAE&usg=AOvVaw00XvnX4CxJpAdbr7HzGFyT",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Matrizen - lernen mit Serlo!de.serlo.org \u203a ...",
+    "link": "https://de.serlo.org/2009",
+    "description": "Besondere Matrizen. Einheitsmatrix. Die Einheitsmatrix besitzt in der Diagonale nur Einsen und sonst nur Nullen. Die Gr\u00f6\u00dfe h\u00e4ngt von der Dimension der Matrix\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/2009&sa=U&ved=2ahUKEwjMsrW6quTuAhVCaq0KHQAwD4s4FBAWMAl6BAgEEAE&usg=AOvVaw2cArl-Fq9hIibNDccMgW8F",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Rechner f\u00fcr Matrizen - Rechneronlinerechneronline.de \u203a lineare-algebra \u203a matrizen",
+    "link": "https://rechneronline.de/lineare-algebra/matrizen.php",
+    "description": "Berechnen von zwei Matrizen bis zur Gr\u00f6\u00dfe von 5 * 5. Eine Matrix ist eine rechteckige Anordungnen von mathematischen Elementen.",
+    "googleLink": "http://www.google.com/url?q=https://rechneronline.de/lineare-algebra/matrizen.php&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAB6BAgBEAE&usg=AOvVaw3aMLR42AsNiERIMaB9By3z",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Matrizen - Definition, Formen und Typen - Chemgapediawww.chemgapedia.de \u203a vlu \u203a vsc \u203a Page \u203a vsc \u203a ma_11_02_02.vscml.html",
+    "link": "http://www.chemgapedia.de/vsengine/vlu/vsc/de/ma/1/mc/ma_11/ma_11_02/ma_11_02_01.vlu/Page/vsc/de/ma/1/mc/ma_11/ma_11_02/ma_11_02_02.vscml.html",
+    "description": "Quadratische Matrizen. Quadratische Matrix: Eine Matrix mit der gleichen Anzahl von Zeilen und Spalten ( m = n ) hei\u00dft quadratisch. Quadratische Matrizen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.chemgapedia.de/vsengine/vlu/vsc/de/ma/1/mc/ma_11/ma_11_02/ma_11_02_01.vlu/Page/vsc/de/ma/1/mc/ma_11/ma_11_02/ma_11_02_02.vscml.html&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAF6BAgIEAE&usg=AOvVaw1_PZncf_BjRSFHc3j-8H5c",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Matrizen - Abitur-Vorbereitung - Online-Kurse - Abiweb.dewww.abiweb.de \u203a mathematik-analytische-geometrie-lineare-algebra-agla",
+    "link": "https://www.abiweb.de/mathematik-analytische-geometrie-lineare-algebra-agla/matrizen.html",
+    "description": "vdots, ldots, eindeutig zugeordnet, lineare Gleichungssysteme, Spalte uvm. jetzt perfekt lernen im Online-Kurs Analytische Geometrie / Lineare Algebra (Agla)!",
+    "googleLink": "http://www.google.com/url?q=https://www.abiweb.de/mathematik-analytische-geometrie-lineare-algebra-agla/matrizen.html&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAJ6BAgJEAE&usg=AOvVaw3jfgHQwGTDF-R2Nuk0mYIc",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Matrizen \u2013 GeoGebra Manualwiki.geogebra.org \u203a Matrizen",
+    "link": "https://wiki.geogebra.org/de/Matrizen",
+    "description": "Matrix1 \u2013 Matrix2: Subtrahiert die entsprechenden Elemente zweier kompatibler Matrizen. Multiplikation und Division. Matrix * Zahl: Multipliziert jedes Element der\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.geogebra.org/de/Matrizen&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAN6BAgHEAE&usg=AOvVaw16KCYQsktG0CdsvEmBYCb5",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Matrizen, Matrizenb\u00e4nder / Zubeh\u00f6r | minilu.dewww.minilu.de \u203a ... \u203a Praxisbedarf \u203a Hilfsmittel f\u00fcr F\u00fcllungen",
+    "link": "https://www.minilu.de/shop/de/shop/Verbrauchsmaterial/Praxisbedarf/Hilfsmittel_Fuellung/Matrizen/",
+    "description": "Produkte der Kategorie Matrizen, Matrizenb\u00e4nder / Zubeh\u00f6r bietet unser Dental Online Shop \u2713 Minipreise, Bestellung auf Rechnung und schnelle Lieferung\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.minilu.de/shop/de/shop/Verbrauchsmaterial/Praxisbedarf/Hilfsmittel_Fuellung/Matrizen/&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAR6BAgCEAE&usg=AOvVaw01zddIaX00LRbwd81TIfgC",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Spezielle Matrizengroups.uni-paderborn.de \u203a reiss \u203a Matrizen \u203a Matrizen \u203a MatrizenSpez",
+    "link": "https://groups.uni-paderborn.de/reiss/AnalyseBuch/Matrizen/Matrizen/MatrizenSpez.html?i=index",
+    "description": "In der Matrizenrechnung werden einige Spezialf\u00e4lle von Matrizen definiert. So sind beispielsweise Vektoren, die Nullmatrix sowie die Diagonalmatrix Spezialf\u00e4lle\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://groups.uni-paderborn.de/reiss/AnalyseBuch/Matrizen/Matrizen/MatrizenSpez.html%3Fi%3Dindex&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAV6BAgDEAE&usg=AOvVaw2kKgcx_02AZAd5S2vlCZ8U",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Matrizenrechnermatrixcalc.org \u203a ...",
+    "link": "https://matrixcalc.org/de/",
+    "description": "Lassen Sie alle nicht ben\u00f6tigten Felder leer um nichtquadratische Matrizen einzugeben. Auf die Matrixelemente k\u00f6nnen Sie Dezimalbr\u00fcche (endliche und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://matrixcalc.org/de/&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAZ6BAgFEAE&usg=AOvVaw0Dp4l0UTr45WTQnbq47sTZ",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Matrizen | Analysis - Vorkenntnisse | Mathematik | Khan Academyde.khanacademy.org \u203a math \u203a precalculus \u203a precalc-matrices",
+    "link": "https://de.khanacademy.org/math/precalculus/precalc-matrices",
+    "description": "Lerne Matrizen und ihre Anwendungen kennen: das L\u00f6sen von Gleichungssystemen, die Transformation von Formen und Vektoren und die Darstellung von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.khanacademy.org/math/precalculus/precalc-matrices&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAd6BAgEEAE&usg=AOvVaw2IEqgSR1ZxWJlPmIBtXELI",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Kapitel 3: Matrizen, Matrixalgebra - Gnoerich.dewww.gnoerich.de \u203a formelsammlung",
+    "link": "http://www.gnoerich.de/formelsammlung/k3.html",
+    "description": "3.1 Beispiele f\u00fcr (m,n)-Matrizen. 3.1.1 (n,n)-Einheitsmatrix: 3.1.2 (m,n)-Matrix: Der erste Index bei den Eintr\u00e4gen aij hei\u00dft Zeilenindex und gibt die Zeile an, in der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.gnoerich.de/formelsammlung/k3.html&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAh6BAgAEAE&usg=AOvVaw2dMXPyMBKUclVxFV6tBPa1",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Suchergebnis auf Amazon.de f\u00fcr: Matrizen: B\u00fccherwww.amazon.de \u203a Matrizen-B\u00fccher \u203a k=Matrizen",
+    "link": "https://www.amazon.de/Matrizen-B%C3%BCcher/s?k=Matrizen&rh=n%3A186606",
+    "description": "1-16 von mehr als 1.000 Ergebnissen oder Vorschl\u00e4gen f\u00fcr \"Matrizen\".",
+    "googleLink": "http://www.google.com/url?q=https://www.amazon.de/Matrizen-B%25C3%25BCcher/s%3Fk%3DMatrizen%26rh%3Dn%253A186606&sa=U&ved=2ahUKEwit0-G6quTuAhVOiqwKHQ2EBdQ4HhAWMAl6BAgGEAE&usg=AOvVaw05Pthr5fmQt8nUr2QZhkPr",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Einf\u00fchrung zu Matrizen - Abitur Mathewww.abi-mathe.de \u203a Matrizen \u203a Einf\u00fchrung zu Matrizen",
+    "link": "http://www.abi-mathe.de/buch/matrizen/einfuehrung-zu-matrizen/",
+    "description": "Matrizen werden beispielsweise dazu benutzt, lineare Abbildungen (z.B. Funktionen) darzustellen und lineare Gleichungssysteme zu beschreiben. F\u00fcr Matrizen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.abi-mathe.de/buch/matrizen/einfuehrung-zu-matrizen/&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAB6BAgCEAE&usg=AOvVaw2YwtVwRjespg8D2TJ7jXc0",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Matrize \u2013 Wiktionaryde.wiktionary.org \u203a wiki \u203a Matrize",
+    "link": "https://de.wiktionary.org/wiki/Matrize",
+    "description": "[1] eine Hohlform, die die Form eines Gussteils vorgibt: [2] die Au\u00dfenform eines Schnittwerkzeugs. Beispiele: [1]: [2] Der Stempel passt in die Matrize.",
+    "googleLink": "http://www.google.com/url?q=https://de.wiktionary.org/wiki/Matrize&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAF6BAgHEAE&usg=AOvVaw3HaeaN7_KuL0lZf2G8PKU9",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Matrizen - Englisch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a deutsch-englisch \u203a uebersetzung \u203a matrizen",
+    "link": "https://www.linguee.de/deutsch-englisch/uebersetzung/matrizen.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"Matrizen\" \u2013 Englisch-Deutsch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von Englisch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/deutsch-englisch/uebersetzung/matrizen.html&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAJ6BAgJEAE&usg=AOvVaw2xyKwnKvmIbqujwd3hph6G",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Matrixmultiplikation | Mathematrixwww.mathematrix.de \u203a matrixmultiplikation",
+    "link": "http://www.mathematrix.de/matrixmultiplikation/",
+    "description": "Inverse Matrix. Manche Matrizen k\u00f6nnen invertiert werden. Das bedeutet, dass eine Matrix equation eine Inverse equation haben kann, sodass:.",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematrix.de/matrixmultiplikation/&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAN6BAgIEAE&usg=AOvVaw0m6w5A4rIBqSd3VZXLxeYW",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Matrizen - mathematik.netwww.mathematik.net \u203a matrizen",
+    "link": "http://www.mathematik.net/matrizen/21.htm",
+    "description": "Matrizen I. Inhalt zu Matrizen I \u00b7 Info-Seite \u00b7 Definition einer Matrix \u00b7 Zeilen-, Spalten-, Nullmatrix \u00b7 Zeilen- und Spaltenvektoren \u00b7 Gleichheit von Matrizen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.net/matrizen/21.htm&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAR6BAgBEAE&usg=AOvVaw30SZGIUgY2UqO3Wh88qgf4",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Matrizen | Rechtschreibung, Bedeutung, Definition, Herkunft - Dudenwww.duden.de \u203a W\u00f6rterbuch",
+    "link": "https://www.duden.de/rechtschreibung/Matrizen",
+    "description": "Definition, Rechtschreibung, Synonyme und Grammatik von 'Matrizen' auf Duden online nachschlagen. W\u00f6rterbuch der deutschen Sprache.",
+    "googleLink": "http://www.google.com/url?q=https://www.duden.de/rechtschreibung/Matrizen&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAV6BAgFEAE&usg=AOvVaw32Fz0jx-hIzCEdu1fEdrdY",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Matrizen - Mathepediamathepedia.de \u203a Matrizen",
+    "link": "https://mathepedia.de/Matrizen.html",
+    "description": "Matrizen. Vereinfacht gesprochen handelt es sich bei einer Matrix um ein rechteckiges Zahlenschema. F\u00fcr einen K\u00f6rper K K K verstehen wir unter einer m \u00d7 n\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathepedia.de/Matrizen.html&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAZ6BAgEEAE&usg=AOvVaw1DLiuOM1Ha8oDEXGE3Dz7s",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Mathematik f\u00fcr Wirtschaftswissenschaftler: Rechenregeln f\u00fcr Matrizende.wikibooks.org \u203a wiki \u203a Mathematik_f\u00fcr_Wirtschaftswissenschaftler:_Rec...",
+    "link": "https://de.wikibooks.org/wiki/Mathematik_f%C3%BCr_Wirtschaftswissenschaftler:_Rechenregeln_f%C3%BCr_Matrizen",
+    "description": "Vergleiche sind nur f\u00fcr Matrizen gleicher Ordnung definiert. Addition und SubtraktionBearbeiten. Wir hatten schon im Beispiel 3: Verbrauchswerte von drei\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathematik_f%25C3%25BCr_Wirtschaftswissenschaftler:_Rechenregeln_f%25C3%25BCr_Matrizen&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAd6BAgGEAE&usg=AOvVaw23IykiDg2traG8fafmiFd7",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Definition der Matrix \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c \u2013 Wikibooks ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Definition_der_Matrix",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Definition_der_Matrix",
+    "description": "Was sind denn nun Matrizen?Bearbeiten. Zun\u00e4chst ist eine Matrix einfach ein rechteckiges Schema, in das Zahlen (oder andere mathematische Objekte)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Definition_der_Matrix&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAh6BAgAEAE&usg=AOvVaw3naEV2PwZZwkZDOhxB95DG",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Matrizen | www.graf-gmbh.comgraf-gmbh.com \u203a matrizen",
+    "link": "https://graf-gmbh.com/de/matrizen",
+    "description": "Qualit\u00e4t ist kein Zufall. Pr\u00e4zision ohne Stillstand. Gerade unter hohen Belastungen zeigen unsere Matrizen die Qualit\u00e4t die Sie erwarten. Das ist das Ergebnis\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://graf-gmbh.com/de/matrizen&sa=U&ved=2ahUKEwjhjY-7quTuAhUJOq0KHTj5B604KBAWMAl6BAgDEAE&usg=AOvVaw0I1L3JQOo_z1j_d4BZNIBU",
+    "page": 4,
+    "index": 9
+  }
+]

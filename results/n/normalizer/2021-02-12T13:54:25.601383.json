@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Centralizer and normalizer - Wikipediaen.wikipedia.org \u203a wiki \u203a Centralizer_and_normalizer",
+    "link": "https://en.wikipedia.org/wiki/Centralizer_and_normalizer",
+    "description": "In mathematics, especially group theory, the centralizer of a subset S of a group G is the set of elements of G that commute with each element of S, and the\u00a0...\nDefinitions \u00b7 Ring, algebra over a ... \u00b7 Properties \u00b7 Groups",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Centralizer_and_normalizer&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjAAegQICxAB&usg=AOvVaw0qyp0jHOddt8qWR4ztFB68",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "sklearn.preprocessing.Normalizer \u2014 scikit-learn 0.24.1 documentationscikit-learn.org \u203a stable \u203a modules \u203a generated \u203a skl...",
+    "link": "http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Normalizer.html",
+    "description": "Normalize samples individually to unit norm. Each sample (i.e. each row of the data matrix) with at least one non zero component is rescaled independently of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Normalizer.html&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjABegQICBAB&usg=AOvVaw00gydcFA5bAOojkpOa_EtV",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Normalize.css: Make browsers render all elements more consistently.necolas.github.io \u203a normalize",
+    "link": "https://necolas.github.io/normalize.css/",
+    "description": "Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://necolas.github.io/normalize.css/&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjACegQICRAB&usg=AOvVaw2P1Km-MvfrOVgASeTj44Fs",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "DB->normalizernormalizer.db.in.tum.de",
+    "link": "https://normalizer.db.in.tum.de/",
+    "description": "DB->normalizer \u00b7 Tutorial Hilfe. Relation eingeben. FDs/MVDs eingeben. ABD->\u200bCE CE->D D->A BDE->C CD->A. Ergebnis anzeigen. Quiz. Schema speichern",
+    "googleLink": "http://www.google.com/url?q=https://normalizer.db.in.tum.de/&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjANegQIBxAB&usg=AOvVaw0Ox28KDjTL6jVj12nOd0Sp",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Normalizer - Manual - PHPwww.php.net \u203a manual \u203a class.normalizer.php",
+    "link": "https://www.php.net/manual/de/class.normalizer.php",
+    "description": "The Normalizer class \u00b6. (PHP 5 >= 5.3.0, PHP 7, PECL intl >= 1.0.0). Einf\u00fchrung \u00b6\u200b. Normalization\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.php.net/manual/de/class.normalizer.php&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjAOegQIChAB&usg=AOvVaw2bDlzCfCYo1ztmAwws584i",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "How to Create your Custom Normalizer (Symfony Docs)symfony.com \u203a Documentation \u203a Serializer",
+    "link": "https://symfony.com/doc/current/serializer/custom_normalizer.html",
+    "description": "How to Create your Custom Normalizer: The Serializer component uses normalizers to transform any data into an array. The component provides several built-in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://symfony.com/doc/current/serializer/custom_normalizer.html&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjAPegQIARAB&usg=AOvVaw0MfJyNLWvBO68VQC_WjdiP",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Normalizer of a subgroup - Grouppropsgroupprops.subwiki.org \u203a wiki \u203a Normalizer_of_a_s...",
+    "link": "https://groupprops.subwiki.org/wiki/Normalizer_of_a_subgroup",
+    "description": "12.01.2010 \u00b7 Normalizer of a subgroup. This article defines a subgroup operator related to the subgroup property normal subgroup. By subgroup operator is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://groupprops.subwiki.org/wiki/Normalizer_of_a_subgroup&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjAQegQIAxAB&usg=AOvVaw3_1f_zt9GUzvJ4BZt0SiP5",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Normalizer (Java Platform SE 7 ) - Oracle Help Centerdocs.oracle.com \u203a javase \u203a docs \u203a api \u203a java \u203a text",
+    "link": "https://docs.oracle.com/javase/7/docs/api/java/text/Normalizer.html",
+    "description": "This class provides the method normalize which transforms Unicode text into an equivalent composed or decomposed form, allowing for easier sorting and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.oracle.com/javase/7/docs/api/java/text/Normalizer.html&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjARegQIBBAB&usg=AOvVaw04M1rAauNYZpe1FXw-KhFp",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "normalizer :: Englisch-Deutsch-\u00dcbersetzung - dict.cc W\u00f6rterbuchwww.dict.cc \u203a englisch-deutsch \u203a normalizer",
+    "link": "https://www.dict.cc/englisch-deutsch/normalizer.html",
+    "description": "Englisch-Deutsch-\u00dcbersetzungen f\u00fcr normalizer im Online-W\u00f6rterbuch dict.cc (\u200bDeutschw\u00f6rterbuch).",
+    "googleLink": "http://www.google.com/url?q=https://www.dict.cc/englisch-deutsch/normalizer.html&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjASegQIAhAB&usg=AOvVaw31MSpPMpvr-QZfXh0ab6E0",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "normalizer | Elasticsearch Reference [7.11] | Elasticwww.elastic.co \u203a elasticsearch \u203a reference \u203a current",
+    "link": "https://www.elastic.co/guide/en/elasticsearch/reference/current/normalizer.html",
+    "description": "The normalizer is applied prior to indexing the keyword, as well as at search-time when the keyword field is searched via a query parser such as the match query\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.elastic.co/guide/en/elasticsearch/reference/current/normalizer.html&sa=U&ved=2ahUKEwiY3r6UsuTuAhUBbawKHc4ED0IQFjATegQIBhAB&usg=AOvVaw0biLwloBQ3jheWKRkGVHpt",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "paularmstrong/normalizr: Normalizes nested JSON ... - GitHubgithub.com \u203a paularmstrong \u203a normalizr",
+    "link": "https://github.com/paularmstrong/normalizr",
+    "description": "import { normalize, schema } from 'normalizr'; // Define a users schema const user = new schema.Entity('users'); // Define your comments schema const comment\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://github.com/paularmstrong/normalizr&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAB6BAgBEAE&usg=AOvVaw2D0camzuOI8CBiYmIV0DpY",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "ergebnis/json-normalizer: Provides generic and vendor ... - GitHubgithub.com \u203a ergebnis \u203a json-normalizer",
+    "link": "https://github.com/ergebnis/json-normalizer",
+    "description": "All of these normalizers implement the Ergebnis\\Json\\Normalizer\\\u200bNormalizerInterface . AutoFormatNormalizer. When you want to normalize a JSON file with an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://github.com/ergebnis/json-normalizer&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAF6BAgIEAE&usg=AOvVaw2maNBDjNPSCcCvzI48ZE5i",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "NORMALIZER - Deutsch-\u00dcbersetzung - bab.la Englisch-Deutsch ...de.bab.la \u203a woerterbuch \u203a englisch-deutsch \u203a normalizer",
+    "link": "https://de.bab.la/woerterbuch/englisch-deutsch/normalizer",
+    "description": "\u00dcbersetzung f\u00fcr 'normalizer' im kostenlosen Englisch-Deutsch W\u00f6rterbuch und viele weitere Deutsch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://de.bab.la/woerterbuch/englisch-deutsch/normalizer&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAJ6BAgJEAE&usg=AOvVaw12gjnVvWR5Xwutp9Qs_ej1",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Normalizer - Enterprise Integration Patternswww.enterpriseintegrationpatterns.com \u203a messaging",
+    "link": "https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html",
+    "description": "How do you process messages that are semantically equivalent, but arrive in a different format? Use a Normalizer to route each message type through a custom\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAN6BAgHEAE&usg=AOvVaw3PK_q_4BjXZpbT4Z3q0HUn",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "normalizer in nLabncatlab.org \u203a nlab \u203a show \u203a normalizer",
+    "link": "https://ncatlab.org/nlab/show/normalizer",
+    "description": "18.09.2018 \u00b7 Given a subset S of a group G, its normalizer N(S)=NG(S) is the subgroup of G consisting of all elements g\u2208G such that gS=Sg, i.e. for each\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ncatlab.org/nlab/show/normalizer&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAR6BAgDEAE&usg=AOvVaw2xA0GMMo_lVeZYMl-n0ZDT",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Normalizer | Android Developersdeveloper.android.com \u203a reference \u203a android \u203a icu \u203a text \u203a Normalizer",
+    "link": "https://developer.android.com/reference/android/icu/text/Normalizer",
+    "description": "30.09.2020 \u00b7 normalize transforms Unicode text into an equivalent composed or decomposed form, allowing for easier sorting and searching of text.",
+    "googleLink": "http://www.google.com/url?q=https://developer.android.com/reference/android/icu/text/Normalizer&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAV6BAgGEAE&usg=AOvVaw2VN58gPJLIYmUwJuD_vSPw",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Normalizer -- from Wolfram MathWorldmathworld.wolfram.com \u203a Normalizer",
+    "link": "https://mathworld.wolfram.com/Normalizer.html",
+    "description": "Normalizer. The set of elements g of a group such that. g^(-1)Hg=H,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/Normalizer.html&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAZ6BAgEEAE&usg=AOvVaw00IbW1TFT5jqUeeK4vzOCW",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Normalizer (Apply) \u2013 KNIME Hubhub.knime.com \u203a knime \u203a extensions \u203a org.knime.features.base \u203a latest \u203a o...",
+    "link": "https://hub.knime.com/knime/extensions/org.knime.features.base/latest/org.knime.base.node.preproc.normalize.NormalizerApplyNodeFactory",
+    "description": "This node normalizes the input data according to the normalization parameters as given in the model input (typically coming from the Normalizer node). It will \u2026",
+    "googleLink": "http://www.google.com/url?q=https://hub.knime.com/knime/extensions/org.knime.features.base/latest/org.knime.base.node.preproc.normalize.NormalizerApplyNodeFactory&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAd6BAgFEAE&usg=AOvVaw0Y1J1pRVdNSYQ9-SKy1PKB",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "String.Normalize Methode (System) | Microsoft Docsdocs.microsoft.com \u203a ... \u203a .NET API-Browser \u203a System \u203a String \u203a Methoden",
+    "link": "https://docs.microsoft.com/de-de/dotnet/api/system.string.normalize",
+    "description": "\u00dcberl\u00e4dt. Normalize(). Gibt eine neue Zeichenfolge zur\u00fcck, deren Textwert mit dieser Zeichenfolge \u00fcbereinstimmt, deren bin\u00e4re Darstellung jedoch in der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/dotnet/api/system.string.normalize&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAh6BAgAEAE&usg=AOvVaw0YLllroScrLrg80CTnIh5J",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Normalizer Definition und Bedeutung | Collins W\u00f6rterbuchwww.collinsdictionary.com \u203a worterbuch \u203a englisch \u203a normalizer",
+    "link": "https://www.collinsdictionary.com/de/worterbuch/englisch/normalizer",
+    "description": "Normalizer Definition: someone who or that which normalizes | Bedeutung, Aussprache, \u00dcbersetzungen und Beispiele.",
+    "googleLink": "http://www.google.com/url?q=https://www.collinsdictionary.com/de/worterbuch/englisch/normalizer&sa=U&ved=2ahUKEwihwvGUsuTuAhXmmq0KHbkYDfw4ChAWMAl6BAgCEAE&usg=AOvVaw3VilBGBNhq7yRWaBgZm0Sk",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Sound Normalizer 7.99.9 f\u00fcr Windows - Downloadsound-normalizer.de.uptodown.com \u203a ... \u203a Editoren",
+    "link": "https://sound-normalizer.de.uptodown.com/windows",
+    "description": "Sound Normalizer ist eine sehr effektive Anwendung mit der sich die Audio-Qualit\u00e4t von Sound-Dateien verbessern l\u00e4sst. Das Programm kann in\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Volume Normalizer Master - Download - CHIPwww.chip.de \u203a ... \u203a Audio & Videobearbeitung",
+    "link": "https://www.chip.de/downloads/Volume-Normalizer-Master_81778878.html",
+    "description": "Volume Normalizer Master 1.0.2 Englisch: Der Volume Normalizer Master kann die Lautst\u00e4rke Ihrer ...",
+    "googleLink": null,
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Meaning of normalizer in German english dictionary ...www.almaany.com \u203a dict \u203a en-de \u203a normalizer",
+    "link": "https://www.almaany.com/en/dict/en-de/normalizer/",
+    "description": "normalizer ( Amer .) Normalisierer. Synonyms and Antonymous of the word normalizer in Almaany dictionary. Synonyms of \" normalizer \" ( noun )\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Normalizer vs Centralizer - Mathematics Stack Exchangemath.stackexchange.com \u203a questions",
+    "link": "https://math.stackexchange.com/questions/57663/normalizer-vs-centralizer",
+    "description": "There is a difference between fixing S elementwise and preserving S while possibly permuting its elements \u2014 you may have come across this distinction before,\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Normalizer | CloverDX 5.9.0 Documentationdoc.cloverdx.com \u203a latest \u203a designer",
+    "link": "https://doc.cloverdx.com/latest/designer/normalizer.html",
+    "description": "Normalizer creates one or more output records from each single input record. Input records do not have to be sorted. Component, Same\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Meta Normalizer f\u00fcr Lautheit (Dialog)steinberg.help \u203a loudness_meta_normalizer_dialog_r",
+    "link": "https://steinberg.help/wavelab_elements/v9.5/de/wavelab/topics/audio_montage/loudness_meta_normalizer_dialog_r.html",
+    "description": "Meta Normalizer f\u00fcr Lautheit (Dialog). In diesem Dialog k\u00f6nnen Sie die Lautheit jedes einzelnen Clips in der Audiomontage anpassen, so dass sie alle die\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "String.prototype.normalize() - JavaScript | MDNdeveloper.mozilla.org \u203a ... \u203a String",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize",
+    "description": "09.01.2021 \u2014 The normalize() method returns the Unicode Normalization Form of the string.",
+    "googleLink": null,
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "normalizer - Deutsch-\u00dcbersetzung - Langenscheidt Englisch ...de.langenscheidt.com \u203a englisch-deutsch \u203a normalizer",
+    "link": "https://de.langenscheidt.com/englisch-deutsch/normalizer",
+    "description": "\u00dcbersetzung f\u00fcr 'normalizer' im kostenlosen Englisch-Deutsch W\u00f6rterbuch von LANGENSCHEIDT \u2013 mit Beispielen, Synonymen und Aussprache.",
+    "googleLink": null,
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Sound Normalizer | heise Downloadwww.heise.de \u203a heise Download \u203a Video",
+    "link": "https://www.heise.de/download/product/sound-normalizer-38341",
+    "description": "Software & Apps zum Download, sowie Cloud-Dienste f\u00fcr Windows, Mac, Linux, iPhone, Android. Wir bieten dir die Software, die du suchst - schnell & sicher!",
+    "googleLink": null,
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Normalizer | Definition of Normalizer by Merriam-Websterwww.merriam-webster.com \u203a nor...",
+    "link": "https://www.merriam-webster.com/dictionary/normalizer",
+    "description": "Normalizer definition is - one that normalizes.",
+    "googleLink": null,
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Normalizer (Apply) \u2014 NodePitnodepit.com \u203a node \u203a org.knime.base.node.preproc....",
+    "link": "https://nodepit.com/node/org.knime.base.node.preproc.normalize.NormalizerApplyNodeFactory",
+    "description": "This node normalizes the input data according to the normalization parameters as given in the model input (typically coming from the Normalizer node).",
+    "googleLink": "http://www.google.com/url?q=https://nodepit.com/node/org.knime.base.node.preproc.normalize.NormalizerApplyNodeFactory&sa=U&ved=2ahUKEwjpguKVsuTuAhUDd6wKHdtZBUE4HhAWMAB6BAgIEAE&usg=AOvVaw1Cvrxvayez3bEzeX4hidq1",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Normalizer \u2014 NodePitnodepit.com \u203a node \u203a org.knime.base.node.preproc....",
+    "link": "https://nodepit.com/node/org.knime.base.node.preproc.normalize3.Normalizer3NodeFactory",
+    "description": "Normalizer. KNIME Base Nodes version 4.3.1.v202101261649 by KNIME AG, Zurich, Switzerland. This node normalizes the values of all (numeric) columns.",
+    "googleLink": "http://www.google.com/url?q=https://nodepit.com/node/org.knime.base.node.preproc.normalize3.Normalizer3NodeFactory&sa=U&ved=2ahUKEwjpguKVsuTuAhUDd6wKHdtZBUE4HhAWMAF6BAgHEAE&usg=AOvVaw3m_tIUfL059K6hmiB1vuRT",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "NORMALIZER - Definition und Synonyme von normalizer im ...educalingo.com \u203a dic-en \u203a normalizer",
+    "link": "https://educalingo.com/de/dic-en/normalizer",
+    "description": "Bedeutung von normalizer und Synonyme von normalizer, Tendenzen zum Gebrauch, Nachrichten, B\u00fccher und \u00dcbersetzung in 25 Sprachen.",
+    "googleLink": "http://www.google.com/url?q=https://educalingo.com/de/dic-en/normalizer&sa=U&ved=2ahUKEwjpguKVsuTuAhUDd6wKHdtZBUE4HhAWMAJ6BAgJEAE&usg=AOvVaw1a5ZSTDOkBZP9cj1viPurH",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Normalizer (Solr 8.0.0 API) - Apache Lucenelucene.apache.org \u203a org \u203a apache \u203a solr \u203a ltr \u203a norm",
+    "link": "https://lucene.apache.org/solr/8_0_0/solr-ltr/org/apache/solr/ltr/norm/Normalizer.html",
+    "description": "A normalizer normalizes the value of a feature. After the feature values have been computed, the normalize(float) methods will be called and the resulting values\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://lucene.apache.org/solr/8_0_0/solr-ltr/org/apache/solr/ltr/norm/Normalizer.html&sa=U&ved=2ahUKEwjpguKVsuTuAhUDd6wKHdtZBUE4HhAWMAN6BAgBEAE&usg=AOvVaw24uV5PZXxzceF1__DPI2Rw",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "normalizer | jQuery Validation Pluginjqueryvalidation.org \u203a normalizer",
+    "link": "https://jqueryvalidation.org/normalizer/",
+    "description": "27.11.2015 \u00b7 The global normalizer will run for all validated elements. This normalizer can be then overrided for each element, as needed, by attaching one to\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://jqueryvalidation.org/normalizer/&sa=U&ved=2ahUKEwjpguKVsuTuAhUDd6wKHdtZBUE4HhAWMAR6BAgCEAE&usg=AOvVaw0LzxFQnTcEgRP7i4xS4Iky",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Normalizer - Online Dictionary of Crystallographydictionary.iucr.org \u203a Normalizer",
+    "link": "https://dictionary.iucr.org/Normalizer",
+    "description": "16.11.2017 \u00b7 1 Definition \u00b7 2 Euclidean vs affine normalizer \u00b7 3 'Symmetry of the symmetry pattern' \u00b7 4 Euclidean normalizers of plane and space groups \u00b7 5\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dictionary.iucr.org/Normalizer&sa=U&ved=2ahUKEwjpguKVsuTuAhUDd6wKHdtZBUE4HhAWMAV6BAgEEAE&usg=AOvVaw2obekeR_0SLBmGW5gazuMH",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Normalizer | SuperCollider 3.11.1 Helpdoc.sccode.org \u203a Classes \u203a Normalizer",
+    "link": "http://doc.sccode.org/Classes/Normalizer.html",
+    "description": "Normalizer will not overshoot like Compander will, but it needs to look ahead in the audio. ... The peak output amplitude level to which to normalize the input. dur.",
+    "googleLink": "http://www.google.com/url?q=http://doc.sccode.org/Classes/Normalizer.html&sa=U&ved=2ahUKEwjpguKVsuTuAhUDd6wKHdtZBUE4HhAWMAZ6BAgFEAE&usg=AOvVaw1M5uE-4hrGg4pUbqXdF3oz",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Dynamic Normalizer - Playstation.netmanuals.playstation.net \u203a document \u203a psp \u203a current \u203a settings \u203a normalizer",
+    "link": "https://manuals.playstation.net/document/de/psp/current/settings/normalizer.html",
+    "description": "Dynamic Normalizer. Ton wird automatisch mit dem festgelegten Lautst\u00e4rkepegel ausgegeben, wenn Musiktitel oder Ton mit unterschiedlichen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://manuals.playstation.net/document/de/psp/current/settings/normalizer.html&sa=U&ved=2ahUKEwjpguKVsuTuAhUDd6wKHdtZBUE4HhAWMAd6BAgAEAE&usg=AOvVaw1DKMlMOY6XV_PVjfs2opl3",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Advanced UV Normalizer 2.0 - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=aJiKZhGK73s",
+    "description": "17.06.2015 \u00b7 Advanced UV Normalizer is a tool for Autodesk 3ds Max to normalize the Texel Density ...Dauer: 2:01\nGepostet: 17.06.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DaJiKZhGK73s&sa=U&ved=2ahUKEwjpguKVsuTuAhUDd6wKHdtZBUE4HhC3AjAIegQIAxAB&usg=AOvVaw0d50GEIF-c_NtJTCLc1Sq6",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "beDSP Loudness Normalizer-beDSPbedsp.net \u203a l-normalizer",
+    "link": "http://bedsp.net/l-normalizer/",
+    "description": "L-Normalizer. Discontinued Product. Loudness Normalizer and True Peak Limiter VST, AU, AAX plugin and standalone application.",
+    "googleLink": "http://www.google.com/url?q=http://bedsp.net/l-normalizer/&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAB6BAgDEAE&usg=AOvVaw3qcdSASHtH9zdi93Aexay_",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Feature scaling difference between \"normalize\" and \"Normalizer ...stackoverflow.com \u203a questions \u203a feature-scaling-diff...",
+    "link": "https://stackoverflow.com/questions/53291963/feature-scaling-difference-between-normalize-and-normalizer",
+    "description": "They are equivalent in terms of their effect on the data. The normalize function is intended to be a 'quick and easy' option to normalise a single\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://stackoverflow.com/questions/53291963/feature-scaling-difference-between-normalize-and-normalizer&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAF6BAgJEAE&usg=AOvVaw3VMWUyEnl_vYydrnfhhrwH",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Wie sieht der erste Normalizer aus? Hier anschauen \u2026 | Design ...ktd.agency \u203a portfolio \u203a reset-me-brand-identity",
+    "link": "https://ktd.agency/portfolio/reset-me-brand-identity/",
+    "description": "RESET ME ist ein \u201eNormalizer\u201c, der einen frisch in den neuen Tag starten l\u00e4sst. Die Aufgabe ist die Entwicklung eines Packaging- und Brandingkonzeptes, mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ktd.agency/portfolio/reset-me-brand-identity/&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAJ6BAgHEAE&usg=AOvVaw3seWmDZIUAiwtCvKRSqUnc",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Pinguin Loudness-Normalizer \u2013 Musikhaus Thomannwww.thomann.de \u203a pinguin_loudness_normalizer",
+    "link": "https://www.thomann.de/de/pinguin_loudness_normalizer.htm",
+    "description": "99,00\u00a0\u20ac Auf Lager",
+    "googleLink": "http://www.google.com/url?q=https://www.thomann.de/de/pinguin_loudness_normalizer.htm&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAN6BAgIEAE&usg=AOvVaw1pKFjV8Npa6zmbnkiENh8u",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "normalize - OpenGL 4 Reference Pages - Khronos Groupwww.khronos.org \u203a OpenGL-Refpages \u203a html \u203a nor...",
+    "link": "https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/normalize.xhtml",
+    "description": "Name. normalize \u2014 calculates the unit vector in the same direction as the original vector. Declaration. genType normalize(, genType v ) ;. genDType normalize\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/normalize.xhtml&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAR6BAgGEAE&usg=AOvVaw3miBK9FvVtyNP5RcKnPRYQ",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "MIDI Normalizer 1.4.0.1 - Download - COMPUTER BILDwww.computerbild.de \u203a Downloads \u203a MP3 & Audio \u203a Weitere Programme",
+    "link": "https://www.computerbild.de/download/MIDI-Normalizer-909468.html",
+    "description": "28.04.2011 \u00b7 MIDI Normalizer 1.4.0.1 kostenlos downloaden! Weitere virengepr\u00fcfte Software aus der Kategorie MP3 & Audio finden Sie bei computerbild.de!",
+    "googleLink": "http://www.google.com/url?q=https://www.computerbild.de/download/MIDI-Normalizer-909468.html&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAV6BAgEEAE&usg=AOvVaw2lW0jLcp_0TVXarjHWSyOB",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Deep Graph Normalizer: A Geometric Deep Learning Approach for ...arxiv.org \u203a cs",
+    "link": "https://arxiv.org/abs/2012.14131",
+    "description": "Computer Science > Computer Vision and Pattern Recognition. arXiv:\u200b2012.14131 (cs). [Submitted on 28 Dec 2020]. Title:Deep Graph Normalizer: A Geometric\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/2012.14131&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAZ6BAgFEAE&usg=AOvVaw2MlJdXFw6ljOBvJUKPujeq",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "symfony/polyfill-intl-normalizer - Packagistpackagist.org \u203a packages \u203a polyfill-intl-normalizer",
+    "link": "https://packagist.org/packages/symfony/polyfill-intl-normalizer",
+    "description": "Symfony polyfill for intl's Normalizer class and related functions.",
+    "googleLink": "http://www.google.com/url?q=https://packagist.org/packages/symfony/polyfill-intl-normalizer&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAd6BAgCEAE&usg=AOvVaw0LXRNyYps3F8KFcSuePCsH",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Stack Normalizer - ImageJimagej.nih.gov \u203a plugins \u203a normalizer",
+    "link": "https://imagej.nih.gov/ij/plugins/normalizer.html",
+    "description": "Stack Normalizer. Author: Joachim Walter (Walter at biz.uni-muenchen.de). History: 2002/02/01: First version 2002/04/01: Works with non-rectangular ROIs",
+    "googleLink": "http://www.google.com/url?q=https://imagej.nih.gov/ij/plugins/normalizer.html&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAh6BAgAEAE&usg=AOvVaw3oac9SU8IYRQKXusbOWqBP",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "a normalizer - Deutsch \u00dcbersetzung - Englisch Beispiele | Reverso ...context.reverso.net \u203a \u00fcbersetzung \u203a englisch-deutsch \u203a a+normalizer",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/englisch-deutsch/a+normalizer",
+    "description": "\u00dcbersetzung im Kontext von \u201ea normalizer\u201c in Englisch-Deutsch von Reverso Context: Undoubtedly one of the most important functions of a normalizer, will be\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://context.reverso.net/%25C3%25BCbersetzung/englisch-deutsch/a%2Bnormalizer&sa=U&ved=2ahUKEwiN34uWsuTuAhUCC6wKHY2WAHI4KBAWMAl6BAgBEAE&usg=AOvVaw0sISoYR1EaAHHtPP7tymi5",
+    "page": 4,
+    "index": 9
+  }
+]

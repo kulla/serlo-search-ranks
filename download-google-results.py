@@ -14,9 +14,14 @@ sys.path.insert(0, "/home/kulla/workspace/foss/google-search-api")
 import googleapi
 
 def main():
-    with open(os.path.join(os.path.dirname(__file__), "keywords.json"), "r") as f:
-        keywords = json.load(f)
-        keywords = [k for k in keywords if shouldDownload(k)]
+    keywords = []
+
+    for json_file in ["keywords.json", "wikibooks.json"]:
+        with open(os.path.join(os.path.dirname(__file__), json_file), "r") as f:
+            keywords += json.load(f)
+
+    keywords = list(set(keywords))
+    keywords = [k for k in keywords if shouldDownload(k)]
 
     for keyword, i in zip(keywords, count(1)):
         makeDownload(keyword)
@@ -27,7 +32,7 @@ def main():
 def shouldDownload(keyword):
     lastDownload = getLastDownloadTime(keyword)
 
-    return lastDownload == None or datetime.now() - lastDownload >= timedelta(days=3)
+    return lastDownload == None or datetime.now() - lastDownload >= timedelta(days=7)
 
 def makeDownload(keyword, retry=0):
     print("Download: %s" % keyword)

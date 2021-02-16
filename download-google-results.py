@@ -1,4 +1,4 @@
-#!python
+#!/usr/bin/python
 
 import os
 import json
@@ -16,12 +16,9 @@ import googleapi
 def main():
     keywords = []
 
-    for json_file in ["keywords.json", "wikibooks.json"]:
-        with open(os.path.join(os.path.dirname(__file__), json_file), "r") as f:
-            keywords += json.load(f)
-
-    keywords = list(set(keywords))
-    keywords = [k for k in keywords if shouldDownload(k)]
+    with open(os.path.join(os.path.dirname(__file__), "keywords.json"), "r") as f:
+        keywords += set((entry["keyword"] for entry in json.load(f)))
+        keywords = [k for k in keywords if shouldDownload(k)]
 
     for keyword, i in zip(keywords, count(1)):
         makeDownload(keyword)

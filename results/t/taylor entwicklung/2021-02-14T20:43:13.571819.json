@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Taylorreihe \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Taylorreihe",
+    "link": "https://de.wikipedia.org/wiki/Taylorreihe",
+    "description": "Die Taylorreihe wird in der Analysis verwendet, um eine glatte Funktion in der Umgebung einer Stelle durch eine Potenzreihe darzustellen, welche der\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Taylor-Formel \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Taylor-Formel",
+    "link": "https://de.wikipedia.org/wiki/Taylor-Formel",
+    "description": "... nach dem ersten Glied abgebrochene Taylorreihe dieser Funktion. Eng verwandt mit der Taylor-Formel ist die sogenannte Taylorreihe (Taylor-Entwicklung).",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Taylorreihen | einfach erkl\u00e4rt f\u00fcr dein Maschinenbau-Studium ...studyflix.de \u203a mathematik \u203a taylorreihen-910",
+    "link": "https://studyflix.de/mathematik/taylorreihen-910",
+    "description": "29.11.2018 \u2014 Taylorentwicklung \u2013 Taylorreihe Herleitung und Taylor Formel. Eine Taylorreihe ist eine spezielle Potenzreihe. Du kannst jede beliebige\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Taylorreihe | MatheGurumatheguru.com \u203a Analysis \u203a Taylorreihe",
+    "link": "https://matheguru.com/analysis/taylorreihe.html",
+    "description": "Eine Taylorreihe an der Stelle a = 0 wird auch manchmal MacLaurin-Reihe genannt. n! ist die Fakult\u00e4t von n. Sinus mit der Taylorreihe approximieren.",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Reihenentwicklung \u2013 die Taylorentwicklung - Hier entsteht in ...www15.ovgu.de \u203a exph \u203a mathe_gl \u203a taylorreihe",
+    "link": "http://www15.ovgu.de/exph/mathe_gl/taylorreihe.pdf",
+    "description": "Ist umgekehrt die Entwicklung einer Funktion als Reihe (Potenzreihe) m\u00f6glich? Die Antwort lautet \u201eja\u201c - eine solche Potenzreihe wird als Taylorreihe bezeichnet.",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Taylor-Entwicklung der Exponentialfunktion.www.math.uni-hamburg.de \u203a export \u203a tuhh \u203a vorl11_ana",
+    "link": "https://www.math.uni-hamburg.de/teaching/export/tuhh/cm/a1/0607/vorl11_ana.pdf",
+    "description": "Beispiel: Taylor-Entwicklung f\u00fcr Polynome. Ist die Funktion f ein Polynom vom Grad n, d.h. f besitzt die Darstellung f(x) =.",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Taylor-Entwicklungen und Taylor-Polynome.www.math.uni-hamburg.de \u203a tuhh \u203a vorlesungen",
+    "link": "https://www.math.uni-hamburg.de/teaching/export/tuhh/cm/a1/1415/vorlesungen/vl11.pdf",
+    "description": "Taylor-Entwicklung der Exponentialfunktion. Betrachte die ... Mit dem Satz von Taylor gilt um den Entwicklungspunkt x0 = 0 die Darstellung exp(x) = 1 + x + x. 2.",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Taylor Entwicklung \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Tay...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Taylor_Entwicklung",
+    "description": "Taylor Entwicklung \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c ... Taylor-Polynom -> Kann keine nicht Polynomielle Funktion exakt \u00fcberall beschreiben; Taylor-Reihe\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Taylor-Entwicklung  tqd1.physik.uni-freiburg.de \u203a KlassischeMechanikSS02 \u203a Taylor \u203a taylor11",
+    "link": "http://tqd1.physik.uni-freiburg.de/Vorlesung/KlassischeMechanikSS02/Taylor/taylor11.pdf",
+    "description": "[PDF] Taylor-Entwicklung",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Taylorreihen  statmath.wu-wien.ac.at \u203a Grundkurs \u203a handouts \u203a handout-9-Taylorreihen",
+    "link": "http://statmath.wu-wien.ac.at/courses/mmwi-finmath/Grundkurs/handouts/handout-9-Taylorreihen.pdf",
+    "description": "[PDF] Taylorreihen",
+    "googleLink": null,
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Taylorreihenentwicklung  www.cfd.tu-berlin.de \u203a Lehre \u203a tfd_skript \u203a node11",
+    "link": "http://www.cfd.tu-berlin.de/Lehre/tfd_skript/node11.html",
+    "description": "Taylorreihenentwicklung",
+    "googleLink": null,
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "\u00dcbungsaufgaben zu Potenzreihen und zur Taylor-Entwicklung - LP  lp.uni-goettingen.de \u203a get \u203a text",
+    "link": "https://lp.uni-goettingen.de/get/text/1884",
+    "description": "\u00dcbungsaufgaben zu Potenzreihen und zur Taylor-Entwicklung - LP",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://lp.uni-goettingen.de/get/text/1884&ved=2ahUKEwiUxemhkeruAhUJH3AKHdEdC_k4ChAWMAR6BAgKEAE&usg=AOvVaw0VJa9iu3U8JvE9MZotm0ec",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Taylor-Entwicklung einiger trigonometrischer Funktionen in ...  www.lernhelfer.de \u203a schuelerlexikon \u203a mathematik-abitur \u203a artikel \u203a taylor...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/taylor-entwicklung-einiger-trigonometrischer-funktionen",
+    "description": "Taylor-Entwicklung einiger trigonometrischer Funktionen in ...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/taylor-entwicklung-einiger-trigonometrischer-funktionen&ved=2ahUKEwiUxemhkeruAhUJH3AKHdEdC_k4ChAWMAV6BAgCEAE&usg=AOvVaw3oU6ga9AubDPO_gfDlzDq_",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Taylor-Reihe - Lexikon der Physik - Spektrum  www.spektrum.de \u203a Lexika \u203a Lexikon der Physik",
+    "link": "https://www.spektrum.de/lexikon/physik/taylor-reihe/14336",
+    "description": "Taylor-Reihe - Lexikon der Physik - Spektrum",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.spektrum.de/lexikon/physik/taylor-reihe/14336&ved=2ahUKEwiUxemhkeruAhUJH3AKHdEdC_k4ChAWMAZ6BAgAEAE&usg=AOvVaw2a8I8eC4iW77JMZPAME5Hd",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Taylor-Formel  www.biancahoegel.de \u203a mathe \u203a analysis \u203a taylor-formel",
+    "link": "https://www.biancahoegel.de/mathe/analysis/taylor-formel.html",
+    "description": "Taylor-Formel",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.biancahoegel.de/mathe/analysis/taylor-formel.html&ved=2ahUKEwiUxemhkeruAhUJH3AKHdEdC_k4ChAWMAd6BAgGEAE&usg=AOvVaw1udbLfZZMRRidBFd6PTaKS",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Taylor-Reihe - Mathematik-Online-Aufgabensammlung  mo.mathematik.uni-stuttgart.de \u203a aufgaben \u203a taylor_reihe",
+    "link": "https://mo.mathematik.uni-stuttgart.de/aufgaben/T/taylor_reihe.html",
+    "description": "Taylor-Reihe - Mathematik-Online-Aufgabensammlung",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://mo.mathematik.uni-stuttgart.de/aufgaben/T/taylor_reihe.html&ved=2ahUKEwiUxemhkeruAhUJH3AKHdEdC_k4ChAWMAh6BAgDEAE&usg=AOvVaw0LMLwtJ5fMR0Yq7Qj3Jzt1",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Die N\u00e4herung einer Taylor-Reihe berechnen ... - Wolfram  www.wolfram.com \u203a language \u203a asymptotics \u203a compute-a-taylor-series-app...",
+    "link": "https://www.wolfram.com/language/12/asymptotics/compute-a-taylor-series-approximation-asymptoticrsolvevalue.html.de",
+    "description": "Die N\u00e4herung einer Taylor-Reihe berechnen ... - Wolfram",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.wolfram.com/language/12/asymptotics/compute-a-taylor-series-approximation-asymptoticrsolvevalue.html.de&ved=2ahUKEwiUxemhkeruAhUJH3AKHdEdC_k4ChAWMAl6BAgFEAE&usg=AOvVaw2T4eAFV3Qas8VOcEURdXAV",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] C5 Funktionen: Reihenentwicklungen C5.1 Taylorreihenwww.physik.uni-muenchen.de \u203a r_rechenmethoden \u203a skript \u203a PDFS",
+    "link": "https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_13_14/r_rechenmethoden/skript/PDFS/17-C5_1-vor-Taylorreihen.pdf",
+    "description": "Exponentialfunktion, gen\u00e4hert durch die ersten N+1 Terme der Taylorreihe: Taylor-Entwicklung der Exponentialfunktion um x = 1: falls N ist dies eine N\u00e4herung.",
+    "googleLink": "http://www.google.com/url?q=https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_13_14/r_rechenmethoden/skript/PDFS/17-C5_1-vor-Taylorreihen.pdf&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAB6BAgGEAE&usg=AOvVaw382zLU3I-xyB_8i9DqVYsL",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "6.8: Taylor-Entwicklung um beliebigen Punkt - Mathematischer ...www.thphys.uni-heidelberg.de \u203a ~hefft",
+    "link": "https://www.thphys.uni-heidelberg.de/~hefft/vk2/k6/680.htm",
+    "description": "Nachdem wir gesehen haben, wie sehr es bei der Anwendung der Taylor-\u200bEntwicklungen zur Berechnung von Funktionswerten in der N\u00e4he von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.thphys.uni-heidelberg.de/~hefft/vk2/k6/680.htm&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAF6BAgJEAE&usg=AOvVaw1yNsFgl14sEZi2eadMXEQO",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "6. Taylor-Entwicklunglink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-53831-9_6.pdf",
+    "description": "Es handelt sich um die Taylor-Entwicklung, die es erm\u00f6glicht, eine gro\u00dfe Zahl der in den Naturwissenschaften gebrauchten Funktionen f(x) in der. Umgebung\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-3-662-53831-9_6.pdf&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAJ6BAgHEAE&usg=AOvVaw115TZKjS1jt87IImINdHge",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Ableitungsbegriff und Taylorentwicklung von - Uni Regensburgwww.uni-regensburg.de \u203a mitarbeiter \u203a rameseder \u203a derivatives",
+    "link": "https://www.uni-regensburg.de/wirtschaftswissenschaften/vwl-tschernig/medien/mitarbeiter/rameseder/derivatives.pdf",
+    "description": "Ableitungsbegriff und Taylorentwicklung von (vektorwertigen) Funktionen (in mehreren Ver\u00e4nderlichen). Im folgenden betrachten wir Funktionen, die Punkte\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-regensburg.de/wirtschaftswissenschaften/vwl-tschernig/medien/mitarbeiter/rameseder/derivatives.pdf&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAN6BAgIEAE&usg=AOvVaw1dysafHlGDF_EEpW3_uH9G",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Potenzreihen und Taylor-Entwicklungwww.mathematik.uni-marburg.de \u203a ~stemmler \u203a files \u203a potenz-taylor",
+    "link": "http://www.mathematik.uni-marburg.de/~stemmler/files/potenz-taylor.pdf",
+    "description": "Sei x \u2208 R. Dann gilt: falls |x \u2212 x0| < RA, also x \u2208 KA: Die Reihe A(x) konvergiert absolut.",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-marburg.de/~stemmler/files/potenz-taylor.pdf&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAR6BAgCEAE&usg=AOvVaw3XO8QW8iaGkW5X-2iOD2Kf",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Taylorreihe - Taylor-Entwicklung - Solumathswww.solumaths.com \u203a rechner \u203a berechnen \u203a taylor_entwicklung",
+    "link": "https://www.solumaths.com/de/rechner/berechnen/taylor_entwicklung",
+    "description": "Die Taylor-Entwicklung einer Funktion an einem Punkt ist eine polynomielle Approximation dieser Funktion in der N\u00e4he dieses Punktes. Der Grad des f\u00fcr die\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.solumaths.com/de/rechner/berechnen/taylor_entwicklung&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAV6BAgAEAE&usg=AOvVaw1Q88xsJ78zNEX4ecGZywAS",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Skript zur Einf\u00fchrung in die Mathematik 1 | 9. Vorlesung Die Taylor ...www.aleph1.info \u203a ... \u203a 9. Vorlesung Die Taylor-Entwicklung",
+    "link": "https://www.aleph1.info/?call=Puc&permalink=em1s_9.%20Vorlesung%20Die%20Taylor-Entwicklung",
+    "description": "Wir nennen das Polynom Tnpf auch die Taylor-Entwicklung der Ordnung n der Funktion f an der Stelle p. Die Taylor-Polynome der Ordnungen 1 und 2 sind die\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.aleph1.info/%3Fcall%3DPuc%26permalink%3Dem1s_9.%2520Vorlesung%2520Die%2520Taylor-Entwicklung&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAZ6BAgFEAE&usg=AOvVaw31pxkXnqBxA0d-dIaUJew5",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Taylorentwicklung - Englisch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a deutsch-englisch \u203a uebersetzung \u203a taylorentwicklung",
+    "link": "https://www.linguee.de/deutsch-englisch/uebersetzung/taylorentwicklung.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"Taylorentwicklung\" \u2013 Englisch-Deutsch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von Englisch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/deutsch-englisch/uebersetzung/taylorentwicklung.html&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAd6BAgDEAE&usg=AOvVaw2hzk2nYTvtDHHKDoBVaaAa",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Taylor-Polynom berechnen \u2013 Studybeesstudybees.de \u203a mathe \u203a taylorpolynom",
+    "link": "https://studybees.de/mathe/taylorpolynom/",
+    "description": "Mithilfe des Taylor-Polynoms (auch: Taylorreihe, Taylor-Entwicklung oder Taylor-\u200bApproximation) lassen sich Funktionen in einem Bereich um eine bestimmte\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://studybees.de/mathe/taylorpolynom/&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAh6BAgEEAE&usg=AOvVaw13LqZpzPga1NRBzljSn5g6",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Die Taylor-Entwicklunggroups.uni-paderborn.de \u203a AnalyseBuch \u203a Analysis \u203a Differentialrechnung",
+    "link": "https://groups.uni-paderborn.de/reiss/AnalyseBuch/Analysis/Differentialrechnung/taylor.html?i=index",
+    "description": "3.3.20 Taylorentwicklung eines Polynoms. Es sei bei einer Funktion f(x) der Wert a und der zugeh\u00f6rige Funktionswert f(a) bekannt. H\u00e4ufig interessiert man sich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://groups.uni-paderborn.de/reiss/AnalyseBuch/Analysis/Differentialrechnung/taylor.html%3Fi%3Dindex&sa=U&ved=2ahUKEwiRwJyikeruAhVQa94KHQG8BsI4FBAWMAl6BAgBEAE&usg=AOvVaw1tipoM6JE-rQp7gijky8ZS",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Taylor-Polynom berechnen \u2013 Studybeesstudybees.de \u203a mathe \u203a taylorpolynom",
+    "link": "https://studybees.de/mathe/taylorpolynom/",
+    "description": "Mithilfe des Taylor-Polynoms (auch: Taylorreihe, Taylor-Entwicklung oder Taylor-Approximation) lassen sich Funktionen in einem Bereich um eine bestimmte\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Die Taylor-Entwicklunggroups.uni-paderborn.de \u203a reiss \u203a Differentialrechnung",
+    "link": "https://groups.uni-paderborn.de/reiss/AnalyseBuch/Analysis/Differentialrechnung/taylor.html?i=index",
+    "description": "3.3.20 Taylorentwicklung eines Polynoms. Es sei bei einer Funktion f(x) der Wert a und der zugeh\u00f6rige Funktionswert f(a) bekannt. H\u00e4ufig interessiert man sich\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Taylor-Entwicklung | springerprofessional.dewww.springerprofessional.de \u203a taylor-entwicklung",
+    "link": "https://www.springerprofessional.de/taylor-entwicklung/12057250",
+    "description": "Taylor-Darstellung von Polynomen Quadratische Taylor-Polynome und Restglied Quadratisches Taylor-Polynom und Absch\u00e4tzung des Restglieds Konstruktion.",
+    "googleLink": null,
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "4.4 Taylorentwicklung - Das Gelbe Rechenbuchwww.das-gelbe-rechenbuch.de \u203a download \u203a Taylor",
+    "link": "http://www.das-gelbe-rechenbuch.de/download/Taylor.pdf",
+    "description": "TAYLORENTWICKLUNG. 83. 4.4 Taylorentwicklung. 1. Definitionen f sei eine reellwertige m + 1-mal stetig differenzierbare Funktion der n Variablen x1 bis xn\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Wie lautet das Taylorpolynom zweiten Grades von V(r), wenn ...www.mathelounge.de \u203a taylorpolynom-zweiten-grades-...",
+    "link": "https://www.mathelounge.de/783710/taylorpolynom-zweiten-grades-entwicklung-minimum-vorgenommen",
+    "description": "10.12.2020 \u2014 Ist die Entwicklungsstelle dann =0 ? Hab leider keine Idee wie ich hier vorgehen muss. taylorreihe \u00b7 taylor-entwicklung \u00b7 ableitungen \u00b7 Gefragt\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Taylor-Reihenentwicklungs-Rechner - Zahlenreichde.numberempire.com \u203a taylorseriesexpansion",
+    "link": "https://de.numberempire.com/taylorseriesexpansion.php",
+    "description": "Geben Sie eine Funktion f\u00fcr die Berechnung der Taylor-Reihe ein: Variable: Berechnen bei: Potenz: Taylorreihenentwicklungs-\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Die Taylor-Entwicklung einer Funktionwww.math.uni-sb.de \u203a schulze \u203a MfN1_2017 \u203a taylor",
+    "link": "https://www.math.uni-sb.de/ag/schulze/MfN1_2017/taylor.pdf",
+    "description": "Die Taylor-Entwicklung einer Funktion with(Student[Calculus1]):. Die Funktion , die durch f\u00fcr. , gegeben ist, ist ein Beispiel daf\u00fcr, dass die Taylorentwicklung\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "TaylorReihe (Befehl) \u2013 GeoGebra Manualwiki.geogebra.org \u203a TaylorReihe_(Befehl)",
+    "link": "https://wiki.geogebra.org/de/TaylorReihe_(Befehl)",
+    "description": "TaylorReihe[x^2, a, 1] gibt a2 + 2a (x - a). TaylorReihe( <Funktion>, <Variable>, <Variablenwert>, <Grad> ): Erzeugt die Taylor Reihe der gegebenen Funktion in\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Taylorpolynom, Taylorentwicklung, Taylorreihe ...www.mathe-seite.de \u203a oberstufe \u203a naehrungsverfahren",
+    "link": "https://www.mathe-seite.de/oberstufe/analysis-tiefere-einblicke/naehrungsverfahren/taylorpolynom-taylorentwicklung/",
+    "description": "Auf diese Art kann man nach Taylor auch die Reihenentwicklung der Exponential-, der Sinus- oder Kosinusfunktion erhalten. Die Formel f\u00fcr die Taylorentwicklung\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "re.math | Taylor-Entwicklungwww.math.uni-bielefeld.de \u203a remathweb \u203a apps \u203a Tayl...",
+    "link": "https://www.math.uni-bielefeld.de/~einsteigen/remathweb/apps/Taylorentwicklung.php",
+    "description": "Taylor-Entwicklung. Copyright \u00a9 2019 - 2021 Thorsten H\u00fcls Startseite.",
+    "googleLink": null,
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Taylorentwicklung - deacademic.comdeacademic.com \u203a dic.nsf \u203a dewiki",
+    "link": "https://deacademic.com/dic.nsf/dewiki/1370407",
+    "description": "Die Taylorreihe (oder Taylor-Reihe) einer Funktion f in einem Punkt ist die Potenzreihenentwicklung der Funktion an diesem Punkt. Sie ist benannt nach dem\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://deacademic.com/dic.nsf/dewiki/1370407&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAB6BAgAEAE&usg=AOvVaw3iYoMjUYpP4vns6vOugj8H",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Taylor-Entwicklung der Exponentialfunktion. - PDF Free Downloaddocplayer.org \u203a 25925006-Taylor-entwicklung-der-exponentialfunktion",
+    "link": "https://docplayer.org/25925006-Taylor-entwicklung-der-exponentialfunktion.html",
+    "description": "Taylor-Entwicklung der Exponentialfunktion. Betrachte die Exponentialfunktion f(\u200bx) = exp(x). Zun\u00e4chst gilt: f (x) = d dx exp(x) = exp(x). Mit dem Satz von Taylor gilt\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/25925006-Taylor-entwicklung-der-exponentialfunktion.html&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAF6BAgJEAE&usg=AOvVaw2_24FhCtsIcxn_IqGIiFNE",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Taylor Ubungenwww.hs-aalen.de \u203a mediapool \u203a media \u203a file \u203a Uebungen_Taylor",
+    "link": "https://www.hs-aalen.de/uploads/mediapool/media/file/14222/Uebungen_Taylor.pdf",
+    "description": "Entwicklungspunkt x0=0: sin(0)=0, daher beginnt die Taylor-Entwicklung mit 0. Erh\u00f6hen Sie die Potenz auf 1 \u2013 im oberen Bild erscheint die Tangente im Ursprung,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.hs-aalen.de/uploads/mediapool/media/file/14222/Uebungen_Taylor.pdf&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAJ6BAgHEAE&usg=AOvVaw2JRLNIpWZXoI_3Hz1VDWqK",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Taylor-Entwicklung - Englisch \u00dcbersetzung - Deutsch Beispiele ...context.reverso.net \u203a \u00fcbersetzung \u203a deutsch-englisch \u203a Taylor-Entwicklung",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/Taylor-Entwicklung",
+    "description": "\u00dcbersetzung im Kontext von \u201eTaylor-Entwicklung\u201c in Deutsch-Englisch von Reverso Context: A ist eine Matrix, die aus den Beobachtungen und Koordinaten der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://context.reverso.net/%25C3%25BCbersetzung/deutsch-englisch/Taylor-Entwicklung&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAN6BAgIEAE&usg=AOvVaw2XdJE-0200QRcOKQMUE7ds",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Taylorreihe - de.LinkFang.orgde.linkfang.org \u203a wiki \u203a Taylorreihe",
+    "link": "https://de.linkfang.org/wiki/Taylorreihe",
+    "description": "Diese Reihenentwicklung wird Taylor-Entwicklung genannt. Reihe und Entwicklung sind nach dem britischen Mathematiker Brook Taylor benannt.",
+    "googleLink": "http://www.google.com/url?q=https://de.linkfang.org/wiki/Taylorreihe&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAR6BAgBEAE&usg=AOvVaw0ijLeCa8AEMywjO8ichEx7",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Rationale Funktion/Taylor-Entwicklung/1/Aufgabe \u2013 Wikiversityde.wikiversity.org \u203a wiki \u203a Taylor-Entwicklung \u203a Aufgabe",
+    "link": "https://de.wikiversity.org/wiki/Rationale_Funktion/Taylor-Entwicklung/1/Aufgabe",
+    "description": "21.07.2020 \u00b7 Rationale Funktion/Taylor-Entwicklung/1/Aufgabe. Sprache; Beobachten \u00b7 Bearbeiten. Bestimme die Taylorentwicklung der Funktion.",
+    "googleLink": "http://www.google.com/url?q=https://de.wikiversity.org/wiki/Rationale_Funktion/Taylor-Entwicklung/1/Aufgabe&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAV6BAgCEAE&usg=AOvVaw132tTrzW07F4Gfh_Hr1iFR",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Satz von Taylor \u2013 Taylorreihen - TU Ilmenauwww.tu-ilmenau.de \u203a neundorf \u203a Dokumente \u203a Lehre \u203a Taylor_Reihe",
+    "link": "https://www.tu-ilmenau.de/fileadmin/media/num/neundorf/Dokumente/Lehre/hm/Taylor_Reihe.pdf",
+    "description": "\u201centwickeln\u201d. Dieses ist die einzige M\u00f6glichkeit, p(x) als Potenzreihe mit Zentrum a darzustellen. Darstellung einer Funktion als Taylor-Reihe. Ist f auf dem\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tu-ilmenau.de/fileadmin/media/num/neundorf/Dokumente/Lehre/hm/Taylor_Reihe.pdf&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAZ6BAgDEAE&usg=AOvVaw2nHbh3CaDw3sNGl38Zu4rl",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Taylorreihe f\u00fcr den Logarithmuswww.math.tu-dresden.de \u203a ~ganter \u203a inf2005 \u203a folien \u203a Taylor2",
+    "link": "https://www.math.tu-dresden.de/~ganter/inf2005/folien/Taylor2.pdf",
+    "description": "a\u03bdx\u03bd \u2248 anxn. Mathematik I f\u00fcr Informatiker \u2013 Satz von Taylor \u2013 Taylorreihen (\u200bFortsetzung) \u2013 p. 6. Page 7\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tu-dresden.de/~ganter/inf2005/folien/Taylor2.pdf&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAd6BAgFEAE&usg=AOvVaw3zqpECjfocBMO48tWN_Ggi",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Taylorreihen und Taylorpolynome - mathematik.netwww.mathematik.net \u203a reihen-taylorreihen",
+    "link": "http://www.mathematik.net/reihen-taylorreihen/ty2s22.htm",
+    "description": "Formel f\u00fcr die Taylorreihe (Entwicklungsstelle x=0). Im Kurs Taylorpolynome haben wir u.a. eine Formel entwickelt, mit der man ein Taylorpolynom an der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.net/reihen-taylorreihen/ty2s22.htm&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAh6BAgEEAE&usg=AOvVaw28FqDJOqFKBeQdjkgtEex6",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Taylor-Entwicklung Delta-Funktion Vektoralgebra und Vektoranalysiswww.ei.ruhr-uni-bochum.de \u203a elektromag_wellen \u203a formelsammlung",
+    "link": "http://www.ei.ruhr-uni-bochum.de/media/ei/lehrmaterialien/elektromag_wellen/de1fc11996731801362768ae5924c5f27ba3c6ad/formelsammlung.pdf",
+    "description": "Elektromagnetische Wellen 141372. Formelsammlung. Ruhr-Universit\u00e4t Bochum\u200b. Dr. Thomas Mussenbrock. Entwicklung der Funktion f(x) um die Stelle x = xo.",
+    "googleLink": "http://www.google.com/url?q=http://www.ei.ruhr-uni-bochum.de/media/ei/lehrmaterialien/elektromag_wellen/de1fc11996731801362768ae5924c5f27ba3c6ad/formelsammlung.pdf&sa=U&ved=2ahUKEwitkrGjkeruAhVT7WEKHQaqCrQ4KBAWMAl6BAgGEAE&usg=AOvVaw0SBy9E2viPAhFhDlu-jyLd",
+    "page": 4,
+    "index": 9
+  }
+]

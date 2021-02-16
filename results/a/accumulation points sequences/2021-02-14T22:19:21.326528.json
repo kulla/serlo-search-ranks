@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Accumulation Points of a Sequence - Mathonlinemathonline.wikidot.com \u203a accumulation-points-of-a-sequence",
+    "link": "http://mathonline.wikidot.com/accumulation-points-of-a-sequence",
+    "description": "Definition: Let be a sequence of real numbers. The number is said to be an accumulation point of if there exists a subsequence such that $\\lim_{k \\to \\infty} a_{n_k} = a$, that is, $\\forall \\epsilon > 0$ $\\exists K \\in \\mathbb{N}$ such that if then $\\mid a_{n_k} - a \\mid < \\epsilon$.",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/accumulation-points-of-a-sequence&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFnoECAsQAg&usg=AOvVaw3pj1422tWIMNs3TwtSRn9w",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Convergent sequences and accumulation points - Mathematics ...math.stackexchange.com \u203a questions \u203a convergent-s...",
+    "link": "https://math.stackexchange.com/questions/2550128/convergent-sequences-and-accumulation-points",
+    "description": "I am calling x an accumulation point of the set A iff (B(x,\u03f5)\u2229A)\u2216{x}\u2260\u2205 for all \u03f5> 0. Suppose an\u2192a. The set {an}n can have at most one\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/2550128/convergent-sequences-and-accumulation-points&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFjAKegQIBhAB&usg=AOvVaw1PUaNYLFzBZ_BV8hmPAeiT",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Accumulation points of a sequence - Mathematics Stack Exchangemath.stackexchange.com \u203a questions \u203a accumulation...",
+    "link": "https://math.stackexchange.com/questions/753780/accumulation-points-of-a-sequence/753782",
+    "description": "If it converges it has only one accumulation point. If it doesn't converge it may have any number of accumulation points. Take (1,-1,1,-1,1,-1,.",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/753780/accumulation-points-of-a-sequence/753782&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFjALegQIBRAB&usg=AOvVaw3z0Bta82lbjwpzqqDoPrXh",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Limit point - Wikipediaen.wikipedia.org \u203a wiki \u203a Limit_point",
+    "link": "https://en.wikipedia.org/wiki/Limit_point",
+    "description": "Relation between accumulation point of a sequence and accumulation point\u00a0...\nDefinition \u00b7 Types of limit point \u00b7 For sequences and nets \u00b7 Properties",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Limit_point&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFjAMegQIAhAB&usg=AOvVaw1bGzgNwcc93IoWndX2JqBK",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Accumulation points of sets \u2013 Serlo \u2013 Wikibooks, Sammlung freier ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Accumulatio...",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Accumulation_points_of_sets",
+    "description": "in the article accumulation point of a sequence we already mentioned that the ... Theorem (Accumulation points of a set are limits of set elements sequences).\nMotivation \u00b7 Accumulation point of a set \u00b7 Properties of ... \u00b7 Adherent points",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Accumulation_points_of_sets&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFjANegQIChAB&usg=AOvVaw2F9AJ_1sIDLMRqy8za3xSz",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[PDF] 2 Sequences and Accumulation Points - Helmut Knausthelmut.knaust.info \u203a class \u203a Chapter2",
+    "link": "http://helmut.knaust.info/class/200730_3341/Chapter2.pdf",
+    "description": "2 Sequences and Accumulation Points. 2.1 Convergent Sequences. Formally, a sequence of real numbers is a function \u03d5 : N \u2192 R. For instance the function \u03d5(n) \u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://helmut.knaust.info/class/200730_3341/Chapter2.pdf&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFjAOegQIBxAB&usg=AOvVaw1VQjZY0BjFsrvih29IWD04",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Sequence that converge if they have an accumulation point ...mathoverflow.net \u203a questions \u203a sequence-that-conve...",
+    "link": "https://mathoverflow.net/questions/24508/sequence-that-converge-if-they-have-an-accumulation-point",
+    "description": "The following version of the mean ergodic theorem is taken from the book of Krengel, \"ergodic theorems\". Let T be a bounded linear operator in a Banach space\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/24508/sequence-that-converge-if-they-have-an-accumulation-point&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFjAPegQIAxAB&usg=AOvVaw10djvgwh7pYOYZ1m1y3JUe",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 1 Supremum and Infimum 2 Sequences, accumulation points, lim ...people.math.umass.edu \u203a ps_files \u203a teaching \u203a math623 \u203a sup1",
+    "link": "http://people.math.umass.edu/~lr7q/ps_files/teaching/math623/sup1.pdf",
+    "description": "2 Sequences, accumulation points, lim sup and lim inf. Let {xn}\u221e n=1 be a sequence of real numbers. A point x is called an accumulation point of if there exists a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://people.math.umass.edu/~lr7q/ps_files/teaching/math623/sup1.pdf&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFjAUegQIABAB&usg=AOvVaw2PZKL14eUHZnlOM3E8Gq7v",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Limit Point of Sequence is Accumulation Point - ProofWikiproofwiki.org \u203a wiki \u203a Limit_Point_of_Sequence_is...",
+    "link": "https://proofwiki.org/wiki/Limit_Point_of_Sequence_is_Accumulation_Point",
+    "description": "16.05.2020 \u00b7 Theorem. Let T=(S,\u03c4) be a topological space. Let A\u2286S. Let \u27e8xn\u27e9 be a sequence in A. Let \u03b1 be a limit point of \u27e8xn\u27e9. Then \u03b1 is also an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Limit_Point_of_Sequence_is_Accumulation_Point&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFjAVegQIBBAB&usg=AOvVaw0CewqXxIuk1BVt00zJMF8a",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Page 165 Problem 15a Prove that x is an accumulation point of a set ...www.westmont.edu \u203a ~howell \u203a courses \u203a illustrations \u203a text-solutions",
+    "link": "https://www.westmont.edu/~howell/courses/ma-108/illustrations/text-solutions/page165-15.pdf",
+    "description": "\u21d0= Suppose that there exists a sequence (sn) of points in S \\ {x} such that (sn) converges to x. Let \u03b5 > 0 be given. We must show that N\u2217(x;\u03b5) \u2229 S = \u2205. Because (\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.westmont.edu/~howell/courses/ma-108/illustrations/text-solutions/page165-15.pdf&sa=U&ved=2ahUKEwjuxL_fpuruAhVcxYsBHeMYChsQFjAWegQICBAB&usg=AOvVaw3A2Ltd9uXpTVWwMsJR-0ZT",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Accumulation Point - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a accumulation-point",
+    "link": "https://www.sciencedirect.com/topics/mathematics/accumulation-point",
+    "description": "4.2 Invariant Subspaces and a Two Sequences Theorem. Lemma 4.4. If T is quasi-nilpotent then\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/mathematics/accumulation-point&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChAWMAB6BAgJEAE&usg=AOvVaw3-KO-m9hYzv0h_8UDyfD-T",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Sequences and Accumulation Points \uace0 is bounded \uace0 is ...math.la.asu.edu \u203a ~kuiper \u203a seq&accpts",
+    "link": "https://math.la.asu.edu/~kuiper/371files/seq&accpts.pdf",
+    "description": "Sequences and Accumulation Points. Let 1anl\u221e n=1 be a sequence, that is to say, a function ... Every bounded sequence has a convergent subsequence. Proof\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.la.asu.edu/~kuiper/371files/seq%26accpts.pdf&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChAWMAF6BAgDEAE&usg=AOvVaw2xF72aj4fnsAvV5t7IxncF",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Correctionmath.univ-lyon1.fr \u203a ~melleray",
+    "link": "http://math.univ-lyon1.fr/~melleray/Math%20444/HW9Math444correction.pdf",
+    "description": "(a) What are the accumulation points of a convergent sequence ? (b) What are ... limit, so a convergent sequence has exactly one accumulation point : its limit.",
+    "googleLink": "http://www.google.com/url?q=http://math.univ-lyon1.fr/~melleray/Math%2520444/HW9Math444correction.pdf&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChAWMAJ6BAgIEAE&usg=AOvVaw2fKyA9aKUFBxFDHF8nfU_t",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Accumulation Point - Wolfram Demonstrations Projectdemonstrations.wolfram.com \u203a AccumulationPoint",
+    "link": "http://demonstrations.wolfram.com/AccumulationPoint/",
+    "description": "This Demonstration shows a sequence with two accumulation points An accumulation point of a sequence is a number such that for any there exists such that\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://demonstrations.wolfram.com/AccumulationPoint/&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChAWMAN6BAgHEAE&usg=AOvVaw04irZACiuZ7Nqfq9LvkLbu",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Limit/Accumulation Points Part 1 - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=Z0e4gZZCxBM",
+    "description": "09.09.2014 \u00b7 In this video the concept of limit/accumulation points is introduced.Dauer: 6:00\nGepostet: 09.09.2014",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DZ0e4gZZCxBM&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChC3AjAEegQIBBAB&usg=AOvVaw3caR0yANCmz_Dysk2NXxiP",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] On accumulation points - Numdamwww.numdam.org \u203a article \u203a CTGDC_1994__35_4_321_0",
+    "link": "http://www.numdam.org/article/CTGDC_1994__35_4_321_0.pdf",
+    "description": "X is Fr6chet, for each x E M B int M there is a sequence xn&#x3E; ranging in X B M and converging to x; and there is such a point and such a sequence provided\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.numdam.org/article/CTGDC_1994__35_4_321_0.pdf&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChAWMAV6BAgBEAE&usg=AOvVaw2QN46AILRdul48YO3zVEoV",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "accumulation point - Wiktionaryen.wiktionary.org \u203a wiki \u203a accumulation_point",
+    "link": "https://en.wiktionary.org/wiki/accumulation_point",
+    "description": "(mathematical analysis, \"of\" a sequence) Given a sequence si, a point x whose every neighborhood contains at least one element of the sequence distinct from x\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://en.wiktionary.org/wiki/accumulation_point&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChAWMAZ6BAgGEAE&usg=AOvVaw0-UrLwqgDQAuYiHHtCA9Qq",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PS] Approximation of accumulation points of sequences of continuous ...ftp.inf.fu-berlin.de \u203a pub \u203a math \u203a publ \u203a pre \u203a pr-a-96-18",
+    "link": "https://ftp.inf.fu-berlin.de/pub/math/publ/pre/1996/pr-a-96-18.ps",
+    "description": "It is known that accumulation points of a pointwise bounded. sequence (fn)n of continuous functions on a Polish space are pointwise. limits of subsequences if\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ftp.inf.fu-berlin.de/pub/math/publ/pre/1996/pr-a-96-18.ps&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChAWMAd6BAgAEAE&usg=AOvVaw3flqRmkSiXhs05-RwABRgt",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Limit point - HandWikihandwiki.org \u203a wiki \u203a Limit_point",
+    "link": "https://handwiki.org/wiki/Limit_point",
+    "description": "There is also a closely related concept for sequences. A cluster point (or accumulation point) of a sequence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://handwiki.org/wiki/Limit_point&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChAWMAh6BAgCEAE&usg=AOvVaw1CcwYhvBc1ig1GthBillyH",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Limits and Accumulation Points of Sequenceswww.bookofproofs.org \u203a branches \u203a limits-and-acc...",
+    "link": "https://www.bookofproofs.org/branches/limits-and-accumulation-points-of-sequences/",
+    "description": "20.06.2020 \u00b7 infinitely many terms of the sequence (an)n\u2208N ( a n ) n \u2208 N , then x x is called an accumulation point of the sequence.",
+    "googleLink": "http://www.google.com/url?q=https://www.bookofproofs.org/branches/limits-and-accumulation-points-of-sequences/&sa=U&ved=2ahUKEwj17vffpuruAhXkyosBHRnkAiI4ChAWMAl6BAgFEAE&usg=AOvVaw2epjXbJPRCwjtj_8PPWKbM",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Sequence, limit, accumulation point. Upper, lower bound. Limit ...  solitaryroad.com \u203a ...",
+    "link": "https://solitaryroad.com/c450.html",
+    "description": "Sequence, limit, accumulation point. Upper, lower bound. Limit ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://solitaryroad.com/c450.html&ved=2ahUKEwjlmcbgpuruAhXiyosBHX6ECPI4FBAWMAF6BAgHEAE&usg=AOvVaw3Y__F0iRtR84QhBntx8dwg",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Accumulation points of iterated function systems - Department of ...  comet.lehman.cuny.edu \u203a keenl \u203a finalnonblochlimits",
+    "link": "http://comet.lehman.cuny.edu/keenl/finalnonblochlimits.pdf",
+    "description": "[PDF] Accumulation points of iterated function systems - Department of ...",
+    "googleLink": null,
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "How the whole real line considered as an accumulation point of Q ...  www.researchgate.net \u203a post \u203a How_the_whole_real...",
+    "link": "https://www.researchgate.net/post/How_the_whole_real_line_considered_as_an_accumulation_point_of_Qthe_set_of_rational_numbers",
+    "description": "How the whole real line considered as an accumulation point of Q ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.researchgate.net/post/How_the_whole_real_line_considered_as_an_accumulation_point_of_Qthe_set_of_rational_numbers&ved=2ahUKEwjlmcbgpuruAhXiyosBHX6ECPI4FBAWMAN6BAgKEAE&usg=AOvVaw1UR2YSKR3V3TOVMPLJIjTb",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Limit of sequence theorems, Sufficient condition for convergence of ...  www.nabla.hr \u203a CL-LimitsB1",
+    "link": "http://www.nabla.hr/CL-LimitsB1.htm",
+    "description": "Limit of sequence theorems, Sufficient condition for convergence of ...",
+    "googleLink": null,
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Sequences of accumulation points in the phase diagram of the ...  link.aps.org \u203a doi \u203a PhysRevB.38.634",
+    "link": "https://link.aps.org/doi/10.1103/PhysRevB.38.634",
+    "description": "Sequences of accumulation points in the phase diagram of the ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://link.aps.org/doi/10.1103/PhysRevB.38.634&ved=2ahUKEwjlmcbgpuruAhXiyosBHX6ECPI4FBAWMAV6BAgFEAE&usg=AOvVaw2hvruCkgsp9B4T4nBesw77",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Accumulation point | Article about accumulation point by The Free ...  encyclopedia2.thefreedictionary.com \u203a accumulatio...",
+    "link": "https://encyclopedia2.thefreedictionary.com/accumulation+point",
+    "description": "Accumulation point | Article about accumulation point by The Free ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://encyclopedia2.thefreedictionary.com/accumulation%2Bpoint&ved=2ahUKEwjlmcbgpuruAhXiyosBHX6ECPI4FBAWMAZ6BAgCEAE&usg=AOvVaw3EmTj_EiCR6B0MnTucv4oF",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "On Accumulation Points of Ratio Sets of Positive Integers - JStor  www.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2974720",
+    "description": "On Accumulation Points of Ratio Sets of Positive Integers - JStor",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.jstor.org/stable/2974720&ved=2ahUKEwjlmcbgpuruAhXiyosBHX6ECPI4FBAWMAd6BAgEEAE&usg=AOvVaw3Imm2zChAPs42dBmneeqqQ",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[Real Analysis] Accumulation point question : learnmath - Reddit  www.reddit.com \u203a learnmath \u203a comments \u203a real_ana...",
+    "link": "https://www.reddit.com/r/learnmath/comments/9v6t6i/real_analysis_accumulation_point_question/",
+    "description": "[Real Analysis] Accumulation point question : learnmath - Reddit",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.reddit.com/r/learnmath/comments/9v6t6i/real_analysis_accumulation_point_question/&ved=2ahUKEwjlmcbgpuruAhXiyosBHX6ECPI4FBAWMAh6BAgDEAE&usg=AOvVaw1l2irLpG8FTEV38z4mccfS",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Getting some terms straight: limit points, accumulation points, etc ...  butopologyspring2015.wordpress.com \u203a 2015/03/31",
+    "link": "https://butopologyspring2015.wordpress.com/2015/03/31/getting-some-terms-straight-limit-points-accumulation-points-etc/",
+    "description": "Getting some terms straight: limit points, accumulation points, etc ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://butopologyspring2015.wordpress.com/2015/03/31/getting-some-terms-straight-limit-points-accumulation-points-etc/&ved=2ahUKEwjlmcbgpuruAhXiyosBHX6ECPI4FBAWMAl6BAgGEAE&usg=AOvVaw23gQAfM_0h1-w1h_ciTWX6",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Find All Accumulation Points Of The Sequence {ak} -, With ... - Cheggwww.chegg.com \u203a questions-and-answers \u203a let-s-co...",
+    "link": "https://www.chegg.com/homework-help/questions-and-answers/let-s-consider-sequences-accumulation-points-re-unsure-sequence-often-helps-create-plot-de-q48568684",
+    "description": "Answer to Let's consider a few sequences and their accumulation points. If you're unsure about a sequence, it often helps to creat...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.chegg.com/homework-help/questions-and-answers/let-s-consider-sequences-accumulation-points-re-unsure-sequence-often-helps-create-plot-de-q48568684&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAB6BAgDEAE&usg=AOvVaw1KYJ24-Z1u2I1BBY_HlFwk",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Real Analysis: Theorem 5.1.8: Closed Sets ... - MathCS.orgmathcs.org \u203a analysis \u203a reals \u203a topo \u203a proofs \u203a setsequ",
+    "link": "https://mathcs.org/analysis/reals/topo/proofs/setsequ.html",
+    "description": "Theorem 5.1. 8: Closed Sets, Accumulation Points, and Sequences \u00b7 A set S R is closed if and only if every Cauchy sequence of elements in S has a limit that is\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://mathcs.org/analysis/reals/topo/proofs/setsequ.html&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAF6BAgHEAE&usg=AOvVaw15bYqX62DLGImX9rdBwRM_",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Why is +infinity an accumulation point, the only one, of the set of ...www.quora.com \u203a Why-is-infinity-an-accumulation...",
+    "link": "https://www.quora.com/Why-is-infinity-an-accumulation-point-the-only-one-of-the-set-of-Natural-numbers",
+    "description": "You may be confusing accumulation point with limit of a sequence, but in the set of natural numbers nonrepeating sequences don't have limits - they increase to \u201c\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.quora.com/Why-is-infinity-an-accumulation-point-the-only-one-of-the-set-of-Natural-numbers&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAJ6BAgJEAE&usg=AOvVaw02uc9ilwqqRRSU3RbSmCo-",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Topology: Nets and Points of Accumulation | Mathematics and Suchmathstrek.blog \u203a 2013/02/05 \u203a topology-nets-and-p...",
+    "link": "https://mathstrek.blog/2013/02/05/topology-nets-and-points-of-accumulation/",
+    "description": "05.02.2013 \u00b7 Recall that a sequence $latex (x_n)$ in a topological space X converges to a in X if the function f : N* \u2192 X which takes $latex n\\mapsto x_n,\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://mathstrek.blog/2013/02/05/topology-nets-and-points-of-accumulation/&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAN6BAgIEAE&usg=AOvVaw1cPXVw4HpkILMgmc-R95l_",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Question about Accumulation points | Physics Forumswww.physicsforums.com \u203a threads \u203a question-about...",
+    "link": "https://www.physicsforums.com/threads/question-about-accumulation-points.901507/",
+    "description": "Because the Set of values for the sequence would be just {1,-1}, no values in between. So the general definition of accumulation points doesnt\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.physicsforums.com/threads/question-about-accumulation-points.901507/&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAR6BAgFEAE&usg=AOvVaw1f3-YiJW5lSlzzSFJuQSRV",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "accumulation point complex analysis - Muranga High Schoolwww.murangahigh.sc.ke \u203a accumulation-point-com...",
+    "link": "https://www.murangahigh.sc.ke/fn4gbte/accumulation-point-complex-analysis-54ce15",
+    "description": "10.12.2020 \u00b7 Now let's look at some examples of accumulation points of sequences. \\begin{\u200balign} \\quad f(B(z_0, \\delta)) \\subseteq B(f(z_0), \\epsilon) \\quad\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.murangahigh.sc.ke/fn4gbte/accumulation-point-complex-analysis-54ce15&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAV6BAgEEAE&usg=AOvVaw2BmzX8Rv0dHhr-ZKR9ogl9",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Lecture 2 : Convergence of a Sequence, Monotone sequenceshome.iitk.ac.in \u203a ~psraj \u203a mth101 \u203a lecture_notes \u203a lecture2",
+    "link": "https://home.iitk.ac.in/~psraj/mth101/lecture_notes/lecture2.pdf",
+    "description": "oscillate, they \u201ceventually approach\u201d the single point 0. The common feature of these sequences is that the terms of each sequence \u201caccumulate\u201d at only one\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://home.iitk.ac.in/~psraj/mth101/lecture_notes/lecture2.pdf&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAZ6BAgBEAE&usg=AOvVaw2Xr8iIdqoydSSe-HQLnP8z",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "File:First elements of sequence with two accumulation points.svg ...commons.wikimedia.org \u203a wiki \u203a File:First_elements...",
+    "link": "https://commons.wikimedia.org/wiki/File:First_elements_of_sequence_with_two_accumulation_points.svg",
+    "description": "29.05.2015 \u00b7 import numpy as np import matplotlib.pyplot as plt # number of shown members nmax = 10 ns = np.arange(1., nmax+0.1, 1.)\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://commons.wikimedia.org/wiki/File:First_elements_of_sequence_with_two_accumulation_points.svg&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAd6BAgAEAE&usg=AOvVaw2MYtqkr87lT_0DMeHpSPz2",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] LIMITS AND TOPOLOGY OF METRIC SPACES - UBC Artsfaculty.arts.ubc.ca \u203a pschrimpf",
+    "link": "https://faculty.arts.ubc.ca/pschrimpf/526/lec06topology.pdf",
+    "description": "26.09.2013 \u00b7 has two accumulation points, 1 and \u22121. The limit of any convergent sequence is an accumulation point of the sequence. In fact, it is the only\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://faculty.arts.ubc.ca/pschrimpf/526/lec06topology.pdf&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAh6BAgCEAE&usg=AOvVaw1DdEaBvW5uMAtwpWVgW9RK",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Accumulation points and intervals How can be proved that the limit ...www.enotes.com \u203a homework-help \u203a accumulation-...",
+    "link": "https://www.enotes.com/homework-help/accumulation-points-intervals-362244",
+    "description": "PS. I should have mentioned this. I was using a sequence definition. To transform the sequences into something that fits your definition, would look like the\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.enotes.com/homework-help/accumulation-points-intervals-362244&ved=2ahUKEwiFqZfhpuruAhX6wYsBHVn6Dqs4HhAWMAl6BAgGEAE&usg=AOvVaw3heqipKs1VqBQv8Tc6baPC",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] On complete accumulation points of discrete subsets - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/189118104.pdf",
+    "description": "Keywords: Discrete subset, complete accumulation point, compact space, ... no non-trivial convergent sequences, S is not compact and hence not countably.",
+    "googleLink": "http://www.google.com/url?q=https://core.ac.uk/download/pdf/189118104.pdf&sa=U&ved=2ahUKEwipr8nhpuruAhVnxosBHVRnCJo4KBAWMAB6BAgIEAE&usg=AOvVaw0Fvo_NT_Y5p_f1-4E_GU77",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "accumulation point complex analysis - Run Kevin Runrunkevinrun.com \u203a fdylxz \u203a accumulation-point-co...",
+    "link": "https://runkevinrun.com/fdylxz/accumulation-point-complex-analysis-b87b83",
+    "description": "10.12.2020 \u00b7 The number is said to be an accumulation point of if there exists a subsequence such that, that is, such that if then. Consider the sequence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://runkevinrun.com/fdylxz/accumulation-point-complex-analysis-b87b83&sa=U&ved=2ahUKEwipr8nhpuruAhVnxosBHVRnCJo4KBAWMAF6BAgJEAE&usg=AOvVaw3go_n1GiDqTR3AuAtrMDHE",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "12 Facts from General Topologylink.springer.com \u203a content \u203a pdf",
+    "link": "http://link.springer.com/content/pdf/10.1007%2F978-3-540-78859-1_12.pdf",
+    "description": "accumulation points (recall that a 'point' in F is a set in E). These two sets can be characterized as follows. Theorem 12.2.4. Let (Fi)i\u2208N be a sequence in F.",
+    "googleLink": "http://www.google.com/url?q=http://link.springer.com/content/pdf/10.1007%252F978-3-540-78859-1_12.pdf&sa=U&ved=2ahUKEwipr8nhpuruAhVnxosBHVRnCJo4KBAWMAJ6BAgCEAE&usg=AOvVaw0slvWHnA_dMsJ0sAccFKby",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "True or false (T or F): (a) All sequences whose range has at least ...study.com \u203a Math \u203a Limit of a sequence",
+    "link": "https://study.com/academy/answer/true-or-false-t-or-f-a-all-sequences-whose-range-has-at-least-two-accumulation-points-are-divergent-b-all-monotone-sequences-are-convergent-c-the-range-of-a-cauchy-sequence-has-at-least.html",
+    "description": "(c) The range of a Cauchy sequence has at least one accumulation point. ... (\u200bFALSE). Divergent sequences may not have any accumulation points. ... See full\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://study.com/academy/answer/true-or-false-t-or-f-a-all-sequences-whose-range-has-at-least-two-accumulation-points-are-divergent-b-all-monotone-sequences-are-convergent-c-the-range-of-a-cauchy-sequence-has-at-least.html&sa=U&ved=2ahUKEwipr8nhpuruAhVnxosBHVRnCJo4KBAWMAN6BAgHEAE&usg=AOvVaw00ozWqsDyePLi0KO7DUkgm",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "accumulation point of irrational numbers - NewsLab -www.newslab.org \u203a ac97bc-accumulation-point-of-i...",
+    "link": "https://www.newslab.org/hrh79j2/ac97bc-accumulation-point-of-irrational-numbers",
+    "description": "10.12.2020 \u00b7 From the rationals are dense, you agree to accumulation point of irrational numbers terms of sequences private data members a 's points.",
+    "googleLink": "http://www.google.com/url?q=https://www.newslab.org/hrh79j2/ac97bc-accumulation-point-of-irrational-numbers&sa=U&ved=2ahUKEwipr8nhpuruAhVnxosBHVRnCJo4KBAWMAR6BAgFEAE&usg=AOvVaw0WA_qfUgsyTANOkq7eCfhD",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "accumulation point of irrational numbers - Muna Kalatimunakalati.org \u203a the-bet-dphxj \u203a user \u203a accumulatio...",
+    "link": "https://munakalati.org/the-bet-dphxj/user/accumulation-point-of-irrational-numbers-9b5866",
+    "description": "If the limit of every convergent sequence in R whose accumulation points $! Out of some of ... Terms of sequences accumulation point of irrational numbers travel\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://munakalati.org/the-bet-dphxj/user/accumulation-point-of-irrational-numbers-9b5866&sa=U&ved=2ahUKEwipr8nhpuruAhVnxosBHVRnCJo4KBAWMAV6BAgAEAE&usg=AOvVaw03WY6Si-LOwFvM1uSVvOxW",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "A number x is an accumulation point of a set S iff ... (Give both the ...www.yumpu.com \u203a document \u203a view \u203a a-number-x...",
+    "link": "https://www.yumpu.com/en/document/view/35254668/a-number-x-is-an-accumulation-point-of-a-set-s-iff-give-both-the-",
+    "description": "WDYKA the set of accumulation points of the range of a convergent sequence. GEO a convergent sequence whose range has no accumulation points. GEO a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.yumpu.com/en/document/view/35254668/a-number-x-is-an-accumulation-point-of-a-set-s-iff-give-both-the-&sa=U&ved=2ahUKEwipr8nhpuruAhVnxosBHVRnCJo4KBAWMAx6BAgEEAE&usg=AOvVaw36kob0ITJ0a8_XPN2mIimN",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] MATH 10 ASSIGNMENT 3: OPEN AND CLOSED ... - SchoolNovaschoolnova.org \u203a classes \u203a math10 \u203a math10-2017-10-01-file1",
+    "link": "https://schoolnova.org/classes/ay2017/math10/math10-2017-10-01-file1.pdf",
+    "description": "01.10.2017 \u00b7 Let xn be a sequence of points in X. We say that A \u2208 X is an accumulation point of xn if each neighborhood of A contains infinitely many terms\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://schoolnova.org/classes/ay2017/math10/math10-2017-10-01-file1.pdf&sa=U&ved=2ahUKEwipr8nhpuruAhVnxosBHVRnCJo4KBAWMA16BAgBEAE&usg=AOvVaw2ku59ykeB-WsVlP-9WvTxD",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Open and Closed Setswww.u.arizona.edu \u203a ~mwalker \u203a econ519 \u203a Open&ClosedSets",
+    "link": "http://www.u.arizona.edu/~mwalker/econ519/Econ519LectureNotes/Open&ClosedSets.pdf",
+    "description": "is a sequence in S <1xl that converges to \u00afx \u2014 i.e., a sequence in S, none of whose terms is x, that converges to x. Limit points are also called accumulation\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.u.arizona.edu/~mwalker/econ519/Econ519LectureNotes/Open%26ClosedSets.pdf&sa=U&ved=2ahUKEwipr8nhpuruAhVnxosBHVRnCJo4KBAWMA56BAgDEAE&usg=AOvVaw0HcGFX6yKDzo3OHqZvRI5y",
+    "page": 4,
+    "index": 8
+  }
+]

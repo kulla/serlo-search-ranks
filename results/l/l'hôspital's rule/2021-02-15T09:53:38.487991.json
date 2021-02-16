@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Regel von de L'Hospital \u2013 Wikipediade.wikipedia.org \u203a wiki",
+    "link": "https://de.wikipedia.org/wiki/Regel_von_de_L%E2%80%99Hospital",
+    "description": "",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Regel von de L'Hospital \u2013 Wikipediade.wikipedia.org \u203a wiki",
+    "link": "https://de.wikipedia.org/wiki/Regel_von_de_L%E2%80%99Hospital",
+    "description": "",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "L'H\u00f4pital's rule - Wikipediaen.wikipedia.org \u203a L'H\u00f4pital's_rule",
+    "link": "https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule",
+    "description": "In mathematics, more specifically calculus, L'H\u00f4pital's rule or L'Hospital's rule provides a technique to evaluate limits of indeterminate forms. Application (or\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "L'H\u00f4spital's rule \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_L'H\u00f4spital's_rule",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_L%27H%C3%B4spital%27s_rule",
+    "description": "As a final application of the mean value theorem, more precisely the second mean value theorem, we want to derive L'Hospital's rule. This is a practical way to\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Calculus I - L'Hospital's Rule and Indeterminate Formstutorial.math.lamar.edu \u203a calci \u203a lh...",
+    "link": "https://tutorial.math.lamar.edu/classes/calci/lhospitalsrule.aspx",
+    "description": "05.11.2018 \u2014 L'Hospital's Rule. Suppose that we have one of the following cases,. lim\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "L'H\u00f4pital's rule introduction (video) | Khan Academywww.khanacademy.org \u203a math \u203a i...",
+    "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-7/v/introduction-to-l-hopital-s-rule",
+    "description": "L'H\u00f4pital's rule can only be applied in the case where direct substitution yields an indeterminate form ...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "L'Hspital's rule | Machine Designwww.machinedesign.com \u203a article",
+    "link": "https://www.machinedesign.com/archive/article/21828739/lhspitals-rule",
+    "description": "Named after the 17th-century mathemetician Marquis de L'H\u00f4spital Guillaume Fran\u00e7ois Antoine, L'H\u00f4spital's rule can return the limit of such quotients by making\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "L'Hospital's rule - Math Insightmathinsight.org \u203a lhospitals_rule_r...",
+    "link": "https://mathinsight.org/lhospitals_rule_refresher",
+    "description": "L'Hospital's rule is the definitive way to simplify evaluation of limits. It does not directly evaluate limits, but only simplifies evaluation if used appropriately. In effect\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "L'Hopital's Rule - xaktly.comxaktly.com \u203a LHopitalsRule",
+    "link": "https://xaktly.com/LHopitalsRule.html",
+    "description": "A shortcut for finding some types of limits. L'H\u00f4pital's rule (sometimes spelled L'H\u00f4spital's with a silent \"s\") is pronounced \"Lo-pee\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "L'H\u00f4spital's rule - Encyclopedia - The Free Dictionaryencyclopedia2.thefreedictionary.com \u203a ...",
+    "link": "https://encyclopedia2.thefreedictionary.com/L%27H%C3%B4spital%27s+rule",
+    "description": "Find out information about L'H\u00f4spital's rule. A rule useful in evaluating indeterminate forms: if both the functions \u0192 and g and all their derivatives up to order\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Is there a discrete version of de l'H\u00f4pital's rule? - Mathematics ...math.stackexchange.com \u203a questions",
+    "link": "https://math.stackexchange.com/questions/92945/is-there-a-discrete-version-of-de-lh%C3%B4pitals-rule",
+    "description": "The discrete version of L'H\u00f4spital's rule, in my opinion, is Abelian theorems, including the L'H\u00f4spital's rule, Silverman-Toeplitz theorem and its sepcial case,\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 10
+  },
+  {
+    "name": "L'Hopital's Rule - Math is Funwww.mathsisfun.com \u203a calculus \u203a l-hopitals-rule",
+    "link": "https://www.mathsisfun.com/calculus/l-hopitals-rule.html",
+    "description": "It says that the limit when we divide one function by another is the same after we take the derivative of each function (with some special conditions shown later).",
+    "googleLink": "http://www.google.com/url?q=https://www.mathsisfun.com/calculus/l-hopitals-rule.html&sa=U&ved=2ahUKEwiF_PD3wevuAhXjwVkKHVwJA844ChAWMAB6BAgCEAE&usg=AOvVaw3NjpqaLnde69OhIVU-9RTl",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "L'hopital's rule - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=Gh48aOvWcxw",
+    "description": "05.03.2018 \u00b7 This calculus video tutorial provides a basic introduction into l'hopital's rule. It explains how to ...Dauer: 13:09\nGepostet: 05.03.2018",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DGh48aOvWcxw&sa=U&ved=2ahUKEwiF_PD3wevuAhXjwVkKHVwJA844ChC3AjABegQIBRAB&usg=AOvVaw0iF6dRnTor7iE_0OgFK0mk",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "What is L'Hospital's rule? - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=uhxGH7OhrIM",
+    "description": "11.01.2017 \u00b7 My Applications of Derivatives course: https://www.kristakingmath.com/ applications-of ...Dauer: 13:13\nGepostet: 11.01.2017",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DuhxGH7OhrIM&sa=U&ved=2ahUKEwiF_PD3wevuAhXjwVkKHVwJA844ChC3AjACegQIBBAB&usg=AOvVaw0tDuS1eeYoN_JJB4eFJIa7",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "How to find the limit using L'H\u00f4spital's Rule - Mathematics Stack ...math.stackexchange.com \u203a questions \u203a how-to-find-...",
+    "link": "https://math.stackexchange.com/questions/1962932/how-to-find-the-limit-using-lh%C3%B4spitals-rule",
+    "description": "limx\u2192\u221e(5x\u221235x+4)5x+1=limx\u2192\u221e(1\u221275x+4)5x+1. =limx\u2192\u221e(1\u221275x+4)\u22123lim x\u2192\u221e(1\u221275x+4)5x+4. =(1)limx\u2192\u221e(1\u221275x+4)5x+4=1e7.",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/1962932/how-to-find-the-limit-using-lh%25C3%25B4spitals-rule&sa=U&ved=2ahUKEwiF_PD3wevuAhXjwVkKHVwJA844ChAWMAN6BAgJEAE&usg=AOvVaw1Jlrc-1d3XWcQt4vaV6rIs",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "L'H\u00f4pital's Rule As A Chemist's Tool - JStorwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/24536923",
+    "description": "L'H\u00f4spital's) rule. In this connection, it where u may be finite or inf appears befitting to point out that Mellor's. Higher Mathematics for Students of lim *x. Chemistry ...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/24536923&sa=U&ved=2ahUKEwiF_PD3wevuAhXjwVkKHVwJA844ChAWMAR6BAgIEAE&usg=AOvVaw11iEK0M6LsUr_zPMRDcPJe",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Maclaurin Expansion of Arctan \\(x\\) via L'H\u00f4spital's Rule ...www.maa.org \u203a classroom-capsules-and-notes \u203a mac...",
+    "link": "https://www.maa.org/programs/faculty-and-departments/classroom-capsules-and-notes/maclaurin-expansion-of-arctan-x-via-lh-spitals-rule",
+    "description": "Maclaurin Expansion of Arctan x via L'H\u00f4spital's Rule. by Russell Euler ( Northwest Missouri State University). This article originally appeared in: College ...",
+    "googleLink": "http://www.google.com/url?q=https://www.maa.org/programs/faculty-and-departments/classroom-capsules-and-notes/maclaurin-expansion-of-arctan-x-via-lh-spitals-rule&sa=U&ved=2ahUKEwiF_PD3wevuAhXjwVkKHVwJA844ChAWMAV6BAgDEAE&usg=AOvVaw3ssLUz_qE9Z4gmpIJN-qUY",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "A generalization of L'H\u00f4spital-type rules for monotonicity and its ...www.researchgate.net \u203a publication \u203a 220318834_A...",
+    "link": "https://www.researchgate.net/publication/220318834_A_generalization_of_L'Hospital-type_rules_for_monotonicity_and_its_application",
+    "description": "20.10.2020 \u00b7 Download Citation | A generalization of L'H\u00f4spital-type rules for monotonicity and its application | This paper deals with a generalization of ...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/220318834_A_generalization_of_L'Hospital-type_rules_for_monotonicity_and_its_application&sa=U&ved=2ahUKEwiF_PD3wevuAhXjwVkKHVwJA844ChAWMAZ6BAgAEAE&usg=AOvVaw1NTUlZymBudfzhlaQzpYfO",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Math 10560 Worksheet: Indeterminate Forms and l'H\u00f4spital's Rulewww3.nd.edu \u203a LectureMaterial \u203a Worksheet \u203a W_IndetermidateForms",
+    "link": "https://www3.nd.edu/~taylor/Math10560/LectureMaterial/06_IndeterminateFormsAndlHospitalsRule/Worksheet/W_IndetermidateForms.pdf",
+    "description": "By l'H\u00f4spital's rule it equals lim x\u21920. (cosx) - 1. 3x2 . This is still an indeterminate form of type 0. 0. , so we apply l'H\u00f4spital's rule again. Our limit is now equal to.",
+    "googleLink": "http://www.google.com/url?q=https://www3.nd.edu/~taylor/Math10560/LectureMaterial/06_IndeterminateFormsAndlHospitalsRule/Worksheet/W_IndetermidateForms.pdf&sa=U&ved=2ahUKEwiF_PD3wevuAhXjwVkKHVwJA844ChAWMAd6BAgBEAE&usg=AOvVaw1UD6CoE-9oJA6MH2fdajCf",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Calculus - eFundawww.efunda.com \u203a math \u203a calculus \u203a calculus",
+    "link": "https://www.efunda.com/math/calculus/calculus.cfm",
+    "description": "General topics for calculus, including definition of derivatives, Leibniz's formula of derivatives, L'H\u00f4spital's rule, and integration by parts.",
+    "googleLink": "http://www.google.com/url?q=https://www.efunda.com/math/calculus/calculus.cfm&sa=U&ved=2ahUKEwiF_PD3wevuAhXjwVkKHVwJA844ChAWMAh6BAgHEAE&usg=AOvVaw0BZx8j1eN8mepv-TaAq1Rh",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Refresher - L'Hospital's Rule: CSET Math Subtest III Exam ...learn.canvas.net \u203a pages \u203a refresher-lhospitals-rule",
+    "link": "https://learn.canvas.net/courses/1636/pages/refresher-lhospitals-rule",
+    "description": "Refresher - L'Hospital's Rule. Introduction. In simple cases, L'H\u00f4spital's rule states that for functions f(x) and g(x), if: limx\u2192cf(x)=limx\u2192cg(x)=0. or.",
+    "googleLink": "http://www.google.com/url?q=https://learn.canvas.net/courses/1636/pages/refresher-lhospitals-rule&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAB6BAgEEAE&usg=AOvVaw2BWRYyWgkiNwq7ZibIvDMw",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "When Doesn't L'H\u00f4pital's Rule Work? - Math Warehousewww.mathwarehouse.com \u203a when-Lhopitals-rule-fail",
+    "link": "https://www.mathwarehouse.com/calculus/derivatives/when-Lhopitals-rule-fail.php",
+    "description": "L'H\u00f4spital's Rule does not guarantee the second limit can be evaluated. Now, as we've seen, most of the time the second (or third, or fourth, or ...) limits we get\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathwarehouse.com/calculus/derivatives/when-Lhopitals-rule-fail.php&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAF6BAgIEAE&usg=AOvVaw2p2rSPUp4KxXv1Z-IjTBEY",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "l'hospital's rule - Wolfram|Alphawww.wolframalpha.com \u203a input \u203a i=l'hospital's+rule",
+    "link": "https://www.wolframalpha.com/input/?i=l%27hospital%27s+rule",
+    "description": "Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wolframalpha.com/input/%3Fi%3Dl%2527hospital%2527s%2Brule&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAJ6BAgHEAE&usg=AOvVaw1zndPHisrO1QG-BIqlkKul",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "A generalization of L'H\u00f4spital-type rules for monotonicity and its ...www.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0893965908001456",
+    "description": "More recently, Pinelis [2] gave a variation of L'H\u00f4spital-type rules for monotonicity asserted by Theorem B. Theorem B. Let f and g be differentiable functions on ( a\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S0893965908001456&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAN6BAgJEAE&usg=AOvVaw3CQ8aAoYMEFdPbKlmj1Xd5",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Math 1a. \u00a74.5 Worksheet Indeterminate Forms and l'H\u00f4spital's Rulelegacy-www.math.harvard.edu \u203a archive \u203a handouts \u203a worksheet_4_5",
+    "link": "http://legacy-www.math.harvard.edu/archive/1a_fall_05/handouts/worksheet_4_5.pdf",
+    "description": "Evaluate each of the following limits using l'H\u00f4spital's Rule if necessary. 1. lim t\u2192\u200b0 e3t \u2212 1 t. 2. lim x\u21921 lnx sin \u03c0x. 1. Page 2. 3. lim x\u21920 x arctan(4x). 4. lim.",
+    "googleLink": "http://www.google.com/url?q=http://legacy-www.math.harvard.edu/archive/1a_fall_05/handouts/worksheet_4_5.pdf&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAR6BAgDEAE&usg=AOvVaw2cCG7m0xY5LSnORtZYJ1ZS",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Maclaurin Expansion of Arctan x via L'H\u00f4spital's Rule - Taylor ...www.tandfonline.com \u203a doi \u203a pdf",
+    "link": "https://www.tandfonline.com/doi/pdf/10.1080/07468342.1993.11973552",
+    "description": "Russell Euler, Northwest Missouri State University, Maryville, MO 64468. In [1], Spiegel used L'Hospital's rule to compute the first three nonzero coefficients in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tandfonline.com/doi/pdf/10.1080/07468342.1993.11973552&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAV6BAgFEAE&usg=AOvVaw0-2v30qo0fl-S8-onYETXz",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Maclaurin Expansion of Arctan x via L'H\u00f4spital's Rule | Semantic ...www.semanticscholar.org \u203a paper \u203a Maclaurin-Expa...",
+    "link": "https://www.semanticscholar.org/paper/Maclaurin-Expansion-of-Arctan-x-via-L%27H%C3%B4spital%27s-Euler/8c73dbd2e34ced253aa5a9a67c5ddc97b1607d83",
+    "description": "Semantic Scholar extracted view of \"Maclaurin Expansion of Arctan x via L'\u200bH\u00f4spital's Rule\" by R. Euler.",
+    "googleLink": "http://www.google.com/url?q=https://www.semanticscholar.org/paper/Maclaurin-Expansion-of-Arctan-x-via-L%2527H%25C3%25B4spital%2527s-Euler/8c73dbd2e34ced253aa5a9a67c5ddc97b1607d83&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAZ6BAgAEAE&usg=AOvVaw2vZqeuZ3WAM35txnjo3BXF",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Are there any situations in which L'Hopital's Rule WILL NOT work ...www.wyzant.com \u203a Resources \u203a Ask an Expert",
+    "link": "https://www.wyzant.com/resources/answers/653141/are-there-any-situations-in-which-l-hopital-s-rule-will-not-work",
+    "description": "L' H\u00f4spital's Rule also does not work with lim (x\u2192\u03c0/2) of sec x/tan x. The result is an endless and fruitless effort. The limit must be found some\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wyzant.com/resources/answers/653141/are-there-any-situations-in-which-l-hopital-s-rule-will-not-work&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAd6BAgCEAE&usg=AOvVaw3aqWG13GiuYxDdaa1GtN-X",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "\u200eSingle Variable Calculus: Lecture 35: Indeterminate forms - L ...podcasts.apple.com \u203a podcast \u203a lecture-35-indetermi...",
+    "link": "https://podcasts.apple.com/us/podcast/lecture-35-indeterminate-forms-lho-spitals-rule/id354869053?i=1000346202546",
+    "description": "Lecture 35: Indeterminate forms - L'H\u00f4spital's rule Single Variable Calculus \u00b7 Top Podcasts In Education \u00b7 More by MIT.",
+    "googleLink": "http://www.google.com/url?q=https://podcasts.apple.com/us/podcast/lecture-35-indeterminate-forms-lho-spitals-rule/id354869053%3Fi%3D1000346202546&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAh6BAgBEAE&usg=AOvVaw2JtKYg2Wdp00QpKA8ovwh_",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "\u200eSingle Variable Calculus: Lecture 35 ... - Apple Podcastspodcasts.apple.com \u203a podcast \u203a lecture-35-indetermi...",
+    "link": "https://podcasts.apple.com/nl/podcast/lecture-35-indeterminate-forms-lho-spitals-rule/id354869053?i=1000346202546",
+    "description": "Lecture 35: Indeterminate forms - L'H\u00f4spital's rule Single Variable Calculus. Onderwijs. Luister op Apple Podcasts. Meer afleveringen. http://ocw.mit.edu;\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://podcasts.apple.com/nl/podcast/lecture-35-indeterminate-forms-lho-spitals-rule/id354869053%3Fi%3D1000346202546&sa=U&ved=2ahUKEwj6sqH4wevuAhVRwFkKHVwLBic4FBAWMAl6BAgGEAE&usg=AOvVaw2v1qH7DOhA5d_o_Dqs2vWD",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Is the application of L'H\u00f4spital's rule invalid when calculating e.g. ...  www.quora.com \u203a Is-the-application-of-LH\u00f4spitals-r...",
+    "link": "https://www.quora.com/Is-the-application-of-LH%C3%B4spitals-rule-invalid-when-calculating-e-g-lim-limits_-x-to-0-frac-ln-x-x-0-Since-there-is-no-left-hand-derivative-I-saw-that-in-comments-in-the-link",
+    "description": "Is the application of L'H\u00f4spital's rule invalid when calculating e.g. ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.quora.com/Is-the-application-of-LH%25C3%25B4spitals-rule-invalid-when-calculating-e-g-lim-limits_-x-to-0-frac-ln-x-x-0-Since-there-is-no-left-hand-derivative-I-saw-that-in-comments-in-the-link&ved=2ahUKEwjTuer4wevuAhWko1kKHeC2D_A4HhAWMAF6BAgKEAE&usg=AOvVaw1BIY38-jgPspmuIyFznPIh",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Applied Mathematics Letters A generalization of L'H\u00f4spital ... - CORE  core.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/82425796.pdf",
+    "description": "[PDF] Applied Mathematics Letters A generalization of L'H\u00f4spital ... - CORE",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://core.ac.uk/download/pdf/82425796.pdf&ved=2ahUKEwjTuer4wevuAhWko1kKHeC2D_A4HhAWMAJ6BAgJEAE&usg=AOvVaw1csLK-O9V9jP8napBdkzFA",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] L'H\u00f4spital Rule  ocw.stust.edu.tw \u203a ocw \u203a pme \u203a calculus_09702 \u203a 8.1_LHopital_Rule.pdf",
+    "link": "https://ocw.stust.edu.tw/Sysid/ocw/pme/calculus_09702/8.1_LHopital_Rule.pdf",
+    "description": "[PDF] L'H\u00f4spital Rule",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://ocw.stust.edu.tw/Sysid/ocw/pme/calculus_09702/8.1_LHopital_Rule.pdf&ved=2ahUKEwjTuer4wevuAhWko1kKHeC2D_A4HhAWMAN6BAgIEAE&usg=AOvVaw12wNP-H-tanw1KWnxlsEsI",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Calculus I --- Spring 2016 - FAU math - Florida Atlantic University  math.fau.edu \u203a ~dpucinskaite \u203a Calculus_I_Spring_...",
+    "link": "http://math.fau.edu/~dpucinskaite/Calculus_I_Spring_2016_night.html",
+    "description": "Calculus I --- Spring 2016 - FAU math - Florida Atlantic University",
+    "googleLink": null,
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "New Cusa-Huygens type inequalities - AIMS Press  www.aimspress.com \u203a article",
+    "link": "https://www.aimspress.com/article/id/5294",
+    "description": "New Cusa-Huygens type inequalities - AIMS Press",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.aimspress.com/article/id/5294&ved=2ahUKEwjTuer4wevuAhWko1kKHeC2D_A4HhAWMAV6BAgFEAE&usg=AOvVaw1Qo6pdnNLp7AtOQ-ucbF_u",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "PDF PDF - De Gruyter  www.degruyter.com \u203a document \u203a doi \u203a pdf",
+    "link": "https://www.degruyter.com/document/doi/10.1515/1935-5041.1037/pdf",
+    "description": "PDF PDF - De Gruyter",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.degruyter.com/document/doi/10.1515/1935-5041.1037/pdf&ved=2ahUKEwjTuer4wevuAhWko1kKHeC2D_A4HhAWMAZ6BAgGEAE&usg=AOvVaw05f1f_PdOGnJoB5yICKfaH",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Online calculator: Solving limit problems using L'Hospital's Rule  planetcalc.com \u203a ...",
+    "link": "https://planetcalc.com/1036/",
+    "description": "Online calculator: Solving limit problems using L'Hospital's Rule",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://planetcalc.com/1036/&ved=2ahUKEwjTuer4wevuAhWko1kKHeC2D_A4HhAWMAd6BAgCEAE&usg=AOvVaw2yZ0xMWvM5mOwpRXlUynMA",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Mobirise v5.2.0 UOB About GEOmath Courses Grade 12 Grade 12 ...  forms.balamand.edu.lb \u203a geomath_portal \u203a Details",
+    "link": "http://forms.balamand.edu.lb/geomath_portal/Details.aspx?ID=11",
+    "description": "Mobirise v5.2.0 UOB About GEOmath Courses Grade 12 Grade 12 ...",
+    "googleLink": null,
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Sketch of the Proof of L'H\u00f4spital's Rule - MaCoSa  macosa.dima.unige.it \u203a mat \u203a calculus \u203a sketch_proof",
+    "link": "http://macosa.dima.unige.it/mat/calculus/sketch_proof.htm",
+    "description": "Sketch of the Proof of L'H\u00f4spital's Rule - MaCoSa",
+    "googleLink": null,
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[TeX] Sequences: Efficient Computation - Penn Mathwww.math.upenn.edu \u203a ~pemantle \u203a Worksheet13",
+    "link": "https://www.math.upenn.edu/~pemantle/104A-public/Worksheet13.tex",
+    "description": "Major Concept: Many limits can be evaluated quickly without using labor-\u200bintensive techniques like l'H\u00f4spital's rule. Before You Begin: Review textbook Section\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.upenn.edu/~pemantle/104A-public/Worksheet13.tex&sa=U&ved=2ahUKEwjg6Jr5wevuAhVCu1kKHQ5lCsc4KBAWMAB6BAgIEAE&usg=AOvVaw0M-7ycKb2ascVp3JbiyiVh",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] CESifo Working Paper no. 4330 - EconStorwww.econstor.eu \u203a bitstream \u203a cesifo_wp4330",
+    "link": "https://www.econstor.eu/bitstream/10419/79643/1/cesifo_wp4330.pdf",
+    "description": "price' payment rule, where players pay their own cost of effort, regardless of winning. Applications ... Thus, the integrand is bounded by l'H\u00f4spital's rule,. (15) lim.",
+    "googleLink": "http://www.google.com/url?q=https://www.econstor.eu/bitstream/10419/79643/1/cesifo_wp4330.pdf&sa=U&ved=2ahUKEwjg6Jr5wevuAhVCu1kKHQ5lCsc4KBAWMAF6BAgJEAE&usg=AOvVaw0Ptp_q9N9OTQGDJF4F6bdM",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Solved: 5. (10 Points) Check If L'H\u00f4spital's Rule Is Appli... | Chegg.comwww.chegg.com \u203a ... \u203a calculus questions and answers",
+    "link": "https://www.chegg.com/homework-help/questions-and-answers/5-10-points-check-l-h-spital-s-rule-applicable-following-limits-find-limit-using-l-hospita-q36690822",
+    "description": "Answer to 5. (10 points) Check if L'H\u00f4spital's rule is applicable to the following limits. If so, find the limit using L'Hospital...",
+    "googleLink": "http://www.google.com/url?q=https://www.chegg.com/homework-help/questions-and-answers/5-10-points-check-l-h-spital-s-rule-applicable-following-limits-find-limit-using-l-hospita-q36690822&sa=U&ved=2ahUKEwjg6Jr5wevuAhVCu1kKHQ5lCsc4KBAWMAN6BAgAEAE&usg=AOvVaw0zZX_WMfPf3EjAMBVlvJxN",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] How to calculate a limit - c CNMiKnO PG - 1 Rules of calculating ...pg.gda.pl \u203a teaching \u203a materials \u203a calculus \u203a C_t_howtocalulatealimit",
+    "link": "http://pg.gda.pl/static/mathematics/teaching/materials/calculus/C_t_howtocalulatealimit.pdf",
+    "description": "When calculating a limit of a two-variable function at a point (x0,y0), we use the same rules as in case of one-variable functions, except the de l'H\u00f4spital rule.",
+    "googleLink": "http://www.google.com/url?q=http://pg.gda.pl/static/mathematics/teaching/materials/calculus/C_t_howtocalulatealimit.pdf&sa=U&ved=2ahUKEwjg6Jr5wevuAhVCu1kKHQ5lCsc4KBAWMAR6BAgFEAE&usg=AOvVaw2VYtIAAgK7FKq1Jet35gmp",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Basic Calculus on Time Scales and some of its Applications ...link.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1007/BF03322019",
+    "description": "17.04.2013 \u00b7 ... paper we shall develop basic tools of calculus on time scales such as versions of Taylor's formula, l'H\u00f4spital's rule, and Kneser's theorem.",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/article/10.1007/BF03322019&sa=U&ved=2ahUKEwjg6Jr5wevuAhVCu1kKHQ5lCsc4KBAWMAV6BAgEEAE&usg=AOvVaw3mqzyTuxaR16JNLe75HHbi",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] MATH 2301 - Ohio Universitywww.ohio.edu \u203a sites \u203a default \u203a files \u203a MATH2301_PBC",
+    "link": "https://www.ohio.edu/sites/default/files/2020-07/MATH2301_PBC.pdf",
+    "description": "Lesson 3: The Product, Quotient, and Chain Rules. \u2022 Lesson 4: Implicit Differentiations and ... L'H\u00f4spital's Rule. \u2022 Lesson 8: Maximum and Minimum Values and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ohio.edu/sites/default/files/2020-07/MATH2301_PBC.pdf&sa=U&ved=2ahUKEwjg6Jr5wevuAhVCu1kKHQ5lCsc4KBAWMAZ6BAgGEAE&usg=AOvVaw1oB_1-m_TxzFn6xvFD65ac",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Dr. Z's Calculus Handouts (Second Edition)sites.math.rutgers.edu \u203a ~zeilberg",
+    "link": "https://sites.math.rutgers.edu/~zeilberg/DrZhandouts2nd.html",
+    "description": "Chapter 3 (Differentiation Rules) ... 4.6 (Applied Optimization) \u00b7 HandOut 4.7 (L'\u200bH\u00f4spital's rule) \u00b7 HandOut 4.8 (Newton's Method) \u00b7 HandOut 4.9 (Antiderivatives).",
+    "googleLink": "http://www.google.com/url?q=https://sites.math.rutgers.edu/~zeilberg/DrZhandouts2nd.html&sa=U&ved=2ahUKEwjg6Jr5wevuAhVCu1kKHQ5lCsc4KBAWMAl6BAgHEAE&usg=AOvVaw16-uH8vcATwFPDQmmvLuwv",
+    "page": 4,
+    "index": 6
+  }
+]

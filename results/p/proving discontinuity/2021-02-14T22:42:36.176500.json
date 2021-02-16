@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Proving discontinuity by epsilon-delta - Mathematics Stack Exchangemath.stackexchange.com \u203a questions \u203a proving-disc...",
+    "link": "https://math.stackexchange.com/questions/497798/proving-discontinuity-by-epsilon-delta",
+    "description": "To show explicitly, you must show that there exists an \u03f5>0 such that for all \u03b4>0, you can find some x\u2208B(1,\u03b4) (that is, |x\u22121|<\u03b4) such that f(x)\u2209B(f(1),\u03f5) (that is,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/497798/proving-discontinuity-by-epsilon-delta&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQFjAAegQIBhAB&usg=AOvVaw3qljUCvWCYrpCzo5oiARki",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Proving discontinuity \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Proving_discontinuity",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Proving_discontinuity",
+    "description": "Suchen. Proving discontinuity \u2013 Serlo. Sprache; Beobachten \u00b7 Bearbeiten. Inhaltsverzeichnis. 1 Overview; 2 Sequence Criterion. 2.1 Review: Sequence Criterion\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Proving_discontinuity&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQFjABegQIAxAB&usg=AOvVaw3-MoLUV9tlBlSYhGpRrOFc",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "3: Examples of Proving a Function is Discontinuous for a Specified x ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=OxoIWPaxstA",
+    "description": "10.10.2014 \u00b7 3: Examples of Proving a Function is Discontinuous for a Specified x Value. 5,117 views5.1K ...Dauer: 8:57\nGepostet: 10.10.2014",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DOxoIWPaxstA&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQtwIwCnoECAQQAQ&usg=AOvVaw0wL0-t4X4P8fTd9FfIVd8x",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "3 Step Continuity Test, Discontinuity, Piecewise Functions & Limits ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=WT7oxiiFYt8",
+    "description": "06.06.2017 \u00b7 This calculus video tutorial explains how to identify points of discontinuity or to prove a ...Dauer: 10:10\nGepostet: 06.06.2017",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DWT7oxiiFYt8&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQtwIwC3oECAEQAQ&usg=AOvVaw2ADHIOckKdBm_Gv7DnNb2t",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Continuity and Discontinuity - Milefootwww.milefoot.com \u203a calculus \u203a limits \u203a Continuity06",
+    "link": "http://www.milefoot.com/math/calculus/limits/Continuity06.htm",
+    "description": "A finite discontinuity exists when the two-sided limit does not exist, but the two one-sided limits are both finite, yet not equal to each other. The graph of a function having this feature will show a vertical gap between the two branches of the function. The function f(x)=|x|x has this feature.",
+    "googleLink": "http://www.google.com/url?q=http://www.milefoot.com/math/calculus/limits/Continuity06.htm&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQFjAMegQICxAB&usg=AOvVaw2tUsDwA7C7w-IctgV3B7Xu",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[PDF] The (\u03b5 , \u03b4) definition of continuitywww.kent.ac.uk \u203a smsas \u203a personal \u203a elm2",
+    "link": "https://www.kent.ac.uk/smsas/personal/elm2/MA552/MA552Worksheet5.pdf",
+    "description": "To show from the (\u03b5, \u03b4)-definition of continuity that a function is discontinuous at a point x0, we need to negate the statement: \u201cFor every \u03b5 > 0 there exists \u03b4 > 0 such that |x \u2212 x0| < \u03b4 implies |f(x) \u2212 f(x0)| < \u03b5.\u201d Its negative is the following (check that you understand this!): \u201cThere exists an \u03b5 > 0 such that for ...",
+    "googleLink": "http://www.google.com/url?q=https://www.kent.ac.uk/smsas/personal/elm2/MA552/MA552Worksheet5.pdf&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQFjANegQIBRAB&usg=AOvVaw2VAjrq6NKYFXbwoO2wOrvJ",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Discontinuous Functions - Math24www.math24.net \u203a discontinuous-functions",
+    "link": "https://www.math24.net/discontinuous-functions/",
+    "description": "Classification of Discontinuity Points. The right-hand limit and the left-hand limit are equal to each other: limx\u2192a\u22120f(x)=limx\u2192a+0f(x). Such a point is called a removable discontinuity. The right-hand limit and the left-hand limit are unequal:limx\u2192a\u22120f(x)\u2260limx\u2192a+0f(x).",
+    "googleLink": "http://www.google.com/url?q=https://www.math24.net/discontinuous-functions/&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQFjAOegQICBAB&usg=AOvVaw12n_G9ZGm_pEjwpzvsemma",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Real Analysis: 6.3. Discontinuous Functions - MathCS.orgmathcs.org \u203a analysis \u203a reals \u203a cont \u203a disconti",
+    "link": "https://mathcs.org/analysis/reals/cont/disconti.html",
+    "description": "6.3. Discontinuous Functions \u00b7 Prove that k(x) has a removable discontinuity at x = 3, and draw the graph of k(x). \u00b7 Prove that h(x) has a jump discontinuity at x = 0,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathcs.org/analysis/reals/cont/disconti.html&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQFjAPegQIChAB&usg=AOvVaw34XJFyCd4Eo-1SSHLVhqNA",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "2.4 Continuity \u2013 Calculus Volume 1 - BC Open Textbooksopentextbc.ca \u203a chapter \u203a continuity",
+    "link": "https://opentextbc.ca/calculusv1openstax/chapter/continuity/",
+    "description": "They are continuous on these intervals and are said to have a discontinuity at a ... The proof of the next theorem uses the composite function theorem as well as\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://opentextbc.ca/calculusv1openstax/chapter/continuity/&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQFjAQegQIDBAB&usg=AOvVaw22M7MEBikDBnBMASN-REoJ",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Types of discontinuities (video) | Khan Academywww.khanacademy.org \u203a math \u203a ab-limits-new \u203a ty...",
+    "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-10/v/types-of-discontinuities",
+    "description": "24.07.2017 \u00b7 A function being continuous at a point means that the two-sided limit at that point exists and is ...Dauer: 7:16\nGepostet: 24.07.2017",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-10/v/types-of-discontinuities&sa=U&ved=2ahUKEwiZzoT1q-ruAhWOwZQKHQqCCzkQtwIwEXoECAIQAQ&usg=AOvVaw2WHDxyIAYLp9oHWXN-CZBT",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Epsilon delta: proving a function is discontinuous. : math - Redditwww.reddit.com \u203a math \u203a comments \u203a epsilon_delta...",
+    "link": "https://www.reddit.com/r/math/comments/4m3a1h/epsilon_delta_proving_a_function_is_discontinuous/",
+    "description": "link of reference: So I've got the part of being able to prove if a function has a limit with E/D.... But then there are problems where I have to \u2026",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/math/comments/4m3a1h/epsilon_delta_proving_a_function_is_discontinuous/&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAB6BAgAEAE&usg=AOvVaw1Uq80sEnOA9ugp9z6z9Opd",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Find a Point of Discontinuity - Precalculus - Varsity Tutorswww.varsitytutors.com \u203a precalculus-help \u203a find-a-p...",
+    "link": "https://www.varsitytutors.com/precalculus-help/find-a-point-of-discontinuity",
+    "description": "The removable discontinuity is \\displaystyle x-1 since this is a term that can be eliminated from the function. There are no vertical asymptotes. Set the removable\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.varsitytutors.com/precalculus-help/find-a-point-of-discontinuity&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAF6BAgIEAE&usg=AOvVaw1Nq3p5WvUD_jJ2mJG6js_x",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Continuous function - Wikipediaen.wikipedia.org \u203a wiki \u203a Continuous_function",
+    "link": "https://en.wikipedia.org/wiki/Continuous_function",
+    "description": "In mathematics, a continuous function is a function that does not have any abrupt changes in value, known as discontinuities. ... than \u03b5 (hence a G\u03b4 set) \u2013 and gives a very quick proof of one direction of the Lebesgue integrability condition.",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Continuous_function&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAJ6BAgHEAE&usg=AOvVaw0B643x_VvlObSTFi3EYxlk",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Epsilon-delta proof - stuck on proving discontinuity - Doubtnutdoubtnut.com \u203a external-questions \u203a epsilon-delta-p...",
+    "link": "https://doubtnut.com/external-questions/epsilon-delta-proof-stuck-on-proving-discontinuity-1115844",
+    "description": "Epsilon-delta proof - stuck on proving discontinuity. Related Answer. Proving coplanarity of four points. More Related Question & Answers. When gamma, delta-\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://doubtnut.com/external-questions/epsilon-delta-proof-stuck-on-proving-discontinuity-1115844&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAN6BAgJEAE&usg=AOvVaw0OxX3L5i3G-DGPwfvvqmJX",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Discontinuity Point - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a discontinuity-point",
+    "link": "https://www.sciencedirect.com/topics/mathematics/discontinuity-point",
+    "description": "which is the statement we set out to prove. Corollary 16.5. (The Riemann integrals case). Let g be continuous on [a, b] and f \u2191\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/mathematics/discontinuity-point&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAR6BAgBEAE&usg=AOvVaw0ZIJtiOW98_XdJgTTFDFcG",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Exercises 7www-groups.mcs.st-andrews.ac.uk \u203a ~john \u203a Tutorials",
+    "link": "http://www-groups.mcs.st-andrews.ac.uk/~john/analysis/Tutorials/T7.html",
+    "description": "Prove that this function is discontinuous at every integer and continuous elsewhere. (You can probably guess what the ceiling of x is.) The integer part function is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www-groups.mcs.st-andrews.ac.uk/~john/analysis/Tutorials/T7.html&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAV6BAgFEAE&usg=AOvVaw3NcfCC28Cc9vKK4sxA9Zoj",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "How to Determine Whether a Function Is Discontinuous - dummieswww.dummies.com \u203a education \u203a math \u203a calculus",
+    "link": "https://www.dummies.com/education/math/calculus/how-to-determine-whether-a-function-is-discontinuous/",
+    "description": "If the function factors and the bottom term cancels, the discontinuity at the x-value for which the denominator was zero is removable, so the graph has a hole in it.",
+    "googleLink": "http://www.google.com/url?q=https://www.dummies.com/education/math/calculus/how-to-determine-whether-a-function-is-discontinuous/&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAZ6BAgGEAE&usg=AOvVaw1DkbTuQrIys1VSmLExFKyL",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Proving discontinuity using epsilon-delta - The Student Roomwww.thestudentroom.co.uk \u203a ... \u203a Maths",
+    "link": "https://www.thestudentroom.co.uk/showthread.php?t=2244392",
+    "description": "Proving discontinuity using epsilon-delta. Watch ... Can you negate this definition to say what it means for a function to be discontinuous at a point? Then you\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.thestudentroom.co.uk/showthread.php%3Ft%3D2244392&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAd6BAgCEAE&usg=AOvVaw1baSK_ZAjDImIx9dng3ZCC",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[PDF] On a discontinuity of a derivativewp.ufpel.edu.br \u203a zahn \u203a files \u203a 2017/01 \u203a On-a-discontinuity-of-a-de...",
+    "link": "https://wp.ufpel.edu.br/zahn/files/2017/01/On-a-discontinuity-of-a-derivative.pdf",
+    "description": "of a function with discontinuous derivative at the origin. But these texts ... is a fundamental essential discontinuity of f 0 and the proof of Theorem 2.1 is complete.",
+    "googleLink": "http://www.google.com/url?q=https://wp.ufpel.edu.br/zahn/files/2017/01/On-a-discontinuity-of-a-derivative.pdf&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAh6BAgDEAE&usg=AOvVaw3ymjSPvPm6TBLI8Urrlw2c",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Removable Discontinuities - Oregon State Universityoregonstate.edu \u203a instruct \u203a mth251 \u203a Stage4 \u203a Lesson",
+    "link": "https://oregonstate.edu/instruct/mth251/cq/Stage4/Lesson/removable.html",
+    "description": "Removable Discontinuities. The first way that a function can fail to be continuous at a point a is that. lim, f(\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://oregonstate.edu/instruct/mth251/cq/Stage4/Lesson/removable.html&sa=U&ved=2ahUKEwj5m472q-ruAhUViZQKHQp-BQU4ChAWMAl6BAgEEAE&usg=AOvVaw2TR_Ni2OwRKtgQdPrBH9Xy",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] DISCONTINUITY AND MEASURABILITY OF ROBUST ... - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/82405245.pdf",
+    "description": "This allows us to prove that there is a robust function on [0,1] which is Lebesgue nonmeasurable. CMqi llO-ll-G. 79. Page 2. so.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://core.ac.uk/download/pdf/82405245.pdf&ved=2ahUKEwiyw_33q-ruAhWzwosBHf73Bek4FBAWMAB6BAgGEAE&usg=AOvVaw08GdJ5FF_IED774AOCHXjH",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Poincar\u00e9's proof of the quantum discontinuity of nature - American ...aapt.scitation.org \u203a doi \u203a pdf",
+    "link": "http://aapt.scitation.org/doi/pdf/10.1119/1.17919",
+    "description": "proves that the existence of a discontinuity in the motion of a resonator is necessary to explain any ... to prove whether or not the quantum discontinuities were.",
+    "googleLink": null,
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Integrating Functions with Discontinuities - BYU Math Departmentmath.byu.edu \u203a ~bakker \u203a Lectures \u203a Lec34",
+    "link": "https://math.byu.edu/~bakker/M341/Lectures/Lec34.pdf",
+    "description": "on the compact interval [0,2]. This bounded function has a discontinuity at x = 1, but is this enough to prevent integrability? To show that f is integrable, we will\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://math.byu.edu/~bakker/M341/Lectures/Lec34.pdf&ved=2ahUKEwiyw_33q-ruAhWzwosBHf73Bek4FBAWMAJ6BAgIEAE&usg=AOvVaw0JBohU-8CcWdPITD365E16",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Poincare's proof of the quantum discontinuity of nature - Statistical ...www.stat.physik.uni-potsdam.de \u203a stud_seminar \u203a ajp_poincare_quanta",
+    "link": "http://www.stat.physik.uni-potsdam.de/~pikovsky/teaching/stud_seminar/ajp_poincare_quanta.pdf",
+    "description": "Poincar\u00e9's proof of the quantum discontinuity of nature. Jeffrey J. Prentis. Department of Natural Sciences, University of Michigan-Dearborn, Dearborn, Michigan\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "On discontinuity of the pressure | SpringerLinklink.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1007/BF01877543",
+    "description": "On discontinuity of the pressure ... employed by Griffiths and Ruelle in proving the continuity of the pressure in lattice systems, plays, in fact, a crucial role.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://link.springer.com/article/10.1007/BF01877543&ved=2ahUKEwiyw_33q-ruAhWzwosBHf73Bek4FBAWMAR6BAgEEAE&usg=AOvVaw2updgziZHRijV-aCCKKqHy",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Continuity of Functionspage.mi.fu-berlin.de \u203a shagnik \u203a notes \u203a continuity",
+    "link": "http://page.mi.fu-berlin.de/shagnik/notes/continuity",
+    "description": "you can understand the proof of Theorem 17.2. ... Once again, to emphasise the key point, to prove a function is discontinuous at a point, we just need to find one\u200b\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "2.6: Continuity - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a Chapter 2 Limits",
+    "link": "https://math.libretexts.org/Courses/Monroe_Community_College/MTH_210_Calculus_I/Chapter_2_Limits/2.6%3A_Continuity",
+    "description": "20.12.2020 \u00b7 A function is discontinuous at a point a if it fails to be continuous at a. ... The proof of the next theorem uses the composite function theorem as\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://math.libretexts.org/Courses/Monroe_Community_College/MTH_210_Calculus_I/Chapter_2_Limits/2.6%253A_Continuity&ved=2ahUKEwiyw_33q-ruAhWzwosBHf73Bek4FBAWMAZ6BAgCEAE&usg=AOvVaw1bO8-JcGLJijw8l0qpvNaz",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Removable Discontinuity -- from Wolfram MathWorldmathworld.wolfram.com \u203a RemovableDiscontinuity",
+    "link": "https://mathworld.wolfram.com/RemovableDiscontinuity.html",
+    "description": "Removable discontinuities are so named because one can \"remove\" this point of discontinuity by defining an almost everywhere identical function F=F(x) of the\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://mathworld.wolfram.com/RemovableDiscontinuity.html&ved=2ahUKEwiyw_33q-ruAhWzwosBHf73Bek4FBAWMAd6BAgBEAE&usg=AOvVaw2H8ebP7XM7oE64AJR1LWxy",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "The Divergence Theorem for Discontinuous Vector Fields - JStorwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/1970158",
+    "description": "As in [12], the main tool used for proving Theorem 1 is the theory of ... The first lemma on double trigonometric series that we prove is the following: LEMMA 1.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.jstor.org/stable/1970158&ved=2ahUKEwiyw_33q-ruAhWzwosBHf73Bek4FBAWMAh6BAgAEAE&usg=AOvVaw1HEDHP4c6KLvoUxAa16C_7",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Continuity \u2013 Calculus Tutorialsmath.hmc.edu \u203a calculus \u203a single-variable-calculus",
+    "link": "https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/single-variable-calculus/continuity/",
+    "description": "If f is not continuous at c, then f is said to be discontinuous at c. ... Rather than returning to the \u03b5-\u03b4 definition whenever we want to prove a function is continuous\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/single-variable-calculus/continuity/&ved=2ahUKEwiyw_33q-ruAhWzwosBHf73Bek4FBAWMAl6BAgDEAE&usg=AOvVaw0sDwn6wHtBUyLGdqifBg5B",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Discontinuity Calculator: Wolfram|Alphawww.wolframalpha.com \u203a calculators \u203a discontinuit...",
+    "link": "https://www.wolframalpha.com/calculators/discontinuity-calculator",
+    "description": "Online Discontinuity Calculator. Find discontinuities of a function with Wolfram|\u200bAlpha. Example input. More than just an online tool to explore the continuity of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wolframalpha.com/calculators/discontinuity-calculator&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAB6BAgGEAE&usg=AOvVaw19Krs41QxCGtijNlhtEzQD",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Content - Continuity of piecewise-defined functionsamsi.org.au \u203a ESA_Senior_Years \u203a SeniorTopic3",
+    "link": "http://amsi.org.au/ESA_Senior_Years/SeniorTopic3/3a/3a_2content_7.html",
+    "description": "We can see the discontinuity at x=3 in the following graph of g(x). Graph of y equals x plus 3 for x not equal to 3 and point at. We can thus give a slightly more\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://amsi.org.au/ESA_Senior_Years/SeniorTopic3/3a/3a_2content_7.html&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAF6BAgJEAE&usg=AOvVaw2wW1mX76O_9aMf1-63BXk3",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Discontinuity of functions: Avoidable, Jump and Essential discontinuitywww.sangakoo.com \u203a ... \u203a Continuity",
+    "link": "https://www.sangakoo.com/en/unit/discontinuity-of-functions-avoidable-jump-and-essential-discontinuity",
+    "description": "The functions that are not continuous can present different types of discontinuities\u200b. First, however, we will define a discontinuous function as any function that\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sangakoo.com/en/unit/discontinuity-of-functions-avoidable-jump-and-essential-discontinuity&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAJ6BAgIEAE&usg=AOvVaw2Et_cwdJEwJSIDju0lttU4",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Continuous Functions - 5 - Math Archives - University of Tennesseearchives.math.utk.edu \u203a visual.calculus \u203a continuous.5",
+    "link": "http://archives.math.utk.edu/visual.calculus/1/continuous.5/index.html",
+    "description": "Some examples of functions which are not continuous at some point are given the corresponding discontinuities are defined. After working through these\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://archives.math.utk.edu/visual.calculus/1/continuous.5/index.html&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAN6BAgHEAE&usg=AOvVaw1bUg2GWlyVLN4m3qawNpiI",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Continuous Functions - UC Davis Mathematicswww.math.ucdavis.edu \u203a ~hunter \u203a intro_analysis_ch3",
+    "link": "https://www.math.ucdavis.edu/~hunter/m125a/intro_analysis_ch3.pdf",
+    "description": "... and discontinuous functions to illustrate the definition. Example 3.7. The function f : [0, \u221e) \u2192 R defined by f(x) = \u221a x is continuous on [0, \u221e). To prove that f is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.ucdavis.edu/~hunter/m125a/intro_analysis_ch3.pdf&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAR6BAgEEAE&usg=AOvVaw3_2iE6BTR7GNj6CK73tNoY",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "A differentiable function with discontinuous partial derivatives - Math ...mathinsight.org \u203a differentiable_function_discontin...",
+    "link": "https://mathinsight.org/differentiable_function_discontinuous_partial_derivatives",
+    "description": "The converse of the differentiability theorem is not true. It is possible for a differentiable function to have discontinuous partial derivatives. An example of such a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathinsight.org/differentiable_function_discontinuous_partial_derivatives&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAV6BAgDEAE&usg=AOvVaw3HfwEocBF0egJ9RjM95BMf",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Calculus I - Continuity - Pauls Online Math Notestutorial.math.lamar.edu \u203a classes \u203a calci \u203a continuity",
+    "link": "https://tutorial.math.lamar.edu/classes/calci/continuity.aspx",
+    "description": "29.05.2018 \u00b7 The graph in the last example has only two discontinuities since there are ... To see a proof of this fact see the Proof of Various Limit Properties\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://tutorial.math.lamar.edu/classes/calci/continuity.aspx&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAZ6BAgAEAE&usg=AOvVaw0Bds-hvBJSE4Z0SIks-Iix",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] MAT 319, Spring 2012 Solutions to HW 7 1. Prove that the function f ...www.math.stonybrook.edu \u203a ~olga \u203a mat319-spr12 \u203a hw7-sol",
+    "link": "https://www.math.stonybrook.edu/~olga/mat319-spr12/hw7-sol.pdf",
+    "description": "0 if x is an irrational number. Prove that g(x) is discontinuous at every point,. (a) using the sequences definition. First we will show that g is discontinuous at every\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.stonybrook.edu/~olga/mat319-spr12/hw7-sol.pdf&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAd6BAgBEAE&usg=AOvVaw1k9T8fhW1Z3oyMjvDTpF9J",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Continuity - Stanford Mathematicsmath.stanford.edu \u203a ~jmadnick",
+    "link": "http://math.stanford.edu/~jmadnick/T19.pdf",
+    "description": "So: A function f(x) is discontinuous at x = a if any one of (1)-(3) fails. Types of ... prove). The IVT is useful for proving that solutions to equations exist, but does not\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://math.stanford.edu/~jmadnick/T19.pdf&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAh6BAgCEAE&usg=AOvVaw2Me7_CIT5uq6LtKDb5195M",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Continuity and Discontinuity in Calculus - Definition and Examplesbyjus.com \u203a Maths \u203a Math Article",
+    "link": "https://byjus.com/maths/continuity-and-discontinuity/",
+    "description": "Get the definition, condition, types of discontinuity, and continuity examples here. ... Prove that the function f is defined by f(x)= \\left\\{\\begin{matrix} x sin\\frac{1}{x}\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://byjus.com/maths/continuity-and-discontinuity/&sa=U&ved=2ahUKEwiCk_34q-ruAhW6yYsBHd7XBsU4HhAWMAl6BAgFEAE&usg=AOvVaw2iVEpHRu029FkOI-0sknwQ",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Removing the Discontinuity of Misconception in Calculus \u2013 Andrew's ...  blogs.neisd.net \u203a asnell2020 \u203a 2019/12/17 \u203a removi...",
+    "link": "http://blogs.neisd.net/asnell2020/2019/12/17/removing-the-discontinuity-of-misconception-in-calculus/",
+    "description": "Removing the Discontinuity of Misconception in Calculus \u2013 Andrew's ...",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Continuous Differentiability  math.tntech.edu \u203a jeff",
+    "link": "https://math.tntech.edu/jeff/cd.html",
+    "description": "Continuous Differentiability",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://math.tntech.edu/jeff/cd.html&ved=2ahUKEwiukOf6q-ruAhXBy4sBHTa0ARw4KBAWMAJ6BAgIEAE&usg=AOvVaw1dzjI4dFuRGAL6AlnDl_nA",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Continuity - xaktly.com  xaktly.com \u203a MathContinuity",
+    "link": "https://xaktly.com/MathContinuity.html",
+    "description": "Continuity - xaktly.com",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://xaktly.com/MathContinuity.html&ved=2ahUKEwiukOf6q-ruAhXBy4sBHTa0ARw4KBAWMAN6BAgHEAE&usg=AOvVaw1wUCzAbQHiUajvbICFUlhz",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Lecture 5 : Continuous Functions Definition 1 We say the function f is ...  www3.nd.edu \u203a ~apilking \u203a Math10550 \u203a Lectures",
+    "link": "https://www3.nd.edu/~apilking/Math10550/Lectures/Lecture%205%20Continuous%20Functions.pdf",
+    "description": "[PDF] Lecture 5 : Continuous Functions Definition 1 We say the function f is ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www3.nd.edu/~apilking/Math10550/Lectures/Lecture%25205%2520Continuous%2520Functions.pdf&ved=2ahUKEwiukOf6q-ruAhXBy4sBHTa0ARw4KBAWMAR6BAgDEAE&usg=AOvVaw0jLdsw-hvfWgMmG5nfPwFX",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Lecture 8: Discontinuity  www.wdv.com \u203a Calculus \u203a Lecture08",
+    "link": "https://www.wdv.com/Calculus/Lecture08.pdf",
+    "description": "[PDF] Lecture 8: Discontinuity",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.wdv.com/Calculus/Lecture08.pdf&ved=2ahUKEwiukOf6q-ruAhXBy4sBHTa0ARw4KBAWMAV6BAgBEAE&usg=AOvVaw0TvVv-lHj050mu7o30TOWf",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Transitivity, dense orbit and discontinuous functions - Project Euclid  projecteuclid.org \u203a download \u203a pdf_1 \u203a euclid.bbms",
+    "link": "https://projecteuclid.org/download/pdf_1/euclid.bbms/1103065858",
+    "description": "Transitivity, dense orbit and discontinuous functions - Project Euclid",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://projecteuclid.org/download/pdf_1/euclid.bbms/1103065858&ved=2ahUKEwiukOf6q-ruAhXBy4sBHTa0ARw4KBAWMAZ6BAgAEAE&usg=AOvVaw0zbwjdGSJ4XZZEHrL8WzIR",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "(PDF) A Note on Discontinuous Functions with Continuous Second ...  www.researchgate.net \u203a publication \u203a 281223762_A...",
+    "link": "https://www.researchgate.net/publication/281223762_A_Note_on_Discontinuous_Functions_with_Continuous_Second_Iterate",
+    "description": "(PDF) A Note on Discontinuous Functions with Continuous Second ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.researchgate.net/publication/281223762_A_Note_on_Discontinuous_Functions_with_Continuous_Second_Iterate&ved=2ahUKEwiukOf6q-ruAhXBy4sBHTa0ARw4KBAWMA16BAgGEAE&usg=AOvVaw1rGZzOqfelROWMerPYPDXL",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Solved: Proving Continuity And Discontinuity Directly From ... - Chegg  www.chegg.com \u203a questions-and-answers \u203a proving...",
+    "link": "https://www.chegg.com/homework-help/questions-and-answers/proving-continuity-discontinuity-directly-definition-3--using-epsilon-delta-definition-con-q30166301",
+    "description": "Solved: Proving Continuity And Discontinuity Directly From ... - Chegg",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.chegg.com/homework-help/questions-and-answers/proving-continuity-discontinuity-directly-definition-3--using-epsilon-delta-definition-con-q30166301&ved=2ahUKEwiukOf6q-ruAhXBy4sBHTa0ARw4KBAWMA56BAgCEAE&usg=AOvVaw2eNr78v6NOHdwedKziTyTz",
+    "page": 4,
+    "index": 7
+  }
+]

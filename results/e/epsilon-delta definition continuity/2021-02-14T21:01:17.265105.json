@@ -1,0 +1,394 @@
+[
+  {
+    "name": "The epsilon-delta definitionwww-groups.mcs.st-andrews.ac.uk \u203a ~john \u203a analysis \u203a Lectures",
+    "link": "http://www-groups.mcs.st-andrews.ac.uk/~john/analysis/Lectures/L13.html",
+    "description": "A function f from R to R is continuous at a point p \u2208 R if. given \u03b5 > 0 there exists \u03b4 > 0 such that if |p - x| < \u03b4 then |f (p) - f (x)| < \u03b5. Theorem. This definition is equivalent to the previous one.",
+    "googleLink": "http://www.google.com/url?q=http://www-groups.mcs.st-andrews.ac.uk/~john/analysis/Lectures/L13.html&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQFnoECAQQAg&usg=AOvVaw0oM6LNa57Ito3hDOQZwsXk",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Epsilon-delta definition of continuity \u2013 Serlo \u2013 Wikibooks, Sammlung ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Epsilon-delta_definition_of_continu...",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Epsilon-delta_definition_of_continuity",
+    "description": "Among the sequence criterion, the epsilon-delta criterion is another way to define the continuity of functions. This criterion describes the feature of continuous functions, that sufficiently small changes of the argument cause arbitrarily small changes of the function value.\nFurther explanations ... \u00b7 Visualization of the ... \u00b7 Dependence of delta or ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Epsilon-delta_definition_of_continuity&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQFjACegQIBRAB&usg=AOvVaw20BgjWo4FYrc8tL7Ig0C8F",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "(\u03b5, \u03b4)-definition of limit - Wikipediaen.wikipedia.org \u203a wiki \u203a (\u03b5,_\u03b4)-definition_of_limit",
+    "link": "https://en.wikipedia.org/wiki/(%CE%B5,_%CE%B4)-definition_of_limit",
+    "description": "In calculus, the (\u03b5, \u03b4)-definition of limit is a formalization of the notion of limit. The concept is due ... 5 Continuity; 6 Comparison with infinitesimal definition; 7 See also ... He never gave an epsilon\u2013delta definition of limit (Grabiner 1981). Some of\u00a0...\nHistory \u00b7 Informal statement \u00b7 Precise statement and ... \u00b7 Worked examples",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/(%25CE%25B5,_%25CE%25B4)-definition_of_limit&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQFjADegQIBhAB&usg=AOvVaw2X19dnPwfN0wqwFI3pIkB9",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Continuous function - Wikipediaen.wikipedia.org \u203a wiki \u203a Continuous_function",
+    "link": "https://en.wikipedia.org/wiki/Continuous_function",
+    "description": "History[edit]. A form of the epsilon\u2013delta definition of continuity was first given by Bernard Bolzano in 1817. Augustin-Louis Cauchy defined continuity of\u00a0...\nHistory \u00b7 Real functions",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Continuous_function&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQFjAEegQIARAB&usg=AOvVaw33OKGS1EiBW_rTZ7qaArAM",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "The epsilon-delta definition of continuity - Mathematics Stack ...math.stackexchange.com \u203a questions \u203a the-epsilon-d...",
+    "link": "https://math.stackexchange.com/questions/331445/the-epsilon-delta-definition-of-continuity",
+    "description": "real-analysis epsilon-delta. As we know the epsilon-delta definition of continuity is: For given \u03b5>0 \u2203\u03b4>0 s.t. 0<|x\u2212x0|<\u03b4\u27f9|f(x)\u2212f(x0)|<\u03b5",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/331445/the-epsilon-delta-definition-of-continuity&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQFjAFegQIBxAB&usg=AOvVaw30EPSAi1blAP-pKbV7iNyE",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Epsilon Delta Continuity (Example 1) - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=YvJVWLEtgeg",
+    "description": "14.11.2020 \u00b7 One way is by using the sequence definition and the other way is to use the famous epsilon ...Dauer: 21:06\nGepostet: 14.11.2020",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DYvJVWLEtgeg&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQtwIwDnoECAMQAQ&usg=AOvVaw042L2NqU6D7n4vbdm70bHO",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Proving Uniform Continuity using \u03b5-\u03b4 - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=OzF49sebmF8",
+    "description": "19.12.2019 \u00b7 Today we are going to proof uniform continuity of the funktion cos(x)+x. For this we make use ...Dauer: 11:31\nGepostet: 19.12.2019",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DOzF49sebmF8&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQtwIwD3oECAIQAQ&usg=AOvVaw3DuoAGuVFfbkQ12rE37m18",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Epsilon-Delta Definition of Continuity \u2013 GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/ZJA2gqhY",
+    "description": "Some people think of a continuous function as one you can draw without lifting your pen. How does the epsilon-delta condition prevent having to lift your pen?",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/ZJA2gqhY&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQFjAQegQIDBAB&usg=AOvVaw3VaT8BuXb7N6fMnEbCfDKP",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] The (\u03b5 , \u03b4) definition of continuitywww.kent.ac.uk \u203a smsas \u203a personal \u203a elm2",
+    "link": "https://www.kent.ac.uk/smsas/personal/elm2/MA552/MA552Worksheet5.pdf",
+    "description": "We recall the definition of continuity: Let f : [a, b] \u2192 R and x0 \u2208 [a, b]. f is continuous at x0 if for every \u03b5 > 0 there exists \u03b4 > 0 such that |x \u2212 x0| < \u03b4 implies |f\u200b(x)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.kent.ac.uk/smsas/personal/elm2/MA552/MA552Worksheet5.pdf&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQFjARegQIChAB&usg=AOvVaw2YG9VCQaU-7uoJzOc8vLpU",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Epsilon-delta proofs and uniform continuityscm.org.co \u203a archivos \u203a revista \u203a Articulos",
+    "link": "http://scm.org.co/archivos/revista/Articulos/1156.pdf",
+    "description": "Epsilon-delta proofs: the task of giving a proof of the existence of the limit of a function based on the epsilon-delta definition. 2. The role of delta-epsilon functions (\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://scm.org.co/archivos/revista/Articulos/1156.pdf&sa=U&ved=2ahUKEwjGvOqlleruAhUEzIsBHWkfD5sQFjASegQICBAB&usg=AOvVaw01iJodQhuVR8XvVkilhy5c",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Epsilon-Delta Definition of a Limit | Brilliant Math & Science Wikibrilliant.org \u203a wiki \u203a epsilon-delta-definition-of-a-limit",
+    "link": "https://brilliant.org/wiki/epsilon-delta-definition-of-a-limit/",
+    "description": "... \u03b5- \u03b4 \\delta \u03b4 definition is also useful when trying to show the continuity of a function. In this article, we will be proving all the limits using Epsilon-Delta limits.",
+    "googleLink": "http://www.google.com/url?q=https://brilliant.org/wiki/epsilon-delta-definition-of-a-limit/&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChAWMAB6BAgJEAE&usg=AOvVaw347I9llQSfTm5NpffnH4pI",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "(PDF) Epsilon-delta proofs and uniform continuity - ResearchGatewww.researchgate.net \u203a publication \u203a 325473439_E...",
+    "link": "https://www.researchgate.net/publication/325473439_Epsilon-delta_proofs_and_uniform_continuity",
+    "description": "limit of a function based on the epsilon-delta de\ufb01nition. 2. The role of delta-\u200bepsilon functions (see De\ufb01nition 2.2) in the study of. the uniform continuity\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/325473439_Epsilon-delta_proofs_and_uniform_continuity&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChAWMAF6BAgCEAE&usg=AOvVaw3BDBt_s3fEbp1hlrN-I6H0",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Continuity and uniform continuity with epsilon and delta - UMD MATHwww2.math.umd.edu \u203a ~mboyle \u203a courses \u203a uniform",
+    "link": "http://www2.math.umd.edu/~mboyle/courses/410f12/uniform.pdf",
+    "description": "Continuity and uniform continuity with epsilon and delta. We will solve two problems which give examples of work- ing with the \u03f5, \u03b4 definitions of continuity and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www2.math.umd.edu/~mboyle/courses/410f12/uniform.pdf&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChAWMAJ6BAgIEAE&usg=AOvVaw3_WUYhH-uSBMythIIsyOCt",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Limits and Continuity for Multivariate Functions - UMass Mathpeople.math.umass.edu \u203a ~havens \u203a LimContBivar",
+    "link": "https://people.math.umass.edu/~havens/LimContBivar.pdf",
+    "description": "25.02.2019 \u00b7 An Epsilon-Delta Game. 3 Continuity. Defining ... Limits and Continuity in Many Variables ... Definition of a Limit in two Variables. Definition.",
+    "googleLink": "http://www.google.com/url?q=https://people.math.umass.edu/~havens/LimContBivar.pdf&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChAWMAN6BAgHEAE&usg=AOvVaw3BElWerpoi86kjQXi0Rzxq",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Formal definition of limits Part 3: the definition (video) | Khan Academywww.khanacademy.org \u203a ... \u203a Optional videos",
+    "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-limits-optional/v/epsilon-delta-definition-of-limits",
+    "description": "25.03.2014 \u00b7 The epsilon-delta definition of limits says that the limit of f(x) at x=c is L if for any \u03b5\u200b>0 there's a ...Dauer: 6:59\nGepostet: 25.03.2014",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-limits-optional/v/epsilon-delta-definition-of-limits&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChC3AjAEegQIAxAB&usg=AOvVaw3lFCe9kgD55dxN-amUsgFT",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Epsilon-Delta Definition -- from Wolfram MathWorldmathworld.wolfram.com \u203a Epsilon-DeltaDefinition",
+    "link": "https://mathworld.wolfram.com/Epsilon-DeltaDefinition.html",
+    "description": "Epsilon-Delta Definition. An epsilon-delta definition is a mathematical definition in which a statement on a real function of one variable f having, for example, the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/Epsilon-DeltaDefinition.html&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChAWMAV6BAgAEAE&usg=AOvVaw2Q4WysmmJjbWdfUlABZP8W",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] On the history of epsilontics - arXiv.orgarxiv.org \u203a pdf",
+    "link": "https://arxiv.org/pdf/1502.06942",
+    "description": "It was only in 1861 that the epsilon-delta method manifested itself to the ... continuity, but only as the endpoint of the interval of definition\u201d [Personal message].",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/pdf/1502.06942&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChAWMAZ6BAgBEAE&usg=AOvVaw2bbYQ-6q3u2nZz_dBZn_Y0",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Bolzano, Cauchy, Epsilon, Delta - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2695743",
+    "description": "section I discuss the extent to which the technique of epsilon and delta serves as a ... 11 of this book he gave a definition of continuity of a function f at an.",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2695743&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChAWMAd6BAgFEAE&usg=AOvVaw32e1oCJiojZUyv_xIVJrIG",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Continuity and Limits - OSU Mathmath.osu.edu \u203a ~fiedorow \u203a calculus \u203a jumpiness",
+    "link": "https://math.osu.edu/~fiedorow/calculus/jumpiness.html",
+    "description": "Relation to Epsilon-Delta Definition. The notion of jumpiness is by no means new\u200b. It occurs in various analysis books (often relegated to problems) under such\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.osu.edu/~fiedorow/calculus/jumpiness.html&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChAWMAh6BAgGEAE&usg=AOvVaw1iNcBcMoZ4TZ7DKk7QeBr3",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Automatic Generation of Epsilon-Delta Proofs of Continuitywww.cs.sjsu.edu \u203a ~beeson \u203a Papers \u203a aisc",
+    "link": "http://www.cs.sjsu.edu/~beeson/Papers/aisc.pdf",
+    "description": "No program has ever before produced an epsilon-delta proof of the continuity of any specific non-linear function. For example, Bledsoe and his student Hines.",
+    "googleLink": "http://www.google.com/url?q=http://www.cs.sjsu.edu/~beeson/Papers/aisc.pdf&sa=U&ved=2ahUKEwiPv66mleruAhXSxYsBHQP3Cjg4ChAWMAl6BAgEEAE&usg=AOvVaw1dsaluNwjK-sfMDqImerad",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Epsilon-Delta Definitions And Continuity - Parabolawww.parabola.unsw.edu.au \u203a files \u203a articles \u203a issue-2 \u203a vol53_no2_1",
+    "link": "https://www.parabola.unsw.edu.au/files/articles/2010-2019/volume-53-2017/issue-2/vol53_no2_1.pdf",
+    "description": "05.11.2017 \u00b7 This is obvious but an epsilon-delta proof of this observation could be as follows: Proof. Let c \u2208 R and \u03f5 > 0, and set \u03b4 = \u03f5. If |x \u2212 c| < \u03b4, then.",
+    "googleLink": "http://www.google.com/url?q=https://www.parabola.unsw.edu.au/files/articles/2010-2019/volume-53-2017/issue-2/vol53_no2_1.pdf&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAB6BAgIEAE&usg=AOvVaw0NpBaid3-iTSv-llhjRI1d",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] The use of visual approach in teaching and learning the epsilon ...files.eric.ed.gov \u203a fulltext",
+    "link": "https://files.eric.ed.gov/fulltext/EJ1107892.pdf",
+    "description": "After introducing the notion of continuity to the students (Taka\u010di et al., 2006), we argued that it is necessary to analyze in detail the epsilon delta definition of a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://files.eric.ed.gov/fulltext/EJ1107892.pdf&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAF6BAgGEAE&usg=AOvVaw2R_xcXwAIu7PZAUAGSQl82",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Math Tutor - Functions - Theory - Real Functionsmath.fel.cvut.cz \u203a txtb",
+    "link": "https://math.fel.cvut.cz/mt/txtb/3/txe4ba3d.htm",
+    "description": "However, it is also possible to define continuity without the use of limit, which is ... This definition is essentially a game (the popular \"epsilon-delta\" game), similar\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.fel.cvut.cz/mt/txtb/3/txe4ba3d.htm&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAJ6BAgEEAE&usg=AOvVaw3iN6l3LQzSANfVHKUFW8O7",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Assignment #1: Delta-Epsilon Proofs and Continuitywww.saddleback.edu \u203a faculty \u203a fgonzalez \u203a Fall_2011 \u203a Assignment1",
+    "link": "https://www.saddleback.edu/faculty/fgonzalez/Fall_2011/3AH/Assignment1.pdf",
+    "description": "b) Use the definition of continuity and a delta-epsilon proof to prove that f is continuous at 5 x = . 3. Now let's investigate the continuity of the family of linear function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.saddleback.edu/faculty/fgonzalez/Fall_2011/3AH/Assignment1.pdf&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAN6BAgFEAE&usg=AOvVaw06IcbcdAniGghQ4Oit_nTb",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "1.2: Epsilon-Delta Definition of a Limit - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 1: Limits",
+    "link": "https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(Apex)/01%3A_Limits/1.02%3A_Epsilon-Delta_Definition_of_a_Limit",
+    "description": "20.12.2020 \u00b7 This section introduces the formal definition of a limit. Many refer to this as \"the epsilon--delta,'' definition, referring to the letters \u03f5 and \u03b4 of the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Calculus/Book%253A_Calculus_(Apex)/01%253A_Limits/1.02%253A_Epsilon-Delta_Definition_of_a_Limit&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAR6BAgHEAE&usg=AOvVaw0Nzu74AeXrA3b3xMpX8DtB",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Solving epsilon-delta problems - Math Berkeleymath.berkeley.edu \u203a ~willij \u203a epsilonics",
+    "link": "https://math.berkeley.edu/~willij/1a/epsilonics.pdf",
+    "description": "29.09.2014 \u00b7 x2 \u2212 x \u2212 1 = 19,. (2) using the definition of a limit. 1 The rules of the game. Normally, the answer to this kind of question will be of the following\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.berkeley.edu/~willij/1a/epsilonics.pdf&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAV6BAgJEAE&usg=AOvVaw3DejFjXNVOk7gXfjUrh4Ok",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Chapter 4 - Illinoisfaculty.math.illinois.edu \u203a ~r-ash",
+    "link": "https://faculty.math.illinois.edu/~r-ash/RV/RV4.pdf",
+    "description": "The idea of continuity of a function f at a point x is familiar. ... Proof. We may write the epsilon-delta condition described in. Theorem 4.1.2 as follows (the symbol\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://faculty.math.illinois.edu/~r-ash/RV/RV4.pdf&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAZ6BAgBEAE&usg=AOvVaw0QGfDwmCuvU_j-S5N9d3WZ",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Epsilon-Delta Definition of a Limitwww.cs.uleth.ca \u203a apex-calculus \u203a sec_limit_def",
+    "link": "https://www.cs.uleth.ca/~fitzpat/apex-calculus/sec_limit_def.html",
+    "description": "This section introduces the formal definition of a limit. Many refer to this as \u201cthe epsilon-delta\u201d definition, referring to the letters \u03b5 \u03b5 and \u03b4 \u03b4 of the Greek alphabet.",
+    "googleLink": "http://www.google.com/url?q=https://www.cs.uleth.ca/~fitzpat/apex-calculus/sec_limit_def.html&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAd6BAgAEAE&usg=AOvVaw2_hKzb7b_sxPBqu8IELVDA",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Epsilon-Delta Limit Definition - Desmoswww.desmos.com \u203a calculator",
+    "link": "https://www.desmos.com/calculator/4efsywgvtg",
+    "description": "Can you find a c-value at which the limit does not exist? (Remember, delta=0 is not allowed in the epsilon-delta limit definition.) Feel free to input your own function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.desmos.com/calculator/4efsywgvtg&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAh6BAgDEAE&usg=AOvVaw0iYQf__u61lg_VQW9oRguy",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Question about the epsilon-delta definition of continuity (why isn't a ...www.reddit.com \u203a learnmath \u203a comments \u203a question...",
+    "link": "https://www.reddit.com/r/learnmath/comments/2fylr9/question_about_the_epsilondelta_definition_of/",
+    "description": "Question about the epsilon-delta definition of continuity (why isn't a discrete function continuous under that definition?) Here's the definition I'm working with:.",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/learnmath/comments/2fylr9/question_about_the_epsilondelta_definition_of/&sa=U&ved=2ahUKEwiasuumleruAhUhGaYKHX7kCP04FBAWMAl6BAgCEAE&usg=AOvVaw2kYQqILgneaxt5ih8_aPQE",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Who Gave You the Epsilon? Cauchy and the ... - MathArticles.com  matharticles.com \u203a ...",
+    "link": "http://matharticles.com/ma/ma002.pdf",
+    "description": "[PDF] Who Gave You the Epsilon? Cauchy and the ... - MathArticles.com",
+    "googleLink": null,
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "1.2 Epsilon-Delta Definition of a Limit\u2023 Chapter 1 Limits \u2023 Part ...  sites.und.edu \u203a apex \u203a web \u203a apex.Ch1.S2.html",
+    "link": "https://sites.und.edu/timothy.prescott/apex/web/apex.Ch1.S2.html",
+    "description": "1.2 Epsilon-Delta Definition of a Limit\u2023 Chapter 1 Limits \u2023 Part ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://sites.und.edu/timothy.prescott/apex/web/apex.Ch1.S2.html&ved=2ahUKEwixqtGnleruAhWSBKYKHZ68B1Y4HhAWMAJ6BAgJEAE&usg=AOvVaw0DcbTSBsNGFEXuCIXZk4VH",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Epsilon-Delta Definition of a Limit  www.cs.uleth.ca \u203a apex-calculus \u203a sec_limit_def",
+    "link": "https://www.cs.uleth.ca/~fitzpat/apex-calculus/sec_limit_def.html",
+    "description": "Epsilon-Delta Definition of a Limit",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.cs.uleth.ca/~fitzpat/apex-calculus/sec_limit_def.html&ved=2ahUKEwixqtGnleruAhWSBKYKHZ68B1Y4HhAWMAN6BAgIEAE&usg=AOvVaw1uHqxMoDC-f0YoYYCV0AW5",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "ContinuityOfFunctions  www.cs.cas.cz \u203a MathematicalAnalysis \u203a RealAnalysis",
+    "link": "https://www.cs.cas.cz/portal/AlgoMath/MathematicalAnalysis/RealAnalysis/ContinuityOfFunctions.htm",
+    "description": "ContinuityOfFunctions",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.cs.cas.cz/portal/AlgoMath/MathematicalAnalysis/RealAnalysis/ContinuityOfFunctions.htm&ved=2ahUKEwixqtGnleruAhWSBKYKHZ68B1Y4HhAWMAR6BAgKEAE&usg=AOvVaw2aB8hPAnvbmaI8glcKghmI",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Limits and Continuity Go to the Previous Page Go to the Help Page ...  archives.math.utk.edu \u203a visual.calculus",
+    "link": "http://archives.math.utk.edu/visual.calculus/1/index.html",
+    "description": "Limits and Continuity Go to the Previous Page Go to the Help Page ...",
+    "googleLink": null,
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "How do you use the epsilon-delta definition of continuity to prove f(x ...  socratic.org \u203a Calculus \u203a Continuous Functions",
+    "link": "https://socratic.org/questions/how-do-you-use-the-epsilon-delta-definition-of-continuity-to-prove-f-x-x-2-is-co",
+    "description": "How do you use the epsilon-delta definition of continuity to prove f(x ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://socratic.org/questions/how-do-you-use-the-epsilon-delta-definition-of-continuity-to-prove-f-x-x-2-is-co&ved=2ahUKEwixqtGnleruAhWSBKYKHZ68B1Y4HhAWMAZ6BAgCEAE&usg=AOvVaw1BJuEo8avJmvrftNkml6C4",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Proofs of the Continuity of Basic Algebraic Functions - Milefoot  www.milefoot.com \u203a math \u203a calculus \u203a limits \u203a Alg...",
+    "link": "http://www.milefoot.com/math/calculus/limits/AlgContinuityProofs07.htm",
+    "description": "Proofs of the Continuity of Basic Algebraic Functions - Milefoot",
+    "googleLink": null,
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Assessing effectiveness of (epsilon, delta) definitions - MathOverflow  mathoverflow.net \u203a questions \u203a assessing-effectivene...",
+    "link": "https://mathoverflow.net/questions/158145/assessing-effectiveness-of-epsilon-delta-definitions",
+    "description": "Assessing effectiveness of (epsilon, delta) definitions - MathOverflow",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://mathoverflow.net/questions/158145/assessing-effectiveness-of-epsilon-delta-definitions&ved=2ahUKEwixqtGnleruAhWSBKYKHZ68B1Y4HhAWMAh6BAgAEAE&usg=AOvVaw3BcJmxpxlhXmkSVlFWIH2x",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Labware - MA35 Multivariable Calculus - Polar Coordinate Labs  www.math.brown.edu \u203a tbanchof \u203a howison",
+    "link": "http://www.math.brown.edu/tbanchof/howison/ma35labs-static-latest/96p1.html",
+    "description": "Labware - MA35 Multivariable Calculus - Polar Coordinate Labs",
+    "googleLink": null,
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Assessing effectiveness of (epsilon, delta) definitions - MathOverflowmathoverflow.net \u203a questions \u203a assessing-effectivene...",
+    "link": "https://mathoverflow.net/questions/158145/assessing-effectiveness-of-epsilon-delta-definitions",
+    "description": "Limits and continuity are often couched as formalizations of approaching and connectedness respectively. However, the standard, formal definitions display much\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/158145/assessing-effectiveness-of-epsilon-delta-definitions&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAB6BAgDEAE&usg=AOvVaw06dWhhQFinznTb_L5QPxTN",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Continuous function - Wikiwandwww.wikiwand.com \u203a Continuous_function",
+    "link": "https://www.wikiwand.com/en/Continuous_function",
+    "description": "A form of the epsilon\u2013delta definition of continuity was first given by Bernard ... Weierstrass and Jordan definitions (epsilon\u2013delta) of continuous functions.",
+    "googleLink": "http://www.google.com/url?q=https://www.wikiwand.com/en/Continuous_function&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAF6BAgHEAE&usg=AOvVaw3YDFTpsKcbuzxA7dm5maY4",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Labware - MA35 Multivariable Calculus - Polar Coordinate Labswww.math.brown.edu \u203a tbanchof \u203a howison",
+    "link": "http://www.math.brown.edu/tbanchof/howison/ma35labs-static-latest/96p1.html",
+    "description": "Continuity. Text. According to the epsilon-delta definition, a function f of two real variables is said to be continuous at (x0,y0) if for any \u03b5 > 0 there exists a &delta\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.brown.edu/tbanchof/howison/ma35labs-static-latest/96p1.html&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAJ6BAgIEAE&usg=AOvVaw06a9AXou5RNg8lAY2a-iZ-",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Epsilon - Delta Definition of Limits (in Hindi) | (Hindi) Continuity and ...unacademy.com \u203a lesson \u203a epsilon-delta-definition-...",
+    "link": "https://unacademy.com/lesson/epsilon-delta-definition-of-limits-in-hindi/WR1NLNJ4",
+    "description": "Bewertung  5,0  (1)",
+    "googleLink": "http://www.google.com/url?q=https://unacademy.com/lesson/epsilon-delta-definition-of-limits-in-hindi/WR1NLNJ4&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAN6BAgJEAE&usg=AOvVaw1CgXJKxrCIEXncDBWkCiGn",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Some thoughts about epsilon and delta |blogs.ams.org \u203a matheducation \u203a 2019/08/19 \u203a som...",
+    "link": "https://blogs.ams.org/matheducation/2019/08/19/some-thoughts-about-epsilon-and-delta/",
+    "description": "19.08.2019 \u00b7 At the time, it did not occur to me to reach for epsilon and delta. ... and tagged calculus, continuity, definitions, delta, difficulty, epsilon, limit, proof\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://blogs.ams.org/matheducation/2019/08/19/some-thoughts-about-epsilon-and-delta/&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAR6BAgBEAE&usg=AOvVaw2lkvcHTEfvEAJDg9JoegAQ",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Delta-epsilon functions and uniform continuity on metric spaces128.84.21.199 \u203a pdf",
+    "link": "https://128.84.21.199/pdf/1710.04070",
+    "description": "09.10.2017 \u00b7 which is the greatest positive \u03b4(p, \u01eb) such that the epsilon-delta definition of continuity is satisfied? Is there a formula to compute it?",
+    "googleLink": "http://www.google.com/url?q=https://128.84.21.199/pdf/1710.04070&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAV6BAgGEAE&usg=AOvVaw2tLW5d0Xfu09GTyrSA84ut",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Using only the epsilon-delta definition of continuity, prove the ...study.com \u203a Math \u203a Continuous functions",
+    "link": "https://study.com/academy/answer/using-only-the-epsilon-delta-definition-of-continuity-prove-the-following-if-f-d-rightarrow-r-is-continuous-at-x-0-then-there-is-a-delta-0-gt-0-and-an-m-gt-0-such-that-f-x.html",
+    "description": "Solved: Using only the epsilon-delta definition of continuity, prove the following: If f : D \\rightarrow R is continuous at x_0 , then there...",
+    "googleLink": "http://www.google.com/url?q=https://study.com/academy/answer/using-only-the-epsilon-delta-definition-of-continuity-prove-the-following-if-f-d-rightarrow-r-is-continuous-at-x-0-then-there-is-a-delta-0-gt-0-and-an-m-gt-0-such-that-f-x.html&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAZ6BAgAEAE&usg=AOvVaw0Ok3u_MG8gGD_FpQ0SR60y",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Real Analysis: 6.2. Continuous Functions - MathCS.orgmathcs.org \u203a analysis \u203a reals \u203a cont \u203a contin",
+    "link": "https://mathcs.org/analysis/reals/cont/contin.html",
+    "description": "Continuity is defined at a single point, and the epsilon and delta appearing in the definition may be different from one point of continuity to another one. There is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathcs.org/analysis/reals/cont/contin.html&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAd6BAgCEAE&usg=AOvVaw1cF-KFWdK6V0c_EFA0CMOC",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Limits and Continuous Functions - MIT OpenCourseWaremitocw.ups.edu.ec \u203a resources \u203a derivatives \u203a limits-and-continuous-f...",
+    "link": "https://mitocw.ups.edu.ec/resources/res-18-005-highlights-of-calculus-spring-2010/derivatives/limits-and-continuous-functions/MITRES18_05S10_Limits_Continuous_Functions.pdf",
+    "description": "This is the correct definition. ... We have come to the \u201cepsilon-delta definition\u201d of limits. First ... for x1=3: Asking for a derivative is more than asking for continuity.",
+    "googleLink": "http://www.google.com/url?q=https://mitocw.ups.edu.ec/resources/res-18-005-highlights-of-calculus-spring-2010/derivatives/limits-and-continuous-functions/MITRES18_05S10_Limits_Continuous_Functions.pdf&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAh6BAgEEAE&usg=AOvVaw1BqiNx_J3JfkB2arpD7GXA",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Analyzing the transition to epsilon-delta Calculus - Archive ouverte ...hal.archives-ouvertes.fr \u203a hal-01280542 \u203a document",
+    "link": "https://hal.archives-ouvertes.fr/hal-01280542/document",
+    "description": "01.03.2016 \u00b7 epsilon-delta definitions of limit, and subsequently of continuity and derivative, usually also called the. Cauchy-Weierstrass Calculus) has been\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://hal.archives-ouvertes.fr/hal-01280542/document&sa=U&ved=2ahUKEwi2ioqoleruAhUUyYsBHVuXArc4KBAWMAl6BAgFEAE&usg=AOvVaw2W6HDBGi0Q9WtXQB4REHqN",
+    "page": 4,
+    "index": 9
+  }
+]

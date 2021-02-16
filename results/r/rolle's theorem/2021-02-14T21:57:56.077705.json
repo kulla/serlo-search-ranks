@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Satz von Rolle \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Satz_von_Rolle",
+    "link": "https://de.wikipedia.org/wiki/Satz_von_Rolle",
+    "description": "Rolle formulierte das nach ihm benannte Theorem 1691 (in seiner Schrift D\u00e9monstration d'une m\u00e9thode pour r\u00e9soudre les \u00e9galit\u00e9z de tous les d\u00e9grez),\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Rolle's theorem - Wikipediaen.wikipedia.org \u203a Rolle's_theorem",
+    "link": "https://en.wikipedia.org/wiki/Rolle%27s_theorem",
+    "description": "In calculus, Rolle's theorem or Rolle's lemma essentially states that any real-valued differentiable function that attains equal values at two distinct points must\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Rolle's Theorem - Math24www.math24.net \u203a rolles-theorem",
+    "link": "https://www.math24.net/rolles-theorem/",
+    "description": "Rolle's Theorem. Suppose that a function f(x) is continuous on the closed interval [a,b] and differentiable on the open interval (a,b). Then if f(a)=f(b), then there\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Rolle's theorem | mathematics | Britannicawww.britannica.com \u203a science \u203a R...",
+    "link": "https://www.britannica.com/science/Rolles-theorem",
+    "description": "Rolle's theorem, in analysis, special case of the mean-value theorem of differential calculus. Rolle's theorem states that if a function f is continuous on the closed\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "What is Rolle's Theorem? Explained visually with examples ...www.mathwarehouse.com \u203a calculus",
+    "link": "https://www.mathwarehouse.com/calculus/derivatives/what-is-rolles-theorem.php",
+    "description": "Rolle's Theorem talks about derivatives being equal to zero. \u00b7 Rolle's Theorem is a special case of the Mean Value Theorem. \u00b7 Rolle's Theorem has three\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Calculus I - The Mean Value Theoremtutorial.math.lamar.edu \u203a calci \u203a M...",
+    "link": "https://tutorial.math.lamar.edu/classes/calci/MeanValueTheorem.aspx",
+    "description": "21.02.2019 \u2014 Rolle's Theorem \u00b7 f(x) f ( x ) is continuous on the closed interval [a,b] [ a , b ] . \u00b7 f(x) f ( x ) is differentiable on the open interval (a,b) ( a , b ) . \u00b7 f(a)=f(b) f\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Rolle's Theorem and a Proof - Oregon State Universityoregonstate.edu \u203a Lesson \u203a rolles",
+    "link": "https://oregonstate.edu/instruct/mth251/cq/Stage7/Lesson/rolles.html",
+    "description": "Rolle's Theorem. If f(x) is continuous an [a,b] and differentiable on (a,b) and if f(a) = f(b) then there is some c in the interval (a,b) such that f '(c) = 0.",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Rolle's and The Mean Value Theorems - Cut the Knotwww.cut-the-knot.org \u203a Calculus \u203a MVT",
+    "link": "https://www.cut-the-knot.org/Curriculum/Calculus/MVT.shtml",
+    "description": "(The Mean Value Theorem claims the existence of a point at which the tangent is parallel to the secant joining (a, f(a)) and (b, f(b)). Rolle's theorem is clearly a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cut-the-knot.org/Curriculum/Calculus/MVT.shtml&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChAWMAB6BAgIEAE&usg=AOvVaw0bVWsQt66PbaYMzqihsqNO",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Rolle's Theorem Questions and Exampleswww.analyzemath.com \u203a MeanValueTheorem \u203a roll...",
+    "link": "https://www.analyzemath.com/calculus/MeanValueTheorem/rolle's_theorem_questions_and_examples.html",
+    "description": "Rolle's Theorem \u00b7 1) a continuous function on the interval [a, b] \u00b7 2) differentiable on the open interval (a, b) \u00b7 3) and f(a) = f(b),",
+    "googleLink": "http://www.google.com/url?q=https://www.analyzemath.com/calculus/MeanValueTheorem/rolle's_theorem_questions_and_examples.html&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChAWMAF6BAgJEAE&usg=AOvVaw07P4rnpu-VpuZKSlv7SlPM",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Rolle's Theorem - Softschools.comwww.softschools.com \u203a calculus \u203a rolles_theorem",
+    "link": "https://www.softschools.com/math/calculus/rolles_theorem/",
+    "description": "Rolle's Theorem. The Extreme Value Theorem states that on a closed interval a continuous function must have a minimum and maximum point. These extrema\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.softschools.com/math/calculus/rolles_theorem/&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChAWMAJ6BAgDEAE&usg=AOvVaw276jNTP11JC46i-vnmf6w-",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Rolle's theorem | StudyPugwww.studypug.com \u203a calculus-help \u203a rolles-theorem",
+    "link": "https://www.studypug.com/calculus-help/rolles-theorem",
+    "description": "What is Rolle's Theorem? Rolle's Theorem is one of the most important Calculus theorems which say the following: Let f(x) satisfy the following conditions:.",
+    "googleLink": "http://www.google.com/url?q=https://www.studypug.com/calculus-help/rolles-theorem&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChAWMAN6BAgHEAE&usg=AOvVaw0-XD-dZYDGMwzLDLHPeMIA",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Rolle's Theorem | Lagrange's Mean Value Theorem - Byjusbyjus.com \u203a Maths \u203a Math Article",
+    "link": "https://byjus.com/maths/rolles-theorem-and-lagranges-mean-value-theorem/",
+    "description": "Rolle's Theorem. A special case of Lagrange's mean value theorem is Rolle's Theorem which states that: If a function f is defined in the closed interval [a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://byjus.com/maths/rolles-theorem-and-lagranges-mean-value-theorem/&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChAWMAR6BAgAEAE&usg=AOvVaw3af4pSjXSCINRzkMvL4Nrf",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Mean value theorem (video) | Khan Academywww.khanacademy.org \u203a math \u203a ap-calculus-ab \u203a m...",
+    "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-1/v/mean-value-theorem-1",
+    "description": "14.08.2016 \u00b7 Rolle's theorem states the following: suppose \u0192 is a function continuous on the closed interval ...Dauer: 6:37\nGepostet: 14.08.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-1/v/mean-value-theorem-1&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChC3AjAFegQIBhAB&usg=AOvVaw1SzejBDGX8lRHok2hYhWqN",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "A simple extension of Rolle's theorem and its relation with multiple ...www.scielo.org.co \u203a scielo",
+    "link": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S2248-60462019000200241&lng=en&nrm=iso",
+    "description": "Mean value theorems relate the values of the function with its derivative or integral and are important in the proof of several calculus theorems. Rolle's theorem is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.scielo.org.co/scielo.php%3Fscript%3Dsci_arttext%26pid%3DS2248-60462019000200241%26lng%3Den%26nrm%3Diso&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChAWMAZ6BAgEEAE&usg=AOvVaw0iJAAu2Hvmd7Z4qLZv6C3M",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Mean Value Theorem & Rolle's Theorem - Matheno.com | Matheno ...www.matheno.com \u203a ... \u203a Calculus 1",
+    "link": "https://www.matheno.com/calculus-1/mean-value-theorem-rolles-theorem/",
+    "description": "f \u2032 ( c ) = 0 for some number c in the open interval ( a , b ) In words: when f ( a ) = f ( b ) , the slope of the secant line connecting the endpoints is zero, and hence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matheno.com/calculus-1/mean-value-theorem-rolles-theorem/&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChAWMAd6BAgBEAE&usg=AOvVaw2ylbuFjGra2RchPdjTu-LT",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Rolle's Theorem \u2013 GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/ZFR2ERC3",
+    "description": "This applet shows interactively the points in which the Rolle's Theorem for a real function holds true. Type the function expression in the field, and the interval\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/ZFR2ERC3&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChAWMAh6BAgFEAE&usg=AOvVaw0djn1oGljIvWOXLANtA1kv",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Rolle's Theorem - Wolfram Demonstrations Projectdemonstrations.wolfram.com \u203a RollesTheorem",
+    "link": "http://demonstrations.wolfram.com/RollesTheorem/",
+    "description": "20.05.2014 \u00b7 Rolles theorem states that if a function is continuous on and differentiable on with then there is at least one value with where the derivative is 0\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://demonstrations.wolfram.com/RollesTheorem/&sa=U&ved=2ahUKEwjm4OL5oeruAhUywYsBHWMHDo44ChAWMAl6BAgCEAE&usg=AOvVaw1KTrnwlXBfWlw9Yzpgs5Bz",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Calculus/Rolle's Theorem - Wikibooks, open books for an open worlden.wikibooks.org \u203a wiki \u203a Calculus \u203a Rolle's_Theorem",
+    "link": "https://en.wikibooks.org/wiki/Calculus/Rolle%27s_Theorem",
+    "description": "Rolle's Theorem If a function, f ( x ) {\\displaystyle f(x)\\ } f(x)\\ , is continuous on the closed interval [ a , b ] {\\displaystyle [a,b]\\ } [a,b]\\ , is differentiable on the open\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikibooks.org/wiki/Calculus/Rolle%2527s_Theorem&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBAWMAB6BAgBEAE&usg=AOvVaw32cL_t_JkfiAIdoEQncwQ-",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Understanding Rolle's Theorem \u2014 Krista King Math | Online math tutorwww.kristakingmath.com \u203a blog \u203a rolles-theorem",
+    "link": "https://www.kristakingmath.com/blog/rolles-theorem",
+    "description": "10.10.2020 \u00b7 What does Rolle's Theorem say? Rolle's Theorem is a specific instance of the Mean Value ...Dauer: 5:12\nGepostet: 10.10.2020",
+    "googleLink": "http://www.google.com/url?q=https://www.kristakingmath.com/blog/rolles-theorem&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBC3AjABegQICRAB&usg=AOvVaw16O9iEli9xz_NQyKzjSTdk",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Math eBook: The Rolle's Theorem - eCourseswww.ecourses.ou.edu \u203a cgi-bin \u203a ebook",
+    "link": "https://www.ecourses.ou.edu/cgi-bin/ebook.cgi?topic=ma&chap_sec=04.2&page=theory",
+    "description": "Rolles's theorem is used to find a function's horizontal tangent line. It is a special case of the mean value theorem which is discussed in the next section. Rolle's\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ecourses.ou.edu/cgi-bin/ebook.cgi%3Ftopic%3Dma%26chap_sec%3D04.2%26page%3Dtheory&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBAWMAJ6BAgHEAE&usg=AOvVaw2ngCL39euxl4S9Ou3NEW6n",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "2042: Rolle's Theorem - explain xkcdwww.explainxkcd.com \u203a 2042:_Rolle's_Theorem",
+    "link": "https://www.explainxkcd.com/wiki/index.php/2042:_Rolle%27s_Theorem",
+    "description": "18.09.2018 \u00b7 From Wikipedia, the free encyclopedia \u00b7 Rolle's theorem states that any real, differentiable function that has the same value at two different points\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.explainxkcd.com/wiki/index.php/2042:_Rolle%2527s_Theorem&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBAWMAN6BAgIEAE&usg=AOvVaw2r-BxmoJbizVBWQi22jkjy",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Rolle's Theorem Contradiction - Mathematics Stack Exchangemath.stackexchange.com \u203a ...",
+    "link": "https://math.stackexchange.com/q/556159",
+    "description": "You almost got it. The hypothesis comes from the fact that you have two roots. Suppose for the sake of contradiction that the function f(x)=x3\u22123x+b has two (or\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/q/556159&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBAWMAR6BAgFEAE&usg=AOvVaw0MO9aXUvLxmw3H1KEyC1Cy",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Some generalizations of Rolle's theoremwww.tandfonline.com \u203a ... \u203a Volume 35, Issue 4",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/00207390410001696219",
+    "description": "Joseph Louis Lagrange (1736\u20131813) and Augustin-Louis Cauchy (1789\u20131857) derived their mean-value theorems easily using Rolle's theorem on suitably\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tandfonline.com/doi/full/10.1080/00207390410001696219&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBAWMAV6BAgAEAE&usg=AOvVaw2jQWFkpG1Phiw8_MwXac-l",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Understanding Rolle's Theorem - ERICfiles.eric.ed.gov \u203a fulltext",
+    "link": "https://files.eric.ed.gov/fulltext/EJ867895.pdf",
+    "description": "Understanding Rolle's Theorem. Revathy Parameswaran. This paper reports on an experiment studying twelfth grade students' understanding of Rolle's.",
+    "googleLink": "http://www.google.com/url?q=https://files.eric.ed.gov/fulltext/EJ867895.pdf&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBAWMAZ6BAgCEAE&usg=AOvVaw0Nxmao9WxPbCaRsCCo3DYQ",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Rolle's Theorem - ProofWikiproofwiki.org \u203a wiki \u203a Rolle's_Theorem",
+    "link": "https://proofwiki.org/wiki/Rolle%27s_Theorem",
+    "description": "08.12.2020 \u00b7 Contents \u00b7 1 Theorem \u00b7 2 Proof 1 \u00b7 3 Proof 2 \u00b7 4 Also see \u00b7 5 Source of Name \u00b7 6 Sources\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Rolle%2527s_Theorem&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBAWMAd6BAgDEAE&usg=AOvVaw2ljnV6BVtUAA2Zvol3ZPKo",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "A Multidimensional Version of Rolle's Theorem - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2975011",
+    "description": "Rolle's Theorem, the Mean Value Theorem and the Cauchy Generalized Mean. Value Theorem are easily derived from Theorem 1. differentiable on (a, b). Then\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2975011&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBAWMAh6BAgGEAE&usg=AOvVaw3lef0ZsPpYr5bd7HNnsAxI",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Generalized Rolle's Theorempeople.clas.ufl.edu \u203a bruceedwards \u203a files \u203a GeneralRolle",
+    "link": "https://people.clas.ufl.edu/bruceedwards/files/GeneralRolle.pdf",
+    "description": "The Generalized. Rolle's Theorem extends this idea to higher order derivatives: Generalized Rolle's Theorem: Let f be continuous on [ ],a b and ntimes.",
+    "googleLink": "http://www.google.com/url?q=https://people.clas.ufl.edu/bruceedwards/files/GeneralRolle.pdf&sa=U&ved=2ahUKEwiInuT6oeruAhVdwosBHYM7BhQ4FBAWMAl6BAgEEAE&usg=AOvVaw2Sn3LW3RnYM2HshBQ3amWa",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Rolle's Theorem | Brilliant Math & Science Wikibrilliant.org \u203a wiki \u203a rolles-theorem",
+    "link": "https://brilliant.org/wiki/rolles-theorem/",
+    "description": "Rolle's theorem is one of the foundational theorems in differential calculus. It is a special case of, and in fact is equivalent to, the mean value theorem, which in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://brilliant.org/wiki/rolles-theorem/&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAB6BAgDEAE&usg=AOvVaw19EE8gG5tJ5pqVHXkpnzsG",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "State Rolle's theorem. | Maths Questions - Topprwww.toppr.com \u203a ... \u203a Mean Value Theorems",
+    "link": "https://www.toppr.com/ask/question/state-rolles-theorem/",
+    "description": "Rolle's theorem states that if a function is continuous on the closed interval [a,b] and differentiable on the open interval (a,b) and f(a)=f(b) , then there exists a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.toppr.com/ask/question/state-rolles-theorem/&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAF6BAgHEAE&usg=AOvVaw36tg7-4fhi36imImLuVvPA",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "(PDF) Publications on extensions of Rolle's theorem - ResearchGatewww.researchgate.net \u203a publication \u203a 326622118_P...",
+    "link": "https://www.researchgate.net/publication/326622118_Publications_on_extensions_of_Rolle's_theorem",
+    "description": "25.07.2018 \u00b7 PDF | Extensions of Rolle's theorem | Find, read and cite all the research you need on ResearchGate.",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/326622118_Publications_on_extensions_of_Rolle's_theorem&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAJ6BAgIEAE&usg=AOvVaw36aT3CNabrIHn0cL-WgI_7",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "A GENERALIZATION OF ROLLE'S THEOREM WITH APPLICATION ...www.pnas.org \u203a content",
+    "link": "https://www.pnas.org/content/15/4/362",
+    "description": "A GENERALIZATION OF ROLLE'S THEOREM WITH APPLICATION TO ENTIRE FUNCTIONS. J. Dieudonn\u00e9. PNAS April 15, 1929 15 (4) 362-367;\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.pnas.org/content/15/4/362&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAN6BAgJEAE&usg=AOvVaw26yjLy2Pdu0xz2UwLvqoD9",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Rolle's Theorem - Wolfram Cloudwww.wolframcloud.com \u203a RollesTheorem-source",
+    "link": "https://www.wolframcloud.com/objects/demonstrations/RollesTheorem-source.nb",
+    "description": "where the derivative is 0. In terms of the graph, this means that the function has a horizontal tangent line at some point. c. in the interval. Rolle's theorem can be\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wolframcloud.com/objects/demonstrations/RollesTheorem-source.nb&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAR6BAgGEAE&usg=AOvVaw2mqSV2RsnR7Gu6p5vmk9Ju",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Rolle's Theorem - Coping With Calculuswww.copingwithcalculus.com \u203a RollesTheorem",
+    "link": "http://www.copingwithcalculus.com/RollesTheorem.html",
+    "description": "Rolle's Theorem states that if we have a continuous, differentiable function along some interval, and the endpoints of the interval equal each other, then there is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.copingwithcalculus.com/RollesTheorem.html&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAV6BAgEEAE&usg=AOvVaw35u-XCZNTpqje594NnxRYz",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Rolle's Theorem - xkcdxkcd.com \u203a ...",
+    "link": "https://xkcd.com/2042/",
+    "description": "Rolle's Theorem. |< \u00b7 < Prev \u00b7 Random \u00b7 Next > \u00b7 >|. Permanent link to this comic: https://xkcd.com/2042/ Image URL (for hotlinking/embedding):\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://xkcd.com/2042/&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAZ6BAgAEAE&usg=AOvVaw3Ww5RUTG5qbxU37RMy0McZ",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Rolle's Theorem for Polynomials of Degree Four in a Hilbert Space ...www.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0022247X0197708X",
+    "description": "In an infinite-dimensional real Hilbert space, we introduce a class of fourth-\u200bdegree polynomials which do not satisfy Rolle's Theorem in the unit ball. Extending\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S0022247X0197708X&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAd6BAgBEAE&usg=AOvVaw0rjUv-o8Me6XKsIVVuty_D",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Rolle's Theorem - UBC Mathwww.math.ubc.ca \u203a CLP1 \u203a clp_1_dc \u203a subsection-37",
+    "link": "http://www.math.ubc.ca/~CLP/CLP1/clp_1_dc/subsection-37.html",
+    "description": "Rolle's theorem guarantees that for any differentiable function that starts and ends at the same value, there will always be at least one point between the start\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.ubc.ca/~CLP/CLP1/clp_1_dc/subsection-37.html&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAh6BAgFEAE&usg=AOvVaw14p1WqqheXZd6YXamHHiX_",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Rolle's Theorem - Vedantuwww.vedantu.com \u203a maths \u203a rolles-theorem",
+    "link": "https://www.vedantu.com/maths/rolles-theorem",
+    "description": "Rolle's Theorem. Rolle's Theorem Class 12 is one of the fundamental theorems in differential calculus. It is an exceptional case of mean value theorem which in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.vedantu.com/maths/rolles-theorem&sa=U&ved=2ahUKEwioquX7oeruAhUlzIsBHcBvAI04HhAWMAl6BAgCEAE&usg=AOvVaw3OufjeWM9e6UEQVPZuC0PA",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Mean Value Theorem from Rolle's Theorem - Application Centerwww.maplesoft.com \u203a applications \u203a view",
+    "link": "https://www.maplesoft.com/applications/view.aspx?SID=1666",
+    "description": "Mean Value Theorem from Rolle's Theorem. This worksheet illustrates the proof of the Mean Value Theorem using Rolle's Theorem. Learn about Maple\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maplesoft.com/applications/view.aspx%3FSID%3D1666&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAB6BAgCEAE&usg=AOvVaw0bZb1totPqCPrJaNveWQbi",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Rolle's Theorem and The Mean Value Theoremwww.swl.k12.oh.us \u203a Downloads \u203a 3-2 Rolle's Mean Value",
+    "link": "https://www.swl.k12.oh.us/Downloads/3-2%20Rolle's%20Mean%20Value.pdf",
+    "description": "1. Rolle's Theorem and. The Mean Value Theorem x y c b a. A. B x. Tangent line is parallel to chord AB. If f is continuous on the closed interval [a, b] and.",
+    "googleLink": "http://www.google.com/url?q=https://www.swl.k12.oh.us/Downloads/3-2%2520Rolle's%2520Mean%2520Value.pdf&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAF6BAgIEAE&usg=AOvVaw39FXKCBadAGj1lA9QLtRUw",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "XKCD, Rolle's Theorem - Security Boulevardsecurityboulevard.com \u203a Cybersecurity \u203a Humor",
+    "link": "https://securityboulevard.com/2018/09/xkcd-rolles-theorem/",
+    "description": "06.09.2018 \u00b7 via the comic content delivery system known as Randal Munroe at XKCD! Permalink.",
+    "googleLink": "http://www.google.com/url?q=https://securityboulevard.com/2018/09/xkcd-rolles-theorem/&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAJ6BAgHEAE&usg=AOvVaw09C9hjRFcTj8NGKiy73Bv3",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "xkcd 2042 - Rolle's Theorem : math - Redditwww.reddit.com \u203a math \u203a xkcd_2042_rolles_theorem",
+    "link": "https://www.reddit.com/r/math/comments/9dfz6p/xkcd_2042_rolles_theorem/",
+    "description": "The mean value theorem and Taylor's theorem both follow by clever applications of Rolle, and gives a quantitative statement of how the derivatives control the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/math/comments/9dfz6p/xkcd_2042_rolles_theorem/&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAN6BAgJEAE&usg=AOvVaw2gDGy5ryp4TjheJgOMe38e",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Rolle's theorem - definition of Rolle's theorem by The Free Dictionarywww.thefreedictionary.com \u203a Rolle's+theorem",
+    "link": "https://www.thefreedictionary.com/Rolle%27s+theorem",
+    "description": "Rolle's theorem. (r\u00f4lz, r\u014dlz). n. A theorem stating that if a curve is continuous, has two x-\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.thefreedictionary.com/Rolle%2527s%2Btheorem&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAR6BAgBEAE&usg=AOvVaw1Z6xUCP9mQ8leQ8WH0-yrz",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Rolle's theorem in n dimensions - MathOverflowmathoverflow.net \u203a questions \u203a rolles-theorem-in-n-...",
+    "link": "https://mathoverflow.net/questions/10408/rolles-theorem-in-n-dimensions",
+    "description": "Here is a solution in the C1 case [but see upd]. Suppose the vectors F\u2032(t1),\u2026,F\u200b\u2032(tn) are linearly independent for all 0\u2264t1<\u22ef<tn\u22641. Let L(t1,\u2026,tn\u22121) be vector\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/10408/rolles-theorem-in-n-dimensions&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAV6BAgEEAE&usg=AOvVaw386LpvVgSZw8QT6h9U0Jxl",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Ex 5.8, 1 - Verify Rolle's theorem for f(x) = x2 + 2x - 8 - Teachoowww.teachoo.com \u203a category",
+    "link": "https://www.teachoo.com/3713/704/Ex-5.8--1---Verify-Rolle-s-theorem-for-f(x)--x2---2x---8/category/Ex-5.8/",
+    "description": "Rolle's theorem is satisfied if Condition 1 f x =x2 + 2x \u2013 8 is continuous at \u22124 , 2\u200b  Since f x =x2 + 2x \u2013 8 is a polynomial & Every polynomial\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.teachoo.com/3713/704/Ex-5.8--1---Verify-Rolle-s-theorem-for-f(x)--x2---2x---8/category/Ex-5.8/&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAZ6BAgAEAE&usg=AOvVaw2sbWGw6cO2CxO_V_-b_v5i",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Rolle's Theorem - Oxford Referencewww.oxfordreference.com \u203a view \u203a authority.2011...",
+    "link": "https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100426993",
+    "description": "Rolle's Theorem. Quick Reference. The following result concerning the existence of stationary points of a function f: Theorem. Let f\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100426993&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAd6BAgDEAE&usg=AOvVaw0noW9UXOTDZXfX4uEbHmxA",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Rolle's Theorem | Superprofwww.superprof.co.uk \u203a ... \u203a Calculus \u203a Functions",
+    "link": "https://www.superprof.co.uk/resources/academic/maths/calculus/functions/rolles-theorem.html",
+    "description": "Bewertung  5,0  (1)",
+    "googleLink": "http://www.google.com/url?q=https://www.superprof.co.uk/resources/academic/maths/calculus/functions/rolles-theorem.html&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAh6BAgGEAE&usg=AOvVaw2wEiT9JBnz36JHsVBR6CoZ",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Rolle's theorem: from a simple theorem to an extremely powerful tooldmuw.zum.de \u203a images \u203a Rolle_Khovanskii",
+    "link": "http://dmuw.zum.de/images/a/ad/Rolle_Khovanskii.pdf",
+    "description": "10.11.2011 \u00b7 Figure 1: Rolle's theorem. However, not all polynomials of degree n have so many real roots. Indeed, consider the polynomial xn \u2212 1.",
+    "googleLink": "http://www.google.com/url?q=http://dmuw.zum.de/images/a/ad/Rolle_Khovanskii.pdf&sa=U&ved=2ahUKEwiKlOX8oeruAhXqKqYKHQzRCFU4KBAWMAl6BAgFEAE&usg=AOvVaw35rXPuj5dS4z3fM2BOAnjo",
+    "page": 4,
+    "index": 9
+  }
+]

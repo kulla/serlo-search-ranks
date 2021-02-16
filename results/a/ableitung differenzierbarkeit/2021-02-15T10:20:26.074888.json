@@ -1,0 +1,402 @@
+[
+  {
+    "name": "",
+    "link": "https://de.serlo.org/mathe/1651/differenzierbarkeit?sa=X&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQ9QF6BAgEEAI",
+    "description": "Differenzierbarkeit ist eine Eigenschaft von Funktionen, die dar\u00fcber Auskunft gibt ob und wo sich eine Funktion ableiten l\u00e4sst. Wir nennen dann diesen Grenzwert Ableitung an der Stelle x 0 \\sf x_0 x0. ... Ist f an jeder Stelle der Definitionsmenge differenzierbar, so nennt man f differenzierbar.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Differenzierbarkeit (f\u00fcr Funktionen mit einer Variablen) | MassMaticswww.massmatics.de \u203a merkzettel",
+    "link": "https://www.massmatics.de/merkzettel/#!134:Differenzierbarkeit_fuer_Funktionen_mit_einer_Variablen",
+    "description": "Diesen Grenzwert muss man im im seltesten Fall direkt berechnen - zur Bestimmung der Ableitung einer Funktion werden hier die Ableitungsregeln benutzt.",
+    "googleLink": "http://www.google.com/url?q=https://www.massmatics.de/merkzettel/%23!134:Differenzierbarkeit_fuer_Funktionen_mit_einer_Variablen&sa=U&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQFjADegQIBhAB&usg=AOvVaw1d4eOu1sXdM23JXP8cWKHs",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Ableitung und Differenzierbarkeit \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Ableitung_und_Differe...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Ableitung_und_Differenzierbarkeit",
+    "description": "Mit der Ableitung werden wir eines der wichtigsten Konzepte der Analysis kennenlernen. Die Ableitung entspricht der \u00c4nderungsrate einer Funktion. Sie wird in\u00a0...\nIntuitionen der Ableitung \u00b7 Ableitung als Steigung ... \u00b7 Links- und rechtsseitige ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Ableitung_und_Differenzierbarkeit&sa=U&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQFjAOegQIAhAB&usg=AOvVaw32rFPf--c4KEmYkcXOuDHv",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Differenzierbarkeit an einer Stelle, Grenzwert existiert ... - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=UyTKlAs9I-M",
+    "description": "04.11.2014 \u00b7 Differenzierbarkeit an einer Stelle, Grenzwert existiert,DifferentialquotientWenn noch ...Dauer: 3:58\nGepostet: 04.11.2014",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DUyTKlAs9I-M&sa=U&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQtwIwD3oECAMQAQ&usg=AOvVaw3tA-NStBQ4Fv2Pb8Kd7HNa",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Differenzierbarkeit \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Differenzierbarkeit",
+    "link": "https://de.wikipedia.org/wiki/Differenzierbarkeit",
+    "description": "-mal stetig differenzierbar. Sind alle Ableitungen wieder differenzierbar, so nennt\u200b\u00a0...\nDefinitionen \u00b7 Beispiele f\u00fcr nicht ... \u00b7 Zusammenh\u00e4nge ... \u00b7 Gegenbeispiele",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Differenzierbarkeit&sa=U&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQFjAQegQICRAB&usg=AOvVaw2i8RMQjV4xRL8Hjk5KWGue",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Differentialrechnung \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Differentialrechnung",
+    "link": "https://de.wikipedia.org/wiki/Differentialrechnung",
+    "description": "Ableitungen definiert werden. Eine Funktion kann dementsprechend einfach differenzierbar, zweifach differenzierbar etc. sein. Die zweite Ableitung hat zahlreiche\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Differentialrechnung&sa=U&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQFjARegQIChAB&usg=AOvVaw24uME02gpTCcneLbmybAiX",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Differenzierbarkeit von Funktionen in Mathematik | Sch\u00fclerlexikon ...www.lernhelfer.de \u203a schuelerlexikon \u203a mathematik-abitur \u203a artikel \u203a differ...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/differenzierbarkeit-von-funktionen",
+    "description": "Die Definitionen von Differenzierbarkeit und Stetigkeit f\u00fchren zu der Folgerung, eine Funktion f kann an ... Dieser Grenzwert f'(x0) hei\u00dft Ableitung von f in x0.",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/differenzierbarkeit-von-funktionen&sa=U&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQFjASegQIARAB&usg=AOvVaw3HGCQEem-hskG2VgBWH2pk",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Differenzieren 2 - Mathematische Hintergr\u00fcnde - Mathe-online.atwww.mathe-online.at \u203a mathint \u203a diff2",
+    "link": "https://www.mathe-online.at/mathint/diff2/i.html",
+    "description": "Differenzierbar | Pr\u00e4zise Definition der Ableitung | Rechts- und linksseitige Ableitung | Differenzierbarkeit impliziert Stetigkeit | Stetig differenzierbar | Nirgends\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-online.at/mathint/diff2/i.html&sa=U&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQFjAbegQICBAB&usg=AOvVaw2W-MMHG2MdUm_wF1dwDIOx",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Ableitung und Differenzierbarkeit - Rationale Funktionen - Netalive.orgwww.netalive.org \u203a rationale-funktionen \u203a chapters \u203a 4.3.html",
+    "link": "http://www.netalive.org/rationale-funktionen/chapters/4.3.html",
+    "description": "4.3 Ableitung und Differenzierbarkeit. Will man eine abschnittsweise definierte Funktion ableiten, muss man jede der Teilfunktionen ableiten. Es gilt dann, au\u00dfer\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.netalive.org/rationale-funktionen/chapters/4.3.html&sa=U&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQFjAcegQIBRAB&usg=AOvVaw0cv58C83GwIuI6TFYl6PFI",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Differenzierbarkeit Ableitung einer Betragsfunktion - Math-Grainwww.math-grain.de \u203a download \u203a diff-r \u203a ableitung \u203a differenzierbar-1",
+    "link": "http://www.math-grain.de/download/m1/diff-r/ableitung/differenzierbar-1.pdf",
+    "description": "Eine Funktion f ist an der Stelle nicht differenzierbar, wenn die links- seitige und die rechtsseitige Ableitung verschieden sind. Definition: Bei einer \u201cKnickstelle\u201d ist\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math-grain.de/download/m1/diff-r/ableitung/differenzierbar-1.pdf&sa=U&ved=2ahUKEwiRhaH2x-vuAhWkxFkKHfEdB4cQFjAdegQIBxAB&usg=AOvVaw1Jdx29K5Ywlq8l-josdxdR",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Kapitel 5 Differenzierbare Funktionenwww.math.uni-hamburg.de \u203a home \u203a lauterbach \u203a scripts \u203a analysis",
+    "link": "https://www.math.uni-hamburg.de/home/lauterbach/scripts/analysis/ch5.pdf",
+    "description": "DIFFERENZIERBARKEIT. 101. Bemerkung 5.1.6 (Schreibweise f\u00fcr Ableitung). F\u00fcr f\u2032(x) schreiben wir auch oft Df(x). Satz 5.1.7 (Rechnen mit Ableitungen).",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-hamburg.de/home/lauterbach/scripts/analysis/ch5.pdf&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChAWMAB6BAgDEAE&usg=AOvVaw0-JpgR9tCVTMoGXBxBpEER",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Stetig, Differenzierbar, Integrierbar \u2022 Mathe-Brinkmann123mathe.de \u203a Mathematik",
+    "link": "https://123mathe.de/stetig-differenzierbar-integrierbar",
+    "description": "08.12.2020 \u00b7 Differenzierbarkeit. Beispiele differenzierbarer Funktionen. Die erste Ableitung einer Funktion an der Stelle x0 gibt die Steigung der Tangente\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://123mathe.de/stetig-differenzierbar-integrierbar&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChAWMAF6BAgHEAE&usg=AOvVaw2pJ0nLhcZRRip9eZfNwW85",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Differentialrechnung: Stetigkeit und Differenzierbarkeitwww.fernstudium-wiwi.de \u203a Module",
+    "link": "https://www.fernstudium-wiwi.de/differentialrechnung-stetigkeit-und-differenzierbarkeit/",
+    "description": "01.04.2012 \u00b7 Der Grenzwert ist dabei nichts anderes, als die Ableitung der Funktion. Existiert an der Stelle x = x0 ein Grenzwert, spricht man auch davon, dass\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.fernstudium-wiwi.de/differentialrechnung-stetigkeit-und-differenzierbarkeit/&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChAWMAJ6BAgJEAE&usg=AOvVaw2Xivl3gLTwZJXCUMPcoJyw",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Differenzierbarkeit von Funktionenwww.math.uni-sb.de \u203a fuchs \u203a Ana1 \u203a Paragraph11",
+    "link": "https://www.math.uni-sb.de/ag/fuchs/Ana1/Paragraph11.pdf",
+    "description": "\u00a8Ubung: Berechnung der Ableitung von arcsin, arccos,ar sinh... Definition 11.3 : 1\u200b) f : I \u2192 C hei\u00dft differenzierbar auf I : \u21d0\u21d2 f ist an jeder Stelle x \u2208 I diff'bar.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-sb.de/ag/fuchs/Ana1/Paragraph11.pdf&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChAWMAN6BAgIEAE&usg=AOvVaw3yZYoEThkLMvGzchQFCpwt",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 1.3 Differenzierbarkeitwww2.math.uni-wuppertal.de \u203a ~fritzsch \u203a lectures \u203a ana",
+    "link": "http://www2.math.uni-wuppertal.de/~fritzsch/lectures/ana/an2_13.pdf",
+    "description": "ellen Ableitungen Djf in einem Punkt a \u2208 B wiederum partiell differenzierbar, ... Man nennt diesen Ausdruck die 2-te partielle Ableitung von f nach xi und.",
+    "googleLink": "http://www.google.com/url?q=http://www2.math.uni-wuppertal.de/~fritzsch/lectures/ana/an2_13.pdf&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChAWMAR6BAgFEAE&usg=AOvVaw2It870zd6v0gLt5mvWm2Np",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Totale Differenzierbarkeit \u00b7 Erkl\u00e4rung + Beispiel | [mit Video] - Studyflixstudyflix.de \u203a mathematik \u203a totale-differenzierbarkeit-1348",
+    "link": "https://studyflix.de/mathematik/totale-differenzierbarkeit-1348",
+    "description": "23.06.2019 \u00b7 Totale Ableitung. Die lineare Abbildung A kann durch eine m \\times n \u2013 Matrix beschrieben ...Dauer: 3:43\nGepostet: 23.06.2019",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/mathematik/totale-differenzierbarkeit-1348&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChC3AjAFegQIAhAB&usg=AOvVaw2rO-s_2imGUSssWqAXMYCu",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 25. Differenzierbarkeit im Mehrdimensionalenwww.mathematik.uni-kl.de \u203a class \u203a gdm-2019 \u203a gdm-2019-c25",
+    "link": "https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c25.pdf",
+    "description": "Exis- tieren alle diese partiellen Ableitungen (aber nicht notwendig alle Richtungsableitungen) von f in a, so nennt man f in a partiell differenzierbar. Die Funktion f\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c25.pdf&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChAWMAZ6BAgAEAE&usg=AOvVaw2P2_iYSLhhEYGWaSX-g9m1",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] \u00a7 25 Einseitige Differenzierbarkeit; Differen- zierbarkeit ... - Uni-DUEwww.uni-due.de \u203a rogge \u203a Ana25",
+    "link": "https://www.uni-due.de/~hn213me/sk/rogge/Ana25.pdf",
+    "description": "F\u00fcr differenzierbare Funktionen auf Intervallen l\u00e4\u00dft sich die Differenzierbarkeit auch mit Hilfe von einseitigen Ableitungen formulieren. 25.4. Differenzierbarkeit auf\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-due.de/~hn213me/sk/rogge/Ana25.pdf&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChAWMAd6BAgEEAE&usg=AOvVaw1MgIG6GM4A-P-mVChftM0d",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Differentialrechnungwww.math.kit.edu \u203a ianm3 \u203a lehre \u203a media \u203a kapitel6",
+    "link": "http://www.math.kit.edu/ianm3/lehre/math2infowirt2011s/media/kapitel6.pdf",
+    "description": "6.1 Differenzierbarkeit. Definition (differenzierbare Funktion, Ableitung). Sei (W, \u00b7) ein normierter Raum \u00fcber K, sei D \u2286 R eine nichtleere Menge und x0 \u2208 D\u25e6\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.kit.edu/ianm3/lehre/math2infowirt2011s/media/kapitel6.pdf&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChAWMAh6BAgBEAE&usg=AOvVaw03otSNM3tl5n1ZKvo_jYDm",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 3 Differenzierbarkeit und Ableitung (Differentialrechnung I)www2.mathematik.hu-berlin.de \u203a skript \u203a Skript_Mathe_1_Kap03",
+    "link": "https://www2.mathematik.hu-berlin.de/~loebhard/mathematik_1/skript/Skript_Mathe_1_Kap03.pdf",
+    "description": "existiert, so ist f differenzierbar in a und g ist die Ableitung von f in a. Man schreibt dann g = f/(a). Bemerkung 3.2. Mit h = x \u2212 a kann man im Grenzwert x durch h\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www2.mathematik.hu-berlin.de/~loebhard/mathematik_1/skript/Skript_Mathe_1_Kap03.pdf&sa=U&ved=2ahUKEwi-49P2x-vuAhWBylkKHW1QCIk4ChAWMAl6BAgGEAE&usg=AOvVaw0Avq7mjgFPIPdhlPBtL4mI",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 7.5A Beispiele zur Stetigkeit und Differenzierbarkeitwww2.iazd.uni-hannover.de \u203a ~erne \u203a Mathematik2 \u203a dateien \u203a maple",
+    "link": "http://www2.iazd.uni-hannover.de/~erne/Mathematik2/dateien/maple/MB_7_5A.pdf",
+    "description": "|(x,y)| beschreibt einen Kegel. Sie ist \u00fcberall stetig und au\u00dferhalb des Nullpunktes auch beliebig oft differenzierbar. Die erste Ableitung, also der Gradient, lautet:.",
+    "googleLink": "http://www.google.com/url?q=http://www2.iazd.uni-hannover.de/~erne/Mathematik2/dateien/maple/MB_7_5A.pdf&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAB6BAgEEAE&usg=AOvVaw3oOLlKLFrRwIdYHKgyFx6K",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] 13 Differenzierbare Funktionenwww.mathematik.uni-dortmund.de \u203a ~lschwach \u203a HM-II \u203a Skript",
+    "link": "http://www.mathematik.uni-dortmund.de/~lschwach/SS12/HM-II/Skript.pdf",
+    "description": "Differenzierbare Funktionen. Definition: Ableitung. Festlegung wie in im Abschnitt \u00fcber Stetigkeit: Der Definitionsbereich D ist die endliche Vereinigung von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-dortmund.de/~lschwach/SS12/HM-II/Skript.pdf&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAF6BAgHEAE&usg=AOvVaw160-dhLoxVL_w9TpvAt9St",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Differenzierbarkeitwww.biancahoegel.de \u203a mathe \u203a diff \u203a differenzierbarkeit",
+    "link": "https://www.biancahoegel.de/mathe/diff/differenzierbarkeit.html",
+    "description": "bezeichnet man als die Ableitung von f an der Stelle x_{0} . Differenzierbare Funktionen sind damit genau diejenigen Funktionen, die sich lokal durch lineare\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.biancahoegel.de/mathe/diff/differenzierbarkeit.html&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAJ6BAgJEAE&usg=AOvVaw3B8HMtbV-lOj_UhpHewWCG",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Differenzierbarkeit von Funktionen mehrerer Variablenwww.wias-berlin.de \u203a LEHRE \u203a ANALYSIS_2_LEHR \u203a ana2_lehr_10",
+    "link": "https://www.wias-berlin.de/people/john/LEHRE/ANALYSIS_2_LEHR/ana2_lehr_10.pdf",
+    "description": "die Richtungsableitung (Gateaux4\u2013Ableitung) von f(x) in \u03be in Richtung v. Die Ableitungen in Richtung der kartesischen Einheitsvektoren e1,...,en nennt man\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wias-berlin.de/people/john/LEHRE/ANALYSIS_2_LEHR/ana2_lehr_10.pdf&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAN6BAgIEAE&usg=AOvVaw2Odjt0Os6-7qzRsshgs-cp",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Stetigkeit und Differenzierbarkeit: Stetigkeit und Differenzierbarkeit ...www.br.de \u203a ... \u203a Differentialrechnung",
+    "link": "https://www.br.de/telekolleg/faecher/mathematik/trimester2/telekolleg-mathematik-differentialrechnung-stetigkeit-112.html",
+    "description": "Pr\u00fcfung der Differenzierbarkeit - klicken Sie bitte auf die Lupe. Die Ableitung der Funktion f(x) = x plus 2 im Betrag hat den festen Wert 1. F\u00fcr die linksseitige\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.br.de/telekolleg/faecher/mathematik/trimester2/telekolleg-mathematik-differentialrechnung-stetigkeit-112.html&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAR6BAgDEAE&usg=AOvVaw0Ua4QdvvYCaXIRLecLI3eA",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Kapitel 8 DIFFERENZIERBARKEITwww.mathematik.uni-marburg.de \u203a Analyse \u203a Skript \u203a diffb",
+    "link": "http://www.mathematik.uni-marburg.de/~portenier/Analyse/Skript/diffb.pdf",
+    "description": "in \u0421 existiert. In diesem Fall heist diese Zahl die Ableitung von / in \u0445 und wird mit /\u200b* (\u0445) bezeichnet. Die Funktion / heist(in J ) differenzierbar , falls / in jedem Punkt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-marburg.de/~portenier/Analyse/Skript/diffb.pdf&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAV6BAgFEAE&usg=AOvVaw0qlsB5N9LW6Nq5Rekm6s0o",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Zusammenhang von Differenzierbarkeit und Stetigkeit - Mathepediamathepedia.de \u203a Saetze_Differentialrechnung",
+    "link": "https://mathepedia.de/Saetze_Differentialrechnung.html",
+    "description": "Es zeigt sich, dass aus der Differenzierbarkeit einer Funktion ihre Stetigkeit folgt, ... damit zu verwechseln, dass die Ableitung als Funktion betrachtet stetig ist.",
+    "googleLink": "http://www.google.com/url?q=https://mathepedia.de/Saetze_Differentialrechnung.html&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAZ6BAgBEAE&usg=AOvVaw18IuLHVlQvcw6QlhGi1zOO",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Differenzierbarkeit / Bestimmung der Ableitung mit Hilfe der ...www.mathelounge.de \u203a differenzierbarkeit-bestimmung-ableitung-hilfe-def...",
+    "link": "https://www.mathelounge.de/623956/differenzierbarkeit-bestimmung-ableitung-hilfe-definition",
+    "description": "f ( x ) = x3 \u2013 x2 lim x -> x0 = [ f ( x ) - f ( x0 ) ] / ( x - x0 ) lim x -> x0 = [ ( x3 - x2 ) - ( x0\u200b3 - x02 ) ] / ( x - x0 ) lim x -> x0 = ( x3 - x2 - x03 + x02 ) / ( x - x0 ).",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/623956/differenzierbarkeit-bestimmung-ableitung-hilfe-definition&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAd6BAgAEAE&usg=AOvVaw3nx9fmQQgpVhRbFBbSW3Rh",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 12. Stetigkeit und Differenzierbarkeit.www.math.uni-bielefeld.de \u203a ~sek \u203a funktion \u203a leit12",
+    "link": "https://www.math.uni-bielefeld.de/~sek/funktion/leit12.pdf",
+    "description": "Die Ableitungen einer Funktion. Gegeben sei eine Funktion f : I \u2192 R, die auf einer zusammenh\u00e4ngenden Teilmenge. I von R definiert ist. Mit f\u2032(x0)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-bielefeld.de/~sek/funktion/leit12.pdf&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAh6BAgGEAE&usg=AOvVaw3A-YqVZbKBMkwpn1Hj5LrD",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "17.3 Stetige Differenzierbarkeitwww.mat.univie.ac.at \u203a ~kriegl \u203a Skripten \u203a node16",
+    "link": "https://www.mat.univie.ac.at/~kriegl/Skripten/Math4Ilak2/node16.html",
+    "description": "Differenzierbarkeit via partielle Ableitungen. Ein Abbildung \\bgroup\\color{demo}$ f:E_1\\times \\dots\\ ist genau dann stetig differenzierbar auf\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mat.univie.ac.at/~kriegl/Skripten/Math4Ilak2/node16.html&sa=U&ved=2ahUKEwjD4vn2x-vuAhUyrVkKHbL1AoQ4FBAWMAl6BAgCEAE&usg=AOvVaw3uILzqhHhvbkla5obZTTeI",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Analysis 1 | Mehrfache Differenzierbarkeit \u2013 Oliver Deiser | aleph1www.aleph1.info \u203a Analysis 1 \u203a 4. Differentiation \u203a 2. Ableitungsregeln",
+    "link": "https://www.aleph1.info/?call=Puc&permalink=analysis1_4_2_Z8",
+    "description": "Die Ableitung f \ufeff\u2032 einer differenzierbaren Funktion k\u00f6nnen wir erneut auf Differenzierbarkeit untersuchen und im Fall der Existenz dann die mehrfachen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.aleph1.info/%3Fcall%3DPuc%26permalink%3Danalysis1_4_2_Z8&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAB6BAgEEAE&usg=AOvVaw3R6WUzjTXh0dBDSVUU0gO0",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "32 \u2013 Differenzierbarkeit, Grenzwert der Ableitung \u2013 Mathematical ...me-lrt.de \u203a Bachelor ME-LRT \u203a Analysis I",
+    "link": "https://me-lrt.de/a32-differenzierbarkeit-grenzwert-ableitung",
+    "description": "32 \u2013 Differenzierbarkeit, Grenzwert der Ableitung. admin2; 08. 12. 08; Analysis I \u00b7 0 Comments. a. Zeigen Sie: Ist f:\\mathbb{R} \\to \\mathbb{R} in x_0 \\in \\mathbb{R}\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://me-lrt.de/a32-differenzierbarkeit-grenzwert-ableitung&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAF6BAgJEAE&usg=AOvVaw2yQZJYsg1PJd3H7vDetSfI",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Differenzierbare Funktionenls11-www.cs.tu-dortmund.de \u203a lectures \u203a MAFIN2 \u203a Skript_Kap05",
+    "link": "https://ls11-www.cs.tu-dortmund.de/people/rudolph/teaching/lectures/MAFIN2/SS2017/Skript_Kap05.pdf",
+    "description": "Nach einer generellen Einf\u00fchrung, leiten wir die Ableitungsregeln her, f\u00fchren h\u00f6here Ableitungen ein und nutzen schlie\u00dflich die Ableitungen um Eigenschaften\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ls11-www.cs.tu-dortmund.de/people/rudolph/teaching/lectures/MAFIN2/SS2017/Skript_Kap05.pdf&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAJ6BAgIEAE&usg=AOvVaw2-Edx7esA5IaLABab2Yp2p",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Definition: Differenzierbare Funktionenwww-hm.ma.tum.de \u203a archiv \u203a vorlesungen",
+    "link": "http://www-hm.ma.tum.de/archiv/in2/ss02/vorlesungen/v020618/v020618.pdf",
+    "description": "die (erste) Ableitung von f (an der Stelle \u03be). Anschaulich: Die Funktion f besitzt an der Stelle \u03be eine ein- deutige Tangente, die die Steigung f (\u03be) besitzt.",
+    "googleLink": "http://www.google.com/url?q=http://www-hm.ma.tum.de/archiv/in2/ss02/vorlesungen/v020618/v020618.pdf&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAN6BAgHEAE&usg=AOvVaw11qBvIJhYtPYb2QYvWv_SA",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Differenzierbarkeit - einfach erkl\u00e4rt - das Mathe Forumwww.onlinemathe.de \u203a mathe \u203a inhalt \u203a Differenzierbarkeit",
+    "link": "https://www.onlinemathe.de/mathe/inhalt/Differenzierbarkeit",
+    "description": "Hier findest Du Erkl\u00e4rung und Beispielaufgaben zu Differenzierbarkeit. ... Diesen Grenzwert (Differentialquotient) nennt man Ableitung [mehr dazu] der Funktion\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinemathe.de/mathe/inhalt/Differenzierbarkeit&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAR6BAgGEAE&usg=AOvVaw0EP-4EQ7BOllhuHxPRuU-H",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Alles zum Thema Differenzierbarkeit und Funktionen erkl\u00e4rt!learnattack.de \u203a Sch\u00fclerlexikon \u203a Mathematik Sch\u00fclerlexikon",
+    "link": "https://learnattack.de/schuelerlexikon/mathematik/differenzierbarkeit",
+    "description": "Die Funktion f ist gegeben durch f(x)=(2\u2212x)\u22c5ex, x\u2208R. Die Graphen der Funktion f und ihrer Ableitungsfunktion f\u2032\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://learnattack.de/schuelerlexikon/mathematik/differenzierbarkeit&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAV6BAgDEAE&usg=AOvVaw0hOO4ocm3G9lhNbQRlY0xA",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 10 Differenzierbare Funktionen - an der Ruhr-Universit\u00e4t Bochumwww.ruhr-uni-bochum.de \u203a mathematik3 \u203a quellen",
+    "link": "https://www.ruhr-uni-bochum.de/mathematik3/quellen/Ana06teil2.pdf",
+    "description": "10.4 Satz: (\u00e4quivalente Definition der Differenzierbarkeit) Es sei S \u2282 R,x0 \u2208 S ... (iii) Die Funktion f(x) = e\u2212x \u00b7 log x ist auf R+ differenzierbar mit Ableitung.",
+    "googleLink": "http://www.google.com/url?q=https://www.ruhr-uni-bochum.de/mathematik3/quellen/Ana06teil2.pdf&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAZ6BAgFEAE&usg=AOvVaw0gndpa-NXVlfub2rDPve88",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Ableitung und Differenzierbarkeit - Mathe einfach erkl\u00e4rt | LAKschoollakschool.com \u203a mathe \u203a ableitung-differenzierbarkeit",
+    "link": "https://lakschool.com/de/mathe/ableitung-differenzierbarkeit",
+    "description": "Ableitung und Differenzierbarkeit. Als Differenzialrechnung (oder Differentialrechnung) bezeichnet man ein Teilgebiet der Analysis, das sich mit dem Studium\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://lakschool.com/de/mathe/ableitung-differenzierbarkeit&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAd6BAgAEAE&usg=AOvVaw3qR_L0P_PI9mmju-3CXesw",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "mathproject >> 7.6. Rechenregeln f\u00fcr differenzierbare Funktionenwww.mathproject.de \u203a Differentialrechnung",
+    "link": "http://www.mathproject.de/Differentialrechnung/7_6.html",
+    "description": "Die folgende Bemerkung zeigt, dass die Differenzierbarkeit eine \"sehr gute\" Eigenschaft ist. Bemerkung (Ableitungsregeln, lokal): a \u2208 A \u2229 B\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathproject.de/Differentialrechnung/7_6.html&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAh6BAgCEAE&usg=AOvVaw3Iz2futS76ts81LzF6ZtEB",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Differenzierbarkeit/K/Zusammenhang zwischen partieller Ableitung ...de.wikiversity.org \u203a wiki \u203a Differenzierbarkeit \u203a Fakt",
+    "link": "https://de.wikiversity.org/wiki/Differenzierbarkeit/K/Zusammenhang_zwischen_partieller_Ableitung_und_Richtungsableitung/Fakt",
+    "description": "19.06.2020 \u00b7 Differenzierbarkeit/K/Zusammenhang zwischen partieller Ableitung und Richtungsableitung/Fakt. Sprache; Beobachten \u00b7 Bearbeiten.",
+    "googleLink": "http://www.google.com/url?q=https://de.wikiversity.org/wiki/Differenzierbarkeit/K/Zusammenhang_zwischen_partieller_Ableitung_und_Richtungsableitung/Fakt&sa=U&ved=2ahUKEwjPlKD3x-vuAhUPwVkKHVb6DaA4HhAWMAl6BAgBEAE&usg=AOvVaw3t89DJ07Ouce3mD8bX9a3a",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Differenzierbarkeit/K/Zusammenhang zwischen partieller ...de.wikiversity.org \u203a wiki \u203a Differenzierbarkeit \u203a Fakt",
+    "link": "https://de.wikiversity.org/wiki/Differenzierbarkeit/K/Zusammenhang_zwischen_partieller_Ableitung_und_Richtungsableitung/Fakt",
+    "description": "19.06.2020 \u2014 Differenzierbarkeit/K/Zusammenhang zwischen partieller Ableitung und Richtungsableitung/Fakt. Sprache; Beobachten \u00b7 Bearbeiten.",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "5. Differenzierbarkeit Definition 3.18 (Die Ableitung). Es sei I ...www.mathematik.uni-wuerzburg.de \u203a Kapitel3-Teil2",
+    "link": "http://www.mathematik.uni-wuerzburg.de/~jordan/AnalysisWiSe12-13/Kapitel3-Teil2.pdf",
+    "description": "Differenzierbarkeit. Definition 3.18 (Die Ableitung). Es sei I eine offene Teilmenge von R. Eine. Funktion f : I \u2192 R hei\u00dft differenzierbar in p \u2208 I falls der Grenzwert.",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "4 Differenzierbarkeit. Kurvendiskussion - Bayreuthwww.mathe2.uni-bayreuth.de \u203a mawi04",
+    "link": "http://www.mathe2.uni-bayreuth.de/mawi04/mw01_4.pdf",
+    "description": "Definition (Ableitung und Differenzierbarkeit). Es sei X ein Intervall , f : X \u2212\u2192 R sei eine Funktion und es sei x0 \u2208 X . Dann: f hei\u00dft differenzierbar in x0 :\u21d0\u21d2 der\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Grundlagen der Differentialrechnung: Differenzierbarkeit und ...link.springer.com \u203a chapter",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-662-56723-4_11",
+    "description": "10.05.2018 \u2014 In diesem Kapitel soll es darum gehen, das Schulwissen um den Begriff der Ableitung einer Funktion auf eine solide mathematische Grundlage\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Differenzierbarkeit - Klaus-R. L\u00f6fflerwww.mathemator.org \u203a Media \u203a Themen \u203a Differenzier...",
+    "link": "http://www.mathemator.org/Media/Themen/Differenzierbarkeit.pdf",
+    "description": "Er hat genau dann bei 0 einen Grenzwert, wenn die Funktion f bei c differenzierbar ist, und dieser Grenzwert ist die Ableitung f (c). 2.1 Ableitungsbeispiele. \u2022 Eine\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "MIIA \u2013 Differentialrechnung mehrerer reeller Ver\u00e4nderlicher ...www.mathematik.uni-muenchen.de \u203a ~schotten \u203a MIIA",
+    "link": "http://www.mathematik.uni-muenchen.de/~schotten/MIIA/Kap%20X.pdf",
+    "description": "29.06.2007 \u2014 Im Kapitel VI wurde die Differenzierbarkeit von Funktionen f in einer Variablen ... Also ist u differenzierbar mit Ableitung Du(a)(s, t)=2\u03bes+2\u03b7t (vgl.",
+    "googleLink": null,
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Differenzierbarkeit - TU Grazwww.math.tugraz.at \u203a ~ganster \u203a 16_differenzierbarkeit",
+    "link": "https://www.math.tugraz.at/~ganster/lv_differenzialrechnung/16_differenzierbarkeit.pdf",
+    "description": "Man kann zeigen, dass der Vektor c durch f eindeutig bestimmt ist. Satz. Sei f : Rn \u2192 R an x0 differenzierbar. Dann existieren alle partiellen Ableitungen, und es\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "stetig differenzierbar - bettermarksde.bettermarks.com \u203a Mathe-Portal \u203a Mathe Glossar",
+    "link": "https://de.bettermarks.com/mathe/stetig-differenzierbar/",
+    "description": "Die Funktion f mit f(x) = 2x\u00b3+5x\u00b2+10 besitzt die stetige Ableitung f' mit f'(x) = 6x\u00b2+10x. Alle ->ganzrationalen Funktionen sind stetig differenzierbar. Erfolgreich Mathe\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "\u00a710 Differenzierbarkeitwww.math.uni-kiel.de \u203a geometrie \u203a klein \u203a mif12",
+    "link": "http://www.math.uni-kiel.de/geometrie/klein/mif12/do2806.pdf",
+    "description": "04.07.2012 \u2014 f (x) = \u2212. 1 x2 . Eine weitere Umformulierung der Ableitungsdefinition ist h\u00e4ufig n\u00fctzlich: Lemma 10.3 (Approximationsinterpretation der Ableitung).",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Differenzierbarkeit - SchulLV - Dein digitales Lernverzeichniswww.schullv.de \u203a analysis \u203a allgemeine \u203a stetig_diff",
+    "link": "https://www.schullv.de/mathe/basiswissen/analysis/allgemeine/stetig_diff/differenzierbarkeit",
+    "description": "Beispiel 1. \u00dcberpr\u00fcfe ob die Funktion \\(f(x)\\) differenzierbar ist: \\( f(x)=\\left\\{\\begin{array}. 1. Schritt: Ableitung bilden. Du kannst die Funktion st\u00fcckweise ableiten:.",
+    "googleLink": null,
+    "page": 4,
+    "index": 9
+  }
+]

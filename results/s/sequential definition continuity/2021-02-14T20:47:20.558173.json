@@ -1,0 +1,402 @@
+[
+  {
+    "name": "sequential continuity - Wiktionaryen.wiktionary.org \u203a wiki \u203a sequential_continuity",
+    "link": "https://en.wiktionary.org/wiki/sequential_continuity",
+    "description": "Noun. sequential continuity (uncountable) (mathematical analysis) The property of a function between metric spaces, that given a convergent sequence , then. , i.e. the property of a function that it preserves sequential convergence.",
+    "googleLink": "http://www.google.com/url?q=https://en.wiktionary.org/wiki/sequential_continuity&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFnoECAUQAg&usg=AOvVaw1xn0hcf0un3Ur3Byeqlv3Y",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Sequential Continuitysites.math.washington.edu \u203a ~morrow \u203a continuity",
+    "link": "https://sites.math.washington.edu/~morrow/334_15/continuity.pdf",
+    "description": "Sequential Continuity. Theorem 1. Let S \u2282 Rn. Let a \u2208 S and let f : S \u2192 Rm. Then f is continuous at a if and only if f(xn) \u2192 f(a) for all sequences xn \u2208 S, xn \u2192 a.",
+    "googleLink": "http://www.google.com/url?q=https://sites.math.washington.edu/~morrow/334_15/continuity.pdf&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFjACegQIAxAB&usg=AOvVaw0v057fvc_YDhOW0dXdAYb1",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Definition of sequential continuity: converse? - Mathematics Stack ...math.stackexchange.com \u203a questions \u203a definition-of...",
+    "link": "https://math.stackexchange.com/questions/1180292/definition-of-sequential-continuity-converse",
+    "description": "Probably not. Example: f(x)=x2 is continuous on R, and take xn=(\u22121)n does not converge, but yn=f(xn)=1,\u2200n, hence converges to 1. Another example would be\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/1180292/definition-of-sequential-continuity-converse&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFjADegQICxAB&usg=AOvVaw37C_wG0fh0Uhb-DttpsubS",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "SEQUENTIAL DEFINITIONS OF CONTINUITY FOR ... - Project Euclidprojecteuclid.org \u203a download \u203a pdf_1 \u203a euclid.rmjm",
+    "link": "https://projecteuclid.org/download/pdf_1/euclid.rmjm/1181069988",
+    "description": "08.05.2000 \u00b7 In other words, when in the usual definition of continuity sequential convergence is replaced by convergence in arithmetic mean then only the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/download/pdf_1/euclid.rmjm/1181069988&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFjAMegQICBAB&usg=AOvVaw20At3NkvfetdFCUqDbYKkh",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Continuous function - Wikipediaen.wikipedia.org \u203a wiki \u203a Continuous_function",
+    "link": "https://en.wikipedia.org/wiki/Continuous_function",
+    "description": "A rigorous definition of continuity of real functions is usually given in a first course in calculus in terms of the idea of a limit. First, a function f with variable x is said\u00a0...\nHistory \u00b7 Real functions",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Continuous_function&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFjANegQIBhAB&usg=AOvVaw2OZzvGDc_cz2njolEXeVUP",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Sequential definition of continuity \u2013 Serlo \u2013 Wikibooks, Sammlung ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Sequential_d...",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Sequential_definition_of_continuity",
+    "description": "Consequences of this definitionBearbeiten. We just found a formal definition of continuity by using our intuition of jumps. This definition turned out to be useful\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Sequential_definition_of_continuity&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFjAOegQIBxAB&usg=AOvVaw3mylXvJHXZ-z2lQnVYKA24",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Sequential Continuity is Equivalent to Continuity in Metric Space ...proofwiki.org \u203a wiki \u203a Sequential_Continuity_is_Eq...",
+    "link": "https://proofwiki.org/wiki/Sequential_Continuity_is_Equivalent_to_Continuity_in_Metric_Space",
+    "description": "30.12.2015 \u00b7 For n\u22651, define \u03b4n=1n. For n\u22651, we may choose yn\u2208X such that d(x,yn)<\u03b4n and e(f(x),f(yn))\u2265\u03f50. Therefore, by definition the sequence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Sequential_Continuity_is_Equivalent_to_Continuity_in_Metric_Space&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFjAPegQIAhAB&usg=AOvVaw3aWfTNkx94Yml9c8b19ztV",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Definition:Sequential Continuity - ProofWikiproofwiki.org \u203a wiki \u203a Definition:Sequential_Contin...",
+    "link": "https://proofwiki.org/wiki/Definition:Sequential_Continuity",
+    "description": "11.02.2014 \u00b7 At a Point. Let x\u2208X. Then f is sequentially continuous at x if and only if: For every sequence \u27e8xn\u27e9n\u22651 in X which converges to x, the sequence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Definition:Sequential_Continuity&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFjAUegQIBBAB&usg=AOvVaw1g1Y6mtCs1_wR9DIBxMgbB",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Sequential Criterion for the Continuity of a Function - Mathonlinemathonline.wikidot.com \u203a sequential-criterion-for-th...",
+    "link": "http://mathonline.wikidot.com/sequential-criterion-for-the-continuity-of-a-function",
+    "description": "Theorem 1 (Sequential Criterion for Continuity): Let f : A \\to \\mathbb{R} be a function. Then $f$ is continuous at the point $c \\in A$ if and only if for all sequences\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/sequential-criterion-for-the-continuity-of-a-function&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFjAVegQICRAB&usg=AOvVaw3Knsl5ynni9yYmCDft6DYI",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "(PDF) On G-Sequential Continuity - ResearchGatewww.researchgate.net \u203a ... \u203a Topological Groups",
+    "link": "https://www.researchgate.net/publication/51988259_On_G-Sequential_Continuity",
+    "description": "16.12.2020 \u00b7 This definition was modified by Connor and Grosse-Erdmann for real functions by replacing $lim$ with an arbitrary linear functional $G$ defined\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/51988259_On_G-Sequential_Continuity&sa=U&ved=2ahUKEwjBooCXkuruAhXEc3AKHULyBn8QFjAWegQIChAB&usg=AOvVaw1Sc_vyuHdk-_kE__gkgi9o",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Topology #24 Sequential Continuity - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=xNsjptAizf4",
+    "description": "Sequentially continuous functions between topological spaces. ... Topology #24 Sequential Continuity. 8,720 ...",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Continuity and sequential continuitythales.doa.fmph.uniba.sk \u203a sleziak \u203a texty \u203a rozne \u203a cont",
+    "link": "http://thales.doa.fmph.uniba.sk/sleziak/texty/rozne/AC/cont.pdf",
+    "description": "23.01.2006 \u2014 Continuity in topological space: Let O(x) denotes a system of open neigh- borhoods of a point x. ... If f : R \u2192 R is sequential continuous at x \u2208 R, then f|Q\u222a{x} is continuous at x. Proof. ... [H, Definition 3.7]. DC = Principle of\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "ON SEQUENTIAL CONVERGENCEwww.ams.org \u203a journals \u203a tran",
+    "link": "https://www.ams.org/journals/tran/1964-112-03/S0002-9947-1964-0175081-6/S0002-9947-1964-0175081-6.pdf",
+    "description": "We begin in \u00a72 with general definitions and a discussion of correspondences ... Sequential continuity is naturally defined as follows: Definition. If C and C are\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "The epsilon-delta definitionwww-groups.mcs.st-andrews.ac.uk \u203a ...",
+    "link": "http://www-groups.mcs.st-andrews.ac.uk/~john/analysis/Lectures/L13.html",
+    "description": "First, we show that continuity in this definition implies continuity in the previous definition. ... Secondly, we show that the sequential definition implies the \u03b5-\u03b4 one.",
+    "googleLink": null,
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Metric spaces - Stanford Universityweb.stanford.edu \u203a class \u203a metricspaces",
+    "link": "https://web.stanford.edu/class/math61cm/metricspaces.pdf",
+    "description": "Definition 3 A metric space (X, d) is a set X together with a map d : X \u00d7 X \u2192 R ... Proof: The direction that sequential continuity implies continuity is Exercise 3.4 in\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Continuity and sequential continuity of a linear functional ...mathoverflow.net \u203a questions \u203a co...",
+    "link": "https://mathoverflow.net/questions/304195/continuity-and-sequential-continuity-of-a-linear-functional",
+    "description": "04.07.2018 \u2014 Define a topology \u03c4 on E by declaring a subset U to be open if U\u2229EK is open in EK for each compact set K\u2282Rn.",
+    "googleLink": null,
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Sequential-continuity Meaning | Best 1 Definitions of ...www.yourdictionary.com \u203a sequen...",
+    "link": "https://www.yourdictionary.com/sequential-continuity",
+    "description": "Sequential-continuity meaning. Filters (0). (analysis) The property of a function between metric spaces, that given a convergent sequence , then , i.e. the property of\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Continuitywww.iitg.ac.in \u203a anjankc \u203a Continuity",
+    "link": "http://www.iitg.ac.in/anjankc/Continuity.pdf",
+    "description": "Definition: Let D \u2286 R and let x0 \u2208 R such that for some h > 0, (x0 \u2212h, x0 +h)\\{x0} \u2286 ... Sequential criterion of continuity: f : D \u2192 R is continuous at x0 \u2208 D iff for.",
+    "googleLink": null,
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Sequential definitions of fuzzy continuity in fuzzy spaces - AIP ...aip.scitation.org \u203a doi \u203a pdf",
+    "link": "https://aip.scitation.org/doi/pdf/10.1063/1.5136120",
+    "description": "In this article, we introduce the concepts of G-fuzzy sequential continuity and G-fuzzy sequential closedness in a fuzzy topological space and give some\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Sequential definitions of fuzzy continuity in fuzzy spaces: AIP ...aip.scitation.org \u203a doi \u203a abs",
+    "link": "https://aip.scitation.org/doi/abs/10.1063/1.5136120",
+    "description": "06.12.2019 \u2014 In this article, we introduce the concepts of G-fuzzy sequential continuity and G-fuzzy sequential closedness in a fuzzy topological space and give\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] The Weak Sequential Continuity of the Metric Projection in L ... - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/82446868.pdf",
+    "description": "The following definitions, although formidable, help simplify statements of propositions and their proofs. DEFINITION 2.2. A in W is p-disconrinuous if there exists {\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://core.ac.uk/download/pdf/82446868.pdf&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAB6BAgFEAE&usg=AOvVaw0kb1o3f3gYQeG56ESynWh5",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "521 Continuitywww.math.wisc.edu \u203a ContinuousFunctions",
+    "link": "https://www.math.wisc.edu/~angenent/521.2017s/ContinuousFunctions.html",
+    "description": "Definition. The function f is continuous at a point p\u2208E if for every \u03f5>0 there is a \u03b4\u200b>0 such that for all x\u2208B\u03b4(p) one has f(x)\u2208B\u03f5(f(p)). The sequential continuity\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.wisc.edu/~angenent/521.2017s/ContinuousFunctions.html&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAF6BAgIEAE&usg=AOvVaw3oFe1UxiFvtVtWs6ARar2b",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "G-methods, G-sequential spaces and G-continuity in topological ...www.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0166864116302218",
+    "description": "01.10.2016 \u00b7 G-methods and G-continuity for real functions are induced by changing the definition of the convergence of sequences on the set of real\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S0166864116302218&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAJ6BAgJEAE&usg=AOvVaw0VKJ1l6YQfnWKNURUxm8ax",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "On G-Sequential Continuityarxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/1201.1795",
+    "description": "22.12.2011 \u00b7 The limit of a sequence in X defines a function denoted by lim from the set of all convergence sequences to X. This definition was modified by\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1201.1795&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAN6BAgHEAE&usg=AOvVaw1VJuptok9BgEakuaKpS11F",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "6.2: Sequences and Continuity - Mathematics LibreTextsmath.libretexts.org \u203a Bookshelves \u203a Analysis \u203a 6.02:...",
+    "link": "https://math.libretexts.org/Bookshelves/Analysis/Book%3A_Real_Analysis_(Boman_and_Rogers)/06%3A_Continuity_-_What_It_Isn%E2%80%99t_and_What_It_Is/6.02%3A_Sequences_and_Continuity",
+    "description": "20.12.2020 \u00b7 We will examine an alternative way to prove that the function is not continuous at a\u22600 by looking at the relationship between our de\ufb01nitions of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Analysis/Book%253A_Real_Analysis_(Boman_and_Rogers)/06%253A_Continuity_-_What_It_Isn%25E2%2580%2599t_and_What_It_Is/6.02%253A_Sequences_and_Continuity&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAR6BAgGEAE&usg=AOvVaw3f1cuJzWSLVicQT6Y0zQRG",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "SEQUENTIAL DEFINITIONS OF CONTINUITY FOR REAL ... - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/44238914",
+    "description": "08.05.2000 \u00b7 real-valued functions of a real variable can be replaced by a sequential definition of continuity. That many of the properties of continuous.",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/44238914&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAV6BAgDEAE&usg=AOvVaw0_BBD3l0BIHaByxTMoZnIl",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Answer in Calculus for BIVEK SAH #103942 - Assignment Expertwww.assignmentexpert.com \u203a Answers \u203a Math \u203a Calculus",
+    "link": "https://www.assignmentexpert.com/homework-answers/mathematics/calculus/question-103942",
+    "description": "Let x0 be any real number. Let's prove that f(x) is continuous in x0. Sequential definition of continuity states that function is continuous in a dot\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.assignmentexpert.com/homework-answers/mathematics/calculus/question-103942&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAZ6BAgBEAE&usg=AOvVaw2bBsX-lGam025JxiYcY815",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 5 Continuitywww.maths.qmul.ac.uk \u203a MTH6126 \u203a note5",
+    "link": "http://www.maths.qmul.ac.uk/~mj/MTH6126/note5.pdf",
+    "description": "being the usual metric on R) coincides with the usual definition of continuity. Theorem 5.3 (sequential characterisation of continuity). The map f : (X, \u03f1) \u2192 (Y,\u03c3) is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.maths.qmul.ac.uk/~mj/MTH6126/note5.pdf&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAd6BAgEEAE&usg=AOvVaw2I5GgM9Bdrpo8JUrvonoqJ",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Sequential continuity - German translation \u2013 Lingueewww.linguee.com \u203a english-german \u203a translation \u203a sequential+continuity",
+    "link": "https://www.linguee.com/english-german/translation/sequential+continuity.html",
+    "description": "Many translated example sentences containing \"Sequential continuity\" \u2013 German\u200b-English dictionary and search engine for German translations.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.com/english-german/translation/sequential%2Bcontinuity.html&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAh6BAgAEAE&usg=AOvVaw2yqnG41XRtPcJ8NmxlHRiA",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] ON SEQUENTIAL CONTINUITY OF COMPOSITION MAPPING 0 ...jcmf.cz \u203a sites \u203a default \u203a files \u203a cms \u203a archiv_svoc \u203a prace \u203a Vodova",
+    "link": "https://jcmf.cz/sites/default/files/cms/archiv_svoc/2009/prace/1/Vodova.pdf",
+    "description": "ON SEQUENTIAL CONTINUITY OF COMPOSITION MAPPING. 3. Definition 6. Let X,Y,Z be topological vector spaces. The composi- tion mapping is the mapping.",
+    "googleLink": "http://www.google.com/url?q=https://jcmf.cz/sites/default/files/cms/archiv_svoc/2009/prace/1/Vodova.pdf&sa=U&ved=2ahUKEwjuvKOYkuruAhXBdd4KHRhqDC84FBAWMAl6BAgCEAE&usg=AOvVaw0SAkJ8EIyIg7xi0cGXIgpl",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] MEASURES: CONTINUITY, MEASURABILITY, DUALITY ... - Sciendocontent.sciendo.com \u203a downloadpdf \u203a journals \u203a tmmp \u203a article-p161",
+    "link": "https://content.sciendo.com/downloadpdf/journals/tmmp/42/1/article-p161.xml",
+    "description": "K e y w o r d s: bounded measure, sequential continuity, extension of measures, ... This definition is equivalent to the usual one (also for fields of subsets) and it.",
+    "googleLink": "http://www.google.com/url?q=https://content.sciendo.com/downloadpdf/journals/tmmp/42/1/article-p161.xml&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAB6BAgGEAE&usg=AOvVaw3HFq4belMu15D9tIl9GNB5",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Functional Limits and Continuityusers.math.msu.edu \u203a users \u203a yanb \u203a chapter4",
+    "link": "https://users.math.msu.edu/users/yanb/chapter4.pdf",
+    "description": "Continuity. 4.1. Functional Limits. Definition 4.1 (\u03f5-\u03b4 definition of functional limits)\u200b. Let f : A ... Theorem 4.1 (Sequential Criterion for Functional Limits). Let f : A\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://users.math.msu.edu/users/yanb/chapter4.pdf&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAF6BAgIEAE&usg=AOvVaw0maf0Y93YqVY7nKGf1T2eY",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Sequential definitions of fuzzy continuity in fuzzy spaces - NASA/ADSui.adsabs.harvard.edu \u203a abs \u203a abstract",
+    "link": "https://ui.adsabs.harvard.edu/abs/2019AIPC.2183c0016Y/abstract",
+    "description": "\u00c7akalli extended the concept of G-sequential compactness to a fuzzy topological group and introduced the notion of G-fuzzy sequential compactness, where G\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ui.adsabs.harvard.edu/abs/2019AIPC.2183c0016Y/abstract&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAJ6BAgJEAE&usg=AOvVaw2rzpXOYvmQQdIjUjdz_1en",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "What does sequential continuity mean? - Definitions.netwww.definitions.net \u203a definition \u203a sequential+contin...",
+    "link": "https://www.definitions.net/definition/sequential+continuity",
+    "description": "Definitions for sequential continuity se\u00b7quen\u00b7tial con\u00b7ti\u00b7nu\u00b7ity. Here are all the possible meanings and translations of the word sequential continuity.",
+    "googleLink": "http://www.google.com/url?q=https://www.definitions.net/definition/sequential%2Bcontinuity&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAN6BAgHEAE&usg=AOvVaw0PP4Nll_LibR8f2H0eKMEO",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 1 Nets and sequences - Humboldt-Universit\u00e4t zu Berlinwww.mathematik.hu-berlin.de \u203a ~wendl \u203a Sommer2017 \u203a Topologie1",
+    "link": "https://www.mathematik.hu-berlin.de/~wendl/Sommer2017/Topologie1/nets.pdf",
+    "description": "Example 1.3. If X is a topological space and x \u2208 X, one can define a directed set (I, \u227a) where I is the set ... that sequential continuity is equivalent to continuity.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.hu-berlin.de/~wendl/Sommer2017/Topologie1/nets.pdf&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAR6BAgEEAE&usg=AOvVaw1zqxHDiEXrmJkam6JLB7g-",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Continuity of Care - Sequential Continuity Index | HDNS Data ...dictionary.hdns.dal.ca \u203a concept-dictionary \u203a contin...",
+    "link": "http://dictionary.hdns.dal.ca/concept-dictionary/continuity-care-sequential-continuity-index",
+    "description": "The Sequential Continuity Index (SECON) measures the number of visits that an individual ... Definition. MED, DOCS, EDUC, OPTIN. doctor. Provider ID (6 Digit).",
+    "googleLink": "http://www.google.com/url?q=http://dictionary.hdns.dal.ca/concept-dictionary/continuity-care-sequential-continuity-index&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAV6BAgBEAE&usg=AOvVaw1pl5JmNkp7c4_u8fWdK8dF",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Sub Compatible and Sub Sequentially Continuous Maps ... - m-hikariwww.m-hikari.com \u203a ams \u203a ams-29-32-2011 \u203a khanAMS29-32-2011",
+    "link": "http://www.m-hikari.com/ams/ams-2011/ams-29-32-2011/khanAMS29-32-2011.pdf",
+    "description": "form of sub sequential continuity in fuzzy metric spaces . We first give some preliminaries and definitions. 2. Preliminaries. Definition 2.1. A binary operation.",
+    "googleLink": "http://www.google.com/url?q=http://www.m-hikari.com/ams/ams-2011/ams-29-32-2011/khanAMS29-32-2011.pdf&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAZ6BAgCEAE&usg=AOvVaw2knz7Ijn7UH4sw8pfdJVps",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "On G-Sequential Continuitywww.pmf.ni.ac.rs \u203a filomat-content",
+    "link": "https://www.pmf.ni.ac.rs/filomat-content/2014/28-6/F28-6-9.pdf",
+    "description": "G-sequential continuity in topological groups. Introduction. Connor and Grosse-\u200bErdmann [20] have investigated the impact of changing the definition of the con-.",
+    "googleLink": "http://www.google.com/url?q=https://www.pmf.ni.ac.rs/filomat-content/2014/28-6/F28-6-9.pdf&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAd6BAgAEAE&usg=AOvVaw1RyCfpPvG0Fp8lwjZkgvKq",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] G-methods, G-sequential spaces and G-continuity in topological ...linshou.ndnu.edu.cn \u203a LSPapers \u203a LSp214",
+    "link": "http://linshou.ndnu.edu.cn/LSPapers/LSp214.pdf",
+    "description": "There have been a number of similar investigations that replace the usual definition of sequential con- vergence with one of a variety of other definitions that is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://linshou.ndnu.edu.cn/LSPapers/LSp214.pdf&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAh6BAgDEAE&usg=AOvVaw3aFQZHFmOflO9R3uMo00-6",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 1 Continuity and Limits of Functions - Caltech Mathmath.caltech.edu \u203a ~syye \u203a teaching \u203a courses \u203a ma8_wk4",
+    "link": "http://math.caltech.edu/~syye/teaching/courses/Ma8_2015/Lecture%20Notes/ma8_wk4.pdf",
+    "description": "In Section 1, we will define continuity and limit of functions. Then, we will look at a few examples to become familiar with the new definitions. In Section 2, we will\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://math.caltech.edu/~syye/teaching/courses/Ma8_2015/Lecture%2520Notes/ma8_wk4.pdf&sa=U&ved=2ahUKEwiB_9WYkuruAhWIUt4KHYquA_Q4HhAWMAl6BAgFEAE&usg=AOvVaw0fctA4FIll3Q0r5-bs_ph4",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] CREATING SLOWLY OSCILLATING SEQUENCES AND SLOWLY ...www.emis.de \u203a journals \u203a AMUC \u203a _inpress \u203a _vallin \u203a vallinrea",
+    "link": "https://www.emis.de/journals/AMUC/_inpress/_vallin/vallinrea.pdf",
+    "description": "This is a sequential definition of continuity different from the G continuity given in [\u200b5]. Definition 4. A function f : R \u2192 R is slowly oscillating continuous if it transforms\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.emis.de/journals/AMUC/_inpress/_vallin/vallinrea.pdf&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAB6BAgFEAE&usg=AOvVaw2Qcx43BgPm27MXB76PzXSI",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Krasnoselskii-type fixed-point theorems for weakly sequentially ... - UVwww.uv.es \u203a garciaf \u203a papers \u203a bull_def",
+    "link": "https://www.uv.es/garciaf/papers/bull_def.pdf",
+    "description": "17.11.2011 \u00b7 An alternative way to define accretive mapping ... Going back to (3.1), the weak sequential continuity of A and B yields y = B(y) + A(x) and.",
+    "googleLink": "http://www.google.com/url?q=https://www.uv.es/garciaf/papers/bull_def.pdf&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAF6BAgIEAE&usg=AOvVaw2yqscgzUZLVHmNrkclKW1c",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Third definition of continuity: Sequential criterion for continuity (in ...unacademy.com \u203a lesson \u203a third-definition-of-conti...",
+    "link": "https://unacademy.com/lesson/third-definition-of-continuity-sequential-criterion-for-continuity-in-hindi/3CJRRNQT",
+    "description": "Bewertung  4,9  (4)",
+    "googleLink": "http://www.google.com/url?q=https://unacademy.com/lesson/third-definition-of-continuity-sequential-criterion-for-continuity-in-hindi/3CJRRNQT&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAJ6BAgJEAE&usg=AOvVaw0yP_wS8yY3R_DNdxq5otx5",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "18.100A: Real Analysismath.mit.edu \u203a ~casals",
+    "link": "http://math.mit.edu/~casals/18100A.html",
+    "description": "Continuity: the epsilon-delta definitions. Examples of local properties implying global. Mar 10: Limits of functions. Sequential Continuity. Limit of a function.",
+    "googleLink": "http://www.google.com/url?q=http://math.mit.edu/~casals/18100A.html&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAN6BAgHEAE&usg=AOvVaw13MvNzNE9joxgRfBEXAObh",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Reconstruction of Sequential Data with Probabilistic Models and ...faculty.ucmerced.edu \u203a mcarreira-perpinan \u203a papers \u203a nips99",
+    "link": "https://faculty.ucmerced.edu/mcarreira-perpinan/papers/nips99.pdf",
+    "description": "Reconstruction of Sequential Data with ... rived from continuity constraints. ... single reconstructed sequence, we define a local continuity constraint: consecutive\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://faculty.ucmerced.edu/mcarreira-perpinan/papers/nips99.pdf&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAR6BAgEEAE&usg=AOvVaw1m-wab-kb3iNRd-RTYWb_u",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] notes on metric spacesscholar.princeton.edu \u203a sites \u203a default \u203a files \u203a jxandri \u203a files \u203a notes_...",
+    "link": "https://scholar.princeton.edu/sites/default/files/jxandri/files/notes_on_metric_spaces_0.pdf",
+    "description": "A. Since f is continuous, take \u03f5 = rf(x) and use it in the definition of continuity: this gives as a ... Theorem 5.1 (Sequential Definition of Closed sets). Let M = (X, d)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://scholar.princeton.edu/sites/default/files/jxandri/files/notes_on_metric_spaces_0.pdf&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAV6BAgAEAE&usg=AOvVaw3vTtiZFvWGhYkQli7XMok1",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Metric spaces, topology, and continuity - UBC Artsfaculty.arts.ubc.ca \u203a pschrimpf \u203a metricSpaces-526",
+    "link": "https://faculty.arts.ubc.ca/pschrimpf/526/metricSpaces-526.pdf",
+    "description": "22.10.2018 \u00b7 This lecture focuses on metric spaces, topology, and continuity. ... Sometimes this definition is written as: K is sequentially compact if every\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://faculty.arts.ubc.ca/pschrimpf/526/metricSpaces-526.pdf&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAZ6BAgGEAE&usg=AOvVaw2JHMOLsLjm_6Cd6jVWK-MS",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] The weak sequential closure of decomposable sets ... - TU Chemnitzwww.tu-chemnitz.de \u203a mathematik \u203a part_dgl \u203a publications \u203a Mehlit...",
+    "link": "https://www.tu-chemnitz.de/mathematik/part_dgl/publications/Mehlitz_Wachsmuth__The_weak_sequential_closure_of_decomposable_sets_in_Lebesgue_spaces_and_its_application_to_variational_geometry.pdf",
+    "description": "20.04.2017 \u00b7 sequential closure to pointwise defined sets in nonatomic measure spaces. ... By definition the Fr\u00e9chet as well as the Clarke normal cone are closed and ... continuity of \u0393C, see Lemma 3.4, and condition (3.10), we obtain.",
+    "googleLink": "http://www.google.com/url?q=https://www.tu-chemnitz.de/mathematik/part_dgl/publications/Mehlitz_Wachsmuth__The_weak_sequential_closure_of_decomposable_sets_in_Lebesgue_spaces_and_its_application_to_variational_geometry.pdf&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAd6BAgBEAE&usg=AOvVaw3_2p62_03VT6b2idbg9rCG",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 1 Uniform Continuity Let us first review the notion of continuity of a ...home.iitk.ac.in \u203a ~psraj \u203a mth101 \u203a lecture_notes \u203a uniform",
+    "link": "https://home.iitk.ac.in/~psraj/mth101/lecture_notes/uniform.pdf",
+    "description": "In the previous definition we also emphasise that the uniform continuity of f is dependent ... which provides us with a sequential criterion for uniform continuity.",
+    "googleLink": "http://www.google.com/url?q=https://home.iitk.ac.in/~psraj/mth101/lecture_notes/uniform.pdf&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAh6BAgDEAE&usg=AOvVaw1ovpkHm90IiJMBuazMeY0m",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Sequential characterization of continuity at a point | Coffee into ...gmumathclub.wordpress.com \u203a 2010/08/31 \u203a seque...",
+    "link": "https://gmumathclub.wordpress.com/2010/08/31/sequential-characterization-of-continuity-at-a-point-2/",
+    "description": "31.08.2010 \u00b7 This can be seen by considering the following definitions of limit and of continuity (slightly modified from Rudin, PMA). Definition of limit (of a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://gmumathclub.wordpress.com/2010/08/31/sequential-characterization-of-continuity-at-a-point-2/&sa=U&ved=2ahUKEwiJtoyZkuruAhUVO3AKHVvbDPA4KBAWMAl6BAgCEAE&usg=AOvVaw041S_GWejDnDVA7tIsGube",
+    "page": 4,
+    "index": 9
+  }
+]

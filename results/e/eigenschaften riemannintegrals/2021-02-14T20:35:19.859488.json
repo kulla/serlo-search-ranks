@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Eigenschaften des Riemannintegrals \u2013 Serlo \u201eMathe f\u00fcr Nicht ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Eigen...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Eigenschaften_des_Riemannintegrals",
+    "description": "Eigenschaften des Riemannintegrals \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c. Sprache; Beobachten \u00b7 Bearbeiten \u00b7 UnderCon icon.svg. Diese Seite ist noch im\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Eigenschaften des Riemann-Integrals - Mathepediamathepedia.de \u203a Eigenschaften_Riemann-Integral",
+    "link": "https://mathepedia.de/Eigenschaften_Riemann-Integral.html",
+    "description": "Eigenschaften des Riemann-Integrals. Satz 16ME (Integrabilit\u00e4tskriterium).",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Das Riemann-Integral und seine Eigenschaften - TU Grazwww.math.tugraz.at \u203a ~ganster \u203a lv_analysis_1 \u203a 28_ri...",
+    "link": "https://www.math.tugraz.at/~ganster/lv_analysis_1/28_riemann_integral_und_eigenschaften.pdf",
+    "description": "Eigenschaften. Definition. Sei die Funktion f beschr\u00e4nkt auf [a, b] . Stimmen die beiden Darboux-Integrale \u00fcberein, dann hei\u00dft f Riemann-integrierbar auf [a, b]\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Mathe f\u00fcr Nicht-Freaks: Eigenschaften des Riemannintegralsmathe-builds.serlo.org \u203a nightly \u203a latest \u203a html \u203a verbose",
+    "link": "https://mathe-builds.serlo.org/nightly/Benutzer%40COLON%40Valentin_Roland%40SLASH%40Analysis_1/latest/html/verbose/Mathe_f%C3%BCr_Nicht-Freaks%40COLON%40_Eigenschaften_des_Riemannintegrals/831633.html",
+    "description": "\u00dcbersicht: Eigenschaften des Riemannintegrals. Stetige Funktionen sind riemannintegrierbar. Monotonie: Aus f ( x ) \u2264 g ( x ) f(x)\\leq g(x) f(x)\u2264g(x) f\u00fcr alle x\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Riemannsches Integral \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Riemannsches_Integral",
+    "link": "https://de.wikipedia.org/wiki/Riemannsches_Integral",
+    "description": "Das riemannsche Integral (auch Riemann-Integral) ist eine nach dem deutschen Mathematiker ... Es gibt im Wesentlichen zwei g\u00e4ngige Verfahren zur Definition des Riemann-Integrals: ... Dieser Integralbegriff hat die gew\u00f6hnlichen Eigenschaften eines Integrals, die Integralfunktion ist linear und es gilt der Satz von Fubini.",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Das Riemann\u2013Integralwww.wias-berlin.de \u203a john \u203a LEHRE \u203a ana2_lehr_3",
+    "link": "https://www.wias-berlin.de/people/john/LEHRE/ANALYSIS_2_LEHR/ana2_lehr_3.pdf",
+    "description": "bessere Eigenschaften besitzen. In der Praxis reicht das ... Satz 3.32 Andere M\u00f6glichkeit der Definition des Riemann\u2013Integrals. Sei f : [a, b] \u2192 R beschr\u00e4nkt.",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Mitschrift zur Analysis II Vorlesung von Prof. Dr. Wittbold im SS ...www3.math.tu-berlin.de \u203a Analysis2 \u203a Doc \u203a ana2",
+    "link": "https://www3.math.tu-berlin.de/Vorlesungen/SS08/Analysis2/Doc/ana2.pdf",
+    "description": "02.08.2008 \u2014 5.2 Eigenschaften des Riemann-Integrals. 5.2.1 Linearit\u00e4t des Riemann-Integrals. Lemma 5.2.1. Seien f,g \u2208 R([a, b]), \u03b1, \u03b2 \u2208 R, dann ist \u03b1 \u00b7 f + \u03b2\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "8 Das Riemann-Integral - TU Darmstadt/Mathematikwww.mathematik.tu-darmstadt.de \u203a roch \u203a Analysis_II_ss19",
+    "link": "https://www.mathematik.tu-darmstadt.de/media/analysis/lehrmaterial_anapde/roch/Analysis_II_ss19.pdf",
+    "description": "8.5 Eigenschaften des Riemann-Integrals. Satz 8.20 Sind f,g : [a, b] \u2192 R Riemann-integrierbar und stimmen f und g auf einer in [a, b] dichten Menge M \u00fcberein,\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Das bestimmte Riemannsche Integral - TU Ilmenauwww.tu-ilmenau.de \u203a Lehre \u203a Einf_Integralrechnung",
+    "link": "https://www.tu-ilmenau.de/fileadmin/media/num/neundorf/Dokumente/Lehre/hm/Einf_Integralrechnung.pdf",
+    "description": "entsprechenden Eigenschaften von Ober- und Untersumme ableiten. Satz 5 (Eigenschaften des Riemann-Integrals) 1. ... nition des Riemannintegrals. Zu 4.",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Eigenschaften des Riemann-Integrals mit Hilfe des ...www.mathelounge.de \u203a eigenschaften-integrals-hauptsa...",
+    "link": "https://www.mathelounge.de/768687/eigenschaften-integrals-hauptsatzes-integralrechnung-beweisen",
+    "description": "05.11.2020 \u2014 Hallo,. a) \u222b b a f ( x ) d x = F ( a ) \u2212 F ( b ) = \u2212 ( F ( b ) \u2212 F ( a ) ) = \u2212 \u222b a b f ( x ) d x \\int\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Das Riemann-Integral \u2013 Analysis-Skript CHAB MATH PHYS ...wp-prd.let.ethz.ch \u203a WP0-CIPRF9693 \u203a chapter \u203a das-r...",
+    "link": "https://wp-prd.let.ethz.ch/WP0-CIPRF9693/chapter/das-riemann-integral/",
+    "description": "Wir m\u00f6chten nun Eigenschaften des Riemann-Integrals nachweisen, die zu den Eigenschaften des Integrals von Treppenfunktionen (genauer Lemma 4.7 und\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Eigenschaften des Riemannintegrals beweisen - OnlineMathe - das ...www.onlinemathe.de \u203a forum \u203a Eigenschaften-des-Rie...",
+    "link": "https://www.onlinemathe.de/forum/Eigenschaften-des-Riemannintegrals-beweisen",
+    "description": "Im Mathe-Forum OnlineMathe.de wurden schon tausende Fragen zur Mathematik beantwortet. So auch zum Thema Eigenschaften des Riemannintegrals\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "\u00a74 Das Riemann-Integral im Rnwww.math.uni-kiel.de \u203a geometrie \u203a klein \u203a phyws12",
+    "link": "http://www.math.uni-kiel.de/geometrie/klein/phyws12/di2011.pdf",
+    "description": "20.11.2012 \u2014 Grundeigenschaften des Riemann-Integrals in zwei Gruppen ein, einmal die algebrai- schen Eigenschaften die sich auf den Integranden\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "M3 2017-11-01 04 Die Idee des Riemann-Integrals - HAW ...mediathek.mt.haw-hamburg.de \u203a related \u203a vars \u203a relpg",
+    "link": "http://mediathek.mt.haw-hamburg.de/media/ajax/component/related/vars/a%3A3%3A%7Bs%3A3%3A%22key%22%3Bs%3A32%3A%22e321bb05497567e76a7497b06110d62b%22%3Bs%3A10%3A%22show_pager%22%3Bb%3A1%3Bs%3A8%3A%22per_page%22%3Bi%3A5%3B%7D/relpg/66",
+    "description": "M3 2017-11-01 06 Weitere Eigenschaften des Riemann-Integrals. Weitere Eigenschaften des Riemann-Integrals. M3 2017-11-01 05 Stetige Funktionen sind\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Analysis II f\u00fcr Physiker - AGeS - Die Skript-Spezialistenwww.ages-skripte.org \u203a pdf \u203a MathII",
+    "link": "https://www.ages-skripte.org/pdf/MathII.pdf",
+    "description": "10.1 Definition des Riemannintegrals im Rn . . ... 10.2 Allgemeine Eigenschaften des Integrals . ... Eigenschaften des Riemann-Integrals, Struktur von R(a, b).",
+    "googleLink": null,
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Eigenschaften des Riemann-Integralsgimmler.org \u203a mediapool \u203a data \u203a Eigenschaften_des_...",
+    "link": "http://gimmler.org/mediapool/20/205225/data/Eigenschaften_des_Riemann-Integrals.doc",
+    "description": "Eigenschaften des Riemann-Integrals. Mit bezeichnen wir den Raum der R-integrierbaren Funktionen . Bemerkung 1 (linearer Funktionenraum). Mit f und g liegt\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Herleitung der Integration f\u00fcr Funktionen von R\u00b2 nach R - GRINwww.grin.com \u203a document",
+    "link": "https://www.grin.com/document/140100",
+    "description": "... f\u00fcr Funktionen von R\u00b2 nach R bezogen auf das Riemannintegral - Mathematik ... Kapitel I 1 hergeleitet und durch einige Eigenschaften, den Mittelwertsatz der\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Funktionentheorie, Lebesguetheorie und Gew\u00f6hnliche ...www.mathematik.uni-muenchen.de \u203a mathe4 \u203a slides",
+    "link": "http://www.mathematik.uni-muenchen.de/~gerkmann/SoSe2020/mathe4/slides/vl_20_04.pdf",
+    "description": "Eigenschaften des (verallg.) Riemann-Integrals. Offenbar gelten auch f\u00fcr Riemann-integrierbare Funktionen f ,g : A \u2192 R auf einer Jordan-messbaren Menge A\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Ma\u00dftheorie - Uni Ulmwww.uni-ulm.de \u203a fackler \u203a masstheorie \u203a skriptmt",
+    "link": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.020/fackler/WS1415/masstheorie/skriptmt.pdf",
+    "description": "Eigenschaften 1.6. a) Jede abgeschlossene Teilmenge von Rd ist eine Borelmenge. ... wiederholen wir die Definition und Eigenschaften des Riemannintegrals.",
+    "googleLink": null,
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Riemann-Integral Das Riemann-Integral einer st\u00fcckweise stetigen ...vhm.mathematik.uni-stuttgart.de \u203a Vorlesungen \u203a Folien_Riemann-Int...",
+    "link": "http://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Integralrechnung/Folien_Riemann-Integral.pdf",
+    "description": "Eigenschaften des Riemann-Integrals. Das bestimmte Integral besitzt folgende Eigenschaften: Linearit\u00e4t: \u222b b a. r f = r. \u222b b a f ,. \u222b b a f + g = \u222b b a f +. \u222b b a g.",
+    "googleLink": "http://www.google.com/url?q=http://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Integralrechnung/Folien_Riemann-Integral.pdf&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAB6BAgAEAE&usg=AOvVaw2OgIrYEZDcHl34uxim2p5x",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Henstock-Kurzweil-Integrale | Fakult\u00e4t f\u00fcr Mathematik und Informatikwww.mathe.tu-freiberg.de \u203a sto \u203a seminarvortrag \u203a henstock-kurzweil-inte...",
+    "link": "http://www.mathe.tu-freiberg.de/sto/seminarvortrag/henstock-kurzweil-integrale",
+    "description": "07.02.2017 \u00b7 ... welches einige der M\u00e4ngel des Riemann-Integrals \u00fcberwindet und in mancher Hinsicht st\u00e4rkere Eigenschaften als das Riemann-Integral\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathe.tu-freiberg.de/sto/seminarvortrag/henstock-kurzweil-integrale&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAF6BAgIEAE&usg=AOvVaw2wUPdGDMO6OUQfot66td2w",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Riemannsches Integralwww.biancahoegel.de \u203a mathe \u203a integral \u203a integral_riemann",
+    "link": "https://www.biancahoegel.de/mathe/integral/integral_riemann.html",
+    "description": "... im Wesentlichen zwei g\u00e4ngige Verfahren zur Definition des Riemann-Integrals: ... Dieser Integralbegriff hat die gew\u00f6hnlichen Eigenschaften eines Integrals,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.biancahoegel.de/mathe/integral/integral_riemann.html&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAJ6BAgJEAE&usg=AOvVaw2J1cr0o3eC_u7HsfI61CPe",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Zur Ermittlung des Riemann-Integrals | stefuziusstefuzius.wordpress.com \u203a 2015/07/15 \u203a zur-ermittlung-des-riemann-integr...",
+    "link": "https://stefuzius.wordpress.com/2015/07/15/zur-ermittlung-des-riemann-integrals/",
+    "description": "15.07.2015 \u00b7 Zur Ermittlung des Riemann-Integrals. Ver\u00f6ffentlicht am Juli 15, ... Universelle Eigenschaften am Beispiel ''des'' freien MonoidsIn \"algebra\".",
+    "googleLink": "http://www.google.com/url?q=https://stefuzius.wordpress.com/2015/07/15/zur-ermittlung-des-riemann-integrals/&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAN6BAgHEAE&usg=AOvVaw0dGG2iZYfM4M5Pc27tNRNP",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Das Riemannsche Integral - steffen-froehlichs Webseite!www.geometrie-und-logik.de \u203a studium \u203a analysis-1 \u203a das-riemannsche-int...",
+    "link": "https://www.geometrie-und-logik.de/studium/analysis-1/das-riemannsche-integral/",
+    "description": "Aufgabe 8.2.3: (Zum Riemannintegral nichtnegativer Funktionen). Geben Sie ein Beispiel einer Funktion f:[0,1]\u2192R, die den folgenden drei Eigenschaften gen\u00fcgt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geometrie-und-logik.de/studium/analysis-1/das-riemannsche-integral/&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAR6BAgGEAE&usg=AOvVaw1rdF60L5oNSUiMXfPYRGY8",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "[PDF] 9.1 Das Lebesgue-Integralwww.math.uni-leipzig.de \u203a ~eisner \u203a Lebesgue-Skript-neu",
+    "link": "http://www.math.uni-leipzig.de/~eisner/Lebesgue-Skript-neu.pdf",
+    "description": "des Riemannintegrals zur\u00fcckf\u00fchren. ... Eigenschaften von c, d, dj folgt ... Additivit\u00e4t von \u00b50 folgt aus Eigenschaften des Riemann-Integrals und der Beweis der.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uni-leipzig.de/~eisner/Lebesgue-Skript-neu.pdf&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAV6BAgBEAE&usg=AOvVaw2QkHDtIpWqyfwzzuXtJHz_",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] ANALYSIS II - Goethe-Universit\u00e4t Frankfurtwww.uni-frankfurt.de \u203a ana2_02",
+    "link": "https://www.uni-frankfurt.de/52168416/ana2_02.pdf",
+    "description": "8 Das Riemannintegral in Rm. 99. 8.1 Definition des Riemannintegrals . ... Daraus ergeben sich auch die Eigenschaften einer Metrik f\u00fcr d(x, y) = |x \u2212 y|:.",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-frankfurt.de/52168416/ana2_02.pdf&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAZ6BAgEEAE&usg=AOvVaw20drih4Vx3sDKy0RpV6-c6",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Integrationlink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-3-322-91823-9_7.pdf",
+    "description": "7.1.7 Eigenschaften des Riemann-Integrals. 7.10 Satz. (Additivit\u00e4t bez\u00fcglich des Integrationsintervalls). Es sei cE (a, b). Die Funktion fist genau dann \u00fcber [a,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-3-322-91823-9_7.pdf&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAd6BAgFEAE&usg=AOvVaw10VIMrvvioePPkOdG-MTYf",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Riemann-Fl\u00e4chenma\u00df - Lexikon der Mathematikwww.spektrum.de \u203a Lexika \u203a Lexikon der Mathematik",
+    "link": "https://www.spektrum.de/lexikon/mathematik/riemann-flaechenmass/8554",
+    "description": "Eine solche Menge hei\u00dft Jordan-me\u00dfbar. Die Eigenschaften der Riemann-\u200bintegrierbaren Funktionen und des Riemann-Integrals liefern sofort: Das System der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.spektrum.de/lexikon/mathematik/riemann-flaechenmass/8554&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAh6BAgCEAE&usg=AOvVaw2yqijXGzM3RaxyqVodmCgS",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] V. Integralrechnung 13. Das Riemann-Integral - an der Ruhr ...www.ruhr-uni-bochum.de \u203a mathematik3 \u203a quellen \u203a Analysist3",
+    "link": "http://www.ruhr-uni-bochum.de/mathematik3/quellen/Analysist3.pdf",
+    "description": "13.3 Einfache Eigenschaften: ... Eigenschaften wie in Abschnitt 13 und 14. ... Beachte: Im Fall des Riemann-Integrals ist \u03b1(x) = x und die Stetigkeit der Funktion \u03b1.",
+    "googleLink": "http://www.google.com/url?q=http://www.ruhr-uni-bochum.de/mathematik3/quellen/Analysist3.pdf&sa=U&ved=2ahUKEwjG1IHBj-ruAhUTUd4KHaS-DaU4HhAWMAl6BAgDEAE&usg=AOvVaw3oAuPKR9FI8bLCCSUlAee2",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Klaus Hefft B\u00fccher online kaufen | Thaliawww.thalia.de \u203a autor \u203a klaus+hefft-607918",
+    "link": "https://www.thalia.de/autor/klaus+hefft-607918/",
+    "description": "... Punkt 7 INTEGRATION 7.1 Arbeit 7.2 Fl\u00e4che unter einer Funktion \u00fcber einem Intervall 7.3 Eigenschaften des Riemann-Integrals 7.4 Hauptsatz der Differential-\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.thalia.de/autor/klaus%2Bhefft-607918/&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAB6BAgFEAE&usg=AOvVaw2cODgdAx6Ta3OracRodLnN",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Kapitel 5 Integralrechnung 5.1 Riemann-Integraldmi.unibas.ch \u203a dmi \u203a Personen \u203a A_Campo_Annette \u203a skriptMMI9",
+    "link": "https://dmi.unibas.ch/fileadmin/user_upload/dmi/Personen/A_Campo_Annette/skriptMMI9.pdf",
+    "description": "Eigenschaften des Riemann-Integrals. 75. Riemann-Untersummen stimmen \u00fcberein, denn: RcT (f) = \u2211 n k=1. 1 cxk. (cxk \u2212 cxk\u22121. ) = RT (f). Die Behauptung\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dmi.unibas.ch/fileadmin/user_upload/dmi/Personen/A_Campo_Annette/skriptMMI9.pdf&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAF6BAgIEAE&usg=AOvVaw2GTMfn42I0-2fH614l4imA",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "5 Integration I | Jan Heilandwww.janheiland.de \u203a courses \u203a ovgu-mathe-informatik \u203a omi-5",
+    "link": "https://www.janheiland.de/courses/ovgu-mathe-informatik/omi-5/",
+    "description": "Mathematik f\u00fcr Informatik. 5 \u2014 Integration I (1/2). Zerlegung \u2014 Obersumme/\u200bUntersumme \u2014 Riemannintegral \u2014 Eigenschaften. 09:52. Info; Kapitel; Dateien",
+    "googleLink": "http://www.google.com/url?q=https://www.janheiland.de/courses/ovgu-mathe-informatik/omi-5/&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAJ6BAgHEAE&usg=AOvVaw055dUpyD9SrdgCyWHwkc6t",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Analysis III - Wintersemester 2015 Stefan Friedl - Uni Regensburgwww.uni-regensburg.de \u203a Fakultaeten \u203a nat_Fak_I \u203a friedl \u203a papers",
+    "link": "https://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/friedl/papers/2015-2016_analysis-III-regensburg.pdf",
+    "description": "Eigenschaften und Aussagen, welche wir schon in Analysis I und Analysis II nachgewiesen hatten. 1.1. ... Riemann-Integrals unterscheidet. F\u00fcr eine Folge von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/friedl/papers/2015-2016_analysis-III-regensburg.pdf&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAN6BAgJEAE&usg=AOvVaw3SSVlFXm-aONfZsDEHghzK",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Differential- und Integralrechnung Iwww.uni-math.gwdg.de \u203a iwitt \u203a skript",
+    "link": "http://www.uni-math.gwdg.de/iwitt/skript.pdf",
+    "description": "4.5 Weitere Eigenschaften des Riemann-Integrals. 4.5.1 Integration zusammengesetzter Funktionen. Wir betrachten jetzt Produkte, Quotienten und die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.uni-math.gwdg.de/iwitt/skript.pdf&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAR6BAgCEAE&usg=AOvVaw1I54RnzHL_dKoo1k31VSbF",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Skript zu mehrdimensionaler Riemann-Integrationmath.uni-paderborn.de \u203a hoffmann \u203a skript_multidimriemann",
+    "link": "https://math.uni-paderborn.de/fileadmin/mathematik/ag-lie-theorie/hoffmann/miu_mult_Riemann_Integration/skript_multidimriemann.pdf",
+    "description": "09.05.2017 \u00b7 die Erweiterung des Riemann-Integrals ins Mehrdimensionale. 2 Ober- und ... bilden, der noch weitere Eigenschaften erf\u00fcllt: Satz 3.6\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.uni-paderborn.de/fileadmin/mathematik/ag-lie-theorie/hoffmann/miu_mult_Riemann_Integration/skript_multidimriemann.pdf&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAV6BAgEEAE&usg=AOvVaw3sUIzQjoyZ2hiG02phPMQE",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[DOC] Definition des Riemann-Integralswww.gimmler.eu \u203a mediapool \u203a data \u203a Definition_des_Riemann-Inte...",
+    "link": "http://www.gimmler.eu/mediapool/20/205225/data/Definition_des_Riemann-Integrals.doc",
+    "description": "Im folgenden wollen wir eine andere Definition des Riemann-Integrals untersuchen und schlie\u00dflich ... Bemerkung 2 (Eigenschaften von Unter- und Oberintegral).",
+    "googleLink": "http://www.google.com/url?q=http://www.gimmler.eu/mediapool/20/205225/data/Definition_des_Riemann-Integrals.doc&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAZ6BAgAEAE&usg=AOvVaw3E3Ww4VOS9QnVZm1hDDC4y",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "19. Riemann-Integral eBook - Beck eLibrarywww.beck-elibrary.de \u203a 19-riemann-integral",
+    "link": "https://www.beck-elibrary.de/10.15358/9783800644834_533/19-riemann-integral",
+    "description": "Zur Berechnung des bestimmten Riemann-Integrals von f mittels ... 546 Kapitel 1919.3 Eigenschaften von Riemann-Integralen 20 40 60 80 100 \u22125000 0 5000\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.beck-elibrary.de/10.15358/9783800644834_533/19-riemann-integral&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAd6BAgDEAE&usg=AOvVaw3LHciAUTRb_PtrraMmj6A7",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Herleitung der Integration f\u00fcr Funktionen von R\u00b2 nach R bezogen ...buecherheld.de \u203a 9783640490646-herleitung-der-integration-fuer-funktio...",
+    "link": "https://buecherheld.de/9783640490646-herleitung-der-integration-fuer-funktionen-von-r2-nach-r-bezogen-auf-das-riemannintegral",
+    "description": "... auf das Integral stetiger Funktionen in bezogen auf das Riemannintegral, das in Kapitel I 1 hergeleitet und durch einige Eigenschaften, den Mittelwertsatz der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://buecherheld.de/9783640490646-herleitung-der-integration-fuer-funktionen-von-r2-nach-r-bezogen-auf-das-riemannintegral&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAh6BAgBEAE&usg=AOvVaw3AL8uFLQ58EenliyBYuM9h",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Analysis II - Uni Hallewww2.mathematik.uni-halle.de \u203a ANALYSIS2 \u203a Analysis2-skript",
+    "link": "https://www2.mathematik.uni-halle.de/dohnal/TEACH/ANALYSIS2/Analysis2-skript.pdf",
+    "description": "17.09.2019 \u00b7 14.6 Spezielle Eigenschaften des euklidischen Raums R n . ... 17.2 Das Riemannintegral \u00fcber Jordan-messbare Mengen .",
+    "googleLink": "http://www.google.com/url?q=https://www2.mathematik.uni-halle.de/dohnal/TEACH/ANALYSIS2/Analysis2-skript.pdf&sa=U&ved=2ahUKEwjn8rnBj-ruAhXXZt4KHVe7AOA4KBAWMAl6BAgGEAE&usg=AOvVaw28Yb99Dlw99Irh9K7SQsf4",
+    "page": 4,
+    "index": 9
+  }
+]

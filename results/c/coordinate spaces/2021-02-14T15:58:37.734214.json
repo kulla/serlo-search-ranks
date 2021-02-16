@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Real coordinate space - Wikipediaen.wikipedia.org \u203a wiki \u203a Real_coordinate_space",
+    "link": "https://en.wikipedia.org/wiki/Real_coordinate_space",
+    "description": "In mathematics, a real coordinate space of dimension n, written Rn (/\u0251\u02d0r\u02c8\u025bn/ ar-EN) or \u211dn, is a coordinate space over the real numbers. This means that it is the set of the n-tuples of real numbers (sequences of n real numbers). With component-wise addition and scalar multiplication, it is a real vector space.\nDefinition and structures \u00b7 Vector space \u00b7 Geometric properties and ... \u00b7 Examples",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Real_coordinate_space&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQFjADegQIChAB&usg=AOvVaw2ruozJi8ahmy2u22UIgj-q",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Complex coordinate space - Wikipediaen.wikipedia.org \u203a wiki \u203a Complex_coordinate_space",
+    "link": "https://en.wikipedia.org/wiki/Complex_coordinate_space",
+    "description": "In mathematics, the n-dimensional complex coordinate space (or complex n-\u200bspace) is the set of all ordered n-tuples of complex numbers. It is denoted C n\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Complex_coordinate_space&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQFjAMegQIABAB&usg=AOvVaw0eQAOBtIZhIUKqG60Pj8qa",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Real coordinate spaces (video) | Vectors | Khan Academywww.khanacademy.org \u203a ... \u203a Vectors",
+    "link": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/real-coordinate-spaces",
+    "description": "04.11.2013 \u00b7 In the case of a complex numbers in a tuple, could you define a complex coordinate space ...Dauer: 6:21\nGepostet: 04.11.2013",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/real-coordinate-spaces&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQtwIwDXoECAQQAQ&usg=AOvVaw1T_A4X8EiLWjMEXBazErNg",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Coordinate space | Math Wiki | Fandommath.wikia.org \u203a wiki \u203a Coordinate_space",
+    "link": "https://math.wikia.org/wiki/Coordinate_space",
+    "description": "A coordinate space is a space in which an ordered list of coordinates, each from a set (not necessarily the same set), collectively determine an element (or point)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.wikia.org/wiki/Coordinate_space&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQFjAOegQIBhAB&usg=AOvVaw0-mlHSeT3rol2fLKBSnAP5",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Difference between coordinate space and vector space ...math.stackexchange.com \u203a questions \u203a difference-be...",
+    "link": "https://math.stackexchange.com/questions/459776/difference-between-coordinate-space-and-vector-space",
+    "description": "Recall that if a vector space has a finite basis it is said to be finite dimensional, and the dimension is defined to be the number of vectors that make up this basis.",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/459776/difference-between-coordinate-space-and-vector-space&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQFjAPegQIDRAB&usg=AOvVaw2qHa3NPKmWAmdR2KllQHUW",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Coordinate Spaces and Transformations - Indiscriptswww.indiscripts.com \u203a public \u203a data \u203a CoordinateSpacesTransfos01-03",
+    "link": "https://www.indiscripts.com/blog/public/data/coordinate-spaces-and-transformations-1/CoordinateSpacesTransfos01-03.pdf",
+    "description": "DEVICE. COORDINATE SYSTEM. Figure 6. Altering the affine map attributes (M') changes the resulting coordinates in the device space, e.g. making the.",
+    "googleLink": "http://www.google.com/url?q=https://www.indiscripts.com/blog/public/data/coordinate-spaces-and-transformations-1/CoordinateSpacesTransfos01-03.pdf&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQFjAQegQICBAB&usg=AOvVaw0JffQ5iVixGo2TYc_qO2RP",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Coordinate Spaces | raywenderlich.comwww.raywenderlich.com \u203a books \u203a chapters \u203a 4-coo...",
+    "link": "https://www.raywenderlich.com/books/metal-by-tutorials/v2.0/chapters/4-coordinate-spaces",
+    "description": "Coordinate spaces. Now that you know about matrices, you'll be able to convert models and entire scenes between different coordinate spaces. Coordinate\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.raywenderlich.com/books/metal-by-tutorials/v2.0/chapters/4-coordinate-spaces&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQFjAVegQICxAB&usg=AOvVaw25fd32aLxOPlx1AewxyXmS",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Coordinate Systems - LearnOpenGLlearnopengl.com \u203a Getting-started \u203a Coordinate-Syst...",
+    "link": "https://learnopengl.com/Getting-started/Coordinate-Systems",
+    "description": "Clip space. At the end of each vertex shader run, OpenGL expects the coordinates to be within a specific range and any coordinate that falls outside this range is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://learnopengl.com/Getting-started/Coordinate-Systems&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQFjAWegQICRAB&usg=AOvVaw3xSOoo3YoDEjcpg1LYfzNQ",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "(PDF) Multi-Dimensional Coordinate Spaces - ResearchGatewww.researchgate.net \u203a ... \u203a Multidimensional",
+    "link": "https://www.researchgate.net/publication/228300293_Multi-Dimensional_Coordinate_Spaces",
+    "description": "13.11.2020 \u00b7 and the mega-surface coordinate space. Key words: Econographicology, multi-\u200bdimensional graphs and multi-dimensional geometry.",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/228300293_Multi-Dimensional_Coordinate_Spaces&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQFjAXegQIBxAB&usg=AOvVaw1e40EqTLQB3anwHBJye8ki",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Real coordinate spaces | Vectors and spaces | Linear Algebra ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=lCsjJbZHhHU",
+    "description": "17.06.2015 \u00b7 Real coordinate spaces | Vectors and spaces | Linear Algebra | Khan Academy \u00b7 Practice this ...Dauer: 6:21\nGepostet: 17.06.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DlCsjJbZHhHU&sa=U&ved=2ahUKEwj-xOPQ0enuAhUG5awKHYopBpgQtwIwGHoECAMQAQ&usg=AOvVaw0xx_Z6d7f_wJ4D-XiMXEBa",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Coordinate Spaces and Moving among Them | Essential ... - InformITwww.informit.com \u203a articles \u203a article",
+    "link": "https://www.informit.com/articles/article.aspx?p=2854376&seqNum=2",
+    "description": "26.01.2018 \u00b7 Coordinate Spaces and Moving among Them. Graphics programming boils down to figuring out how to express how an object appears and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.informit.com/articles/article.aspx%3Fp%3D2854376%26seqNum%3D2&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAB6BAgCEAE&usg=AOvVaw0PP0Tx8n3Cezf2B4AWXgRD",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Coordinate Spaces and Transformations - Win32 apps | Microsoft ...docs.microsoft.com \u203a ... \u203a Windows GDI",
+    "link": "https://docs.microsoft.com/en-us/windows/win32/gdi/coordinate-spaces-and-transformations",
+    "description": "31.05.2018 \u00b7 Applications use coordinate spaces and transformations to scale, rotate, translate\u200b, shear, and reflect graphics output.",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/en-us/windows/win32/gdi/coordinate-spaces-and-transformations&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAF6BAgIEAE&usg=AOvVaw317Ib3k-WKrHUh4wzbe6eM",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Transformation of Coordinate Spaces - Win32 apps | Microsoft Docsdocs.microsoft.com \u203a ... \u203a Windows GDI",
+    "link": "https://docs.microsoft.com/en-us/windows/win32/gdi/transformation-of-coordinate-spaces",
+    "description": "31.05.2018 \u00b7 Used optionally as the starting coordinate space for graphics transformations. It allows scaling, translation, rotation, shearing, and reflection.",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/en-us/windows/win32/gdi/transformation-of-coordinate-spaces&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAJ6BAgJEAE&usg=AOvVaw2nG7sIihjVjzMA475MlZmB",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Coordinate Spaces and Limits - GNOME Developer Centerdeveloper.gnome.org \u203a goocanvas-coordinates",
+    "link": "https://developer.gnome.org/goocanvas/stable/goocanvas-coordinates.html",
+    "description": "Transformation matrices modify the item's coordinate space in some way. Modifications include translation (moving the origin), rotation, scaling, and skewing,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://developer.gnome.org/goocanvas/stable/goocanvas-coordinates.html&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAN6BAgHEAE&usg=AOvVaw3iBEqyPqPj3pv6uMvWa5vC",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "(PDF) An Introduction to the Multi-Dimensional Coordinate Spaceswww.researchgate.net \u203a ... \u203a Mathematics \u203a Graphs",
+    "link": "https://www.researchgate.net/publication/228313324_An_Introduction_to_the_Multi-Dimensional_Coordinate_Spaces",
+    "description": "03.11.2020 \u00b7 The third part of this paper shows thirteen multidimensional coordinate spaces: the pyramid coordinate space with five and infinite axes; the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/228313324_An_Introduction_to_the_Multi-Dimensional_Coordinate_Spaces&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAR6BAgDEAE&usg=AOvVaw2-V8Gc57w-WA2CCg4TrlS3",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Coordinate spaces \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr-, Sachde.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Coordinate_spaces",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Coordinate_spaces",
+    "description": "Coordinate spaces \u2013 Serlo. Sprache; Beobachten \u00b7 Bearbeiten \u00b7 UnderCon icon.\u200bsvg. Diese Seite ist noch im Entstehen und noch nicht offizieller Bestandteil des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Coordinate_spaces&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAV6BAgAEAE&usg=AOvVaw0bxZMEHCWwOrS8PTnw7JLr",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Transforming an object between two coordinate spaces - Stack ...stackoverflow.com \u203a questions \u203a transforming-an-o...",
+    "link": "https://stackoverflow.com/questions/499713/transforming-an-object-between-two-coordinate-spaces",
+    "description": "You should read how to change basis and think in vector, not arrays but the math ones :P.",
+    "googleLink": "http://www.google.com/url?q=https://stackoverflow.com/questions/499713/transforming-an-object-between-two-coordinate-spaces&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAZ6BAgGEAE&usg=AOvVaw0Y28u4znv3e173mk3miOlY",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Definition of Coordinate Space by Merriam-Websterwww.merriam-webster.com \u203a dictionary \u203a coordinat...",
+    "link": "https://www.merriam-webster.com/dictionary/coordinate%20space",
+    "description": "Coordinate space definition is - space in the usual sense of three-dimensional geometry as distinguished from various symbolic phase spaces.",
+    "googleLink": "http://www.google.com/url?q=https://www.merriam-webster.com/dictionary/coordinate%2520space&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAd6BAgFEAE&usg=AOvVaw0oiLO3g47_sq5Rspx-jZx8",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Symmetric Coordinate Spaces and Symmetric Bases | Canadian ...www.cambridge.org \u203a core \u203a journals \u203a article \u203a sy...",
+    "link": "https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/symmetric-coordinate-spaces-and-symmetric-bases/7AF777365572741CCFA018F914F8B4F0",
+    "description": "In this paper properties of symmetric coordinate spaces and symmetric bases are investigated. Since a space which possesses a basis is essentially a space of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/symmetric-coordinate-spaces-and-symmetric-bases/7AF777365572741CCFA018F914F8B4F0&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAh6BAgBEAE&usg=AOvVaw3gSxVpTiZHd15ujh1nr_UD",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Coordinate Space Terminology | Unreal Engine Documentationdocs.unrealengine.com \u203a en-US \u203a Basics \u203a CoordinateSpace",
+    "link": "https://docs.unrealengine.com/en-US/Basics/CoordinateSpace/index.html",
+    "description": "Explanations of the various coordinate spaces used in Unreal Engine.",
+    "googleLink": "http://www.google.com/url?q=https://docs.unrealengine.com/en-US/Basics/CoordinateSpace/index.html&sa=U&ved=2ahUKEwiiuv7R0enuAhUJd6wKHWVnDqU4ChAWMAl6BAgEEAE&usg=AOvVaw2z83HrAg2zNoBDGA3SPjsh",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Coordinate Space Glossary - NVIDIA Developer Documentationdocs.nvidia.com \u203a tegra \u203a Content \u203a AN_Acc_Coor...",
+    "link": "https://docs.nvidia.com/tegra/Content/AN_Acc_Coordinate_Space_Glossary.html",
+    "description": "Coordinate Space Glossary. Android reports accelerometer values in absolute terms. The values reported are always the data from the physical sensor adjusted\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.nvidia.com/tegra/Content/AN_Acc_Coordinate_Space_Glossary.html&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAB6BAgCEAE&usg=AOvVaw0GS1i5SgzuyXXa2DZZgq1O",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Coordinate spaces in speech planning - ScienceDirectwww.sciencedirect.com \u203a science \u203a article \u203a abs \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0095447019303468",
+    "description": "Finally, the influence of the jaw on the movement of the tongue surface was examined by projecting the tongue movements into a jaw coordinate space.",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/abs/pii/S0095447019303468&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAF6BAgJEAE&usg=AOvVaw06taP3j-M3OKypNKzmkaiA",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Projections And Coordinate Spaces | SpringerLinklink.springer.com \u203a ...",
+    "link": "https://link.springer.com/10.1007/978-1-84628-800-5_23",
+    "description": "Projections And Coordinate Spaces. Chapter. 290 Downloads. In this chapter, we will see how you can use the position of points in 3D space to texture surfaces.",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/10.1007/978-1-84628-800-5_23&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAJ6BAgHEAE&usg=AOvVaw2vHM70ztfqdulrvOEupinj",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Converting Coordinate Spaces | Apple Developer Documentationdeveloper.apple.com \u203a spritekit \u203a sknode \u203a converti...",
+    "link": "https://developer.apple.com/documentation/spritekit/sknode/converting_coordinate_spaces",
+    "description": "Overview. When working with the node tree, sometimes you need to convert a position from one coordinate space to another. For example, when specifying\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://developer.apple.com/documentation/spritekit/sknode/converting_coordinate_spaces&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAN6BAgIEAE&usg=AOvVaw1-iR1wxZiO7sIhHV-uTQlI",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Coordinate Space - NI-Motion Help - National Instrumentszone.ni.com \u203a reference \u203a en-XX \u203a coordinate_space",
+    "link": "http://zone.ni.com/reference/en-XX/help/372134F-01/ni-motion_help/coordinate_space/",
+    "description": "A coordinate space is a logical grouping of axes. If you are performing a move that uses more than one axis, you must specify a coordinate space made up of the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://zone.ni.com/reference/en-XX/help/372134F-01/ni-motion_help/coordinate_space/&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAR6BAgEEAE&usg=AOvVaw0gTtqQiZbNevGew6aRwAHM",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "DEFORMED COORDINATE SPACES DERIVATIVES | Mathematical ...www.worldscientific.com \u203a doi \u203a abs",
+    "link": "https://www.worldscientific.com/doi/abs/10.1142/9789812702166_0010",
+    "description": "Abstract: The concept of derivatives on quantum spaces is worked out in detail. Special example of the \u03b8-deformed coordinate space is analysed. It is shown that\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.worldscientific.com/doi/abs/10.1142/9789812702166_0010&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAV6BAgGEAE&usg=AOvVaw0NZWoMuH8uSzNMmA4Ewlfo",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Coordinate Space Conversions | PSPDFKitpspdfkit.com \u203a guides \u203a java \u203a current \u203a faq \u203a coord...",
+    "link": "https://pspdfkit.com/guides/java/current/faq/coordinate-spaces/",
+    "description": "By specification, PDF documents have their own coordinate space, which is different from the coordinate space used by many image formats and graphical\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://pspdfkit.com/guides/java/current/faq/coordinate-spaces/&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAZ6BAgDEAE&usg=AOvVaw1YLi_3-RfeUV7gkNAQvDn7",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Coordinate Spaces in World Locking Tools for Unity | World Locking ...microsoft.github.io \u203a DocGen \u203a Concepts \u203a Advanced",
+    "link": "https://microsoft.github.io/MixedReality-WorldLockingTools-Unity/DocGen/Documentation/Concepts/Advanced/CoordinateSpaces.html",
+    "description": "Spongy Space - The Unity global coordinate space you would get without WLT. A stationary object in Spongy Space (one whose coordinates are unchanging) will\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://microsoft.github.io/MixedReality-WorldLockingTools-Unity/DocGen/Documentation/Concepts/Advanced/CoordinateSpaces.html&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAd6BAgBEAE&usg=AOvVaw1l8R0fZ1hjhA7je1OJGZ7h",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Changing Coordinate Spaces Visualizationwww.cs.usfca.edu \u203a ~galles \u203a ChangingCoordinates2D",
+    "link": "https://www.cs.usfca.edu/~galles/visualization/ChangingCoordinates2D.html",
+    "description": "Changing Coordinate Spaces. x, y. Hand Space -> World Space. World Space -> Hand Space. Row Major. Column Major. Show all axes. Animation Speed. w:",
+    "googleLink": "http://www.google.com/url?q=https://www.cs.usfca.edu/~galles/visualization/ChangingCoordinates2D.html&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAh6BAgAEAE&usg=AOvVaw1FC67-KziDFRIJyk7wAfXl",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Coordinate Spaces: User Space and Device Space - Java\u2122 Media ...www.oreilly.com \u203a library \u203a view \u203a javatm-media-apis",
+    "link": "https://www.oreilly.com/library/view/javatm-media-apis/0672320940/0672320940_ch02lev1sec3.html",
+    "description": "Coordinate Spaces: User Space and Device Space The critical concept necessary for understanding graphics and imaging on the Java platform is the idea of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oreilly.com/library/view/javatm-media-apis/0672320940/0672320940_ch02lev1sec3.html&sa=U&ved=2ahUKEwjUmrDT0enuAhVPSq0KHcgWAbU4FBAWMAl6BAgFEAE&usg=AOvVaw0cwt5BXwn9hbmh6YwkuaFA",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Coordinate Space | 3ds Max 2021 | Autodesk Knowledge Networkknowledge.autodesk.com \u203a cloudhelp \u203a ENU \u203a files",
+    "link": "https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2021/ENU/3DSMax-Reference/files/GUID-D23D202E-764B-4B6F-B762-47A867549EA9-htm.html",
+    "description": "24.08.2020 \u00b7 A 3D world is described in terms of 3D Cartesian coordinates. In 3ds Max, the main coordinate space, used to describe the scene as a whole,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2021/ENU/3DSMax-Reference/files/GUID-D23D202E-764B-4B6F-B762-47A867549EA9-htm.html&sa=U&ved=2ahUKEwj5l5rU0enuAhUFQ60KHWeDCVA4HhAWMAB6BAgDEAE&usg=AOvVaw3hYCRAI4I9LKOPywPiLH24",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Coordinates (The Java\u2122 Tutorials > 2D Graphics > Overview of the ...docs.oracle.com \u203a tutorial \u203a overview \u203a coordinate",
+    "link": "https://docs.oracle.com/javase/tutorial/2d/overview/coordinate.html",
+    "description": "Coordinates. The Java 2D API maintains two coordinate spaces: User space \u2013 The space in which graphics primitives are specified; Device space \u2013 The\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.oracle.com/javase/tutorial/2d/overview/coordinate.html&sa=U&ved=2ahUKEwj5l5rU0enuAhUFQ60KHWeDCVA4HhAWMAF6BAgJEAE&usg=AOvVaw1SJdqlPTDdHws-kuKxRFMG",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Coordinate Spaces - ABCpdf .net Documentationdocumentation.help \u203a ABCpdf \u203a 3-coordinates",
+    "link": "https://documentation.help/ABCpdf/3-coordinates.htm",
+    "description": "ABCpdf uses the standard Adobe PDF coordinate space. The origin of this space is at the bottom left of the document. Distances are measured up and to the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://documentation.help/ABCpdf/3-coordinates.htm&sa=U&ved=2ahUKEwj5l5rU0enuAhUFQ60KHWeDCVA4HhAWMAJ6BAgIEAE&usg=AOvVaw256o5aoodAx0fjkI45MWT6",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Adobe I/Owww.adobe.io \u203a uxp \u203a coordinate-spaces-and-units",
+    "link": "https://www.adobe.io/xd/uxp/develop/plugin-development/xd-concepts/coordinate-spaces-and-units/",
+    "description": "Coordinate spaces & units. Sizes and distances in XD are specified in DPI-\u200bindependent pixels, equivalent to pixels on a 1x display. This is similar to the \"\u200bCSS\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.adobe.io/xd/uxp/develop/plugin-development/xd-concepts/coordinate-spaces-and-units/&sa=U&ved=2ahUKEwj5l5rU0enuAhUFQ60KHWeDCVA4HhAWMAN6BAgHEAE&usg=AOvVaw2HXAU2_wBinNXgwI9aAC3D",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Fast Algorithms for Constructing Minimal Spanning Trees in ...ieeexplore.ieee.org \u203a document",
+    "link": "https://ieeexplore.ieee.org/document/1675043",
+    "description": "... tree (MST), of N points embedded in k-dimensional coordinate space. These algorithms take advantage of the geometry of such spaces to substantially reduce\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ieeexplore.ieee.org/document/1675043&sa=U&ved=2ahUKEwj5l5rU0enuAhUFQ60KHWeDCVA4HhAWMAR6BAgAEAE&usg=AOvVaw0YISdPe7NhobtTu9gAm7Wp",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Coordinate systems - Brain Imaging Data Structure v1.5.0-devbids-specification.readthedocs.io \u203a 99-appendices",
+    "link": "https://bids-specification.readthedocs.io/en/latest/99-appendices/08-coordinate-systems.html",
+    "description": "The \"space\" and all coordinates expressed in this space are by design a transformation of the real world geometry, and nearly always different from the individual\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://bids-specification.readthedocs.io/en/latest/99-appendices/08-coordinate-systems.html&sa=U&ved=2ahUKEwj5l5rU0enuAhUFQ60KHWeDCVA4HhAWMAV6BAgCEAE&usg=AOvVaw0yUqJ7uwl_0DFpoYLoYfZi",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Improved agreement between Talairach and MNI coordinate spaces ...pubmed.ncbi.nlm.nih.gov \u203a ...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/15110028/",
+    "description": "Disagreement between the Talairach atlas and the stereotaxic space commonly used in software like SPM is a widely recognized problem. Others have\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://pubmed.ncbi.nlm.nih.gov/15110028/&sa=U&ved=2ahUKEwj5l5rU0enuAhUFQ60KHWeDCVA4HhAWMAZ6BAgBEAE&usg=AOvVaw2ZIBbCgN83m2xD7yigYlJY",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "VisionPro - Histogram Fixtures and Coordinate Spaces - Videos ...www.cognex.com \u203a de-de \u203a videos \u203a vision-software \u203a visionpro-histogra...",
+    "link": "https://www.cognex.com/de-de/videos/vision-software/visionpro-histogram-fixtures-and-coordinate-spaces",
+    "description": "13.07.2015 \u00b7 ... application, create and configure a Fixture Tool, use terminals to pass data between tools, and ...Dauer: 27:14\nGepostet: 13.07.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.cognex.com/de-de/videos/vision-software/visionpro-histogram-fixtures-and-coordinate-spaces&sa=U&ved=2ahUKEwj5l5rU0enuAhUFQ60KHWeDCVA4HhC3AjAIegQIBBAB&usg=AOvVaw3OQPBcPhXWgt-zhl4sqYO4",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Shaders and Coordinate Spaces \u2014 Panda3D Manualdocs.panda3d.org \u203a cpp \u203a programming \u203a coordinat...",
+    "link": "https://docs.panda3d.org/1.10/cpp/programming/shaders/coordinate-spaces",
+    "description": "The Major Coordinate Spaces\u00b6 \u00b7 Model Space If a coordinate is in model space, then it is relative to the center of the model currently being rendered. \u00b7 World Space.",
+    "googleLink": "http://www.google.com/url?q=https://docs.panda3d.org/1.10/cpp/programming/shaders/coordinate-spaces&sa=U&ved=2ahUKEwj5l5rU0enuAhUFQ60KHWeDCVA4HhAWMAl6BAgGEAE&usg=AOvVaw1HXZctdTQMzO09C6j12gUl",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Coordinate Systems - fokus-gmbh-leipzig.defokus-gmbh-leipzig.de \u203a wiki-en \u203a index.php \u203a Coo...",
+    "link": "http://fokus-gmbh-leipzig.de/wiki-en/index.php/Coordinate_Systems",
+    "description": "27.01.2020 \u00b7 Coordinate systems are using two or more numbers (coordinates) to determine the position of a point or other geometry in the space.",
+    "googleLink": "http://www.google.com/url?q=http://fokus-gmbh-leipzig.de/wiki-en/index.php/Coordinate_Systems&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAB6BAgGEAE&usg=AOvVaw0CeCb2Gu0fohBeJkVVxiea",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Coordinate spaces, cont. - c-jumpwww.c-jump.com \u203a bcc \u203a Talk3 \u203a Math \u203a Matrices",
+    "link": "http://www.c-jump.com/bcc/common/Talk3/Math/Matrices/W01_0190_coordinate_spaces_co.htm",
+    "description": "coordinate spaces in OpenGL. Object Space (also known as Object Coordinates)\u200b. In these conventional coordinates, the objects are described relative to a local\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.c-jump.com/bcc/common/Talk3/Math/Matrices/W01_0190_coordinate_spaces_co.htm&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAF6BAgHEAE&usg=AOvVaw1UPR7qIEkMeaMGRd3IyfpE",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "ABCpdf .NET PDF Component Documentation - Other Coordinate ...www.websupergoo.com \u203a 3-concepts \u203a c-coordinates",
+    "link": "https://www.websupergoo.com/helppdfnet/source/3-concepts/c-coordinates.htm",
+    "description": "The origin of this space is at the bottom left of the document. Distances are measured up and to the right in points. Windows often uses a top-down coordinate\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.websupergoo.com/helppdfnet/source/3-concepts/c-coordinates.htm&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAJ6BAgIEAE&usg=AOvVaw2moTaTfsSJlKhhWQfce4LA",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "On Projective Coordinate Spaces - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/24902192",
+    "description": "Further, an n\u2212 dimensional projective coordinate space over this module is constructed with the help of equivalence classes. The points and lines of this space\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/24902192&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAN6BAgJEAE&usg=AOvVaw393oU0b__kn4Yx-rJ8IqN4",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Tongue kinematics in palate relative coordinate spaces for electro ...asa.scitation.org \u203a doi",
+    "link": "https://asa.scitation.org/doi/10.1121/1.4836515",
+    "description": "Results show that palate-relative coordinate spaces decouple mechanical dependencies present in the tongue, while maintaining low-level kinematic properties.",
+    "googleLink": "http://www.google.com/url?q=https://asa.scitation.org/doi/10.1121/1.4836515&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAR6BAgEEAE&usg=AOvVaw2HAGNn5WpoEX5vZalTlAmP",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Coordinate Spaces - ERights.Orgwww.erights.org \u203a elang \u203a collect",
+    "link": "http://www.erights.org/elang/collect/coord/index.html",
+    "description": "This document will explain E's system of coordinate spaces, and the history of the concepts. Each Coordinate Space defines its own Positions, Regions, and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.erights.org/elang/collect/coord/index.html&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAV6BAgCEAE&usg=AOvVaw0x2KPWqfKwhshZWoG22_C1",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "An Introduction to the Multi-dimensional Coordinate Spacespapers.ssrn.com \u203a sol3 \u203a Delivery.cfm \u203a SSRN_ID1629166_code450188",
+    "link": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1629166_code450188.pdf?abstractid=1629166&mirid=1",
+    "description": "Coordinate Space). The first part reviews the literature about dimension and coordinate systems (Cartesian plane and coordinate space). Initially, this paper is\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1629166_code450188.pdf%3Fabstractid%3D1629166%26mirid%3D1&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAZ6BAgDEAE&usg=AOvVaw02J470d9dHs-z1xu4eLgWx",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Coordinate Systems, Transformations and Units \u2014 SVG 2www.w3.org \u203a SVG \u203a coords",
+    "link": "https://www.w3.org/TR/SVG/coords.html",
+    "description": "space , a coordinate space in which the bounding box will be computed;; fill , a boolean indicating whether the bounding box includes the geometry of the element\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.w3.org/TR/SVG/coords.html&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAd6BAgAEAE&usg=AOvVaw3UD7aoObtBU_-3U3pRgDsQ",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Design Pattern for Multi-Modal Coordinate Spaces - Danny Ruijtersww.dannyruijters.nl \u203a docs \u203a C08_paper",
+    "link": "http://ww.dannyruijters.nl/docs/C08_paper.pdf",
+    "description": "In this article a framework is presented that encapsulates coordinate space transitions, and offers the user a simple and logical entry point to access such\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://ww.dannyruijters.nl/docs/C08_paper.pdf&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAh6BAgBEAE&usg=AOvVaw3OnBvJjWaEdnoJwux3HlIE",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "How are the different head and MRI coordinate systems defined ...www.fieldtriptoolbox.org \u203a faq \u203a how_are_the_diff...",
+    "link": "https://www.fieldtriptoolbox.org/faq/how_are_the_different_head_and_mri_coordinate_systems_defined/",
+    "description": "14.10.2020 \u00b7 The BESA native coordinate system is expressed in spherical coordinates. If you want to express the location of a dipole in 3-D space, it is more\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.fieldtriptoolbox.org/faq/how_are_the_different_head_and_mri_coordinate_systems_defined/&sa=U&ved=2ahUKEwis0M3U0enuAhVFOq0KHd4iBXw4KBAWMAl6BAgFEAE&usg=AOvVaw2Bgzu6B7nt95hrFW79iU2Q",
+    "page": 4,
+    "index": 9
+  }
+]

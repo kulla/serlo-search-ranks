@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Matrizen in Gleichungssystemenhttps://www.mathematik.de \u203a 74-erste-hilfe \u203a algebra",
+    "link": "https://www.mathematik.de/algebra/74-erste-hilfe/algebra/matrizen/2428-matrizen-in-gleichungssystemen",
+    "description": "dieser Artiekl behandelt Matrizen in linearen Gleichungssystemen. ... Einleitung. Im folgenden betrachten wir lineare Gleichungen und Gleichungssysteme.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Matrix: Gleichungssysteme l\u00f6sen - Frustfrei Lernenhttps://www.frustfrei-lernen.de \u203a mathematik \u203a matrix-g...",
+    "link": "https://www.frustfrei-lernen.de/mathematik/matrix-gleichungssysteme.html",
+    "description": "In diesem Artikel besch\u00e4ftigen wir uns mit linearen Gleichungssystemen, welche wir durch den Einsatz von Matrizen l\u00f6sen m\u00f6chten. Dabei erkl\u00e4ren wir euch,\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Matrizen, Lineare Gleichungssysteme und Determinantenhttp://www.mathe.tu-freiberg.de \u203a ~tochten \u203a gkhm \u203a s...",
+    "link": "http://www.mathe.tu-freiberg.de/~tochten/gkhm/skript_Matrizen_Gleichungssysteme_Determinanten_ws07.pdf",
+    "description": "(9) Cramersche Regel zur L osung linearer Gleichungssysteme. 1. Matrizen und Gleichungssysteme. 1.1. Was ist eine Matrix? Definition 2.1. Eine Matrix vom\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Matrizen und lineare Gleichungssysteme - TU Freiberghttps://tu-freiberg.de \u203a files \u203a media \u203a bernstein \u203a matgl",
+    "link": "https://tu-freiberg.de/sites/default/files/media/fakultaet-fuer-mathematik-und-informatik-fakultaet-1-9277/bernstein/matgl.pdf",
+    "description": "mit der Koeffizientenmatrix A = (aij )m\u00d7n, dem unbekannten Spaltenvektor x und dem Spal- tenvektor der rechten Seite b. Das lineare Gleichungssystem hei\u00dft\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Matrizen zum L\u00f6sen von Gleichungssystemen - Matheretterhttps://www.matheretter.de \u203a wiki \u203a matrizen-losen-glei...",
+    "link": "https://www.matheretter.de/wiki/matrizen-losen-gleichungssysteme",
+    "description": "In Abschnitt Definition Determinanten wurde die L\u00f6sung linearer Gleichungssysteme mittels Determinanten hergeleitet. Dazu wurde die Cramersche Regel\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Lineares Gleichungssystem \u2013 Wikipediahttps://de.wikipedia.org \u203a wiki \u203a Lineares_Gleichungssy...",
+    "link": "https://de.wikipedia.org/wiki/Lineares_Gleichungssystem",
+    "description": "Ein lineares Gleichungssystem (kurz LGS) ist in der linearen Algebra eine Menge linearer ... Des Weiteren lassen sich auch alle Unbekannten und die rechte Seite des Gleichungssystems zu einspaltigen Matrizen (das sind Spaltenvektoren)\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Matrix-Vektor-Form von Gleichungssystemen - Dieter Heidornhttp://www.dieter-heidorn.de \u203a K3_Gleichungssysteme",
+    "link": "http://www.dieter-heidorn.de/Mathematik/RP_LA_AG1/K3_Gleichungssysteme/K33_MatrixVektorForm/MatrixVektorForm.html",
+    "description": "3.3 Lineare Gleichungssysteme in Matrix-Vektorform. Ein lineares Gleichungssystem. kann mit Matrizen und Vektoren notiert werden. Die linke Seite kann als\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "L\u00f6sung des linearen Gleichungssystemes (LGS) onlinehttps://matrixcalc.org \u203a slu",
+    "link": "https://matrixcalc.org/de/slu.html",
+    "description": "L\u00f6sen des linearen Gleichungssystems (Matrixverfahren, Gau\u00df-Berfahren), auf ... Lassen Sie alle nicht ben\u00f6tigten Felder leer um nichtquadratische Matrizen\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Gleichungssysteme und Matrizen \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Gleichungssysteme_un...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Gleichungssysteme_und_Matrizen",
+    "description": "Gleichungssysteme und Matrizen \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c. Sprache; Beobachten \u00b7 Bearbeiten \u00b7 UnderCon icon.svg. Diese Seite ist noch im Entstehen\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Gleichungssysteme_und_Matrizen&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAB6BAgBEAE&usg=AOvVaw04guv2OY3vscJn4oKJULC5",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "L\u00f6sbarkeit linearer Gleichungssysteme - Mathebibel.dewww.mathebibel.de \u203a ... \u203a Algebra \u203a Lineare Gleichungssysteme (LGS)",
+    "link": "https://www.mathebibel.de/loesbarkeit-linearer-gleichungssysteme",
+    "description": "Bewertung  4,9  (152)",
+    "googleLink": "http://www.google.com/url?q=https://www.mathebibel.de/loesbarkeit-linearer-gleichungssysteme&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAF6BAgJEAE&usg=AOvVaw3tvrcR0S0SKLTHFDGGfkkg",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Grundlagen: Vektoren, Matrizen, Lineare Gleichungssystemewww.matopt.de \u203a grundlagen",
+    "link": "https://www.matopt.de/grundlagen.html",
+    "description": "In diesem Kapitel werden die Grundlagen f\u00fcr mathematische Optimierung vorgestellt. Matrizen und Vektoren sowie lineare Gleichungssysteme werden erkl\u00e4rt.",
+    "googleLink": "http://www.google.com/url?q=https://www.matopt.de/grundlagen.html&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAJ6BAgIEAE&usg=AOvVaw2K8FJcLteZcB0n7VAuZF1h",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 1.2 Matrizen, Determinanten, Lineare Gleichungssysteme ... - Uni-DUEwww.uni-due.de \u203a imperia \u203a content \u203a materialtechnik \u203a vmath102",
+    "link": "https://www.uni-due.de/imperia/md/content/materialtechnik/vmath102.pdf",
+    "description": "01.02.2010 \u00b7 C . Mit Hilfe von Matrizen k\u00f6nnen lineare Gleichungssysteme sehr einfach dargestellt werden. Ein allgemeines lineares Gleichungssystem mit m\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-due.de/imperia/md/content/materialtechnik/vmath102.pdf&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAN6BAgHEAE&usg=AOvVaw2nJeY3aOu33U54SRdfB6Er",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Lineare Gleichungssysteme I (Matrixgleichungen) - Uni-DUEwww.uni-due.de \u203a mathoek-duisburg \u203a unterlagen \u203a thema05-2",
+    "link": "https://www.uni-due.de/mathematik/mathoek-duisburg/unterlagen/thema05-2.pdf",
+    "description": "F\u00fcr Matrixgleichungen (Gleichungen zwischen Matrizen) mit einer unbe- kannten Matrix X stellt sich die entsprechende Frage nach der Aufl\u00f6sbarkeit: Gegeben: A\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-due.de/mathematik/mathoek-duisburg/unterlagen/thema05-2.pdf&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAR6BAgGEAE&usg=AOvVaw3R3D8fvK4yMh940Kbel6-k",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "L\u00f6sung eines Linearen Gleichungssystems | MassMaticswww.massmatics.de \u203a merkzettel",
+    "link": "https://www.massmatics.de/merkzettel/#!337:Loesung_eines_Linearen_Gleichungssystems",
+    "description": "Erstelle zuerst die erweiterte Koeffizientenmatrix des Gleichungssystems. ... Da die Matrix in Zeilenstufenform ist, sind die Gleichungen sehr einfach und durch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.massmatics.de/merkzettel/%23!337:Loesung_eines_Linearen_Gleichungssystems&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAV6BAgCEAE&usg=AOvVaw1aEZDQZP3esoSyIgVbpP2X",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "5.7 Matrix Division - Lineare Gleichungssystemeitp.tugraz.at \u203a kernbich \u203a AppSoft-1 \u203a appsoft1 \u203a node38",
+    "link": "https://itp.tugraz.at/LV/kernbich/AppSoft-1/appsoft1/node38.html",
+    "description": "5.7 Matrix Division - Lineare Gleichungssysteme. Die Division von Matrizen kann man sich am besten mit Hilfe von linearen Gleichungssystemen vorstellen.",
+    "googleLink": "http://www.google.com/url?q=https://itp.tugraz.at/LV/kernbich/AppSoft-1/appsoft1/node38.html&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAZ6BAgDEAE&usg=AOvVaw2uRiULPOaTJ1Xq8T-1nyz4",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Homogene Gleichungssysteme - TM-Mathewww.tm-mathe.de \u203a Themen \u203a html \u203a homogene_gleichungssysteme",
+    "link": "http://www.tm-mathe.de/Themen/html/homogene_gleichungssysteme.html",
+    "description": "Allgemeines homogenes Gleichungssystem (rechteckige Koeffizientenmatrix) ... Gleichungssysteme immer erf\u00fcllt, weil eine Erweiterung einer Matrix mit einer\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.tm-mathe.de/Themen/html/homogene_gleichungssysteme.html&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAd6BAgAEAE&usg=AOvVaw1Dmvum7zWO7-d6qQJgEfpL",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Lineare Gleichungssysteme, Matrixinversion - TM-Mathewww.tm-mathe.de \u203a Themen \u203a html \u203a lineare_gleichungssysteme__mat",
+    "link": "http://www.tm-mathe.de/Themen/html/lineare_gleichungssysteme__mat.html",
+    "description": "Beispiel f\u00fcr ein kleines lineares Gleichungssystem oder in Matrixschreibweise Beispiel eines kleinen linearen Gleichungssystems in Matrixschreibweise.",
+    "googleLink": "http://www.google.com/url?q=http://www.tm-mathe.de/Themen/html/lineare_gleichungssysteme__mat.html&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAh6BAgFEAE&usg=AOvVaw0PmouRpgMh6-7EVUHVICEi",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Lineare Gleichungssysteme (Matrixschreibweise) in Mathematik ...www.lernhelfer.de \u203a schuelerlexikon \u203a mathematik-abitur \u203a artikel \u203a linear...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/lineare-gleichungssysteme-matrixschreibweise",
+    "description": "Lineare Gleichungssysteme (Matrixschreibweise). Ein lineares Gleichungssystem besteht aus mehreren Gleichungen (im Sonderfall nur aus einer Gleichung),\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/lineare-gleichungssysteme-matrixschreibweise&sa=U&ved=2ahUKEwid_vyd_enuAhUBv54KHaHNBxg4ChAWMAl6BAgEEAE&usg=AOvVaw3U6gRi0cq4lsuRAHtdvWTi",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 2 Matrizenrechnung und Lineare Gleichungssystemewww.ph.tum.de \u203a academics \u203a bsc \u203a break \u203a fk_MA9201_02_course",
+    "link": "https://www.ph.tum.de/academics/bsc/break/2011w/fk_MA9201_02_course.pdf",
+    "description": "Bei der Addition von Matrizen werden alle Eintr\u00e4ge der Matrix, die an der gleichen Position stehen, miteinander addiert. Dies kann man sich daran klar machen,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ph.tum.de/academics/bsc/break/2011w/fk_MA9201_02_course.pdf&sa=U&ved=2ahUKEwi10q-e_enuAhWBuJ4KHexDCLQ4FBAWMAB6BAgFEAE&usg=AOvVaw2ocA3R4JYd7hcu-YGLiajl",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "lineare gleichungssysteme mit parameter rechnermaentelhaus-kaiser.de \u203a celebrity-chefs-mjp \u203a f9a956-lineare-gleichungssy...",
+    "link": "https://maentelhaus-kaiser.de/celebrity-chefs-mjp/f9a956-lineare-gleichungssysteme-mit-parameter-rechner",
+    "description": "Spezielle Matrizen. Bei unserer Gleichung handelt es sich um eine allgemeine Aussage. Betrachten wir ein Beispiel. Es gibt aber noch weitere Vorteile dieser\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://maentelhaus-kaiser.de/celebrity-chefs-mjp/f9a956-lineare-gleichungssysteme-mit-parameter-rechner&sa=U&ved=2ahUKEwi10q-e_enuAhWBuJ4KHexDCLQ4FBAWMAF6BAgJEAE&usg=AOvVaw3wrFa9Tro9AZ4i06kxbrB7",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Numerische L\u00f6sung linearer Gleichungssystemewww.wias-berlin.de \u203a john \u203a LEHRE \u203a HMI4 \u203a hmi4_sose07_12",
+    "link": "https://www.wias-berlin.de/people/john/LEHRE/HMI4/SS07/hmi4_sose07_12.pdf",
+    "description": "In der Vorlesung werden vorwiegend Verfahren f\u00fcr Matrizen vom Typ 1 behan- ... F\u00fcr lineare Gleichungssysteme (2.1) mit regul\u00e4rer Matrix A soll auch der Be-.",
+    "googleLink": "http://www.google.com/url?q=https://www.wias-berlin.de/people/john/LEHRE/HMI4/SS07/hmi4_sose07_12.pdf&sa=U&ved=2ahUKEwi10q-e_enuAhWBuJ4KHexDCLQ4FBAWMAN6BAgIEAE&usg=AOvVaw2SzC3l59vgIKMBcXX_smQS",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] L\u00f6sungen Serie 2 (Lineare Gleichungssysteme, Matrizen) - FHNWweb.fhnw.ch \u203a lineare-algebra-hs1011 \u203a ubungen \u203a loes_serie2",
+    "link": "https://web.fhnw.ch/personenseiten/roger.burkhardt/lehre-an-der-fhnw/lineare-algebra-hs1011/ubungen/loes_serie2",
+    "description": "Da jedoch der Rang der Koeffizientenmatrix mit dem Rang der erweiterten Koeffizienten Matrix \u00fcbereinstimmt, gibt es unendlich viele. L\u00f6sungen (die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://web.fhnw.ch/personenseiten/roger.burkhardt/lehre-an-der-fhnw/lineare-algebra-hs1011/ubungen/loes_serie2&sa=U&ved=2ahUKEwi10q-e_enuAhWBuJ4KHexDCLQ4FBAWMAR6BAgBEAE&usg=AOvVaw3e9JFPzE8b0UaTVxKt1UoQ",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Lineare Gleichungssysteme, Matrizen und Determinanten ...link.springer.com \u203a chapter",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-662-61738-0_2",
+    "description": "23.06.2020 \u00b7 Einen klassischen Einstieg in die lineare Algebra bietet die Behandlung linearer Gleichungssysteme. Wir besch\u00e4ftigen uns dabei zun\u00e4chst mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/chapter/10.1007/978-3-662-61738-0_2&sa=U&ved=2ahUKEwi10q-e_enuAhWBuJ4KHexDCLQ4FBAWMAV6BAgGEAE&usg=AOvVaw0FEE461_9lkyw5u8Bp99Rc",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "A.L\u00f6sen von gro\u00dfen linearen Gleichungssystemenlink.springer.com \u203a content \u203a pdf \u203a bbm:978-3-642-05461-7 \u203a 1.pdf",
+    "link": "https://link.springer.com/content/pdf/bbm%3A978-3-642-05461-7%2F1.pdf",
+    "description": "Gesucht ist die Cholesky-Zerlegung der symmetrischen Matrix. A = (. 1 4. 4 25. ) . Wir f\u00fchren f\u00fcr A = R t \u00b7 R die Matrizenmultiplikation mit der 2\u00d72-Matrix R durch:.",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/bbm%253A978-3-642-05461-7%252F1.pdf&sa=U&ved=2ahUKEwi10q-e_enuAhWBuJ4KHexDCLQ4FBAWMAZ6BAgDEAE&usg=AOvVaw19dPRWSknApXS-O6uF3YXh",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Lineare Gleichungssystemewww.math.tu-cottbus.de \u203a INSTITUT \u203a lsopt \u203a nickel \u203a LGS \u203a LGS",
+    "link": "https://www.math.tu-cottbus.de/INSTITUT/lsopt/nickel/LGS/LGS.html",
+    "description": "Dies ist die wohl allgemeinste und intuitivste Form, Gleichungssysteme darzustellen. ... 2. wieviele \"Spalten von Matrizen/Vektoren\" die Matrix enthalten soll und.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tu-cottbus.de/INSTITUT/lsopt/nickel/LGS/LGS.html&sa=U&ved=2ahUKEwi10q-e_enuAhWBuJ4KHexDCLQ4FBAWMAd6BAgCEAE&usg=AOvVaw2tQK2PQMZtbR0hc_r5Oh6O",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "L\u00f6sbarkeit von linearen Gleichungssystemen - lernen mit Serlo!de.serlo.org \u203a mathe \u203a l\u00f6sbarkeit-von-linearen-gleichungssystemen",
+    "link": "https://de.serlo.org/mathe/48767/l%C3%B6sbarkeit-von-linearen-gleichungssystemen",
+    "description": "Es ist mit Hilfe der Matrixdarstellung m\u00f6glich, zu bestimmen, wie viele L\u00f6sungen ein lineares Gleichungssystem hat, ohne es vorher zu l\u00f6sen. Es gibt drei\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/mathe/48767/l%25C3%25B6sbarkeit-von-linearen-gleichungssystemen&sa=U&ved=2ahUKEwi10q-e_enuAhWBuJ4KHexDCLQ4FBAWMAh6BAgAEAE&usg=AOvVaw1-xCBuzQ5v8EeGLs8uS6fm",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Formelblatt Matrizen und LGSwww2.hs-esslingen.de \u203a ~kamelzer \u203a iwb1 \u203a Matrizen_und_LGS",
+    "link": "http://www2.hs-esslingen.de/~kamelzer/iwb1/Matrizen_und_LGS.pdf",
+    "description": "Matrixprodukt ist vergleichbar mit Skalarprodukt. Definiere Multiplikation so, dass ein lineares. Gleichungssystem m\u00f6glichst einfach mit Matrizen dargestellt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www2.hs-esslingen.de/~kamelzer/iwb1/Matrizen_und_LGS.pdf&sa=U&ved=2ahUKEwi10q-e_enuAhWBuJ4KHexDCLQ4FBAWMAl6BAgEEAE&usg=AOvVaw2Mp9GsKJ7oq0MDlsviafxr",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Gleichungssysteme und Matrizen \u2013 Mathematical Engineering \u2013 LRTme-lrt.de \u203a Bachelor ME-LRT \u203a Mathematik Vorkurs",
+    "link": "https://me-lrt.de/1-gleichungssysteme-matrizen-matrixmultiplikation",
+    "description": "25.09.2008 \u00b7 Multiplikation von Matrix und Vektor. Das Ziel ist es, das Gleichungssystem mit Vektoren und Matrizen darzustellen in der Form. A \\cdot \\vec\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://me-lrt.de/1-gleichungssysteme-matrizen-matrixmultiplikation&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAB6BAgGEAE&usg=AOvVaw09mMfjKZTtn3ubtyUkfv_1",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Rechner f\u00fcr Lineare Gleichungssysteme - Rechneronlinerechneronline.de \u203a lineare-algebra \u203a gleichungssysteme",
+    "link": "https://rechneronline.de/lineare-algebra/gleichungssysteme.php",
+    "description": "L\u00f6st Gleichungssysteme f\u00fcr bis zu f\u00fcnf Unbekannte. ... Die Koeffizienten der Gleichungen werden in Form einer n-dimensionalen Matrix aufgeschrieben, die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://rechneronline.de/lineare-algebra/gleichungssysteme.php&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAF6BAgJEAE&usg=AOvVaw2nASQvm_C_u9VnPp477oKH",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] 3. Lineare Gleichungssystemewww.uni-magdeburg.de \u203a ifme \u203a l-numerik",
+    "link": "http://www.uni-magdeburg.de/ifme/l-numerik/mnmm-2-kapitel%203.1-3.7.pdf",
+    "description": "Analog werden mit AP die Spalten vertauscht. Quadratische und rechteckige Matrizen. Die Matrix A des Gleichungssystem (3.1-1) kann im allgemeinen Fall eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.uni-magdeburg.de/ifme/l-numerik/mnmm-2-kapitel%25203.1-3.7.pdf&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAJ6BAgIEAE&usg=AOvVaw2ipljrHrzedTkpOJQVXpms",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Matrizen und Determinanten, Lineare Gleichungssysteme ...www.europa-lehrmittel.de \u203a downloads-leseproben",
+    "link": "https://www.europa-lehrmittel.de/downloads-leseproben/56009-3/3035.pdf",
+    "description": "Matrizen und Determinanten,. Lineare Gleichungssysteme,. Vektorrechnung,. Analytische Geometrie von. Regina Gellrich. Carsten Gellrich. 3., korrigierte\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.europa-lehrmittel.de/downloads-leseproben/56009-3/3035.pdf&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAN6BAgHEAE&usg=AOvVaw3FQZlqi8aMjKBzVxmEg15O",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Gleichungssystem, lineares - Mathematik-Online-Aufgabensammlungmo.mathematik.uni-stuttgart.de \u203a aufgaben \u203a gleichungssystem__lineares",
+    "link": "https://mo.mathematik.uni-stuttgart.de/aufgaben/G/gleichungssystem__lineares.html",
+    "description": "26.03.2018 \u00b7 Aufgabe 20: L\u00f6sbarkeit eines linearen Gleichungssystems mit ... 1: Gleichungssysteme, lineare Abbildungen, Matrizen, Multiple Choice\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mo.mathematik.uni-stuttgart.de/aufgaben/G/gleichungssystem__lineares.html&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAR6BAgCEAE&usg=AOvVaw3NalIfLicbn20IjKIpdi55",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "L\u00f6sen linearer Gleichungssysteme mithilfe von Matrizen und - GRINwww.grin.com \u203a document",
+    "link": "https://www.grin.com/document/377839",
+    "description": "Einleitung. Meine Facharbeit besch\u00e4ftigt sich mit den Themen Lineare Gleichungssysteme, Matrizen und Determinanten. Ich habe mich f\u00fcr dieses Thema\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.grin.com/document/377839&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAV6BAgAEAE&usg=AOvVaw153X2ExtdDGuH5LUybJy3-",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Kurze Geschichte der linearen Algebra - KIT - Fakult\u00e4t f\u00fcr Mathematikwww.math.kit.edu \u203a iag2 \u203a ~globke \u203a media \u203a geschichtela",
+    "link": "http://www.math.kit.edu/iag2/~globke/media/geschichtela.pdf",
+    "description": "Matrizen. Auch Gau\u00df verwendete keine Matrizen f\u00fcr seine linearen. Gleichungssysteme. Die chinesischen Mathematiker benutzten Matrizen, aber diese waren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.kit.edu/iag2/~globke/media/geschichtela.pdf&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAZ6BAgFEAE&usg=AOvVaw06MKW4L1K735irV8P1QgkA",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] \u00a73 Elementare Umformung von linearen Gleichungssystemen und ...www.uni-regensburg.de \u203a Mat4 \u203a waldi \u203a skriptlinalg \u203a kapI_para3",
+    "link": "http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Mat4/waldi/skriptlinalg/kapI_para3.pdf",
+    "description": "Gleichungssystemen und Matrizen. Beispiel 1: Betrachte das Gleichungssystem x1 + x2 + x3 ... ist die einzige L\u00f6sung des urspr\u00fcnglichen Gleichungssystems.",
+    "googleLink": "http://www.google.com/url?q=http://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Mat4/waldi/skriptlinalg/kapI_para3.pdf&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAd6BAgBEAE&usg=AOvVaw2jas5SkhpsuAftqXr48Dhq",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] L\u00f6sen Linearer Gleichungssysteme mit CASIO-Grafikrechnernwww.casio-schulrechner.de \u203a download \u203a materialdatenbank",
+    "link": "https://www.casio-schulrechner.de/de/download/materialdatenbank/rrefBefehlFX9750G.pdf",
+    "description": "Lineare Gleichungssysteme (LGS) k\u00f6nnen in Kurzform in einer Matrix notiert werden ... Zum L\u00f6sen eines linearen Gleichungssystems wird dies, z.B. mithilfe des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.casio-schulrechner.de/de/download/materialdatenbank/rrefBefehlFX9750G.pdf&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAh6BAgDEAE&usg=AOvVaw2-F8_n9GpF2aigzBjb4FB6",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 3 DIREKTE L\u00a8OSUNG LINEARER GLEICHUNGSSYSTEME - Uni Ulmwww.uni-ulm.de \u203a mawi.inst.070 \u203a AngewandteNumerik1 \u203a Kapitel1",
+    "link": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.070/ss13/AngewandteNumerik1/Kapitel1.pdf",
+    "description": "Wir nennen diese Matrix auch. Standardmatrix. 3.1 Einf\u00a8uhrung, Cramersche Regel. Wir beginnen mit dem klassischen Verfahren zur L\u00f6sung eines linearen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.070/ss13/AngewandteNumerik1/Kapitel1.pdf&sa=U&ved=2ahUKEwiQkdue_enuAhWBuJ4KHexDCLQ4HhAWMAl6BAgEEAE&usg=AOvVaw0kDsP-p79T2VEFSSTdN5sB",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "CAS 4 lineare Gleichungssysteme \u2013 GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/BpqJ28eP",
+    "description": "MATRIX Nur rudiment\u00e4re Unterst\u00fctzung f\u00fcr Matrizen-Operationen. Indizierung von Matrixelementen a(i,j) nur mittels ELEMENT() m\u00f6glich - macht komplexe\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/BpqJ28eP&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAB6BAgEEAE&usg=AOvVaw2AhUOZ81lMrueO7bS0PvMV",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Lineare Gleichungssysteme Matrizen. Str\u00f6me in Netzen z.B. der ...www.mathelounge.de \u203a lineare-gleichungssysteme-matrizen-strome-wasser...",
+    "link": "https://www.mathelounge.de/473243/lineare-gleichungssysteme-matrizen-strome-wasserversorgung",
+    "description": "Erstelle f\u00fcr jeden Knoten eine Gleichung, die. angibt, dass die zuflie\u00dfende Menge. genuaso gro\u00df ist wie die wegflie\u00dfende, etwa so. D : 100 +\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/473243/lineare-gleichungssysteme-matrizen-strome-wasserversorgung&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAF6BAgIEAE&usg=AOvVaw2THZzk_8Uqm_s9rMceIz6w",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "\u00dcbungsaufgaben (Lineare Gleichungssysteme) - LPlp.uni-goettingen.de \u203a get \u203a text",
+    "link": "https://lp.uni-goettingen.de/get/text/2556",
+    "description": "LP \u2013 \u00dcbungsaufgaben (Lineare Gleichungssysteme) ... Aufgabe 32 liefert ein Verfahren zur Bestimmung des Ranges einer Matrix. Man bringt die Matrix durch\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://lp.uni-goettingen.de/get/text/2556&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAJ6BAgHEAE&usg=AOvVaw3_E4bXzeT9CulQ3PKXIJwh",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 1.2 Zur L\u00f6sbarkeit linearer Gleichungssysteme (homo-www.num.uni-sb.de \u203a schuster \u203a ars \u203a repository \u203a hmi2_kap1_12-pdf",
+    "link": "http://www.num.uni-sb.de/schuster/index.php/en/component/ars/repository/hmi2ss19/hmi2ss19skript/hmi2_kap1_12-pdf?format=pdf",
+    "description": "Matrizen und lineare Gleichungssysteme. 17. 1.2 Zur L\u00f6sbarkeit ... L\u00f6sungsmenge; Kern einer Matrix; Rang einer Matrix; erweiterte Matrix;. Dimensionsformel).",
+    "googleLink": "http://www.google.com/url?q=http://www.num.uni-sb.de/schuster/index.php/en/component/ars/repository/hmi2ss19/hmi2ss19skript/hmi2_kap1_12-pdf%3Fformat%3Dpdf&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAN6BAgJEAE&usg=AOvVaw3O4_fH2YYiFsTHofeo_9jb",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Schnelle L\u00f6sung gro\u00dfer Gleichungssysteme - Fraunhofer SCAIwww.scai.fraunhofer.de \u203a Mediathek \u203a gls_skript_und_arbeitsblaetter",
+    "link": "https://www.scai.fraunhofer.de/content/dam/scai/de/documents/Mediathek/Mathematik%20f%C3%BCr%20die%20Praxis/gls_skript_und_arbeitsblaetter.pdf",
+    "description": "24.02.2017 \u00b7 Matrix und Vektor eingef\u00fchrt. Kapitel 2 besch\u00e4ftigt sich mit direkten Verfahren zur L\u00f6sung linearer Gleichungssysteme. Zun\u00e4chst wird am\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.scai.fraunhofer.de/content/dam/scai/de/documents/Mediathek/Mathematik%2520f%25C3%25BCr%2520die%2520Praxis/gls_skript_und_arbeitsblaetter.pdf&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAR6BAgGEAE&usg=AOvVaw25OtslIlc9sCO-IUaVWY1p",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Lineare Gleichungssysteme l\u00f6sen mit dem Gau\u00dfschen ...www.arndt-bruenner.de \u203a mathe \u203a scripts \u203a gleichungssysteme",
+    "link": "https://www.arndt-bruenner.de/mathe/scripts/gleichungssysteme.htm",
+    "description": "Multiplikationszeichen (* oder \u00b7) sind nicht erforderlich. Zufallsbeispiel erzeugen ..\u200b. und l\u00f6sen. Gleichungen (oder Koeffizientenmatrix) hier eingeben, L\u00f6sungen (\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.arndt-bruenner.de/mathe/scripts/gleichungssysteme.htm&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAV6BAgBEAE&usg=AOvVaw1WLg5Q8diwcTty1kS9oPsW",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "8 Lineare Gleichungssysteme und Matrizen: FH Aachenwww.fh-aachen.de \u203a people \u203a hoever \u203a hoehere-mathematik-kompakt-videos",
+    "link": "https://www.fh-aachen.de/en/people/hoever/hoehere-mathematik-kompakt-videos/8-lineare-gleichungssysteme-und-matrizen/",
+    "description": "Privacy Settings. Our website uses cookies. Some are essential to operate the website, while others help to further improve your user experience. Accept all. or.",
+    "googleLink": "http://www.google.com/url?q=https://www.fh-aachen.de/en/people/hoever/hoehere-mathematik-kompakt-videos/8-lineare-gleichungssysteme-und-matrizen/&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAZ6BAgFEAE&usg=AOvVaw0yQEgajJgYyQmbnN8lGozb",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Lineare Gleichungssysteme ::: Lineare Algebra - Informatikwww.informatikseite.de \u203a Bachelor \u203a Lineare Algebra \u203a Zu Beginn",
+    "link": "http://www.informatikseite.de/linearealgebra/lineare_algebra_grundlagennode9.php",
+    "description": "Weiterhin spielen Sie bei der Darstellung von Abbildungen mit Hilfe von Matrizen eine gro\u00dfe Rolle. Unterabschnitte. Aufbau eines Linearen Gleichungssystems\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.informatikseite.de/linearealgebra/lineare_algebra_grundlagennode9.php&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAd6BAgAEAE&usg=AOvVaw2EKUfq_xLVDk1RdG_V-GUT",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Lineare Gleichungssysteme mit L\u00f6sungsverfahren - Elektroniktutorwww.elektroniktutor.de \u203a fachmathematik \u203a linglsys",
+    "link": "https://www.elektroniktutor.de/fachmathematik/linglsys.html",
+    "description": "Erkl\u00e4rt werden einige L\u00f6sungsverfahren f\u00fcr lineare Gleichungssysteme. ... Man erh\u00e4lt links f\u00fcr die Koeffizienten eine quadratische Matrix. Das Ziel ist es, dass\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.elektroniktutor.de/fachmathematik/linglsys.html&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAh6BAgCEAE&usg=AOvVaw3k38xLrqu8VpKK8brw_c7o",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Interpretation von LGS - SchulLV - Dein digitales Lernverzeichniswww.schullv.de \u203a mathe \u203a basiswissen \u203a analytische_geometrie \u203a interpreta...",
+    "link": "https://www.schullv.de/mathe/basiswissen/analytische_geometrie/lgs/interpretation",
+    "description": "Ein lineares Gleichungssystem kann genau eine, keine oder unendlich viele ... Eliminierungsverfahren, indem du die Vorfaktoren als Eintr\u00e4gt f\u00fcr die Matrix\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.schullv.de/mathe/basiswissen/analytische_geometrie/lgs/interpretation&sa=U&ved=2ahUKEwj1nYif_enuAhXXtp4KHU35AqM4KBAWMAl6BAgDEAE&usg=AOvVaw2mC8RQRnBg5HKkKTS9bPOg",
+    "page": 4,
+    "index": 9
+  }
+]

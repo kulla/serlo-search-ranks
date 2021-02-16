@@ -1,0 +1,394 @@
+[
+  {
+    "name": "",
+    "link": "https://en.wikipedia.org/wiki/Complex_logarithm?sa=X&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQ9QF6BAgLEAI",
+    "description": "Complex logarithm",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "How to Find Logarithm of Complex Number - Logarithm of Complex ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=ve7CmEIEv_U",
+    "description": "30.10.2015 \u00b7 How to Find Logarithm of Complex Number Video Lecture From Chapter Logarithm of Complex ...Dauer: 9:02\nGepostet: 30.10.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3Dve7CmEIEv_U&sa=U&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQtwIwDnoECAUQAQ&usg=AOvVaw3Us8fxRbR6g0h-HGZxZGyQ",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Complex Numbers Lecture 5 - Log of a complex number - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=HGOKddxYKJs",
+    "description": "03.11.2015 \u00b7 This video looks at how we can compute the natural log of a complex number.Dauer: 1:54\nGepostet: 03.11.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DHGOKddxYKJs&sa=U&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQtwIwF3oECAQQAQ&usg=AOvVaw3d1t626gTyx3KsthZLUcaF",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[PDF] The complex logarithm, exponential and power functionsscipp.ucsc.edu \u203a ~haber \u203a clog_11",
+    "link": "http://scipp.ucsc.edu/~haber/ph116A/clog_11.pdf",
+    "description": "the arguments\u2217 of these functions can be complex numbers. In particular ... (46) simply reduces to the usual real logarithmic function in this limit. The relation\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://scipp.ucsc.edu/~haber/ph116A/clog_11.pdf&sa=U&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQFjAYegQICBAB&usg=AOvVaw2Sjnm2NamrxD770sNYqapX",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "How to find the logarithm of a complex number? | Chemistry Learningwww.chemistrylearning.com \u203a logarithm-of-comple...",
+    "link": "http://www.chemistrylearning.com/logarithm-of-complex-number/",
+    "description": "01.03.2009 \u00b7 Let a + i b be a complex number whose logarithm is to be found. ... no brilliance that taking log of anti-log gives us the log of that number.",
+    "googleLink": "http://www.google.com/url?q=http://www.chemistrylearning.com/logarithm-of-complex-number/&sa=U&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQFjAZegQICRAB&usg=AOvVaw1KIgnZyz9DV_7JcainU5eB",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Logarithms of Negative and Imaginary Numbers | Mathematics of the ...www.dsprelated.com \u203a freebooks \u203a mdft \u203a Logarith...",
+    "link": "https://www.dsprelated.com/freebooks/mdft/Logarithms_Negative_Imaginary_Numbers.html",
+    "description": "Thus, the log of the magnitude of a complex number behaves like the log of any positive real number, while the log of its phase term $ e^{j\\theta }$ extracts its\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dsprelated.com/freebooks/mdft/Logarithms_Negative_Imaginary_Numbers.html&sa=U&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQFjAaegQIAhAB&usg=AOvVaw3NvG1Jr3oLhld9yJ9IfmAb",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Logarithm rules for complex numbers - Mathematics Stack Exchangemath.stackexchange.com \u203a questions \u203a logarithm-rul...",
+    "link": "https://math.stackexchange.com/questions/683204/logarithm-rules-for-complex-numbers",
+    "description": "You have to be careful because logs and non-integer powers are multivalued functions. The definition is that ad=exp(dln(a)) (for any branch of ln). Now logb(ad )\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/683204/logarithm-rules-for-complex-numbers&sa=U&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQFjAfegQIBxAB&usg=AOvVaw03a3Iyw9qYQaL2kO5nw1Ip",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Logarithms of Negative and Imaginary Numbers - CCRMA Stanfordccrma.stanford.edu \u203a ~jos \u203a Logarithms_Negative_I...",
+    "link": "https://ccrma.stanford.edu/~jos/st/Logarithms_Negative_Imaginary_Numbers.html",
+    "description": "for complex numbers,. $\\displaystyle \\ln(z) \\isdef \\ln(r e^{. where $ r>0$ and $ \\ theta$ are real. Thus, the log of the magnitude of a complex number behaves like \u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ccrma.stanford.edu/~jos/st/Logarithms_Negative_Imaginary_Numbers.html&sa=U&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQFjAgegQIARAB&usg=AOvVaw1c8T2OEZRFth_ByGuNM0lQ",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] SECTION 3.5 95 \u00a73.5 Complex Logarithm Function The real ...home.cc.umanitoba.ca \u203a ~dtrim \u203a BooksandNotes \u203a ComplexLogarith...",
+    "link": "https://home.cc.umanitoba.ca/~dtrim/BooksandNotes/Complex/ComplexLogarithms.pdf",
+    "description": "Thus, w = lnr + \u03b8i, and a logarithm of a complex number z is log z = ln |z| + (argz)i. (3.21). We use ln only for logarithms of real numbers; log denotes logarithms of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://home.cc.umanitoba.ca/~dtrim/BooksandNotes/Complex/ComplexLogarithms.pdf&sa=U&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQFjAhegQIBhAB&usg=AOvVaw1kIILaF6y79ovn0w41-N42",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "How to define the log of a complex number - Quorawww.quora.com \u203a How-do-you-define-the-log-of-a...",
+    "link": "https://www.quora.com/How-do-you-define-the-log-of-a-complex-number",
+    "description": "We start with Euler's formula: Where is a real number. From this formula we get: We can shorten this to: where and are complex numbers. Then we take the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.quora.com/How-do-you-define-the-log-of-a-complex-number&sa=U&ved=2ahUKEwjwiovE6enuAhVDsZ4KHezzBhAQFjAiegQIAxAB&usg=AOvVaw1qeZAKCR_gFZOAN3UfxsGt",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "The Logarithmic Function - Complex Analysiscomplex-analysis.com \u203a content \u203a logarithmic_funct...",
+    "link": "https://complex-analysis.com/content/logarithmic_function.html",
+    "description": "Consider z any nonzero complex number. ... logarithmic function of a nonzero complex variable z=rei\u0398 is defined by the formula logz=lnr+i(\u0398+2n\u03c0)(n\u2208Z).",
+    "googleLink": "http://www.google.com/url?q=https://complex-analysis.com/content/logarithmic_function.html&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAB6BAgBEAE&usg=AOvVaw2hgCZftjW7S31LdYAvq73Q",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Complex.Log Methode (System.Numerics) | Microsoft Docsdocs.microsoft.com \u203a ... \u203a System.Numerics \u203a Complex \u203a Methoden",
+    "link": "https://docs.microsoft.com/de-de/dotnet/api/system.numerics.complex.log",
+    "description": "Gibt den Logarithmus einer komplexen Zahl zur\u00fcck.Returns the logarithm of a complex number.",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/dotnet/api/system.numerics.complex.log&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAF6BAgIEAE&usg=AOvVaw3-tVvhwwypy0UnMUJoDO--",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Natural logarithm - MATLAB log - MathWorkswww.mathworks.com \u203a help \u203a matlab \u203a ref \u203a log",
+    "link": "https://www.mathworks.com/help/matlab/ref/log.html",
+    "description": "If you want negative and complex numbers to return error messages rather than return complex results, use reallog instead. Examples. collapse all. Natural\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathworks.com/help/matlab/ref/log.html&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAJ6BAgJEAE&usg=AOvVaw1cmEX2X2GlnszqTqJ5cX2l",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Exp and log functions for complex numbers \u2013 Serlo \u2013 Wikibooks ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Exp_and_log_functions_for_compl...",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Exp_and_log_functions_for_complex_numbers",
+    "description": "Diese Seite ist noch im Entstehen und noch nicht offizieller Bestandteil des Buchs. Gib der Autorin / dem Autor Zeit, die Seite anzupassen!",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Exp_and_log_functions_for_complex_numbers&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAN6BAgHEAE&usg=AOvVaw3QsOwrpXB047qVcDK9Jcvc",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "3.2. Complex Numbers \u2014 Theoretical Physics Reference 0.5 ...www.theoretical-physics.net \u203a dev \u203a math \u203a complex",
+    "link": "https://www.theoretical-physics.net/dev/math/complex.html",
+    "description": "A power of two complex numbers is defined as: z^a = e^{a\\log z}. From above we can also write the power z^a in two different ways: z^a = \\left(e^{\\log z}\\right.",
+    "googleLink": "http://www.google.com/url?q=https://www.theoretical-physics.net/dev/math/complex.html&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAR6BAgFEAE&usg=AOvVaw0AdpUwmjhtdX4vv_2CcOLe",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Math Forum - Ask Dr. Mathwww.nctm.org \u203a tmf \u203a library \u203a drmath \u203a view",
+    "link": "https://www.nctm.org/tmf/library/drmath/view/71757.html",
+    "description": "I'm wondering how to calculate the log of a complex number. More specifically, I ... The log function, on complex numbers, is a multi-valued function. Just as all\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.nctm.org/tmf/library/drmath/view/71757.html&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAV6BAgEEAE&usg=AOvVaw2q6DAmpOLd-Vh2TG8-q7xI",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "The Complex Natural Logarithm Function - Mathonlinemathonline.wikidot.com \u203a the-complex-natural-loga...",
+    "link": "http://mathonline.wikidot.com/the-complex-natural-logarithm-function",
+    "description": "Screen%20Shot%202016-01-27%20at%208.37.29%. We would like to extend this function to the domain of complex numbers. There is one problem that we will\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/the-complex-natural-logarithm-function&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAZ6BAgAEAE&usg=AOvVaw223sCuqiSYjVa_bRYgNyHk",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "log() function for complex number in C++ - Tutorialspointwww.tutorialspoint.com \u203a log-function-for-complex...",
+    "link": "https://www.tutorialspoint.com/log-function-for-complex-number-in-cplusplus",
+    "description": "23.03.2020 \u00b7 log() returns complex natural logarithmic value of a complex value. The difference between the log() in math header file and log() of complex\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tutorialspoint.com/log-function-for-complex-number-in-cplusplus&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAd6BAgCEAE&usg=AOvVaw0IUjNP2kCqOeb_-G8VxAU-",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Logarithms of complex numbers? Logarithms with complex bases ...www.reddit.com \u203a askscience \u203a comments \u203a logarith...",
+    "link": "https://www.reddit.com/r/askscience/comments/2e3jnv/logarithms_of_complex_numbers_logarithms_with/",
+    "description": "Evaluating the natural log of complex numbers allows for logs with complex bases. Start with ln(x) = y, then apply change of base formula by converting to\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/askscience/comments/2e3jnv/logarithms_of_complex_numbers_logarithms_with/&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAh6BAgDEAE&usg=AOvVaw3y7l7Uhzk0-8A4335j96kq",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "log() function for complex number in C++ - GeeksforGeekswww.geeksforgeeks.org \u203a log-function-for-complex...",
+    "link": "https://www.geeksforgeeks.org/log-function-for-complex-number-in-c/",
+    "description": "11.10.2018 \u00b7 The log() function for complex number is defined in the complex header file. This function is the complex version of the log() function.",
+    "googleLink": "http://www.google.com/url?q=https://www.geeksforgeeks.org/log-function-for-complex-number-in-c/&sa=U&ved=2ahUKEwiCos7H6enuAhVXvZ4KHRdGAAM4ChAWMAl6BAgGEAE&usg=AOvVaw1jpQ4EhyK5uhjvt6X8nJch",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "The Complex Logarithm Function \u2013 GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/a23GUTef",
+    "description": "Drag the blue points to see the effect of adding the complex number a to various shapes. The checkboxes show different shapes. The \"before\" shape is filled in,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/a23GUTef&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAB6BAgDEAE&usg=AOvVaw0Ht2pDzjAyFy8Y45bb19PQ",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Logarithms of Negative and Imaginary Numbers \u00b7 Technick.nettechnick.net \u203a guides \u203a theory \u203a dft \u203a logarithms_ne...",
+    "link": "https://technick.net/guides/theory/dft/logarithms_negative_imagina/",
+    "description": "01.03.1998 \u00b7 where $r>0$ and $\\ are real. Thus, the log of the magnitude of a complex number behaves like the log of any positive real number, while the log\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://technick.net/guides/theory/dft/logarithms_negative_imagina/&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAF6BAgJEAE&usg=AOvVaw17flYezHQoCxRlgqJ6iEh0",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Complex Logarithm Function - Suitcase of Dreamswww.suitcaseofdreams.net \u203a Logarithm_Function",
+    "link": "http://www.suitcaseofdreams.net/Logarithm_Function.htm",
+    "description": "In this lesson: The modulus and argument of the product; Multiplication of complex numbers as stretching - squeezing and rotation; Multiplying a complex number\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.suitcaseofdreams.net/Logarithm_Function.htm&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAJ6BAgHEAE&usg=AOvVaw1cv3xAIy5txiuLa0JZT8GJ",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "std::log(std::complex) - cppreference.comen.cppreference.com \u203a cpp \u203a numeric \u203a log",
+    "link": "https://en.cppreference.com/w/cpp/numeric/complex/log",
+    "description": "15.10.2017 \u00b7 The natural logarithm of a complex number z with polar coordinate components (r\u200b,\u03b8) equals ln r + i(\u03b8+2n\u03c0), with the principal value ln r + i\u03b8.",
+    "googleLink": "http://www.google.com/url?q=https://en.cppreference.com/w/cpp/numeric/complex/log&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAN6BAgIEAE&usg=AOvVaw2_V4jd6X37pLcjjI-TuiC8",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] The Logarithm of -1 - Ursinus Digital Commons - Ursinus Collegedigitalcommons.ursinus.edu \u203a cgi \u203a viewcontent \u203a context=triumphs_...",
+    "link": "https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?article=1001&context=triumphs_complex",
+    "description": "12.10.2018 \u00b7 Indeed, he had come to strongly suspect that the values of logs of negative values would involve imaginary and complex numbers, although he\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi%3Farticle%3D1001%26context%3Dtriumphs_complex&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAR6BAgAEAE&usg=AOvVaw3FI3Vj5bkLm6WLSpWx7zin",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "LOGARITHM OF A COMPLEX NUMBER - Math Formulas ...www.pioneermathematics.com \u203a logarithm-of-a-co...",
+    "link": "https://www.pioneermathematics.com/logarithm-of-a-complex-number-formula.html",
+    "description": "Enter Keyword example(area, degree). Formulae \u00bb algebra \u00bb complex numbers \u00bb logarithm of a complex number. log of complex numbers\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.pioneermathematics.com/logarithm-of-a-complex-number-formula.html&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAV6BAgFEAE&usg=AOvVaw0oexGl8EO-LPqDtTZcpAxg",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Lecture 5: The complex logarithm function - UW Math Departmentsites.math.washington.edu \u203a ~hart \u203a Lecture5",
+    "link": "https://sites.math.washington.edu/~hart/m427/Lecture5.pdf",
+    "description": "log(zw) = logz + logw + i2\u03c0k for some k. Page 5. Branches of the n-th root function. Can similarly define a branch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://sites.math.washington.edu/~hart/m427/Lecture5.pdf&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAZ6BAgBEAE&usg=AOvVaw1wa3IOfBYTpMBkDwpakzzn",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Logarithm of Infinite Product of Complex Numbers - ProofWikiproofwiki.org \u203a wiki \u203a Logarithm_of_Infinite_Prod...",
+    "link": "https://proofwiki.org/wiki/Logarithm_of_Infinite_Product_of_Complex_Numbers",
+    "description": "01.01.2020 \u00b7 log|Pn|=n\u2211j=1Relogzj. Imaginary Part. It remains to show that:.",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Logarithm_of_Infinite_Product_of_Complex_Numbers&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAd6BAgEEAE&usg=AOvVaw1bU663xCa2ksGb1S8Qi_gs",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "std::log vs MATLAB's log for complex numbers - Stack Overflowstackoverflow.com \u203a questions \u203a stdlog-vs-matlabs-l...",
+    "link": "https://stackoverflow.com/questions/40614244/stdlog-vs-matlabs-log-for-complex-numbers",
+    "description": "15.11.2016 \u00b7 (-0.013659176853856606,0.019644972824447767). while in MATLAB the log of the same complex number is (-0.013659176853856606\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://stackoverflow.com/questions/40614244/stdlog-vs-matlabs-log-for-complex-numbers&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAh6BAgCEAE&usg=AOvVaw0W3GoXRQKoH_yREFTkxnWw",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Logarithmic function - Encyclopedia of Mathematicsencyclopediaofmath.org \u203a wiki \u203a Logarithmic_funct...",
+    "link": "https://encyclopediaofmath.org/wiki/Logarithmic_function",
+    "description": "05.06.2020 \u00b7 The logarithmic function on the complex plane is an infinitely-valued ... the principal value of the argument of the complex number z, \u03c0<argz\u2264\u03c0,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://encyclopediaofmath.org/wiki/Logarithmic_function&sa=U&ved=2ahUKEwic4v7H6enuAhVFrp4KHTYlCe84FBAWMAl6BAgGEAE&usg=AOvVaw1YjfaCDAXctcAzFID43ZRH",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Complex Numbers \u2014 GSL 2.6 documentation - GNU.orgwww.gnu.org \u203a software \u203a gsl \u203a doc \u203a html \u203a complex",
+    "link": "https://www.gnu.org/software/gsl/doc/html/complex.html",
+    "description": "The functions described in this chapter provide support for complex numbers. ... returns the natural logarithm of the magnitude of the complex number z , \\log|z| .",
+    "googleLink": "http://www.google.com/url?q=https://www.gnu.org/software/gsl/doc/html/complex.html&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAB6BAgCEAE&usg=AOvVaw3nB7m30k6Jo90nsJ-DTsHh",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Prove some properties of the complex logarithm - Stumbling Robotwww.stumblingrobot.com \u203a Blog",
+    "link": "http://www.stumblingrobot.com/2016/02/27/prove-some-properties-of-the-complex-logarithm/",
+    "description": "27.02.2016 \u00b7 Extend the logarithm function to all nonzero complex numbers z by defining. \\[ \\\u200boperatorname{Log} z = \\log |z| + i. Use this formula to prove the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.stumblingrobot.com/2016/02/27/prove-some-properties-of-the-complex-logarithm/&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAF6BAgIEAE&usg=AOvVaw2BGxFoBpUmhrMGiAckMaom",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "History of the Exponential and Logarithmic Concepts - JStorwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2972960",
+    "description": "Thus he obtains certain negative numbers that have real logarithms. When Euler says that l(+ a) = l(- a) yields zero for the logarithm of all complex numbers of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2972960&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAJ6BAgJEAE&usg=AOvVaw1S0wH3vG3Ne2gU-PAjKtz3",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "cmath \u2014 Mathematical functions for complex numbers \u2014 Python 3.9 ...docs.python.org \u203a library \u203a cmath",
+    "link": "https://docs.python.org/3/library/cmath.html",
+    "description": "This module provides access to mathematical functions for complex numbers. The functions in this ... This has the same branch cut as log() . cmath. sqrt (x)\u00b6.",
+    "googleLink": "http://www.google.com/url?q=https://docs.python.org/3/library/cmath.html&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAN6BAgHEAE&usg=AOvVaw2qwLMrPRDV18Q31OQ7LoHp",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "The complex number z x + iy for which log dfrac12left class 11 maths ...www.vedantu.com \u203a question-answer \u203a the-complex...",
+    "link": "https://www.vedantu.com/question-answer/the-complex-number-z-x-+-iy-for-which-log-class-11-maths-cbse-5f47471a7daf45604446c42a",
+    "description": "Hint: In this question, we will form equations by using the properties of log and modulus of complex numbers. Then, we will solve the equations to find the required\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.vedantu.com/question-answer/the-complex-number-z-x-%2B-iy-for-which-log-class-11-maths-cbse-5f47471a7daf45604446c42a&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAR6BAgGEAE&usg=AOvVaw2XlROw_A5c2uCO9WAk2Jhz",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Free Form Complex Numbers / CCN/CDN/LOG / Observableobservablehq.com \u203a @ccnlog \u203a free-form-complex-...",
+    "link": "https://observablehq.com/@ccnlog/free-form-complex-numbers",
+    "description": "28.11.2020 \u00b7 Introduction to Complex Analysis Prof. Lucian Ionescu MAT349 Illinois State University Free Form Input Analysis This is a pioneering\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://observablehq.com/%40ccnlog/free-form-complex-numbers&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAV6BAgEEAE&usg=AOvVaw0loWHESCMTb507jR23zj7-",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "(PDF) Logarithms of imaginary numbers in rectangular form: A new ...www.researchgate.net \u203a publication \u203a 266025167_L...",
+    "link": "https://www.researchgate.net/publication/266025167_Logarithms_of_imaginary_numbers_in_rectangular_form_A_new_technique",
+    "description": "25.09.2014 \u00b7 =\u2212 )1(log . Logarithms of complex numbers may be obtained by. converting the rectangular coordinates of the complex. number (\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/266025167_Logarithms_of_imaginary_numbers_in_rectangular_form_A_new_technique&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAZ6BAgBEAE&usg=AOvVaw3yrr4uH0In7s3H_0tVKoaY",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Complex Numbers - Euler Math Toolbox - Tutorialseuler-math-toolbox.de \u203a Programs \u203a 07 - Complex ...",
+    "link": "http://euler-math-toolbox.de/Programs/07%20-%20Complex%20Numbers.html",
+    "description": "Most numerical functions are defined for complex numbers too. >z=1+1i; exp(z^2) -0.416147+0.909297i. The log function needs some care, since it is defined\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://euler-math-toolbox.de/Programs/07%2520-%2520Complex%2520Numbers.html&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAd6BAgFEAE&usg=AOvVaw0i1qm_6ht9o5FD7iERg6ez",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Matlab function: log \u2013 Natural logarithm \u2013 iTecTecitectec.com \u203a matlab-ref \u203a matlab-function-log-natur...",
+    "link": "https://itectec.com/matlab-ref/matlab-function-log-natural-logarithm/",
+    "description": "each element in array X . The log function's domain includes negative and complex numbers, which can lead to unexpected results if used unintentionally. For\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://itectec.com/matlab-ref/matlab-function-log-natural-logarithm/&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAh6BAgDEAE&usg=AOvVaw23Vd1QoCLBOE6Xx7Bb74yv",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "cmath \u2013 mathematical functions for complex numbers ...docs.micropython.org \u203a latest \u203a library \u203a cmath",
+    "link": "https://docs.micropython.org/en/latest/library/cmath.html",
+    "description": "Return the exponential of z . cmath. log (z)\u00b6. Return the natural logarithm of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.micropython.org/en/latest/library/cmath.html&sa=U&ved=2ahUKEwi8vo3J6enuAhXEpJ4KHWxYAUA4HhAWMAl6BAgAEAE&usg=AOvVaw0WweijJQat1e4os6Vh-rW1",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "cmath \u2013 mathematical functions for complex numbers ...docs.micropython.org \u203a latest \u203a library \u203a cmath",
+    "link": "https://docs.micropython.org/en/latest/library/cmath.html",
+    "description": "Return the exponential of z . cmath. log (z)\u00b6. Return the natural logarithm of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.micropython.org/en/latest/library/cmath.html&sa=U&ved=2ahUKEwjBwcTJ6enuAhVDsZ4KHezzBhA4KBAWMAB6BAgFEAE&usg=AOvVaw1hG5xr9-1QDkPcCP9Q3ROC",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Ln - Analytica Wikiwiki.analytica.com \u203a ...",
+    "link": "https://wiki.analytica.com/Ln",
+    "description": "\u00abx\u00bb must be non-negative when complex numbers are not enabled or a ... real part of the result is the log magnitude, and the imaginary part is the phasor angle,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.analytica.com/Ln&sa=U&ved=2ahUKEwjBwcTJ6enuAhVDsZ4KHezzBhA4KBAWMAF6BAgEEAE&usg=AOvVaw3YpOFis7Hb5VASKrg4G2uF",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Complex Numbers in VBA | Pfadintegral dotCompfadintegral.com \u203a articles \u203a complex-numbers-vba",
+    "link": "https://pfadintegral.com/articles/complex-numbers-vba/",
+    "description": "Comprehensive library of complex number operations for MS Excel \u2013 VBA. ... X CLog() Log base e (Natural Log) of Complex Number CLog10() Log base 10 of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://pfadintegral.com/articles/complex-numbers-vba/&sa=U&ved=2ahUKEwjBwcTJ6enuAhVDsZ4KHezzBhA4KBAWMAJ6BAgIEAE&usg=AOvVaw0x5Ee_7hXBXJWxolB4EX0l",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] LECTURE 5: COMPLEX LOGARITHM AND TRIGONOMETRIC ...home.iitk.ac.in \u203a ~psraj \u203a mth102 \u203a lecture_notes \u203a comp5",
+    "link": "http://home.iitk.ac.in/~psraj/mth102/lecture_notes/comp5.pdf",
+    "description": "(2) Suppose x is a positive real number then Log x = lnx + i Argx = lnx (for positive real numbers we do not get anything new). (3) Log i = ln|i| + i\u03c0. 2. = i\u03c0. 2.",
+    "googleLink": "http://www.google.com/url?q=http://home.iitk.ac.in/~psraj/mth102/lecture_notes/comp5.pdf&sa=U&ved=2ahUKEwjBwcTJ6enuAhVDsZ4KHezzBhA4KBAWMAN6BAgHEAE&usg=AOvVaw2GsdW2gZwvDoDfV2okDBE7",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Chapter 2 Complex Analysiswww.maths.ed.ac.uk \u203a ~jmf \u203a Teaching \u203a ComplexAnalysis",
+    "link": "https://www.maths.ed.ac.uk/~jmf/Teaching/MT3/ComplexAnalysis.pdf",
+    "description": "say that a logarithm of a nonzero complex number z, is any complex number w such that exp(w) = z. In other words, we define the function log(z) by w = log(z) if\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maths.ed.ac.uk/~jmf/Teaching/MT3/ComplexAnalysis.pdf&sa=U&ved=2ahUKEwjBwcTJ6enuAhVDsZ4KHezzBhA4KBAWMAR6BAgBEAE&usg=AOvVaw3fIO5FdoLXMvgLRk643FLW",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] The Integral Resulting in a Logarithm of a Complex Number Dr. E ...ftp.xecu.net \u203a jacobs \u203a vCalc \u203a Complex \u203a LogZ",
+    "link": "http://ftp.xecu.net/jacobs/vCalc/Complex/LogZ.pdf",
+    "description": "are complex numbers and C is a path connecting z1 to z2, we would expect that: \u222b. C. 1 z dz = log z2 \u2212 log z1. However, you are about to see that there is an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://ftp.xecu.net/jacobs/vCalc/Complex/LogZ.pdf&sa=U&ved=2ahUKEwjBwcTJ6enuAhVDsZ4KHezzBhA4KBAWMAV6BAgDEAE&usg=AOvVaw16yXNCH4OvxvKH2I7DRKiC",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Complex Numbers - Wolfram|Alpha Exampleswww.wolframalpha.com \u203a examples \u203a ComplexNu...",
+    "link": "https://www.wolframalpha.com/examples/ComplexNumbers.html",
+    "description": "Calculators for complex numbers and complex analysis. Do computations, find roots and apply functions to complex numbers. ... exp(24+2i). Do computations that give complex numbers as a result: log (-1) \u00b7 arcsin 2. More examples\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wolframalpha.com/examples/ComplexNumbers.html&sa=U&ved=2ahUKEwjBwcTJ6enuAhVDsZ4KHezzBhA4KBAWMAZ6BAgCEAE&usg=AOvVaw0ym4JeNKf4prFlDiVzsI7S",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "A complex log inequality | Gaurish4Mathgaurish4math.wordpress.com \u203a 2017/12/02 \u203a a-com...",
+    "link": "https://gaurish4math.wordpress.com/2017/12/02/a-complex-log-inequality/",
+    "description": "02.12.2017 \u00b7 Let $latex z&bg=ffffff$ be a complex number. The power series expansion of $\u200blatex \\text{log}(1+z)&bg=ffffff$ about $latex z_0=0&bg=ffffff$ is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://gaurish4math.wordpress.com/2017/12/02/a-complex-log-inequality/&sa=U&ved=2ahUKEwjBwcTJ6enuAhVDsZ4KHezzBhA4KBAWMA16BAgAEAE&usg=AOvVaw2ofLh1gtsPM0XH6q2mVSy7",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Log of Complex Number (in Hindi) | (Hindi) Mathematics Class ...unacademy.com \u203a lesson \u203a log-of-complex-number-...",
+    "link": "https://unacademy.com/lesson/log-of-complex-number-in-hindi/B48J2S6A",
+    "description": "Bewertung  4,8  (1)",
+    "googleLink": "http://www.google.com/url?q=https://unacademy.com/lesson/log-of-complex-number-in-hindi/B48J2S6A&sa=U&ved=2ahUKEwjBwcTJ6enuAhVDsZ4KHezzBhA4KBAWMA56BAgGEAE&usg=AOvVaw03y8HmO4Nh3GF7w-vR4tkE",
+    "page": 4,
+    "index": 8
+  }
+]

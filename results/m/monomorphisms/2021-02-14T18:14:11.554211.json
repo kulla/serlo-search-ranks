@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Monomorphismus \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Monomorphismus",
+    "link": "https://de.wikipedia.org/wiki/Monomorphismus",
+    "description": "Monomorphismus (von griechisch \u03bc\u03cc\u03bd\u03bf\u03c2 monos \u201eein, allein\u201c und \u03bc\u03bf\u03c1\u03c6\u03ae morph\u00e9 \u201eGestalt, Form\u201c) ist ein Begriff aus den mathematischen Teilgebieten der\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Monomorphism - Wikipediaen.wikipedia.org \u203a wiki \u203a Monom...",
+    "link": "https://en.wikipedia.org/wiki/Monomorphism",
+    "description": "In the context of abstract algebra or universal algebra, a monomorphism is an injective homomorphism. A monomorphism from X to Y is often denoted with the\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "monomorphism in nLabncatlab.org \u203a nlab \u203a show \u203a mono...",
+    "link": "https://ncatlab.org/nlab/show/monomorphism",
+    "description": "22.01.2021 \u2014 1. Idea. The notion of monomorphism is the generalization of the notion of injective map of sets from the category Set to arbitrary categories. The\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "regular monomorphism in nLabncatlab.org \u203a nlab \u203a show \u203a regula...",
+    "link": "https://ncatlab.org/nlab/show/regular+monomorphism",
+    "description": "19.04.2020 \u2014 Remark 2.2. Beware that (CassidyHebertKelly) use 'regular monomorphism' in a more general way: for them, a regular monomorphism is by\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Section 26.23 (01L1): Monomorphisms\u2014The Stacks projectstacks.math.columbia.edu \u203a tag",
+    "link": "https://stacks.math.columbia.edu/tag/01L1",
+    "description": "Then j is a monomorphism if and only if the diagonal morphism \\Delta _{X/Y} : X \\to X \\times _ Y X is an isomorphism. Proof. This is true in any category with fibre\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Epimorphisms and monomorphisms in category theorywww.johndcook.com \u203a 2018/08/25",
+    "link": "https://www.johndcook.com/blog/2018/08/25/epi-and-mono/",
+    "description": "25.08.2018 \u2014 Monomorphisms. Monomorphism is the dual concept to epimorphism. A morphism f from an object X to an object Y is an monomorphism if for any\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "What are the monomorphisms in the category of schemes ...mathoverflow.net \u203a questions \u203a wh...",
+    "link": "https://mathoverflow.net/questions/56591/what-are-the-monomorphisms-in-the-category-of-schemes",
+    "description": "25.06.2011 \u2014 In EGA IV, 17.2.6 the following characterization of monomorphisms is given: Let f:X\u2192Y be a morphism locally of finite type. Then the following conditions are\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Monomorphisms, epimorphisms and isomorphisms of groups ...math.stackexchange.com \u203a questions",
+    "link": "https://math.stackexchange.com/questions/1857874/monomorphisms-epimorphisms-and-isomorphisms-of-groups-category",
+    "description": "15.04.2017 \u2014 It is obvious that injective (respectively, surjective) group homomorphisms are monomorphisms (respectively, epimorphisms). Monomorphisms in the category of\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Monomorphism - Encyclopedia of Mathematicsencyclopediaofmath.org \u203a wiki",
+    "link": "https://encyclopediaofmath.org/wiki/Monomorphism",
+    "description": "12.01.2017 \u2014 Monomorphism. From Encyclopedia of Mathematics. Jump to: navigation, search. in a category. A morphism \u03bc:A\u2192B of a category K for which \u03b1\u03bc=\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Monomorphisms and epimorphisms | Annoying Precisionqchu.wordpress.com \u203a 2012/09/29",
+    "link": "https://qchu.wordpress.com/2012/09/29/monomorphisms-and-epimorphisms/",
+    "description": "29.09.2012 \u2014 Monomorphisms are supposed to abstract the notion of an injective function to an arbitrary category. In the category of sets, a function is injective\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Monomorphism - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a monomo...",
+    "link": "https://www.sciencedirect.com/topics/mathematics/monomorphism",
+    "description": "For a finite loop space L, we call a monomorphism T \u2192 L of an honest torus considered as finite loop space into L a maximal torus if rk(T) = rk(L). Here, following a\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Monomorphism -- from Wolfram MathWorldmathworld.wolfram.com \u203a Monom...",
+    "link": "https://mathworld.wolfram.com/Monomorphism.html",
+    "description": "Monomorphism. A morphism f:Y->X in a category is a monomorphism if, for any two morphisms u,v:Z->Y , fu=fv implies that u=v . In the categories of sets, groups,\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Category Theory 2.2: Monomorphisms, simple types - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=NcT7CGPICzo",
+    "description": "Category Theory 2.2: Monomorphisms, simple types. 52,094 views52K views. \u2022 Sep 2, 2016. 942 6. Share Save ...",
+    "googleLink": null,
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "monomorphism - Wiktionaryen.wiktionary.org \u203a wiki \u203a monom...",
+    "link": "https://en.wiktionary.org/wiki/monomorphism",
+    "description": "(mathematics) an injective homomorphism \u00b7 (biology) the absence of sexual dimorphism \u00b7 (category theory) A morphism n such that for any other morphisms f and g,\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Monomorphisms and epimorphisms in abstract ... - Numdamwww.numdam.org \u203a RSMUP_1969__42__135_0",
+    "link": "http://www.numdam.org/article/RSMUP_1969__42__135_0.pdf",
+    "description": "Appendix. References. 1. Def initions and elementary properties. 1.1 DEFINITION. Let d be any category. A morphism A' ~ A is a monomorphism iff: (MI) A' -~ A is\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[math/0404243] Morphisms represented by monomorphismsarxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/math/0404243",
+    "description": "13.04.2004 \u2014 Every homomorphism of modules is projective-stably equivalent to an epimorphism but is not always to a monomorphism. We prove that a map is\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Monomorphisms, Epimorphisms, and Pull-Backs - Cambridge ...www.cambridge.org \u203a core \u203a services \u203a content \u203a view",
+    "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1446788700005693",
+    "description": "morphisms and monomorphisms, with various canonical factorizations of arbitrary ... that the duals of monomorphism, subobject, and pull-back are epimorphism,.",
+    "googleLink": null,
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Colimits of Monomorphisms | SpringerLinklink.springer.com \u203a chapter",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-642-65364-3_14",
+    "description": "Cite this chapter as: Schubert H. (1972) Colimits of Monomorphisms. In: Categories. Springer, Berlin, Heidelberg. DOI https://doi.org/10.1007/978-3-642-65364-\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Monomorphisms in categories of firm actspageperso.lif.univ-mrs.fr \u203a ~kolja.knauer \u203a conf \u203a Laan",
+    "link": "http://pageperso.lif.univ-mrs.fr/~kolja.knauer/conf/Laan.pdf",
+    "description": "In a category A, a morphism f is called a monomorphism if for any morphisms u,v ... If S is a semigroup then the monomorphisms, the extremal monomorphisms\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Gabriel-Roiter inclusions and irreducible monomorphisms.www.math.uni-bielefeld.de \u203a ~sek \u203a select \u203a irreduc",
+    "link": "https://www.math.uni-bielefeld.de/~sek/select/irreduc.pdf",
+    "description": "irreducible monomorphism X \u2192 M with M indecomposable and an epimorphism M \u2192 Y such that ... all the non-zero maps Pn \u2192 Pn+1 are monomorphisms. Also\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Monomorphisms and epimorphisms in pro-categories | Request PDFwww.researchgate.net \u203a publication \u203a 222666792_...",
+    "link": "https://www.researchgate.net/publication/222666792_Monomorphisms_and_epimorphisms_in_pro-categories",
+    "description": "03.12.2020 \u00b7 A morphism of a category which is simultaneously an epimorphism and a monomorphism is called a bimorphism. We give characterizations of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/222666792_Monomorphisms_and_epimorphisms_in_pro-categories&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAB6BAgEEAE&usg=AOvVaw2hwO22E7Sks5h6FhVI2Zok",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "About: Monomorphism - DBpediadbpedia.org \u203a page \u203a Monomorphism",
+    "link": "https://dbpedia.org/page/Monomorphism",
+    "description": "In the context of abstract algebra or universal algebra, a monomorphism is an ... Monomorphisms are a categorical generalization of injective functions (also\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dbpedia.org/page/Monomorphism&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAF6BAgIEAE&usg=AOvVaw2Ny_W20vqY5xyZSquBtMeL",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Full article: Monomorphisms in the category of firm moduleswww.tandfonline.com \u203a ... \u203a Volume 48, Issue 4",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/00927872.2019.1691570",
+    "description": "29.12.2019 \u00b7 Lemma 1.4. Every regular monomorphism is extremal. Now, some less known categorical definitions concerning reflective subcategories are\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tandfonline.com/doi/full/10.1080/00927872.2019.1691570&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAJ6BAgJEAE&usg=AOvVaw0sTH6EHpDYIObRTMXpEIvL",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Monomorphism - bionity.comwww.bionity.com \u203a encyclopedia \u203a Monomorphism",
+    "link": "https://www.bionity.com/en/encyclopedia/Monomorphism.html",
+    "description": "Monomorphism In the context of abstract algebra or universal algebra, a monomorphism is simply an injective homomorphism. In the more general setting of.",
+    "googleLink": "http://www.google.com/url?q=https://www.bionity.com/en/encyclopedia/Monomorphism.html&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAN6BAgHEAE&usg=AOvVaw2K9YnfGifQGezy4_RXKXVv",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Monomorphismwww.impan.pl \u203a ~pmh \u203a teach \u203a algebra \u203a additional \u203a monoepi",
+    "link": "https://www.impan.pl/~pmh/teach/algebra/additional/monoepi.pdf",
+    "description": "24.11.2012 \u00b7 Monomorphisms are a categorical generalization of injective functions (also called \"one-to-one functions\"); in some categories the notions\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.impan.pl/~pmh/teach/algebra/additional/monoepi.pdf&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAR6BAgFEAE&usg=AOvVaw2viUNOqt65kXwXlbYPH6RY",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "monomorphism :: Englisch-Deutsch-\u00dcbersetzung - dict.cc W\u00f6rterbuchwww.dict.cc \u203a englisch-deutsch \u203a monomorphism",
+    "link": "https://www.dict.cc/englisch-deutsch/monomorphism.html",
+    "description": "Englisch-Deutsch-\u00dcbersetzungen f\u00fcr monomorphism im Online-W\u00f6rterbuch dict.\u200bcc (Deutschw\u00f6rterbuch).",
+    "googleLink": "http://www.google.com/url?q=https://www.dict.cc/englisch-deutsch/monomorphism.html&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAV6BAgBEAE&usg=AOvVaw0QrZ9paLmA9drWUlzSF8qJ",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Monomorphism - HaskellWikiwiki.haskell.org \u203a Monomorphism",
+    "link": "https://wiki.haskell.org/Monomorphism",
+    "description": "21.05.2017 \u00b7 Monomorphism is the opposite of polymorphism. That is, a function is polymorphic if it works for several different types - and thus, a function is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.haskell.org/Monomorphism&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAZ6BAgDEAE&usg=AOvVaw3lczn_n0O441VuriZWJ5N3",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] TOPOI \u2013 II 1. Monomorphisms Let C be an \u221e-category. A morphism fgraptismath.net \u203a higher_category_theory \u203a infinity-topoi2-notes",
+    "link": "https://graptismath.net/higher_category_theory/infinity-topoi2-notes.pdf",
+    "description": "is up to weak equivalence an inclusion of path components. Monomorphisms are closed under pullbacks. A morphism f : X \u2192 Z is a monomorphism if and only if.",
+    "googleLink": "http://www.google.com/url?q=https://graptismath.net/higher_category_theory/infinity-topoi2-notes.pdf&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAd6BAgCEAE&usg=AOvVaw20vCcs6KAm0qeyuXz9loeI",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "monomorphism \u2013 Math \u2229 Programmingjeremykun.com \u203a tag \u203a monomorphism",
+    "link": "https://jeremykun.com/tag/monomorphism/",
+    "description": "15.05.2013 \u00b7 Isomorphisms, Monomorphisms, and Epimorphisms. Perhaps the most important paradigm shift in category theory is the focus on morphisms as\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://jeremykun.com/tag/monomorphism/&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAh6BAgGEAE&usg=AOvVaw3oLti24GgBjXTk0oYAVd2B",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "On Strong Monomorphisms and Strong Epimorphisms - Hindawiwww.hindawi.com \u203a journals \u203a ijmms",
+    "link": "https://www.hindawi.com/journals/ijmms/2010/294812/",
+    "description": "J. Dydak and F. R. Ruiz del Portal defined strong monomorphism and strong epimorphism in procategories. They obtained a useful characterization of them and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.hindawi.com/journals/ijmms/2010/294812/&sa=U&ved=2ahUKEwjEyfr47-nuAhWY9Z4KHc9ABXo4FBAWMAl6BAgAEAE&usg=AOvVaw1VYK1BGPKuu7dJ8ilwTpyT",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Mukherjee : Equivariant homotopy epimorphisms, homotopy ...  projecteuclid.org \u203a euclid.bbms",
+    "link": "https://projecteuclid.org/euclid.bbms/1103408700",
+    "description": "Mukherjee : Equivariant homotopy epimorphisms, homotopy ...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://projecteuclid.org/euclid.bbms/1103408700&ved=2ahUKEwjP-M357-nuAhVVrp4KHWYuCn04HhAWMAF6BAgIEAE&usg=AOvVaw1Pypit9vdo1GdFsbPvgQtz",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "MONOMORPHISMS AND DIRECT LIMITS OF FINITE GROUPS OF ...  academic.oup.com \u203a qjmath \u203a article-abstract",
+    "link": "https://academic.oup.com/qjmath/article-abstract/35/1/49/1585732",
+    "description": "MONOMORPHISMS AND DIRECT LIMITS OF FINITE GROUPS OF ...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://academic.oup.com/qjmath/article-abstract/35/1/49/1585732&ved=2ahUKEwjP-M357-nuAhVVrp4KHWYuCn04HhAWMAJ6BAgKEAE&usg=AOvVaw3NzW-ioaIdrO2B6MlGp34b",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Chapter-9.pdf  www.heldermann.de \u203a SSPM \u203a SSPM01 \u203a Chapter-9",
+    "link": "http://www.heldermann.de/SSPM/SSPM01/Chapter-9.pdf",
+    "description": "[PDF] Chapter-9.pdf",
+    "googleLink": null,
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Monomorphism - definition of monomorphism by The Free Dictionary  www.thefreedictionary.com \u203a monomorphism",
+    "link": "https://www.thefreedictionary.com/monomorphism",
+    "description": "Monomorphism - definition of monomorphism by The Free Dictionary",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.thefreedictionary.com/monomorphism&ved=2ahUKEwjP-M357-nuAhVVrp4KHWYuCn04HhAWMAR6BAgHEAE&usg=AOvVaw1AiQXW5KeTA6y1KGh8nG51",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Monomorphisms \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr-, Sach ...  de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Monomorphisms",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Monomorphisms",
+    "description": "Monomorphisms \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr-, Sach ...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://de.wikibooks.org/wiki/Serlo:_EN:_Monomorphisms&ved=2ahUKEwjP-M357-nuAhVVrp4KHWYuCn04HhAWMAV6BAgEEAE&usg=AOvVaw2SLJ2y5nLy_0mehSDflC8g",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Monomorphisms of coalgebras - EUDML  eudml.org \u203a doc",
+    "link": "https://eudml.org/doc/284052",
+    "description": "Monomorphisms of coalgebras - EUDML",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://eudml.org/doc/284052&ved=2ahUKEwjP-M357-nuAhVVrp4KHWYuCn04HhAWMAZ6BAgCEAE&usg=AOvVaw2ZVgZ6FEA_bqdc3aHvVTCW",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Monomorphisms as limits | Marco Benini  marcobenini.me \u203a 2011/04/04 \u203a monomorphisms-as...",
+    "link": "https://marcobenini.me/2011/04/04/monomorphisms-as-limits/",
+    "description": "Monomorphisms as limits | Marco Benini",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://marcobenini.me/2011/04/04/monomorphisms-as-limits/&ved=2ahUKEwjP-M357-nuAhVVrp4KHWYuCn04HhAWMAd6BAgDEAE&usg=AOvVaw3uXwCvxI-Qb36CGpFjuN4K",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] BOURN-NORMAL MONOMORPHISMS IN REGULAR MAL'TSEV ...  www.tac.mta.ca \u203a tac \u203a volumes",
+    "link": "http://www.tac.mta.ca/tac//volumes/32/5/32-05.pdf",
+    "description": "[PDF] BOURN-NORMAL MONOMORPHISMS IN REGULAR MAL'TSEV ...",
+    "googleLink": null,
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "On Monomorphisms and Subfields in: Formalized Mathematics ...  content.sciendo.com \u203a journals \u203a forma \u203a article-p133",
+    "link": "https://content.sciendo.com/view/journals/forma/27/2/article-p133.xml?language=en",
+    "description": "On Monomorphisms and Subfields in: Formalized Mathematics ...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://content.sciendo.com/view/journals/forma/27/2/article-p133.xml%3Flanguage%3Den&ved=2ahUKEwjP-M357-nuAhVVrp4KHWYuCn04HhAWMAl6BAgFEAE&usg=AOvVaw2Gea-cpwtDIqKFbaYJNZQk",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "MONOMORPHISM - Definition und Synonyme von monomorphism ...educalingo.com \u203a dic-en \u203a monomorphism",
+    "link": "https://educalingo.com/de/dic-en/monomorphism",
+    "description": "Bedeutung von monomorphism und Synonyme von monomorphism, Tendenzen zum Gebrauch, Nachrichten, B\u00fccher und \u00dcbersetzung in 25 Sprachen.",
+    "googleLink": "http://www.google.com/url?q=https://educalingo.com/de/dic-en/monomorphism&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAB6BAgGEAE&usg=AOvVaw1OIaWxMWlmPTj3kfLz1pOm",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Monomorphisms in categories of firm acts in: Studia Scientiarum ...akjournals.com \u203a view \u203a journals \u203a article-p267",
+    "link": "https://akjournals.com/view/journals/012/56/3/article-p267.xml",
+    "description": "01.09.2019 \u00b7 Monomorphisms in categories of firm acts. Authors: Valdis Laan and \u00dclo Reimaa. View More View Less. 1 University of Tartu, \u00dclikooli 18,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://akjournals.com/view/journals/012/56/3/article-p267.xml&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAF6BAgIEAE&usg=AOvVaw07w1d8mSNKrxvqHRb19Wez",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Monomorphisms Meaning | Best 1 Definitions of Monomorphismswww.yourdictionary.com \u203a monomorphisms",
+    "link": "https://www.yourdictionary.com/monomorphisms",
+    "description": "What does monomorphisms mean? Plural form of monomorphism. (noun)",
+    "googleLink": "http://www.google.com/url?q=https://www.yourdictionary.com/monomorphisms&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAJ6BAgJEAE&usg=AOvVaw3c5cMo1ElZdKOoUj2aiX57",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Auslander\u2013Reiten translations in monomorphism categories in ...www.degruyter.com \u203a journals \u203a form \u203a article-p863",
+    "link": "https://www.degruyter.com/view/journals/form/26/3/article-p863.xml",
+    "description": "Auslander\u2013Reiten translations in monomorphism categories. Bao-Lin Xiong , Pu Zhang , and Yue-Hui Zhang. 1 Department of Mathematics, Shanghai Jiao\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.degruyter.com/view/journals/form/26/3/article-p863.xml&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAN6BAgHEAE&usg=AOvVaw1nt_ayUWCfkKFRR2UnPB66",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Concrete categories and monomorphisms | Lovely little lemmaslovelylittlelemmas.rjprojects.net \u203a concrete-categorie...",
+    "link": "https://lovelylittlelemmas.rjprojects.net/concrete-categories-and-monomorphisms/",
+    "description": "19.10.2019 \u00b7 Today we will study the relationship between monomorphisms and injections in \\\u200bmathscr C : Lemma. Let (\\mathscr C,U) be a concrete category,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://lovelylittlelemmas.rjprojects.net/concrete-categories-and-monomorphisms/&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAR6BAgBEAE&usg=AOvVaw0C3Tdnl1jg6obxz8BSnBzV",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Different Exact Structures on the Monomorphism Categories ...www.springerprofessional.de \u203a different-exact-structures-on-the-monomor...",
+    "link": "https://www.springerprofessional.de/different-exact-structures-on-the-monomorphism-categories/18343000",
+    "description": "02.09.2020 \u00b7 We associate to X the subcategory SX(\u039b) of the morphism category H(\u039b) consisting of all monomorphisms (Af\u2192B) with A, B and Cok f in X.",
+    "googleLink": "http://www.google.com/url?q=https://www.springerprofessional.de/different-exact-structures-on-the-monomorphism-categories/18343000&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAV6BAgCEAE&usg=AOvVaw0wprMKlAbhsvNXVHTzjgAw",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Note on Epimorphisms and Monomorphisms in Homotopy ... - JStorwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2045363",
+    "description": "We study epimorphisms e: X X and monomorphisms m: X - X in the pointed homotopy ... Epimorphism, monomorphism, Hopfian object, co-Hopfian object.",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2045363&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAZ6BAgFEAE&usg=AOvVaw28_xXK5Lnp8qJCRlYC7OPc",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Homotopy-epimorphisms, homotopy-monomorphisms and ... - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/81168523.pdf",
+    "description": "Keywords: Homotopy-epimorphism, homotopy-monomorphism, cohomology with local coefficients. AMS (MOS) Subj. Class.: 55N25, 55PlO. A morphism in a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://core.ac.uk/download/pdf/81168523.pdf&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAd6BAgEEAE&usg=AOvVaw1O9TQo6Zf1jdgxqJY9xqgQ",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] THE STABLE MONOMORPHISM CATEGORY OF A FROBENIUS ...home.ustc.edu.cn \u203a ~xwchen \u203a The stable monomorphism category of...",
+    "link": "http://home.ustc.edu.cn/~xwchen/Personal%20Papers/The%20stable%20monomorphism%20category%20of%20a%20Frobenius%20category.pdf",
+    "description": "We are mainly concerned with the full subcategory Mon(A) of Mor(A) consisting of monomorphisms in A, which is called the monomorphism category of A. It is an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://home.ustc.edu.cn/~xwchen/Personal%2520Papers/The%2520stable%2520monomorphism%2520category%2520of%2520a%2520Frobenius%2520category.pdf&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAh6BAgDEAE&usg=AOvVaw2v6XsWhTwf82JcML6N7gla",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Coflat monomorphisms of coalgebras - IRUA - Institutional ...repository.uantwerpen.be \u203a docman \u203a irua",
+    "link": "https://repository.uantwerpen.be/docman/irua/33c9e2/5207.pdf",
+    "description": "In this paper, we consider coflat monomorphisms of coalgebras. These are dual to the perfect localizations of algebras (or the flat epimorphisms of algebras).",
+    "googleLink": "http://www.google.com/url?q=https://repository.uantwerpen.be/docman/irua/33c9e2/5207.pdf&sa=U&ved=2ahUKEwjv2bz77-nuAhVOip4KHfAXCy84KBAWMAl6BAgAEAE&usg=AOvVaw3kHw_5L857X1KJb2rEGbFq",
+    "page": 4,
+    "index": 9
+  }
+]

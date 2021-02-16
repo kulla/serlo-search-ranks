@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Teleskopsumme \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Teleskopsumme",
+    "link": "https://de.wikipedia.org/wiki/Teleskopsumme",
+    "description": "Eine Teleskopsumme ist in der Mathematik eine endliche Summe von Differenzen, bei der je ... Telescoping Sum auf PlanetMath; Po-Shen Loh: Telescoping Sums and Products (PDF; 66 kB) \u2013 Beispiele von Teleskopsummen und\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Telescoping series - Wikipediaen.wikipedia.org \u203a wiki \u203a Telescop...",
+    "link": "https://en.wikipedia.org/wiki/Telescoping_series",
+    "description": "In mathematics, a telescoping series is a series whose partial sums eventually only have a finite number of terms after cancellation. The cancellation technique\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Telescoping Sum -- from Wolfram MathWorldmathworld.wolfram.com \u203a Telesco...",
+    "link": "https://mathworld.wolfram.com/TelescopingSum.html",
+    "description": "Telescoping Sum. A sum in which subsequent terms cancel each other, leaving only initial and final terms. For example,. S, = sum_(i=1)^(n-1)(a_i-a_. (1).",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Telescoping Series - Sum | Brilliant Math & Science Wikibrilliant.org \u203a wiki \u203a telescoping-series",
+    "link": "https://brilliant.org/wiki/telescoping-series/",
+    "description": "A telescoping series is a series where each term u k u_k uk\u200b can be written as u k = t k \u2212 t k + 1 u_k = t_{k} - t_{k+1} uk\u200b=tk\u200b\u2212tk+1\u200b for some series t k t_{k} tk\u200b.",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Telescoping sumswww.math.pitt.edu \u203a node5",
+    "link": "http://www.math.pitt.edu/~sparling/23021/23021sums2/node5.html",
+    "description": "Telescoping sums. No amount of guesswork will give a mathematical proof that we have the correct pattern for a sum, even if we are privately convinced!",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Telescoping sums and series \u2013 Serlo \u2013 Wikibooks, Sammlung ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Telescoping_su...",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Telescoping_sums_and_series",
+    "description": "Telescoping series are certain series where summands cancel against each other. This makes evaluating them particularly easy.",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Telescoping Sums, Series and Products - Cut the Knotwww.cut-the-knot.org \u203a Algebra",
+    "link": "https://www.cut-the-knot.org/m/Algebra/TelescopingSums.shtml",
+    "description": "Telescoping Sums, Series and Products. Introduction. The term Telescoping sum applies to en expression of the form. \\displaystyle \\sum_{k=0\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "telescoping sum | \u00dcbersetzung Englisch-Deutsch - dict.ccwww.dict.cc \u203a s=telescoping+sum",
+    "link": "https://www.dict.cc/?s=telescoping+sum",
+    "description": "dict.cc | \u00dcbersetzungen f\u00fcr 'telescoping sum' im Englisch-Deutsch-W\u00f6rterbuch, mit echten Sprachaufnahmen, Illustrationen, Beugungsformen, ...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Telescoping Series - Oregon State Universitysites.science.oregonstate.edu \u203a SandS \u203a SeriesTests",
+    "link": "http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/SandS/SeriesTests/telescoping.html",
+    "description": "Telescoping Series \u00b7 the sum over n from 1 to infinity of 1/n - 1/( \u00b7 the sum over i from 1 to n of 1/i - 1/( \u00b7 = 1 - 1/(n+1) \u00b7 the sum over n from 1 to infinity of n - (n + 1) \u00b7 the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/SandS/SeriesTests/telescoping.html&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAB6BAgFEAE&usg=AOvVaw09YW514mFxlELbkWNZNPEo",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "telescoping sum :: Englisch-Deutsch-\u00dcbersetzung - dict.cc W\u00f6rterbuchwww.dict.cc \u203a englisch-deutsch \u203a telescoping+sum",
+    "link": "https://www.dict.cc/englisch-deutsch/telescoping+sum.html",
+    "description": "Englisch-Deutsch-\u00dcbersetzungen f\u00fcr telescoping sum im Online-W\u00f6rterbuch dict.\u200bcc (Deutschw\u00f6rterbuch).",
+    "googleLink": "http://www.google.com/url?q=https://www.dict.cc/englisch-deutsch/telescoping%2Bsum.html&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAF6BAgHEAE&usg=AOvVaw2coCnHousocM-R3XjAQqRZ",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "How does one transform a sum into a telescoping sum ...math.stackexchange.com \u203a questions \u203a how-does-on...",
+    "link": "https://math.stackexchange.com/questions/3261711/how-does-one-transform-a-sum-into-a-telescoping-sum",
+    "description": "In general, there is no suitable technique for all cases. Some series don't exactly have telescoping components that are easy to track.",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/3261711/how-does-one-transform-a-sum-into-a-telescoping-sum&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAJ6BAgIEAE&usg=AOvVaw1LqL61bqFISA5v-yPrUBE3",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "How to analyze convergence and sum of a telescopic series? I can't ...math.stackexchange.com \u203a questions \u203a how-to-analy...",
+    "link": "https://math.stackexchange.com/questions/104918/how-to-analyze-convergence-and-sum-of-a-telescopic-series-i-cant-find-a-generi",
+    "description": "If a telescoping sum starts at n=m, then N\u2211n=m(an\u2212an+1)=am\u2212aN+1. and the telescoping series is thus\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/104918/how-to-analyze-convergence-and-sum-of-a-telescopic-series-i-cant-find-a-generi&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAN6BAgJEAE&usg=AOvVaw04MO3qrM4f1BNkGDrOCiWR",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "TELESCOPING SUM - Deutsch-\u00dcbersetzung - bab.la Englisch ...de.bab.la \u203a woerterbuch \u203a englisch-deutsch \u203a telescoping-sum",
+    "link": "https://de.bab.la/woerterbuch/englisch-deutsch/telescoping-sum",
+    "description": "\u00dcbersetzung f\u00fcr 'telescoping sum' im kostenlosen Englisch-Deutsch W\u00f6rterbuch und viele weitere Deutsch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://de.bab.la/woerterbuch/englisch-deutsch/telescoping-sum&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAR6BAgEEAE&usg=AOvVaw35TI9VeUT8eO-5JyKwlgks",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Telescoping Series - Calcworkshop.comcalcworkshop.com \u203a Sequences and Series",
+    "link": "https://calcworkshop.com/sequences-series/telescoping-series/",
+    "description": "22.01.2020 \u00b7 The partial sums collapse like an old-fashioned collapsable telescope leaving just two or three terms for us to find the sum of the series, as Paul's\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://calcworkshop.com/sequences-series/telescoping-series/&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAV6BAgBEAE&usg=AOvVaw0QTMGdoRZ7QNLIXyAXGW-i",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Telescoping Sum - Welcome to people.revoledu.com!people.revoledu.com \u203a kardi \u203a tutorial \u203a BasicMath",
+    "link": "https://people.revoledu.com/kardi/tutorial/BasicMath/Sum/Telescoping%20Sum.htm",
+    "description": "What is Telescoping Sum? Telescoping sum is one of very useful summation properties. Telescoping sum simplify our summation because it says that sum of a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://people.revoledu.com/kardi/tutorial/BasicMath/Sum/Telescoping%2520Sum.htm&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAZ6BAgCEAE&usg=AOvVaw2fk-4aDyv8PPoVgBsO7EPM",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "telescoping sum - PlanetMath.orgplanetmath.org \u203a TelescopingSum",
+    "link": "https://planetmath.org/TelescopingSum",
+    "description": "22.03.2013 \u00b7 ... terms, allowing the sum to be expressed using only the initial and final terms. Formally a telescoping sum is or can be rewritten in the form\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://planetmath.org/TelescopingSum&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAd6BAgAEAE&usg=AOvVaw2IOG5jB0Py_o2npCJTjd0u",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Classroom note: On the telescoping sumwww.tandfonline.com \u203a ... \u203a Volume 35, Issue 2",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/00207390310001638296",
+    "description": "A sequence {ak } is called telescoping if there exists a sequence {bk } with the property that. Since. this constitutes a powerful technique for summing series. A\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tandfonline.com/doi/full/10.1080/00207390310001638296&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAh6BAgDEAE&usg=AOvVaw0bp6EOEskxjlPV0ez2hvPf",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "(PDF) Telescoping Sums, Permutations, and First Occurrence ...www.researchgate.net \u203a publication \u203a 261253151_T...",
+    "link": "https://www.researchgate.net/publication/261253151_Telescoping_Sums_Permutations_and_First_Occurrence_Distributions",
+    "description": "PDF | Telescoping sums very naturally lead to probability distributions on ${\\\u200bmathbb Z}^+$. But are these distributions typically cosmetic and devoid... | Find, read\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/261253151_Telescoping_Sums_Permutations_and_First_Occurrence_Distributions&sa=U&ved=2ahUKEwju4oG00enuAhVNSK0KHQrWBjI4ChAWMAl6BAgGEAE&usg=AOvVaw2r9wSpDiMjV3Wgtvj0bZZj",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Telescoping Sums and the Summation of Sequences - JStorwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/3026439",
+    "description": "(1) Ul' U29 U. is called an infinite sequence, and there are many occasions in everyday life as well as in mathematics on which it is necessary to find the sum, n\u200b. (2)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/3026439&sa=U&ved=2ahUKEwjcsLy00enuAhVvmK0KHb6NDJY4FBAWMAB6BAgIEAE&usg=AOvVaw0KRmT86GdJ4qSy--nZkljx",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "An intriguing application of telescoping sums - IOPscienceiopscience.iop.org \u203a article",
+    "link": "https://iopscience.iop.org/article/10.1088/1742-6596/893/1/012005",
+    "description": "This note offers a simple, yet very intriguing application of telescoping sums. Particularly, the cancellation technique which is known as the method of differences\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://iopscience.iop.org/article/10.1088/1742-6596/893/1/012005&sa=U&ved=2ahUKEwjcsLy00enuAhVvmK0KHb6NDJY4FBAWMAd6BAgJEAE&usg=AOvVaw14QeMpV4tZM2o7HYCp_4kq",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Infinite Seriesweb.ma.utexas.edu \u203a users \u203a CurrentWeb",
+    "link": "https://web.ma.utexas.edu/users/m408s/m408d/CurrentWeb/LM11-2-9.php",
+    "description": "Telescoping Sums. A telescoping sum is a sum of differences. We look at a general example. If an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://web.ma.utexas.edu/users/m408s/m408d/CurrentWeb/LM11-2-9.php&sa=U&ved=2ahUKEwjcsLy00enuAhVvmK0KHb6NDJY4FBAWMAh6BAgHEAE&usg=AOvVaw1fWVJWmAr3dIbuEEOpelhl",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Telescoping method and congruences for double sumsarxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/1601.03952",
+    "description": "14.01.2016 \u00b7 Using the telescoping method and certain mathematical software packages, we transform such a double summation into a single sum. With this\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1601.03952&sa=U&ved=2ahUKEwjcsLy00enuAhVvmK0KHb6NDJY4FBAWMAl6BAgEEAE&usg=AOvVaw0wezrOHEglGIMAI9968lVd",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "{\\displaystyle {\\begin{aligned}\\sum _{n=1}^{\\infty }{\\frac ... - Wikimediawikimedia.org \u203a api \u203a rest_v1 \u203a media \u203a math \u203a render \u203a svg",
+    "link": "https://wikimedia.org/api/rest_v1/media/math/render/svg/cdcb1883f10a9367f607f3fddaffc649b03ebd4a",
+    "description": "{\\displaystyle {\\begin{aligned}\\sum _{n=1}^{\\infty }{\\frac {1}{n(n+1)}}&{}=\\sum _{n=\u200b1}^{\\infty }\\left({\\frac {1}{n}}-{\\frac {1}{n+1}}\\right)\\\\{}&{}=\\lim _{N\\to \\infty }\\sum\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wikimedia.org/api/rest_v1/media/math/render/svg/cdcb1883f10a9367f607f3fddaffc649b03ebd4a&sa=U&ved=2ahUKEwjcsLy00enuAhVvmK0KHb6NDJY4FBAWMAp6BAgCEAE&usg=AOvVaw0ee5NwZKGFw8y2CjXTUy03",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Telescoping Sum - Expii Solvewww.expii.com \u203a solve",
+    "link": "https://www.expii.com/solve/32/3",
+    "description": "Creative math puzzles, relevant to real life, that challenge you to think differently. Can you solve Telescoping Sum?",
+    "googleLink": "http://www.google.com/url?q=https://www.expii.com/solve/32/3&sa=U&ved=2ahUKEwjcsLy00enuAhVvmK0KHb6NDJY4FBAWMAt6BAgDEAE&usg=AOvVaw0Rh7gUEePucozwMfwylZON",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "SumTools[DefiniteSum] - Maple Programming Help - Maplesoftwww.maplesoft.com \u203a support \u203a help \u203a Maple \u203a view",
+    "link": "https://www.maplesoft.com/support/help/Maple/view.aspx?path=SumTools%2FDefiniteSum%2FTelescoping",
+    "description": "SumTools[DefiniteSum] Telescoping compute closed forms of definite sums using telescoping method Calling Sequence Parameters Description Examples\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maplesoft.com/support/help/Maple/view.aspx%3Fpath%3DSumTools%252FDefiniteSum%252FTelescoping&sa=U&ved=2ahUKEwjcsLy00enuAhVvmK0KHb6NDJY4FBAWMAx6BAgBEAE&usg=AOvVaw1eR5hMwG1PG7_3J7SeYYwq",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Rock Climb Telescoping Sum, Lyons - Mountain Projectwww.mountainproject.com \u203a ... \u203a Observatory Rock",
+    "link": "https://www.mountainproject.com/route/106418895/telescoping-sum",
+    "description": "Climb up past steep hand crack (5.9-), and then head leftward up a nice and moderate groove/crack system. At its top, step awkwardly left to another shallow\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mountainproject.com/route/106418895/telescoping-sum&sa=U&ved=2ahUKEwjcsLy00enuAhVvmK0KHb6NDJY4FBAWMA16BAgAEAE&usg=AOvVaw0PnUfbjowPwbpy5CBQD_Zw",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Telescoping Sums & Mathematical Induction | samuelson mathxpsamuelsonmathxp.com \u203a 2016/03/09 \u203a telescoping-s...",
+    "link": "https://samuelsonmathxp.com/2016/03/09/telescoping-sums-mathematical-induction/",
+    "description": "09.03.2016 \u00b7 As the title indicates, telescoping sums and mathematical induction are the focus of this entry. Having said that, since the formula for sum of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://samuelsonmathxp.com/2016/03/09/telescoping-sums-mathematical-induction/&sa=U&ved=2ahUKEwjcsLy00enuAhVvmK0KHb6NDJY4FBAWMA56BAgFEAE&usg=AOvVaw0SsbCtMljFO1TmRu8xP92J",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Telescoping Series: Definition & Examples | Study.comstudy.com \u203a academy \u203a lesson \u203a telescoping-series-d...",
+    "link": "https://study.com/academy/lesson/telescoping-series-definition-examples.html",
+    "description": "The compact way to write partial sums uses a capital S with a subscript n. partial_sum_notation_Sn. Remember how the partial sum of the first three numbers is 1/6\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://study.com/academy/lesson/telescoping-series-definition-examples.html&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAB6BAgAEAE&usg=AOvVaw1uaQ7-37ZO4LMcuuMlDPDe",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Telescoping Sum - Calculus - Solved Quiz - Docsitywww.docsity.com \u203a telescoping-sum-calculus-solved...",
+    "link": "https://www.docsity.com/en/telescoping-sum-calculus-solved-quiz/279125/",
+    "description": "This is solved class quiz. Its from Calculus class. Some key points are: Telescoping Sum, Evaluate, Series, Problems, Series Converges, Diverges, Decide.",
+    "googleLink": "http://www.google.com/url?q=https://www.docsity.com/en/telescoping-sum-calculus-solved-quiz/279125/&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAF6BAgHEAE&usg=AOvVaw1hBI4LWNYpGjTzI7kcQh0A",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Telescoping sums and productsfaculty.wwu.edu \u203a sarkara",
+    "link": "http://faculty.wwu.edu/sarkara/ph13.pdf",
+    "description": "Telescoping sums and products. November 18, 2009. The basic method. The simplest example of a telescoping sum is perhaps. S = \u221e. \u2211 n=1. 1 n(n + 1). = 1. 2.",
+    "googleLink": "http://www.google.com/url?q=http://faculty.wwu.edu/sarkara/ph13.pdf&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAJ6BAgIEAE&usg=AOvVaw3KJDEpmj2jROB8V559Kqho",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Deriving a formula for 1^k+\u2026+n^k using telescoping sums | Beyond ...beyondmathsolutions.wordpress.com \u203a 2014/10/31",
+    "link": "https://beyondmathsolutions.wordpress.com/2014/10/31/deriving-a-formula-for-1k-nk-using-telescoping-sums/",
+    "description": "31.10.2014 \u00b7 Today's post is about using telescoping sums to derive a formula for the sum $\u200blatex \\displaystyle\\sum_{i = 1}^n i^k = 1^k + \\dots + n^k$, where\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://beyondmathsolutions.wordpress.com/2014/10/31/deriving-a-formula-for-1k-nk-using-telescoping-sums/&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAN6BAgJEAE&usg=AOvVaw2ZBYkLSXbJFoqnollF48nM",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Telescoping Sum | Math - New Visions for Public Schoolscurriculum.newvisions.org \u203a resources \u203a resource \u203a t...",
+    "link": "https://curriculum.newvisions.org/math/resources/resource/telescoping-sum/",
+    "description": "Use the structure of an expression to group numbers together to find friendly numbers and then calculate.",
+    "googleLink": "http://www.google.com/url?q=https://curriculum.newvisions.org/math/resources/resource/telescoping-sum/&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAR6BAgGEAE&usg=AOvVaw1UwL7hXdHXh4DAg_SCzqnH",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "telescoping sum - Englisch-Franz\u00f6sisch \u00dcbersetzung | PONSde.pons.com \u203a ... \u203a Englisch \u00bb Franz\u00f6sisch",
+    "link": "https://de.pons.com/%C3%BCbersetzung/englisch-franz%C3%B6sisch/telescoping+sum",
+    "description": "\u00dcbersetzung Englisch-Franz\u00f6sisch f\u00fcr telescoping sum im PONS Online-\u200bW\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion.",
+    "googleLink": "http://www.google.com/url?q=https://de.pons.com/%25C3%25BCbersetzung/englisch-franz%25C3%25B6sisch/telescoping%2Bsum&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAV6BAgEEAE&usg=AOvVaw3SbyLwmPng-EPm0A698gEz",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Sums, Products and Telescopingmath.northwestern.edu \u203a putnam \u203a filom \u203a Sums_Products_and_Teles...",
+    "link": "http://math.northwestern.edu/putnam/filom/Sums_Products_and_Telescoping-filom.pdf",
+    "description": "Sums, Products and Telescoping. \u2022 A very important method for computing sums or products is the idea of telescoping in which ... In the case of infinite sum \u2211. \u221e.",
+    "googleLink": "http://www.google.com/url?q=http://math.northwestern.edu/putnam/filom/Sums_Products_and_Telescoping-filom.pdf&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAZ6BAgFEAE&usg=AOvVaw2YnloEwx6bFBVDVXutRcPY",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] III. Telescoping Sums and Productswww.math.cmu.edu \u203a ~ploh \u203a docs \u203a math \u203a 3-telescope-solns",
+    "link": "https://www.math.cmu.edu/~ploh/docs/math/3-telescope-solns.pdf",
+    "description": "Telescoping Sums and Products. Po-Shen Loh. June 18, 2003. 1 Trig (stolen from Titu97). 1. Evaluate: \u221e. \u2211 k=0 tan\u22121. 2. (2k + 1)2. Solution: If an is a positive\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.cmu.edu/~ploh/docs/math/3-telescope-solns.pdf&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAd6BAgCEAE&usg=AOvVaw1Z7txpymsjfNP8C9gZCJuA",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Telescoping (Series/Sums) : learnmath - Redditwww.reddit.com \u203a learnmath \u203a comments \u203a telescop...",
+    "link": "https://www.reddit.com/r/learnmath/comments/5lx5h3/telescoping_seriessums/",
+    "description": "I've seen the word \"telescoping\" used in some questions but I don't quite understand what it means in series/sums. Could someone break this down for \u2026",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/learnmath/comments/5lx5h3/telescoping_seriessums/&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAh6BAgDEAE&usg=AOvVaw2tFvW0oVYcnwB1q3LXJt0K",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "telescoping series | adamponting.comwww.adamponting.com \u203a telescoping-series",
+    "link": "http://www.adamponting.com/telescoping-series/",
+    "description": "And practically exactly the same thing as the finite calculus version of integration, summation. All series are telescoping series! e.g.. Find the sum of 1\\times2+2\\\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.adamponting.com/telescoping-series/&sa=U&ved=2ahUKEwiozJS20enuAhULSK0KHd6PAgk4HhAWMAl6BAgBEAE&usg=AOvVaw2TquVu3laU_mHuK6xo7lO0",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Telescoping Series and Sums - Overleaf, Online LaTeX Editorwww.overleaf.com \u203a articles \u203a hqdwpfhkvzyv",
+    "link": "https://www.overleaf.com/articles/arml-lecture-telescoping-series-and-sums/hqdwpfhkvzyv",
+    "description": "ARML Lecture: Telescoping Series and Sums. Open as TemplateView Source\u200bDownload PDF. Author. Justin Stevens. License. Creative Commons CC BY 4.0.",
+    "googleLink": "http://www.google.com/url?q=https://www.overleaf.com/articles/arml-lecture-telescoping-series-and-sums/hqdwpfhkvzyv&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAB6BAgAEAE&usg=AOvVaw0EI29-zN5U8If7kbcb61gX",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Telescoping - Recurrences | Courserawww.coursera.org \u203a lecture \u203a telescoping-43guA",
+    "link": "https://www.coursera.org/lecture/analysis-of-algorithms/telescoping-43guA",
+    "description": "Sum down the lower, if you sum those, you just add across and get m + some m choose t. So those are examples of elementary discrete sums. And maybe people\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.coursera.org/lecture/analysis-of-algorithms/telescoping-43guA&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAF6BAgJEAE&usg=AOvVaw1LDjAdFBGGqCuO-VaXfuPS",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Telescoping in the context of symbolic summation in Maple ...www.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0747717104000446",
+    "description": "1. Introduction. In order to compute closed forms of definite sums, one can apply one of at least three methods: the classical telescoping method, the creative\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S0747717104000446&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAJ6BAgHEAE&usg=AOvVaw27PJPa3skajTqxe90tdvCg",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Definition:Telescoping Series - ProofWikiproofwiki.org \u203a wiki \u203a Definition:Telescoping_Series",
+    "link": "https://proofwiki.org/wiki/Definition:Telescoping_Series",
+    "description": "20.11.2020 \u00b7 A telescoping series is a series whose partial sums eventually only ... A telescoping series is also known as a telescoping sum, particularly\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Definition:Telescoping_Series&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAN6BAgIEAE&usg=AOvVaw156WqAvUsL1HEN0TQWiYbS",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Efficient optimization of loops and limits with randomized ...proceedings.mlr.press \u203a ...",
+    "link": "http://proceedings.mlr.press/v97/beatson19a.html",
+    "description": "Efficient optimization of loops and limits with randomized telescoping sums ... which represent the objective as the sum of a telescoping series and sample linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://proceedings.mlr.press/v97/beatson19a.html&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAR6BAgEEAE&usg=AOvVaw23QcFRtQVndHnP1iKnmxwy",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Telescoping sum | Spanish Translator - SpanishDictwww.spanishdict.com \u203a Translate",
+    "link": "https://www.spanishdict.com/translate/telescoping%20sum",
+    "description": "Translate Telescoping sum. See Spanish-English translations with audio pronunciations, examples, and word-by-word explanations.",
+    "googleLink": "http://www.google.com/url?q=https://www.spanishdict.com/translate/telescoping%2520sum&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAV6BAgCEAE&usg=AOvVaw0zHKzKogxlXEcrOr1FPZSs",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Egorychev method - Website Fachbereich Mathematik, Uni Stuttgartpnp.mathematik.uni-stuttgart.de \u203a iadm \u203a Riedel \u203a e...",
+    "link": "http://pnp.mathematik.uni-stuttgart.de/iadm/Riedel/egorychev.html",
+    "description": "Introductory example for the method, yet another interesting substitution. Introductory example for the method, a simple telescoping sum. Verifying that a certain\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://pnp.mathematik.uni-stuttgart.de/iadm/Riedel/egorychev.html&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAZ6BAgDEAE&usg=AOvVaw0GPVl_pkGiuaj-qwmMB99y",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "How to derive a formula for [math]\\lim_{n \\to \\infty} \\sum_{i=1 ... - Quorawww.quora.com \u203a How-do-you-derive-a-formula-f...",
+    "link": "https://www.quora.com/How-do-you-derive-a-formula-for-lim_-n-to-infty-sum_-i-1-n-i-3-by-using-telescoping-sum-with-terms-f-i-i-4",
+    "description": "27.11.2020 \u00b7 As to a telescoping method for proving the identity [math] ... How do you derive a formula for by using telescoping sum with terms ? 2 Answers.",
+    "googleLink": "http://www.google.com/url?q=https://www.quora.com/How-do-you-derive-a-formula-for-lim_-n-to-infty-sum_-i-1-n-i-3-by-using-telescoping-sum-with-terms-f-i-i-4&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAd6BAgBEAE&usg=AOvVaw2WKvIeeUGBWFUT1-eBkLyf",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Telescoping Series Examples 1 - Mathonlinemathonline.wikidot.com \u203a telescoping-series-exampl...",
+    "link": "http://mathonline.wikidot.com/telescoping-series-examples-1",
+    "description": "If this series is convergent find its sum. Let's first expand this series as follows: (1).",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/telescoping-series-examples-1&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAh6BAgGEAE&usg=AOvVaw3GiMivTkJSnIKftdQjzgo-",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Some notes on series and telescoping sumswww.uvm.edu \u203a ~cvincen1 \u203a files \u203a teaching \u203a telescoping",
+    "link": "https://www.uvm.edu/~cvincen1/files/teaching/213/telescoping.pdf",
+    "description": "bophy. MATH 213. Telescoping Series. 1. VVI. Recall: An infinite Sum, which we Write. \u0114 ai = a, +92 + O\u2082 t... tant..., i=1 series at a is called an infinile series.",
+    "googleLink": "http://www.google.com/url?q=https://www.uvm.edu/~cvincen1/files/teaching/213/telescoping.pdf&sa=U&ved=2ahUKEwjYpda20enuAhUHSq0KHfU7Avw4KBAWMAl6BAgFEAE&usg=AOvVaw0LM65G1rL31ukyY7rY5P2F",
+    "page": 4,
+    "index": 9
+  }
+]

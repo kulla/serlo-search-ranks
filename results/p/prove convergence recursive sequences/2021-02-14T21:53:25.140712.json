@@ -1,0 +1,402 @@
+[
+  {
+    "name": "How to prove convergence for recursive sequences \u2013 Serlo ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_How_to_prove_convergence_for_r...",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_How_to_prove_convergence_for_recursive_sequences",
+    "description": "This article shows you how to prove convergence for recursively defined sequences, i.e. if there is only a n + 1 = f ( a n ) {\\displaystyle a_{n+1}=f(a_{n})}\u00a0...\nProblem solving strategies \u00b7 Finding the explicit form \u00b7 Using the monotony ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_How_to_prove_convergence_for_recursive_sequences&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQFjAAegQIAxAB&usg=AOvVaw2yjEryf4Wb4Vq6NXN-_een",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Prove that a given recursion sequence converges - Mathematics ...math.stackexchange.com \u203a questions \u203a prove-that-a-...",
+    "link": "https://math.stackexchange.com/questions/554378/prove-that-a-given-recursion-sequence-converges",
+    "description": "We prove by induction that: 1<xn<3; xn is decreasing. The base case is obvious. Now assume that 1<xn\u22121<3 for some n. Then 34\u22121<34\u2212xn\u22121<34\u22123.",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/554378/prove-that-a-given-recursion-sequence-converges&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQFjABegQICBAB&usg=AOvVaw0QWd-sH4wJpqk-QgMlmIfX",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Prove that the recursive sequence x n+1 = (1+x n ) 1/2 convergeswww.stumblingrobot.com \u203a Blog",
+    "link": "http://www.stumblingrobot.com/2016/03/29/prove-recursive-sequence-xn1-1xn12-converges/",
+    "description": "29.03.2016 \u00b7 Prove that the sequence \\{ x_n \\} whose terms are defined recursively by. \\[ x_1 = 1, \\qquad x_{n+1} = \\. converges, and compute the limit of the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.stumblingrobot.com/2016/03/29/prove-recursive-sequence-xn1-1xn12-converges/&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQFjACegQIBhAB&usg=AOvVaw1jvMkRjwkdx5SOjUMahaQi",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Recursive Sequences - Mathematicswww.ms.uky.edu \u203a ~droyster \u203a RecursiveSequences",
+    "link": "https://www.ms.uky.edu/~droyster/ma114F16/RecursiveSequences.pdf",
+    "description": "Theorem 1.1 (Monotonic Sequence Theorem). Every bounded, monotonic sequence converges. If we are given a sequence in a recursive formula, an D f . an1/, we will need to check that it is bounded, check that it is monotonic (increasing or decreasing), and then find any fixed points.",
+    "googleLink": "http://www.google.com/url?q=https://www.ms.uky.edu/~droyster/ma114F16/RecursiveSequences.pdf&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQFjADegQIARAB&usg=AOvVaw0FJ5Ba2V9g7tIOcpwfUyAK",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "How do you prove that this recursive sequence converges and how ...www.reddit.com \u203a learnmath \u203a comments \u203a how_do...",
+    "link": "https://www.reddit.com/r/learnmath/comments/93qogp/how_do_you_prove_that_this_recursive_sequence/",
+    "description": "01.08.2018 \u00b7 How do you prove that this recursive sequence converges and how would you find the limit? a_1=1. a_2=1. a_n=1/(a_(n-2)+a_(\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/learnmath/comments/93qogp/how_do_you_prove_that_this_recursive_sequence/&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQFjAEegQIBxAB&usg=AOvVaw3DSWq9D75ODGPYi0UF4K53",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "How to test for convergence in alternating and recursively-defined ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=7XhnR0QW3Gc",
+    "description": "07.06.2018 \u00b7 ... to test for convergence in alternating and recursively-defined sequences ... Proving a ...Dauer: 4:34\nGepostet: 07.06.2018",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D7XhnR0QW3Gc&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQtwIwBXoECAQQAQ&usg=AOvVaw32wwOsn61tfgnT_pZ3toGV",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Worldwide Pre-Calculus: Convergence of Recursive Series (ch4.7 ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=MshFrgf4R7I",
+    "description": "11.02.2013 \u00b7 ... 'Worldwide Pre-Calculus' by Kenneth Kuttler. For more videos and $10 digital textbooks ...Dauer: 3:04\nGepostet: 11.02.2013",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DMshFrgf4R7I&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQtwIwBnoECAUQAQ&usg=AOvVaw3LDqYJZgY22CIyjYBpqMpt",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Finding the Limit of a Recursively Defined Sequence - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=LlfAEFD12QM",
+    "description": "05.03.2013 \u00b7 Enjoy. Show less Show more\u00a0...Dauer: 10:23\nGepostet: 05.03.2013",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DLlfAEFD12QM&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQtwIwB3oECAIQAQ&usg=AOvVaw1P5Lbep2TSD-ctC9i7XnTI",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] MATH3283W LECTURE NOTES: WEEK 6 2/22/2010 Recursive ...www-users.math.umn.edu \u203a ~keynes \u203a LectureNotes6",
+    "link": "http://www-users.math.umn.edu/~keynes/LectureNotes6.pdf",
+    "description": "26.02.2010 \u00b7 Consider recursive sequence a1 = 1, an+1 =1+ 1. 1+an ... Proof. Let \u03b5 > 0 and L = limn\u2192\u221e an. Since < an > is convergent,. \u2203n0 \u2208 N,(n \u2265 n0\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www-users.math.umn.edu/~keynes/LectureNotes6.pdf&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQFjAIegQIChAB&usg=AOvVaw304cH3Z8SYZkWkEbPIj5JE",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Evaluating Limits of Recursive Sequences Examples 1 - Mathonlinemathonline.wikidot.com \u203a evaluating-limits-of-recur...",
+    "link": "http://mathonline.wikidot.com/evaluating-limits-of-recursive-sequences-examples-1",
+    "description": "If it converges, determine to what value. We suspect that this sequence is both bounded and increasing. If we can show this, then by the monotonic sequence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/evaluating-limits-of-recursive-sequences-examples-1&sa=U&ved=2ahUKEwjT9ID6oOruAhXJ-GEKHTkyAKEQFjAJegQICRAB&usg=AOvVaw1Kffh8JHipfIb3Opg6Y5Du",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "[PDF] RECURSIVE SEQUENCES IN FIRST-YEAR ... - Personal Psuwww.personal.psu.edu \u203a ~tuk14 \u203a TeachingMaterials \u203a RecursiveSequ...",
+    "link": "http://www.personal.psu.edu/~tuk14/TeachingMaterials/RecursiveSequences.pdf",
+    "description": "also certain recursive sequences that alternate around their limit point as they ... means surprising because induction, or proof techniques in general, are not\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.personal.psu.edu/~tuk14/TeachingMaterials/RecursiveSequences.pdf&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAB6BAgAEAE&usg=AOvVaw1KXNXOBC9PBV_73IsKv5ib",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "(PDF) Convergence of a linear recursive sequence - ResearchGatewww.researchgate.net \u203a publication \u203a 250891445_C...",
+    "link": "https://www.researchgate.net/publication/250891445_Convergence_of_a_linear_recursive_sequence",
+    "description": "04.10.2020 \u00b7 for some positive integer g. Proof. By Lemma 2.3, we just need to prove\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/250891445_Convergence_of_a_linear_recursive_sequence&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAF6BAgJEAE&usg=AOvVaw1r_ERajgHdGyFaWCzwLOC2",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "On convergence of a recursive sequence x n+1 =f(x ... - ResearchGatewww.researchgate.net \u203a ... \u203a Convergence",
+    "link": "https://www.researchgate.net/publication/266049260_On_convergence_of_a_recursive_sequence_x_n1_fx_n-1_x_n",
+    "description": "04.10.2020 \u00b7 Download Citation | On convergence of a recursive sequence x n+1 =f(x ... The proof of Proposition 6 is given in Appendix A. The subsequent\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/266049260_On_convergence_of_a_recursive_sequence_x_n1_fx_n-1_x_n&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAJ6BAgHEAE&usg=AOvVaw3BqqSoOHaW9j_FUrSd6wYE",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Evaluating Limits of Recursive Sequences - Mathonlinemathonline.wikidot.com \u203a evaluating-limits-of-recur...",
+    "link": "http://mathonline.wikidot.com/evaluating-limits-of-recursive-sequences",
+    "description": "Recall that one way to represent a sequence is by a recursive formula. ... To evaluate this limit, we will do shorthand induction to first show that the sequence\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/evaluating-limits-of-recursive-sequences&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAN6BAgIEAE&usg=AOvVaw2RmNtciQ6-Gq24CeSwvu_N",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Sequences, Convergence and Divergencepeople.ucalgary.ca \u203a ~aswish \u203a MATH267SequencesL2",
+    "link": "http://people.ucalgary.ca/~aswish/MATH267SequencesL2.pdf",
+    "description": "Defining a sequence algebraically: Explicit formula and Recursion Formula (or ... We prove this \u201cpattern-continuation\u201d feature by showing that if a certain term sk\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://people.ucalgary.ca/~aswish/MATH267SequencesL2.pdf&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAR6BAgGEAE&usg=AOvVaw2F0uzdfOYAxHabu-ky0bVm",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Rates of Convergence of Recursively Defined Sequenceswww.sciencedirect.com \u203a science \u203a article \u203a pii \u203a pdf",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1571066105000125/pdf?md5=3d6f9f6c32f700bcd8c87f36afe151fb&pid=1-s2.0-S1571066105000125-main.pdf",
+    "description": "Keywords: monotone sequences, proof mining, computable limits, fixed point ... every bounded monotone sequence of real numbers converges to a finite limit.",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S1571066105000125/pdf%3Fmd5%3D3d6f9f6c32f700bcd8c87f36afe151fb%26pid%3D1-s2.0-S1571066105000125-main.pdf&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAV6BAgCEAE&usg=AOvVaw3zCdv1sol54-lfI_ZR_-TF",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Math 2300 Recursive Sequences Goal: An introduction to the idea of ...math.colorado.edu \u203a math2300 \u203a projects \u203a projects \u203a 2300Project9R...",
+    "link": "https://math.colorado.edu/math2300/projects/projects/2300Project9RecursiveSequencesSol.pdf",
+    "description": "Sometimes sequences can be described recursively in addition to their more familiar ... A sequence that is increasing and bounded above must converge. ... rigorously, we use proof by induction, a technique taught in Discrete Mathematics\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://math.colorado.edu/math2300/projects/projects/2300Project9RecursiveSequencesSol.pdf&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAZ6BAgBEAE&usg=AOvVaw0ebSQaRpr6APYf-kRrtqux",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Convergence of a Recursive Sequence - Wolfram Demonstrations ...demonstrations.wolfram.com \u203a ConvergenceOfARec...",
+    "link": "https://demonstrations.wolfram.com/ConvergenceOfARecursiveSequence/",
+    "description": "07.03.2011 \u00b7 The limit of the sequence or equivalently satisfies the equation . The solutions are . In the graphic we show that the limit is the golden ratio .;",
+    "googleLink": "http://www.google.com/url?q=https://demonstrations.wolfram.com/ConvergenceOfARecursiveSequence/&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAd6BAgFEAE&usg=AOvVaw2xo0VwjfgfXDSWg3CEGO9l",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Convergence of a linear recursive sequencewww.tandfonline.com \u203a ... \u203a Volume 35, Issue 1",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/00207390310001615561",
+    "description": "We shall show that the sequence. is always convergent if all integers in \u03a6 are coprime. The limit of this sequence is also obtained if it is convergent. Define another\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tandfonline.com/doi/full/10.1080/00207390310001615561&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAh6BAgDEAE&usg=AOvVaw3K_Par8vZwq0YdtNkdjAk4",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Math 1B, Fall 2008 Recursive Sequence Example Define the ...tener.cc \u203a classes \u203a pdf \u203a recursive sequence example",
+    "link": "https://tener.cc/classes/pdf/1bfa08/recursive%20sequence%20example.pdf",
+    "description": "We will prove that {an} converges, and find the limit. This kind of sequence, where an+1 is defined in terms of an, is called recursively defined. We've done.",
+    "googleLink": "http://www.google.com/url?q=https://tener.cc/classes/pdf/1bfa08/recursive%2520sequence%2520example.pdf&sa=U&ved=2ahUKEwiUyrv6oOruAhVTfd4KHd5PBdU4ChAWMAl6BAgEEAE&usg=AOvVaw17AbFZBrJNIX6QKgO3C_dr",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Mathematical Analysis Iiuuk.mff.cuni.cz \u203a ~andrew",
+    "link": "https://iuuk.mff.cuni.cz/~andrew/MAex4s.pdf",
+    "description": "29.10.2015 \u00b7 (i) Show that if (an) is a convergent sequence, then the sequence (bn) given by the ... The sequence (an) is defined recursively by an+1 = \u221a.",
+    "googleLink": "http://www.google.com/url?q=https://iuuk.mff.cuni.cz/~andrew/MAex4s.pdf&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBAWMAB6BAgEEAE&usg=AOvVaw03eU5m82IirHWrMBZgtQC1",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Sequences and their limits - Home | Mathematics | University of ...www.math.uwaterloo.ca \u203a ~mscott \u203a 138_SequenceNotes",
+    "link": "https://www.math.uwaterloo.ca/~mscott/138_SequenceNotes.pdf",
+    "description": "To specify a sequence recursively, you state explicitly what one or more of the ... Prove using the limit definition that 1/(2n \u2212 1) \u2192 0 as n \u2192 \u221e. 11. We can sense\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uwaterloo.ca/~mscott/138_SequenceNotes.pdf&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBAWMAF6BAgCEAE&usg=AOvVaw06b4Z0xfkL8CXo6VK4u-se",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "A Simple Ratio Test Example | The Infinite Series Module - UBC Blogsblogs.ubc.ca \u203a infiniteseriesmodule \u203a units \u203a unit-2",
+    "link": "https://blogs.ubc.ca/infiniteseriesmodule/units/unit-2/the-ratio-test/a-simple-ratio-test-example/",
+    "description": "Recursive Formula. Most problems involving convergence tests don't involve recursive formulas. But with the ratio test, we apply. and use the given recursion\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://blogs.ubc.ca/infiniteseriesmodule/units/unit-2/the-ratio-test/a-simple-ratio-test-example/&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBAWMAJ6BAgIEAE&usg=AOvVaw3Fa3Mu6xwR9AKazU8O4wT5",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "How do i check if the recursive sequence [math]a_{n+1}=2 ... - Quorawww.quora.com \u203a How-do-i-check-if-the-recursive-...",
+    "link": "https://www.quora.com/How-do-i-check-if-the-recursive-sequence-a_-n-1-2-frac-1-a_-n-n-epsilon-mathbb-N-with-a_-1-3-is-bounded-and-convergent",
+    "description": "Let's first prove that [math]a_n>0 {}\\forall n\\in \\mathbb N[/math]. ... Your sequence will converge if it is decreasing: a(n+1) < a(n) for all n. We want to know if 2\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.quora.com/How-do-i-check-if-the-recursive-sequence-a_-n-1-2-frac-1-a_-n-n-epsilon-mathbb-N-with-a_-1-3-is-bounded-and-convergent&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBAWMAN6BAgBEAE&usg=AOvVaw1gCTdUnq6oquuwCb1Gycur",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Sequences \u2013 Calculus Volume 2 - BC Open Textbooksopentextbc.ca \u203a chapter \u203a sequences",
+    "link": "https://opentextbc.ca/calculusv2openstax/chapter/sequences/",
+    "description": "We show how to find limits of sequences that converge, often by using the properties of ... In other cases, sequences are defined by using a recurrence relation.",
+    "googleLink": "http://www.google.com/url?q=https://opentextbc.ca/calculusv2openstax/chapter/sequences/&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBAWMAR6BAgAEAE&usg=AOvVaw2wUqP8vLtFkvaWgF6AxgIm",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Recurrence sequences for beginners - Politecnico di Torinocalvino.polito.it \u203a ~fagnani \u203a licei \u203a recurrenceseq",
+    "link": "http://calvino.polito.it/~fagnani/licei/recurrenceseq.pdf",
+    "description": "can show up in these cases. Here we limit ourselves to present a simple academic example. Example 4: Consider the recurrence sequence an+1 = 1 an. , a0 = \u03b1\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://calvino.polito.it/~fagnani/licei/recurrenceseq.pdf&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBAWMAV6BAgFEAE&usg=AOvVaw1fI8nNzcFSz1fLQE9C2ux1",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Week 4: Completeness and Convergencepnp.mathematik.uni-stuttgart.de \u203a iaz \u203a iaz1 \u203a Pressland",
+    "link": "https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Pressland/ana1a-win11files/wk4.pdf",
+    "description": "This allows us to prove convergence for a lot more sequences ... One particular class of sequences being discussed are recursive sequences (see problem.",
+    "googleLink": "http://www.google.com/url?q=https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Pressland/ana1a-win11files/wk4.pdf&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBAWMAZ6BAgGEAE&usg=AOvVaw388w9RuwvNA7ICal84gHiL",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Calculus II - Sequences - Pauls Online Math Notestutorial.math.lamar.edu \u203a classes \u203a calcii \u203a sequences",
+    "link": "https://tutorial.math.lamar.edu/classes/calcii/sequences.aspx",
+    "description": "25.09.2020 \u00b7 In this section we define just what we mean by sequence in a math class and give the ... limits of sequences and convergence of sequences in this section. ... The Definition \u00b7 Arithmetic \u00b7 Conjugate and Modulus \u00b7 Polar and ... We won't be using the precise definition often, but it will show up occasionally.",
+    "googleLink": "http://www.google.com/url?q=https://tutorial.math.lamar.edu/classes/calcii/sequences.aspx&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBAWMAd6BAgHEAE&usg=AOvVaw2OLHaUBcIyU5r0n6s1vb-W",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Worked example: sequence recursive formula (video) | Khan Academywww.khanacademy.org \u203a ... \u203a Infinite sequences",
+    "link": "https://www.khanacademy.org/math/old-ap-calculus-bc/bc-series/bc-inf-sequences/v/term-of-recursive-sequence",
+    "description": "07.03.2019 \u00b7 Using the recursive formula of a sequence to find its fifth term. ... Worked example\u200b: sequence ...Dauer: 2:32\nGepostet: 07.03.2019",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/old-ap-calculus-bc/bc-series/bc-inf-sequences/v/term-of-recursive-sequence&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBC3AjAIegQICRAB&usg=AOvVaw30M3fI0p-1VNojyz0HoQY7",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Takahasi , Miura , Miura : ON CONVERGENCE OF A RECURSIVE ...projecteuclid.org \u203a euclid.twjm",
+    "link": "https://projecteuclid.org/euclid.twjm/1500403851",
+    "description": "ON CONVERGENCE OF A RECURSIVE SEQUENCE xn+1=f(xn\u22121,xn). Sin-Ei Takahasi, Yasuhide Miura, and Takeshi ... However our proof is simple and short.",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/euclid.twjm/1500403851&sa=U&ved=2ahUKEwjR--v6oOruAhVBE4gKHbN8Br84FBAWMAl6BAgDEAE&usg=AOvVaw3K8nferDQOe_szQ4_V7vBe",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Real Analysis: Examples 3.1.10(c): Computing Square ... - MathCS.orgmathcs.org \u203a reals \u203a numseq \u203a answers \u203a convseq3",
+    "link": "https://mathcs.org/analysis/reals/numseq/answers/convseq3.html",
+    "description": "Show that this sequence converges to the square root of a regardless of the starting point x0 > 0. Back. Before giving the proof, let's see how this recursive\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathcs.org/analysis/reals/numseq/answers/convseq3.html&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAB6BAgEEAE&usg=AOvVaw1OEnbMxxpsZwiGBcrYj602",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Proof of Convergence of a (recursive) sequence | Math Forumsmathforums.com \u203a ... \u203a Real Analysis",
+    "link": "https://mathforums.com/threads/proof-of-convergence-of-a-recursive-sequence.35710/",
+    "description": "02.05.2013 \u00b7 Hi, I'd like to proof, if the following sequence converges; if yes, what's the limes? It's: a_1 > 0 und a_(n+1) = 1/(1+a_n) I thought I should show 1)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathforums.com/threads/proof-of-convergence-of-a-recursive-sequence.35710/&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAF6BAgHEAE&usg=AOvVaw3yQgX_YjfK9cF8KqA_7ylR",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] A central limit theorem for stochastic recursive sequences ... - arXiv.orgarxiv.org \u203a pdf \u203a math",
+    "link": "https://arxiv.org/pdf/math/0606668",
+    "description": "ing, stochastic recursive sequences, products of random matrices. This is an ... We prove another type of stability under the same assumptions. If (An)n\u2208N.",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/pdf/math/0606668&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAJ6BAgJEAE&usg=AOvVaw1atueJGpSrBZDykocud4XJ",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Induction and Sequenceswww.fen.bilkent.edu.tr \u203a ~otekman \u203a calc2 \u203a induction",
+    "link": "http://www.fen.bilkent.edu.tr/~otekman/calc2/induction.pdf",
+    "description": "21.01.2016 \u00b7 Example 1: Consider the sequence recursively de ned by the conditions ... We want to show that this sequence is convergent using the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.fen.bilkent.edu.tr/~otekman/calc2/induction.pdf&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAN6BAgIEAE&usg=AOvVaw3fWe7xmNwGBllOaXuzQXWQ",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Limit of a sequence - Wikipediaen.wikipedia.org \u203a wiki \u203a Limit_of_a_sequence",
+    "link": "https://en.wikipedia.org/wiki/Limit_of_a_sequence",
+    "description": "In mathematics, the limit of a sequence is the value that the terms of a sequence \"\u200btend to\", and ... (the limit of which is the number e) and the Arithmetic\u2013geometric mean. The squeeze ... These properties are extensively used to prove limits, without the need to directly use the cumbersome formal definition. For example. once\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Limit_of_a_sequence&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAR6BAgCEAE&usg=AOvVaw3hv77b45hAKLiAee8Sr1gz",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "ON CONVERGENCE OF A RECURSIVE SEQUENCE - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/43833690",
+    "description": "Convergence of a Recursive Sequence 633. 2. Proof of the Main Result. Let e > 0\u200b. Choose a G Af(e ) and b G Bf (e) with b> e. For each n > -1, set. An(b; e) = {u\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/43833690&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAV6BAgDEAE&usg=AOvVaw2o5zA59HmmtBqyi65pS1tm",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 3.2 Uniform convergenceirma.math.unistra.fr \u203a ~sabri \u203a Lectures_M232",
+    "link": "https://irma.math.unistra.fr/~sabri/Lectures_M232.pdf",
+    "description": "Proof. We prove the result by induction. When n = 1, the theorem is true by (\u22c6). Suppose ... We say that (un) is a linear recursive sequence of order 2 if. \u2200n \u2208 N\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://irma.math.unistra.fr/~sabri/Lectures_M232.pdf&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAZ6BAgGEAE&usg=AOvVaw2KrBiBAx7ae42RqFiylU3g",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "ON THE RECURSIVE SEQUENCE xn+1 = + 1. Introduction Our aim ...www.ams.org \u203a journals \u203a proc",
+    "link": "https://www.ams.org/journals/proc/1998-126-11/S0002-9939-98-04626-7/S0002-9939-98-04626-7.pdf",
+    "description": "(1) converges to a finite limit. One of the main ingredients in our proof, and an interesting result in its own right, is to show that every positive solution of the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ams.org/journals/proc/1998-126-11/S0002-9939-98-04626-7/S0002-9939-98-04626-7.pdf&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAd6BAgAEAE&usg=AOvVaw03lY7My0Ylqhc0_XZiXRDY",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Convergence of recursive functions on computers / - UFSJwww.ufsj.edu.br \u203a portal2-repositorio \u203a File \u203a nepomuceno \u203a Nep2014",
+    "link": "https://www.ufsj.edu.br/portal2-repositorio/File/nepomuceno/Nep2014.pdf",
+    "description": "conditions to verify if a sequence is convergent. Nevertheless, if a sequence is convergent then it can be observed on D. Our main problem can be established\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ufsj.edu.br/portal2-repositorio/File/nepomuceno/Nep2014.pdf&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAh6BAgBEAE&usg=AOvVaw3xsH3GZZSqetkc1ofGcipa",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "5.1 Sequences - Calculus Volume 2 | OpenStaxopenstax.org \u203a books \u203a calculus-volume-2 \u203a pages \u203a 5-1-sequences",
+    "link": "https://openstax.org/books/calculus-volume-2/pages/5-1-sequences",
+    "description": "30.03.2016 \u00b7 We show how to find limits of sequences that converge, often by using ... In other cases, sequences are defined by using a recurrence relation.",
+    "googleLink": "http://www.google.com/url?q=https://openstax.org/books/calculus-volume-2/pages/5-1-sequences&sa=U&ved=2ahUKEwj7npz7oOruAhWDfXAKHeXVAyY4HhAWMAl6BAgFEAE&usg=AOvVaw0_q2wu1n4MeawBUPPxB5gO",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 8.2 GRAPHS AND CONVERGENCE - Math Usuwww.math.usu.edu \u203a online1050 \u203a precalculus \u203a section_8.2.pdf",
+    "link": "http://www.math.usu.edu/~rheal/online1050/precalculus/section_8.2.pdf",
+    "description": "a repeating loop. (b) Show that not every positive integer reaches the ... For sequences defined recursively we cannot enter functions for graphing as we did.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.usu.edu/~rheal/online1050/precalculus/section_8.2.pdf&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAB6BAgDEAE&usg=AOvVaw0W0zQNuX_yQbhwlACBVICG",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Chapter 3 Induction and Recursionwww.math.uvic.ca \u203a faculty \u203a jing",
+    "link": "https://www.math.uvic.ca/faculty/jing/122chap3.pdf",
+    "description": "Further, PMI is a main tool in proving the correctness of recursive algorithms. Witness the ... converges to zero (quickly) as n grows. Because of ... Proofs involving recursively defined sequences in which the recursion has more than one term\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uvic.ca/faculty/jing/122chap3.pdf&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAF6BAgIEAE&usg=AOvVaw0ddUbPPjNaEQ7V9j-9HkJW",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Quiz 4 1 Recurrence Relation Approach - Zvi Rosenzvihrosen.com \u203a ...",
+    "link": "http://zvihrosen.com/S2012-1B/quiz1b-4s.pdf",
+    "description": "Prove that the sequence converges (Hint: Use the Monotone Sequence Theorem\u200b). 3. Calculate the limit. 1 Recurrence Relation Approach. 1. A recurrence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://zvihrosen.com/S2012-1B/quiz1b-4s.pdf&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAJ6BAgHEAE&usg=AOvVaw1fu3eg5kh3ImHc30XZlARt",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Convergence of a linear recursive sequence - NIE Mathematics ...www.yumpu.com \u203a document \u203a view \u203a convergenc...",
+    "link": "https://www.yumpu.com/en/document/view/48964537/convergence-of-a-linear-recursive-sequence-nie-mathematics-",
+    "description": "Convergence of a linear recursive sequence 53Similarly we can prove the following result.Lemma 2.2. fm n g 1 n\u00bc1 is an ascending sequence. \u0153Since M 1 5 M\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.yumpu.com/en/document/view/48964537/convergence-of-a-linear-recursive-sequence-nie-mathematics-&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAN6BAgJEAE&usg=AOvVaw2UKMVWkHhwnDfx64MCCcrQ",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] \u00a7 4.3 Induction and Recursionbtravers.weebly.com \u203a uploads \u203a induction_and_recursion",
+    "link": "http://btravers.weebly.com/uploads/6/7/2/9/6729909/induction_and_recursion.pdf",
+    "description": "A sequence is recursively defined if the term an is defined by previous terms. ... This is not unlike when we proved the closed form for a series earlier in this chapter. ... a. 1 \u2212 r. Remember, the infinite geometric series only converges when\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://btravers.weebly.com/uploads/6/7/2/9/6729909/induction_and_recursion.pdf&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAR6BAgCEAE&usg=AOvVaw3gE2izn_YgYWm1squ2Ga5x",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Principles of Mathematical Analysiswww-irma.u-strasbg.fr \u203a ~sabri \u203a Lectures_M232",
+    "link": "http://www-irma.u-strasbg.fr/~sabri/Lectures_M232.pdf",
+    "description": "Show that if h/g has a limit, then h + f \u223c h + g. ... We say that (un) is a linear recursive sequence of order 2 if ... 1.7.3 General recursive sequences of order 1.",
+    "googleLink": "http://www.google.com/url?q=http://www-irma.u-strasbg.fr/~sabri/Lectures_M232.pdf&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAV6BAgGEAE&usg=AOvVaw36ifCFG7fSDT6LUve0zb4s",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Fixed Point Theorem and Sequences in One or Two Dimensionswww.radford.edu \u203a ~wyang \u203a fixedpoint",
+    "link": "https://www.radford.edu/~wyang/430/fixedpoint.pdf",
+    "description": "Let us consider a recursive sequence of x# \" \u03c6 x# + sinx# and the initial value x! can ... Can you recall how we show theoretically a sequence &x#' converges?",
+    "googleLink": "http://www.google.com/url?q=https://www.radford.edu/~wyang/430/fixedpoint.pdf&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAZ6BAgBEAE&usg=AOvVaw0H93XKNlScgnXYc6Uvv9-q",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Epsilon proof and recursive sequences | Physics Forumswww.physicsforums.com \u203a threads \u203a epsilon-proof-...",
+    "link": "https://www.physicsforums.com/threads/epsilon-proof-and-recursive-sequences.644355/",
+    "description": "I've proven the limit, convergence, etc., of recursive sequences, including nested ... epsilon proof using the definition of a convergent sequence.",
+    "googleLink": "http://www.google.com/url?q=https://www.physicsforums.com/threads/epsilon-proof-and-recursive-sequences.644355/&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAd6BAgFEAE&usg=AOvVaw0xWPLCG_m22eQLh3tOIOvC",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Convergence of Sequences of Real Numberslink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-9479-0_20.pdf",
+    "description": "Now let's turn to how we show a sequence converges. First we make a ... This theorem can be used to find the limit of a recursively defined function rather easily\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-1-4419-9479-0_20.pdf&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAh6BAgAEAE&usg=AOvVaw1W4nf49FVZxzuIrX1iZ-7a",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] INTRODUCTION TO THE CONVERGENCE OF SEQUENCES ...math.uchicago.edu \u203a ~may \u203a REU2015 \u203a REUPapers \u203a Lytle",
+    "link": "https://math.uchicago.edu/~may/REU2015/REUPapers/Lytle.pdf",
+    "description": "12.07.2015 \u00b7 \u22120 | < \u03f5, proving that 1 nconverges to zero by the definition of convergence. D. Proposition 2. An example of a sequence that does not\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.uchicago.edu/~may/REU2015/REUPapers/Lytle.pdf&sa=U&ved=2ahUKEwi63c_7oOruAhVZPHAKHZWKBgc4KBAWMAl6BAgEEAE&usg=AOvVaw1d5Nyr8Ul0QQ6SIITaVdlu",
+    "page": 4,
+    "index": 9
+  }
+]

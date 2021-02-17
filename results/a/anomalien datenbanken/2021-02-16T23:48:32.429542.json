@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Was sind Anomalien in einer Datenbank? | Normalisierung ...www.datenbanken-verstehen.de \u203a ... \u203a Normalisierung",
+    "link": "https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/anomalien-datenbank/",
+    "description": "Anomalien in Datenbanken treten bei einer nicht existierenden oder fehlerhaften Normalisierung auf. Es existieren drei Arten von Datenbank-Anomalien, die\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Anomalie (Informatik) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Anomalie_(Informatik)",
+    "link": "https://de.wikipedia.org/wiki/Anomalie_(Informatik)",
+    "description": "In der Informatik bezeichnen Anomalien in relationalen Datenbanken Fehlverhalten der Datenbank durch Verletzung der Regel \"every information once\".",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Datenbank Anomalien - Datenbank Grundlagenwww.datenbank-grundlagen.de \u203a anomalien",
+    "link": "https://www.datenbank-grundlagen.de/anomalien.html",
+    "description": "Bei nicht ordenlich normalisierten Datenbanken, kann es zu Anomalien kommen. Hier werden die L\u00f6schanomalie, Aktualisierungsanomalie und die\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Datenbanken: ER-Modell, Normalisierung und Anomalienwww.derpade.de \u203a Datenbanken",
+    "link": "https://www.derpade.de/datenbanken-er-modell-normalisierung-und-anomalien/",
+    "description": "26.11.2014 \u2014 Eine Update-Anomalie ist hiermit quasi vorprogrammiert. Relationale Datenbank. Die wohl g\u00e4ngigste Form unter den Datenbanken ist die\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Anomalien Normalisierung von Datenbanken Wissen & Tipps ...www.szweb.de \u203a Anomalien-Seite-429",
+    "link": "http://www.szweb.de/Normalisierung-von-Datenbanken/Anomalien-Seite-429.html",
+    "description": "Anomalien sind fehlerhafte Verhaltensweisen durch strukturelle M\u00e4ngel des Datenbankschemas. Einf\u00fcgeanomalie. Datens\u00e4tze k\u00f6nnen nicht angelegt werden,\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Anomalie \u2013 SibiWikisibiwiki.de \u203a wiki \u203a title=Anomalie",
+    "link": "http://sibiwiki.de/wiki/index.php?title=Anomalie",
+    "description": "29.03.2020 \u2014 Anomalien f\u00fchren dazu, dass Datenbanktabellen ein unerw\u00fcnschtes Verhalten zeigen. H\u00e4ufig kann es durch Redundanz (=eine Information ist\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Einf\u00fcgeanomalie - lernen mit Serlo!de.serlo.org \u203a informatik \u203a einf\u00fcgeanomalie",
+    "link": "https://de.serlo.org/informatik/161856/einf%C3%BCgeanomalie",
+    "description": "Anomalien in Datenbanken. Kurs\u00fcbersicht anzeigen ... Man spricht von Einf\u00fcgeanomalien (INSERT-Anomalie). Hierbei muss nicht zwingend der Schl\u00fcssel das\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Datenbanken - Anomalien - OSZ Handel 1www.oszhandel.de \u203a faecher \u203a normal \u203a anomalien_loe",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/datenbanken/normal/anomalien_loe.htm",
+    "description": "Relationale Datenbanken Mutationsanomalien - L\u00f6sung. S. Spolwig. [Home | Wirtschaftsgymnasium | Informatik | Unterrichtsmaterialien | Datenbanken].",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Datenbanken - Anomalien - Gymbasewww.gymbase.de \u203a themeng13 \u203a info \u203a datenbank_04",
+    "link": "http://www.gymbase.de/index/themeng13/info/datenbank_04.php",
+    "description": "Anomalien. Bei Erstellungen von Datenbanken kann es zu Problemen kommen, wenn die Datenbank nicht normalisiert aufgebaut ist. Diese Probleme nennt an\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Einf\u00fcge-Anomalie - deacademic.com deacademic.comdeacademic.com \u203a dic.nsf \u203a dewiki",
+    "link": "https://deacademic.com/dic.nsf/dewiki/378828",
+    "description": "In der Informatik bezeichnen Anomalien in relationalen Datenbanken Fehlverhalten der Datenbank. Sie entstehen durch nicht regelkonforme Datenstrukturen,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://deacademic.com/dic.nsf/dewiki/378828&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAB6BAgEEAE&usg=AOvVaw2-YvDempwVmSRC1V2UUPxT",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Anomalie (Informatik) - de.LinkFang.orgde.linkfang.org \u203a wiki \u203a Anomalie_(Informatik)",
+    "link": "https://de.linkfang.org/wiki/Anomalie_(Informatik)",
+    "description": "Anomalie (Informatik). In der Informatik bezeichnen Anomalien in relationalen Datenbanken Fehlverhalten der Datenbank durch Verletzung der Regel \"every\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.linkfang.org/wiki/Anomalie_(Informatik)&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAF6BAgHEAE&usg=AOvVaw1J24hii-06bGJ8oJL4Rzhw",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Datenbanken - Mutationsanomalien - Siegfried Spolwigspolwig.de \u203a datenbanken \u203a normal \u203a anomalien",
+    "link": "http://spolwig.de/is/datenbanken/normal/anomalien.htm",
+    "description": "Mutationsanomalien sind sch\u00e4dliche Folgen f\u00fcr die Konsistenz einer Datenbank, die sich bei \u00c4nderungen von Daten ergeben k\u00f6nnen, wenn sich die Tabellen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://spolwig.de/is/datenbanken/normal/anomalien.htm&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAJ6BAgIEAE&usg=AOvVaw1aKsyop2gKZvQxsabqW_C4",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Anomalien - www.ziemers.dewww.ziemers.de \u203a datenbanken \u203a anomalien",
+    "link": "https://www.ziemers.de/datenbanken/anomalien.html",
+    "description": "23.12.2015 \u00b7 Mit den in einer Datenbank abgespeicherten Daten kann man vier verschiedene Aktionen ausf\u00fchren: Daten in Tabellen einf\u00fcgen, Daten aus\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ziemers.de/datenbanken/anomalien.html&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAN6BAgJEAE&usg=AOvVaw3behBPvRkDPlQQwyzF6kb2",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Normalform - Datenbankenvolker-janssen.info \u203a BuchDB \u203a Kapitel_08_Normalformen",
+    "link": "http://volker-janssen.info/BuchDB/Kapitel_08_Normalformen/08a_Normalformen.pdf",
+    "description": "Datenbanken. Teil 2: Informationen. Kapitel 8: Normalformen. Normalformenlehre zur Kontrolle der. Tabellen einer Datenbank. 1. Redundanzen. 2. Anomalien.",
+    "googleLink": "http://www.google.com/url?q=http://volker-janssen.info/BuchDB/Kapitel_08_Normalformen/08a_Normalformen.pdf&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAR6BAgGEAE&usg=AOvVaw2L7QMSGNVeEphUkL9aB0iP",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Datenbanken 6: Normalisierunginstitute.unileoben.ac.at \u203a infotech \u203a lehre \u203a Unit6",
+    "link": "http://institute.unileoben.ac.at/infotech/lehre/db/SS2017/Unit6.pdf",
+    "description": "SQL. \u00dcberblick Datenbankdesign. Anomalien. Datenbank Normalisierung. Normalisierung. Datenbanken 6: Normalisierung. Ronald Ortner. 27. III. 2017.",
+    "googleLink": "http://www.google.com/url?q=http://institute.unileoben.ac.at/infotech/lehre/db/SS2017/Unit6.pdf&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAV6BAgAEAE&usg=AOvVaw0y0H9Td6SnJkqkVOpI-HrN",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Datenbankanomalien und Normalisierungfeist.bplaced.net \u203a info11 \u203a 09_sst_Normalisierung_Anomalien_Lsg",
+    "link": "http://feist.bplaced.net/dateien/info11/09_sst_Normalisierung_Anomalien_Lsg.pdf",
+    "description": "1) http://www.datenbank-grundlagen.de/anomalien.html und. 2) http://oszhdl.be.\u200bschule.de/gymnasium/faecher/informatik/datenbanken/normal/anomalien_loe.",
+    "googleLink": "http://www.google.com/url?q=http://feist.bplaced.net/dateien/info11/09_sst_Normalisierung_Anomalien_Lsg.pdf&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAZ6BAgCEAE&usg=AOvVaw2AuHhSLNoeYrrPjrr6DCo6",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Anomalien und Redundanzen | Datenbanken ...datenbanken.tsmit.de \u203a anomalien_und_redundanzen",
+    "link": "http://datenbanken.tsmit.de/anomalien_und_redundanzen.html",
+    "description": "Anomalien sind fehlerhafte oder unterdr\u00fcckte Datenbankzugriffe. Im Umfeld der Informationstechnologie >> Datenbanken werden Anomalien in drei Kategorien\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://datenbanken.tsmit.de/anomalien_und_redundanzen.html&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAd6BAgBEAE&usg=AOvVaw2ZRuPqIiXl2IivqxidAtb1",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Erkennung von Datenbankanomalien und Warnungen mit Machine ...www.solarwinds.com \u203a use-cases \u203a database-anomaly-detection",
+    "link": "https://www.solarwinds.com/de/database-performance-analyzer/use-cases/database-anomaly-detection",
+    "description": "Erkennung von Datenbankanomalien mit Machine Learning Datenbankleistung mithilfe eines Tools zur Anomalieerkennung verbessern. TESTVERSION\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.solarwinds.com/de/database-performance-analyzer/use-cases/database-anomaly-detection&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAh6BAgFEAE&usg=AOvVaw1VxadYEVioo23De5049ErC",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Anomalien am Beispielwww.sachsen.schule \u203a ~lava \u203a datenbanken \u203a anomalien_am_beispiel",
+    "link": "https://www.sachsen.schule/~lava/datenbanken/anomalien_am_beispiel.html",
+    "description": "LAVA - Interaktive Elemente - Datenbanken - Entwurfstheorie. Zur\u00fcck ... Suche dir zun\u00e4chst unter \u201eAnomalien\u201c aus, ob du dir die INSERT-Anomalie, die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sachsen.schule/~lava/datenbanken/anomalien_am_beispiel.html&sa=U&ved=2ahUKEwjSk961vu_uAhUto3EKHcouCmA4ChAWMAl6BAgDEAE&usg=AOvVaw1u1Zu_Ek2HLsjYukOpGDb6",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "MySQL Datenbankhandbuch: Tutorial Normalisierung von ...edu.elektronikschule.de \u203a ~amann \u203a mysql \u203a mysql-257",
+    "link": "https://edu.elektronikschule.de/~amann/mysql/mysql-257.html",
+    "description": "44.4 Anomalien. Mit dem Versetzen einer Datenbank in eine Normalform m\u00f6chte man eine ganze Reihe von seltsamen Effekten vermeiden, die Anomalien\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://edu.elektronikschule.de/~amann/mysql/mysql-257.html&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAB6BAgAEAE&usg=AOvVaw3vhFnEBwaj5R6n3WCaollj",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Level 4 - Anomalien und Normalisierung - Datenbanken - Memriseapp.memrise.com \u203a course \u203a datenbanken",
+    "link": "https://app.memrise.com/course/219585/datenbanken/4/",
+    "description": "Es m\u00fcssen Leerdatens\u00e4tze eingef\u00fcgt werden, um einen neuen Attributswert einzuf\u00fcgen (\u2192 Attribut in eigene Tabelle auslagern). \u00c4nderungs-Anomalie. Wenn ein\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://app.memrise.com/course/219585/datenbanken/4/&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAF6BAgIEAE&usg=AOvVaw1tnROO35f0h8BbW5RDv51w",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Datenbank Modellierung - Normalisierungwww.bs7-augsburg.de \u203a aicher \u203a files_codeconcert \u203a DB_Modellierun...",
+    "link": "http://www.bs7-augsburg.de/aicher/files_codeconcert/12SQL/DB_ModellierungNormalisierung.pdf",
+    "description": "In Transaktionalen Datenbanken ist dies ... \u00c4nderungs-Anomalien. \u2022 L\u00f6sch- ... Von einer Einf\u00fcge-Anomalie (oder auch \u201eInsert Anomalie\u201c) spricht man, wenn in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.bs7-augsburg.de/aicher/files_codeconcert/12SQL/DB_ModellierungNormalisierung.pdf&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAJ6BAgJEAE&usg=AOvVaw0kxks0KwbdNsoqFDOzsAs3",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 2.4 Redundanzwvsg.schulen2.regensburg.de \u203a 2_4_Redundanz \u203a 04_Redundanz",
+    "link": "https://wvsg.schulen2.regensburg.de/joomla/images/Faecher/Informatik/Informatik_09_neu/Skripten_und_Vorlagen/02_Datenbanksysteme/2_4_Redundanz/04_Redundanz.pdf",
+    "description": "Datenbanken \u2013 2.4 Redundanz. 1 ... Dies kann beim \u00c4ndern der Datens\u00e4tze zu Anomalien f\u00fchren: ... Nenne eine weitere m\u00f6gliche Update-Anomalie.",
+    "googleLink": "http://www.google.com/url?q=https://wvsg.schulen2.regensburg.de/joomla/images/Faecher/Informatik/Informatik_09_neu/Skripten_und_Vorlagen/02_Datenbanksysteme/2_4_Redundanz/04_Redundanz.pdf&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAN6BAgHEAE&usg=AOvVaw2bylKRHxrNCjuGtR9Tl5N-",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Datenbanken - Normalformen Flashcards | Quizletquizlet.com \u203a datenbanken-normalformen-flash-cards",
+    "link": "https://quizlet.com/de/353629306/datenbanken-normalformen-flash-cards/",
+    "description": "Start studying Datenbanken - Normalformen. ... Was versteht man unter der Update-Anomalie? (4 P) ... Anomalien erzeugen ungew\u00fcnschte \u201eSeiteneffekte\".",
+    "googleLink": "http://www.google.com/url?q=https://quizlet.com/de/353629306/datenbanken-normalformen-flash-cards/&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAR6BAgCEAE&usg=AOvVaw2pVWSSMgIkpruuoxJt0PVQ",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Anomalie informatik beispiel - Squarespacestatic1.squarespace.com \u203a static \u203a anomalie_informatik_beispiel",
+    "link": "https://static1.squarespace.com/static/600cbb826c455e4aedfa97fe/t/600d8d4830cc43613eea7525/1611500874044/anomalie_informatik_beispiel.pdf",
+    "description": "Aus Anomalien f\u00fchrt SibiWiki dazu, dass Datenbanktabellen unerw\u00fcnschtes Verhalten aufweisen. Redundanz (=Informationen sind mehrmals in der Datenbank\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://static1.squarespace.com/static/600cbb826c455e4aedfa97fe/t/600d8d4830cc43613eea7525/1611500874044/anomalie_informatik_beispiel.pdf&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAV6BAgEEAE&usg=AOvVaw2qGl1zua4DNyZZehY8PMjW",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Datenbanken 1 \u2022 Eliminieren von Redundanzen und \u2022 Vermeiden ...masteroftheformulas.weebly.com \u203a uploads",
+    "link": "https://masteroftheformulas.weebly.com/uploads/5/4/8/7/54872499/04b_-_normalisierung_ii_-_aufgaben_-_l%C3%B6sungen.pdf",
+    "description": "Vermeiden von Anomalien. 2. Aufgabe. Zur Abwicklung der Gehaltsabrechnung sollen die Bankverbindungen von Mitarbeitern einer. Firma in einer Datenbank\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://masteroftheformulas.weebly.com/uploads/5/4/8/7/54872499/04b_-_normalisierung_ii_-_aufgaben_-_l%25C3%25B6sungen.pdf&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAZ6BAgGEAE&usg=AOvVaw272vq1NFdvRHuRdUd6t22O",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Datenbankenwww.dbs.ifi.lmu.de \u203a Lehre \u203a InfoNF \u203a skript \u203a InfoNF_03_6",
+    "link": "http://www.dbs.ifi.lmu.de/Lehre/InfoNF/SS13/skript/InfoNF_03_6.pdf",
+    "description": "Anomalien entstehen durch Redundanzen ... Formalisierung von Redundanz und Anomalien: ... In relationalen Datenbanken sind nicht-atomare Attribute.",
+    "googleLink": "http://www.google.com/url?q=http://www.dbs.ifi.lmu.de/Lehre/InfoNF/SS13/skript/InfoNF_03_6.pdf&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAd6BAgFEAE&usg=AOvVaw07WJ2mqHBMY_r3y71BcLLC",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Relationale Datenbankengraf.clubcomputer.at \u203a DB_Normal \u203a normal",
+    "link": "http://graf.clubcomputer.at/DB_Normal/normal.htm",
+    "description": "Anomalien sind unerw\u00fcnschte Verhaltensweisen eines Datenbanksystems, wenn L\u00f6sch- oder Einf\u00fcge- oder Aktualisierungsoperationen \u00fcber mehrere Tabellen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://graf.clubcomputer.at/DB_Normal/normal.htm&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAh6BAgBEAE&usg=AOvVaw2vecjPG4TbqO65x4kzBj7p",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Datenbanken: \u00dcbungsaufgabenwww.hdm-stuttgart.de \u203a ~riekert \u203a lehre \u203a db-uebung-neu-l",
+    "link": "https://www.hdm-stuttgart.de/~riekert/lehre/db-uebung-neu-l.pdf",
+    "description": "automatisch \u00fcberpr\u00fcft werden. c) Dem Auftreten von Anomalien in relationalen Datenbanken kann man entgegenwirken: \u274f durch Einhaltung der Normalformen\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://www.hdm-stuttgart.de/~riekert/lehre/db-uebung-neu-l.pdf&sa=U&ved=2ahUKEwiZmoG2vu_uAhWnz4UKHQ1tD1c4FBAWMAl6BAgDEAE&usg=AOvVaw2uK4Lm6UB67KIci15xUN8I",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Anforderungen an eine Datenbank Anomalien - Z Lernboxlernbox.ozier.de \u203a mod \u203a resource \u203a view",
+    "link": "https://lernbox.ozier.de/mod/resource/view.php?id=14",
+    "description": "Inkonsistenzen sind ein schwerwiegendes Problem von Datenbanken. ... Im speziellen gilt es, sogenannten Anomalien beim Datenbank-Entwurf zu vermeiden.",
+    "googleLink": "http://www.google.com/url?q=https://lernbox.ozier.de/mod/resource/view.php%3Fid%3D14&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAB6BAgAEAE&usg=AOvVaw3tx6AdpicxvtLG1uXmtUFw",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Grundwissen - Redundanz - itg-dah.infowww.itg-dah.info \u203a index.php \u203a info-9 \u203a datenbank \u203a 530-grundwissen-re...",
+    "link": "https://www.itg-dah.info/index.php/info-9/datenbank/redundanz/530-grundwissen-redundanz",
+    "description": "UPDATE-Anomalie ... Sind die Datens\u00e4tze einer Datenbank ohne Widerspr\u00fcche, so hei\u00dft die Datenbank ... Anomalien machen Datenbanken inkonsistent.",
+    "googleLink": "http://www.google.com/url?q=https://www.itg-dah.info/index.php/info-9/datenbank/redundanz/530-grundwissen-redundanz&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAF6BAgJEAE&usg=AOvVaw033v0A_IzO92YxRkfS64OZ",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Normalisierung von Datenbanken - von Tino Hempelwww.tinohempel.de \u203a info \u203a info \u203a datenbank \u203a normalisierung",
+    "link": "https://www.tinohempel.de/info/info/datenbank/normalisierung.htm",
+    "description": "Normalisierung ist somit eine weitere M\u00f6glichkeit, relationale Datenbanken zu ... aber eingesetzt werden, um Anomalien zu beseitigen oder Redundanzen zu\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tinohempel.de/info/info/datenbank/normalisierung.htm&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAJ6BAgIEAE&usg=AOvVaw3vHNiPGzl-kCNbdzE3NjrW",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Anomalien bei Datenbanken | Datenbank-Forumwww.datenbankforum.com \u203a ... \u203a Datenmodellierung, Datenbank-Design",
+    "link": "https://www.datenbankforum.com/threads/anomalien-bei-datenbanken.277/",
+    "description": "Vielen Dank f\u00fcr die schnelle Antwort. Habe leider schon die n\u00e4chste die Frage. :o Wir fangen gerade mit Access an und m\u00fcssen vorab einige Aufgaben...",
+    "googleLink": "http://www.google.com/url?q=https://www.datenbankforum.com/threads/anomalien-bei-datenbanken.277/&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAN6BAgHEAE&usg=AOvVaw2rZ6dPKk1g2I7SLopC5nTn",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "db:anomalien [LuoWiki] - LuO Lichtenbergschule Darmstadtwww.luo-darmstadt.de \u203a wiki2 \u203a doku \u203a id=db:anomalien",
+    "link": "https://www.luo-darmstadt.de/wiki2/doku.php?id=db:anomalien",
+    "description": "01.05.2014 \u00b7 Anomalien. Die im Bild dargestellte Relation besteht aus der Sch\u00fclernummer SNr, dem Namen und Vornamen eines Sch\u00fclers, dem Tutor des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.luo-darmstadt.de/wiki2/doku.php%3Fid%3Ddb:anomalien&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAR6BAgGEAE&usg=AOvVaw0hCzrKNFcfAWV9Hfv3WdwZ",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Transaktionen >> Lost Update-Anomaliewww.internetoekonomie.com \u203a module \u203a transaktionen \u203a html",
+    "link": "http://www.internetoekonomie.com/lernmaterialdemosite/module/transaktionen/html/a23.html",
+    "description": "Lost Update-Anomalie. Zwei Datenbankoperationen schreiben zeitversetzt eine \u00c4nderung auf dasselbe Datenobjekt. D. h., die erste \u00c4nderung der beiden geht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.internetoekonomie.com/lernmaterialdemosite/module/transaktionen/html/a23.html&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAV6BAgBEAE&usg=AOvVaw0IOtMAzVf9uKgtE1ngBsbv",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] DATENBANKANWENDUNG DATENBANKANWENDUNGwwwlgis.informatik.uni-kl.de \u203a courses \u203a dbaw \u203a Vorlesung \u203a Kap-6",
+    "link": "http://wwwlgis.informatik.uni-kl.de/cms/fileadmin/courses/ws1314/dbaw/Vorlesung/Kap-6.pdf",
+    "description": "Datenbank- anwendung. Anomalien. Modellannahmen. CSR. OCSR. COCSR. FSR/VSR. Synchronisation von Transaktionen. \u25ab. Transaktion: Ein Programm t\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://wwwlgis.informatik.uni-kl.de/cms/fileadmin/courses/ws1314/dbaw/Vorlesung/Kap-6.pdf&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAZ6BAgEEAE&usg=AOvVaw0PUXvCSaBEnNRZeYPaMMQg",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Datenbank Anomalie | Forum Informatik - e-Hausaufgabene-hausaufgaben.de \u203a Thema-208563-Datenbank-Anomalie",
+    "link": "https://e-hausaufgaben.de/Thema-208563-Datenbank-Anomalie.php",
+    "description": "https://www.datenbank-grundlagen.de/anomalien.html zur Definition. Bsp.: https://\u200bde.wikipedia.org/wiki/Anomalie_(Informatik) Da findest Du je\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://e-hausaufgaben.de/Thema-208563-Datenbank-Anomalie.php&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAd6BAgFEAE&usg=AOvVaw1UEim6vIgy4xOjNOUiKlkr",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Datenbanksysteme \u00dcbungsblatt 1weichselbraun.net \u203a normalformen \u203a RelTheorie_Uebung_Loesung",
+    "link": "https://weichselbraun.net/dbs/p/exercise/normalformen/RelTheorie_Uebung_Loesung.pdf",
+    "description": "\u00c4nderungsanomalie: Wenn eine \u00c4nderung nicht \u00fcberall ordnungsgem\u00e4\u00df durchgef\u00fchrt wird, kann es zu Inkonsistenzen kommen (update-Anomalie).",
+    "googleLink": "http://www.google.com/url?q=https://weichselbraun.net/dbs/p/exercise/normalformen/RelTheorie_Uebung_Loesung.pdf&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAh6BAgDEAE&usg=AOvVaw1vixF0d5lu3FoZZeftsUsc",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Datenbanken - Universit\u00e4t Salzburgdbresearch.uni-salzburg.at \u203a teaching",
+    "link": "https://dbresearch.uni-salzburg.at/teaching/2013ws/db/db05-handout-1x1.pdf",
+    "description": "AngProj ist kein gutes relationales Schema, da es unter Anomalien leidet. Augsten (Univ. Salzburg). Datenbanken / Relationale Entwurfstheorie. Wintersemester\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dbresearch.uni-salzburg.at/teaching/2013ws/db/db05-handout-1x1.pdf&sa=U&ved=2ahUKEwjNore2vu_uAhWDURUIHVtmAME4HhAWMAl6BAgCEAE&usg=AOvVaw0MeO8xEZkLJSDmK6bvc26O",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Einf\u00fchrung in Datenbanken, Kapitel 14: Relationale ... - Uni Halleusers.informatik.uni-halle.de \u203a ~brass \u203a beamer \u203a de_norma",
+    "link": "http://users.informatik.uni-halle.de/~brass/db18/beamer/de_norma.pdf",
+    "description": "Anomalien. 2. Funktionale Abh\u00e4ngigkeiten. 3. Schl\u00fcssel-Bestimmung. 4. BCNF (\u200bund 3NF). 5. Aufspaltung von Relationen. Stefan Brass: Einf. in Datenbanken 14\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://users.informatik.uni-halle.de/~brass/db18/beamer/de_norma.pdf&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBAWMAB6BAgFEAE&usg=AOvVaw043ahSY2IubsMbt7vXSs1S",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Datenbanken - Redundanz und Anomalie (Informatik, Datenbank)www.gutefrage.net \u203a frage \u203a datenbanken---redundanz-und-anomalie",
+    "link": "https://www.gutefrage.net/frage/datenbanken---redundanz-und-anomalie",
+    "description": "Anomalien kommen immer bei nicht normalisierten Datenbanksystemen vor. Guck dir mal die Normalformen an. Man unterscheidet die Insert, Update und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gutefrage.net/frage/datenbanken---redundanz-und-anomalie&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBAWMAF6BAgHEAE&usg=AOvVaw0vsX7a8GVmPmgaSbDdqvTC",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Karteikarten | Datenbanken | Repeticowww.repetico.de \u203a cardset-cards-1088830",
+    "link": "https://www.repetico.de/cardset-cards-1088830",
+    "description": "Anomalien (3 Nennen und erkl\u00e4ren). 1) \u00c4nderungsanomalie: Bei der \u00c4nderung von Daten wird ein Datensatz vergessen => widerspr\u00fcchliche Information\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.repetico.de/cardset-cards-1088830&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBAWMAJ6BAgJEAE&usg=AOvVaw3V2pH1v4xObi27EQGlvE-6",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Anomalie \u2013 Wiktionaryde.wiktionary.org \u203a wiki \u203a Anomalie",
+    "link": "https://de.wiktionary.org/wiki/Anomalie",
+    "description": "[3] in der Informatik: in relationalen Datenbanken das Fehlverhalten der Datenbank: [4] im Softwaretest ein Zustand, der vom Erwarteten abweicht. Herkunft: [1\u20134]\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wiktionary.org/wiki/Anomalie&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBAWMAN6BAgIEAE&usg=AOvVaw28zd3WwqXTK8TllLIkQMod",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Merkblatt zu Datenbanken (Informatik Leistungskurs)patrick-robrecht.de \u203a publikationen \u203a mint \u203a datenbanken",
+    "link": "https://patrick-robrecht.de/publikationen/mint/datenbanken/",
+    "description": "Normalisierung von Datenbanken. Normalformen helfen, Anomalien und Redundanzen zu vermeiden. Eine Relation ist jeweils in der 1., 2. oder 3. Normalform\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://patrick-robrecht.de/publikationen/mint/datenbanken/&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBAWMAR6BAgDEAE&usg=AOvVaw0ZddozCtuXyYMH9bmscF8H",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Vom Entwurf zur Datenbank \u2013 Dr. Daniel Appeldrdanielappel.de \u203a informatik \u203a datenbanken \u203a vom-entwurf-zur-datenbank",
+    "link": "https://drdanielappel.de/informatik/datenbanken/vom-entwurf-zur-datenbank/",
+    "description": "11.02.2020 \u00b7 Neben dieser gibt es auch noch die sogenannten L\u00f6sch- und Einf\u00fcge-Anomalien\u200b. bei ...Dauer: 13:22\nGepostet: 11.02.2020",
+    "googleLink": "http://www.google.com/url?q=https://drdanielappel.de/informatik/datenbanken/vom-entwurf-zur-datenbank/&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBC3AjAFegQIARAB&usg=AOvVaw3WoTLQIgKbyIphMa5IYrQc",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Datenbanken (CS2700): IFIS Uni L\u00fcbeckwww.ifis.uni-luebeck.de \u203a id=datenbanken-ss17",
+    "link": "https://www.ifis.uni-luebeck.de/index.php?id=datenbanken-ss17",
+    "description": "Datenbanken (CS2700) ... ACID, Anomalien, Serialisierbarkeit, Sperren, 2-\u200bPhasen-Commit-Protokoll, Nebenl\u00e4ufigkeit in Indexstrukturen, Isolationsebenen,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ifis.uni-luebeck.de/index.php%3Fid%3Ddatenbanken-ss17&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBAWMAZ6BAgGEAE&usg=AOvVaw3pUppXZNsYGTB4SCSVQfnh",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Normalisierung | Datenbanken mit minimaler Redundanz - IONOSwww.ionos.de \u203a ... \u203a Hosting-Technik \u203a Normalisierung von Datenbanken",
+    "link": "https://www.ionos.de/digitalguide/hosting/hosting-technik/normalisierung-von-datenbanken/",
+    "description": "18.06.2018 \u00b7 Datenbank-Normalisierung am Beispiel erkl\u00e4rt: So \u00fcberf\u00fchren Sie ... Der Grund: Redundante Daten f\u00fchren zu semantischen Anomalien.",
+    "googleLink": "http://www.google.com/url?q=https://www.ionos.de/digitalguide/hosting/hosting-technik/normalisierung-von-datenbanken/&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBAWMAd6BAgEEAE&usg=AOvVaw0OJGNC2K_QUa_W60xG_0pj",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Datenbanken - Mediencommunitymediencommunity.de \u203a book \u203a export \u203a html",
+    "link": "https://mediencommunity.de/book/export/html/23987",
+    "description": "Erstellung, Pflege und Verwaltung von einer oder mehreren Datenbanken (z.B. ... spart Speicherplatz und verhindert Probleme (Anomalien) bei sp\u00e4teren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mediencommunity.de/book/export/html/23987&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBAWMAh6BAgAEAE&usg=AOvVaw2jVHijZAIgemljnyyBcTZG",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 5. Relationale Entwurfstheorie - Softwarelabor (SWL) \u2014 htw saarswl.htwsaar.de \u203a lehre \u203a dbs \u203a slides \u203a 2016-vl-dbs-kap5-1-relationale...",
+    "link": "http://swl.htwsaar.de/lehre/ws16/dbs/slides/2016-vl-dbs-kap5-1-relationale-entwurfstheorie.pdf",
+    "description": "Datenbanken / Kapitel 5: Relationale Entwurfstheorie. Page 3. 3. 5.1 Redundanzen und Anomalien ... Ein \u201egutes\u201c Relationenschema vermeidet Anomalien, die.",
+    "googleLink": "http://www.google.com/url?q=http://swl.htwsaar.de/lehre/ws16/dbs/slides/2016-vl-dbs-kap5-1-relationale-entwurfstheorie.pdf&sa=U&ved=2ahUKEwiNjei2vu_uAhWJThUIHTJMCt84KBAWMAl6BAgCEAE&usg=AOvVaw2CqhQdbUhpyk6SlZCkd6EH",
+    "page": 4,
+    "index": 9
+  }
+]

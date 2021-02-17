@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Join-Operationen - lernen mit Serlo!de.serlo.org \u203a informatik \u203a baustelle \u203a datenbanken \u203a join-operationen",
+    "link": "https://de.serlo.org/informatik/baustelle/datenbanken/join-operationen",
+    "description": "Dies liefert das kartesische Produkt von Tabelle1 und Tabelle2. Dies ist jedoch nicht erw\u00fcnscht, wenn die Tabellen in einer Beziehung stehen. Der nat\u00fcrliche Join.",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/baustelle/datenbanken/join-operationen&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjAAegQIBxAB&usg=AOvVaw3t16Fcd1fUAb73DYRAJJRx",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Join (SQL) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Join_(SQL)",
+    "link": "https://de.wikipedia.org/wiki/Join_(SQL)",
+    "description": "\u2191 Im Internet findet man sehr viele Artikel \u00fcber den Verbund, bei dem er durch Venn-Diagramme f\u00fcr Mengenoperationen veranschaulicht wird. In diesen Artikeln\u00a0...\nKartesisches Produkt ... \u00b7 Innerer Verbund \u00b7 \u00c4u\u00dferer Verbund (OUTER ... \u00b7 Self Join",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Join_(SQL)&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjABegQIChAB&usg=AOvVaw0TmZEfg-akIr-zZrD0AXXX",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Relationale Algebra \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Relationale_Algebra",
+    "link": "https://de.wikipedia.org/wiki/Relationale_Algebra",
+    "description": "Insbesondere f\u00fchrte er die relationalen Operationen \u201eVereinigung\u201c, \u201eDurchschnitt\u200b\u201c und \u201eJoin\u201c ein, wobei er sich allerdings auf zweistellige Relationen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Relationale_Algebra&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjACegQICxAB&usg=AOvVaw39Ue3MEE0ZBsAzfilCjcbY",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "SQL-JOIN | So verkn\u00fcpfen Sie relationale Datenbankentabellen ...www.ionos.de \u203a Digitalguide \u203a Hosting \u203a Hosting-Technik \u203a SQL-JOIN",
+    "link": "https://www.ionos.de/digitalguide/hosting/hosting-technik/sql-join/",
+    "description": "07.05.2018 \u00b7 Anschaulich darstellen l\u00e4sst sich das Grundprinzip des SQL-JOINs, wenn man sich die Datenbankoperation \u00fcber deren Teiloperationen herleitet.",
+    "googleLink": "http://www.google.com/url?q=https://www.ionos.de/digitalguide/hosting/hosting-technik/sql-join/&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjADegQIBBAB&usg=AOvVaw18bu-PrDsNi9a_Uvy3HVDO",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Datenbanken Online Lexikon | Datenbanken / Joinwikis.gm.fh-koeln.de \u203a Datenbanken \u203a Join",
+    "link": "https://wikis.gm.fh-koeln.de/Datenbanken/Join",
+    "description": "18.11.2019 \u00b7 Die Join-Operatoren sind (ableitbare) Operationen der relationale-Algebra relationalen Algebra.Die Join-Operation (Verbundoperation)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wikis.gm.fh-koeln.de/Datenbanken/Join&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjAEegQICBAB&usg=AOvVaw1zvAtbRc-N-GXTAEhh-0I-",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Datenbanken Online Lexikon | Datenbanken / Join-Operationen des ...wikis.gm.fh-koeln.de \u203a Datenbanken \u203a Join-Operationen",
+    "link": "https://wikis.gm.fh-koeln.de/Datenbanken/Join-Operationen",
+    "description": "19.08.2019 \u00b7 entscheidet sich der ORACLE-Optimizer f\u00fcr eine m\u00f6glichst kosteng\u00fcnstige Variante. Oracle bietet die folgenden Join-Operationen an: NESTED\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wikis.gm.fh-koeln.de/Datenbanken/Join-Operationen&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjAFegQICRAB&usg=AOvVaw2Zp3Oo0GPeL17XzxkXNUDy",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "7. SQL und Relationale Algebrawww.hdm-stuttgart.de \u203a ~riekert \u203a lehre \u203a db-kelz \u203a chap7",
+    "link": "https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap7.htm",
+    "description": "B. SQL. Dabei k\u00f6nnen folgende Operationen der Mengenlehre benutzt werden: ... Bei einem Cross Join gro\u00dfer Tabellen wird die Ergebnistabelle sehr gro\u00df.\n\nName: Personalnummer\nHuber: 2",
+    "googleLink": "http://www.google.com/url?q=https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap7.htm&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjAGegQIARAB&usg=AOvVaw395Zdnj0YTNJQtK1cUrA1S",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "SQL Join Performance verbessern - Use The Index, Lukeuse-the-index-luke.com \u203a sql \u203a join",
+    "link": "https://use-the-index-luke.com/de/sql/join",
+    "description": "Eine Join-Operation transformiert Daten aus einem normalisierten Modell in eine denormalisierte Form, die f\u00fcr eine bestimmte Aufgabe ben\u00f6tigt wird. Da sie\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://use-the-index-luke.com/de/sql/join&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjALegQIABAB&usg=AOvVaw3Fv7fXbCCFoh0qrSBp8-kz",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Operationen der Relationenalgebra - von Tino Hempelwww.tinohempel.de \u203a info \u203a info \u203a datenbank \u203a operation",
+    "link": "https://www.tinohempel.de/info/info/datenbank/operation.htm",
+    "description": "Join (Verbund), JAttribute(A,B) A B, Verkn\u00fcpfung zweier Relationen zu einer neuen Relation mit den Attributen beider Tabellen \u00fcber gemeinsame Attribute\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tinohempel.de/info/info/datenbank/operation.htm&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjAMegQIAxAB&usg=AOvVaw3S1RMZQvLboOd_ymDF_Fpk",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Datenbank/Fortgeschrittene Jointechniken \u2013 SELFHTML-Wikiwiki.selfhtml.org \u203a wiki \u203a Datenbank \u203a Fortgeschrittene_Jointechniken",
+    "link": "https://wiki.selfhtml.org/wiki/Datenbank/Fortgeschrittene_Jointechniken",
+    "description": "05.01.2021 \u00b7 3 Mehrere Tabellen mit JOIN verkn\u00fcpfen - gleiche Joinspalten ... Bei beiden JOIN\u200b-Operationen im vorliegenden Beispiel handelt es sich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.selfhtml.org/wiki/Datenbank/Fortgeschrittene_Jointechniken&sa=U&ved=2ahUKEwiI8vyPue_uAhVRoVwKHZGHCj8QFjANegQIAhAB&usg=AOvVaw3ITQDe_0J8GSd8LBaguYB7",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "SQL JOINS - SQL JOIN Grundlagen einfach erkl\u00e4rt | SQL Tutorialwww.datenbanken-verstehen.de \u203a SQL Tutorial",
+    "link": "https://www.datenbanken-verstehen.de/sql-tutorial/sql-joins/",
+    "description": "Bewertung  3,3  (189)",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.datenbanken-verstehen.de/sql-tutorial/sql-joins/&ved=2ahUKEwiH86qQue_uAhUPecAKHQOsD-w4ChAWMAB6BAgDEAE&usg=AOvVaw17u5iOhTmYgy4rD0NpRCfP",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Verbundoperatoren (Join) \u2013 GlossarWikiglossar.hs-augsburg.de \u203a Verbundoperatoren_(Join)",
+    "link": "https://glossar.hs-augsburg.de/Verbundoperatoren_(Join)",
+    "description": "2.1 Cross Join; 2.2 Inner Join; 2.3 Natural Join; 2.4 Left Join; 2.5 Right Join ... Verbundoperatoren (auch Joins genannt) verbinden die Spalten zweier Tabellen zu einer Tabelle. ... http://www.tinohempel.de/info/info/datenbank/operation.htm\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://glossar.hs-augsburg.de/Verbundoperatoren_(Join)&ved=2ahUKEwiH86qQue_uAhUPecAKHQOsD-w4ChAWMAF6BAgHEAE&usg=AOvVaw3OlpsRPHWBfkb9DVrn2E18",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Datenbankanfragen und -operationen mittels SQLwww2.htw-dresden.de \u203a ~sobe \u203a InfoMB_Jg14 \u203a 4_Datenbanken_Teil2",
+    "link": "https://www2.htw-dresden.de/~sobe/InfoMB_Jg14/Vo/4_Datenbanken_Teil2.pdf",
+    "description": "Operationen ausgef\u00fchrt, die immer wieder eine Tabelle als. Ergebnis zur\u00fcckgeben. ... Intrarelationale Join-Operationen (Auto-Join oder Self-Joins) verkn\u00fcpfen\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www2.htw-dresden.de/~sobe/InfoMB_Jg14/Vo/4_Datenbanken_Teil2.pdf&ved=2ahUKEwiH86qQue_uAhUPecAKHQOsD-w4ChAWMAJ6BAgIEAE&usg=AOvVaw3-j8dzCXAduJXCyb_wVVea",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "LAVA - JOINwww.sachsen.schule \u203a ~lava \u203a datenbanken \u203a verschiedene_join-operatoren",
+    "link": "https://www.sachsen.schule/~lava/datenbanken/verschiedene_join-operatoren.html",
+    "description": "Durch Bet\u00e4tigen der Schaltfl\u00e4chen werden die Auswirkungen der verschiedenen JOIN-Operationen im unteren Bereich dargestellt. Im oberen Bereich befinden\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.sachsen.schule/~lava/datenbanken/verschiedene_join-operatoren.html&ved=2ahUKEwiH86qQue_uAhUPecAKHQOsD-w4ChAWMAN6BAgJEAE&usg=AOvVaw2oyhSAdvDeuPMIDEI-aHa9",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "LEFT JOIN- und RIGHT JOIN-Vorgang - Access - Microsoft Supportsupport.microsoft.com \u203a de-de \u203a office \u203a left-join-und-right-join-vorgang-...",
+    "link": "https://support.microsoft.com/de-de/office/left-join-und-right-join-vorgang-ebb18b36-7976-4c6e-9ea1-c701e9f7f5fb",
+    "description": "Verwenden Sie eine LEFT JOIN-Operation, um einen Linke \u00e4u\u00dfere Verkn\u00fcpfung zu erstellen. Linke \u00e4u\u00dfere Joins enthalten alle Datens\u00e4tze aus der ersten (linken)\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://support.microsoft.com/de-de/office/left-join-und-right-join-vorgang-ebb18b36-7976-4c6e-9ea1-c701e9f7f5fb&ved=2ahUKEwiH86qQue_uAhUPecAKHQOsD-w4ChAWMAR6BAgCEAE&usg=AOvVaw2SZ9drlnfN9U1MRwXJ8ZXI",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "LEFT JOIN- und RIGHT JOIN-Operation (Microsoft Access SQL ...docs.microsoft.com \u203a client-developer \u203a access \u203a desktop-database-reference",
+    "link": "https://docs.microsoft.com/de-de/office/client-developer/access/desktop-database-reference/left-join-right-join-operations-microsoft-access-sql",
+    "description": "18.09.2015 \u00b7 SyntaxSyntax. FROM table1 [ LEFT | RIGHT ] JOIN table2 ON table1.field1 compopr table2.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://docs.microsoft.com/de-de/office/client-developer/access/desktop-database-reference/left-join-right-join-operations-microsoft-access-sql&ved=2ahUKEwiH86qQue_uAhUPecAKHQOsD-w4ChAWMAV6BAgFEAE&usg=AOvVaw0f5SPEuQ7UUJDpY3lQvLuo",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "perform SQL join operations - Deutsch \u00dcbersetzung - Englisch ...context.reverso.net \u203a \u00fcbersetzung \u203a perform+SQL+join+operations",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/englisch-deutsch/perform+SQL+join+operations",
+    "description": "\u00dcbersetzung im Kontext von \u201eperform SQL join operations\u201c in Englisch-Deutsch von Reverso Context: If you do not use a JOIN clause to perform SQL join\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://context.reverso.net/%25C3%25BCbersetzung/englisch-deutsch/perform%2BSQL%2Bjoin%2Boperations&ved=2ahUKEwiH86qQue_uAhUPecAKHQOsD-w4ChAWMAZ6BAgGEAE&usg=AOvVaw2S4akF6OXguejQPzdJP1To",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] MS ACCESS: Fortgeschrittene Jointechniken - Dr. V. Thorm\u00e4hlenwww.dr-thormaehlen.de \u203a misc \u203a Fortgeschrittene_Jointechniken",
+    "link": "http://www.dr-thormaehlen.de/misc/Fortgeschrittene_Jointechniken.pdf",
+    "description": "Bevor die Nachbildung der JOIN-Operationen mit ACCESS erfolgt,. \u2022 werden alle sechs Tabellen der Beispieldatenbank vorgestellt,. \u2022 wird das Schema der\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Algorithmen f\u00fcr r\u00e4umliche Join-Operationen - Universit\u00e4t Augsburg ...www.informatik.uni-augsburg.de \u203a lectures \u203a mobileGIS \u203a themen",
+    "link": "https://www.informatik.uni-augsburg.de/lehrstuehle/dbis/db/lectures/ss11/mobileGIS/themen/Thema19_Ausarbeitung_Gschossmann.pdf",
+    "description": "Zusammenfassung Diese Arbeit widmet sich dem Thema der Algo- rithmen f\u00fcr r\u00e4umliche Join-Operationen. Die Arbeit orientiert sich in- haltlich komplett an der\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.informatik.uni-augsburg.de/lehrstuehle/dbis/db/lectures/ss11/mobileGIS/themen/Thema19_Ausarbeitung_Gschossmann.pdf&ved=2ahUKEwiH86qQue_uAhUPecAKHQOsD-w4ChAWMAh6BAgAEAE&usg=AOvVaw097Tybl8Elc5Sm8gzqYd__",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "MySQL 5.1 Referenzhandbuch :: 7.2.11 ... - MySQLdownload.nust.na \u203a pub6 \u203a mysql \u203a doc \u203a refman \u203a outer-join-simplification",
+    "link": "http://download.nust.na/pub6/mysql/doc/refman/5.1/de/outer-join-simplification.html",
+    "description": "Auf der Parserebene werden Abfragen mit rechten \u00e4u\u00dferen Join-Operationen in ... Eine Bedingung hei\u00dft nullabweisend f\u00fcr eine \u00e4u\u00dfere Join-Operation, wenn\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Abfrageplan - Amazon Redshift  docs.aws.amazon.com \u203a de_de \u203a redshift \u203a latest \u203a c-the-query-plan",
+    "link": "https://docs.aws.amazon.com/de_de/redshift/latest/dg/c-the-query-plan.html",
+    "description": "Abfrageplan - Amazon Redshift",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://docs.aws.amazon.com/de_de/redshift/latest/dg/c-the-query-plan.html&ved=2ahUKEwiB-9GQue_uAhV3QkEAHZ1ZCmI4FBAWMAF6BAgHEAE&usg=AOvVaw3ZDOs75_KdzKJWQW-FFBBi",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Performanceanalyse \u2013 Arbeitsweise wichtiger Operatoren in ...  www.bissantz.de \u203a know-how \u203a data-warehousing \u203a performanceanalyse-ar...",
+    "link": "https://www.bissantz.de/know-how/data-warehousing/performanceanalyse-arbeitsweise-wichtiger-operatoren-in-ausfuhrungsplanen/",
+    "description": "Performanceanalyse \u2013 Arbeitsweise wichtiger Operatoren in ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.bissantz.de/know-how/data-warehousing/performanceanalyse-arbeitsweise-wichtiger-operatoren-in-ausfuhrungsplanen/&ved=2ahUKEwiB-9GQue_uAhV3QkEAHZ1ZCmI4FBAWMAJ6BAgIEAE&usg=AOvVaw0B2j1IalbRjOAjQXo-Ebyt",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "merge, join und concat in Pandas \u00b7 Data Science Architect  www.data-science-architect.de \u203a Blog \u203a Python",
+    "link": "https://www.data-science-architect.de/merge-join-und-concat-in-pandas/",
+    "description": "merge, join und concat in Pandas \u00b7 Data Science Architect",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.data-science-architect.de/merge-join-und-concat-in-pandas/&ved=2ahUKEwiB-9GQue_uAhV3QkEAHZ1ZCmI4FBAWMAN6BAgKEAE&usg=AOvVaw2QZb3wGnUZWryi46ZiAmLv",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "JOIN - DB-Engines Enzyklop\u00e4die  db-engines.com \u203a article \u203a JOIN",
+    "link": "https://db-engines.com/de/article/JOIN",
+    "description": "JOIN - DB-Engines Enzyklop\u00e4die",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://db-engines.com/de/article/JOIN&ved=2ahUKEwiB-9GQue_uAhV3QkEAHZ1ZCmI4FBAWMAR6BAgJEAE&usg=AOvVaw1-IVuNSQvHbWE2NGytQR7Q",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Datenbankoperationen  www.inf.hs-flensburg.de \u203a lang \u203a operationen",
+    "link": "https://www.inf.hs-flensburg.de/lang/db/operationen.htm",
+    "description": "Datenbankoperationen",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.inf.hs-flensburg.de/lang/db/operationen.htm&ved=2ahUKEwiB-9GQue_uAhV3QkEAHZ1ZCmI4FBAWMAV6BAgDEAE&usg=AOvVaw2Esu-jkwUlg-ujTLxDrOoe",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Relationale Algebra - Webis.de  webis.de \u203a downloads \u203a lecturenotes \u203a databases \u203a unit-de-relational-algebra",
+    "link": "https://webis.de/downloads/lecturenotes/databases/unit-de-relational-algebra.pdf",
+    "description": "[PDF] Relationale Algebra - Webis.de",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://webis.de/downloads/lecturenotes/databases/unit-de-relational-algebra.pdf&ved=2ahUKEwiB-9GQue_uAhV3QkEAHZ1ZCmI4FBAWMAZ6BAgGEAE&usg=AOvVaw00utqg21Vq6LzJd2i7lf0w",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Joins / Implementierung von Joins  www.dbs.ifi.lmu.de \u203a Lehre \u203a DataWarehouses \u203a Joins",
+    "link": "http://www.dbs.ifi.lmu.de/Lehre/DataWarehouses/Joins.pdf",
+    "description": "[PDF] Joins / Implementierung von Joins",
+    "googleLink": null,
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Kapitel 8 Anfragebearbeitung - TUM  db.in.tum.de \u203a teaching \u203a bookDBMSeinf \u203a folien \u203a pdf \u203a Kapitel8",
+    "link": "https://db.in.tum.de/teaching/bookDBMSeinf/folien/pdf/Kapitel8.pdf?lang=en",
+    "description": "Kapitel 8 Anfragebearbeitung - TUM",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://db.in.tum.de/teaching/bookDBMSeinf/folien/pdf/Kapitel8.pdf%3Flang%3Den&ved=2ahUKEwiB-9GQue_uAhV3QkEAHZ1ZCmI4FBAWMAh6BAgFEAE&usg=AOvVaw0NTTyhRWKyitiPIlfpbX1P",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Join - TU Ilmenau  www.dbis.prakinf.tu-ilmenau.de \u203a papers \u203a dbis \u203a Studienarbeiten \u203a Rusch04",
+    "link": "https://www.dbis.prakinf.tu-ilmenau.de/papers/dbis/Studienarbeiten/Rusch04.pdf",
+    "description": "[PDF] Join - TU Ilmenau",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.dbis.prakinf.tu-ilmenau.de/papers/dbis/Studienarbeiten/Rusch04.pdf&ved=2ahUKEwiB-9GQue_uAhV3QkEAHZ1ZCmI4FBAWMAl6BAgCEAE&usg=AOvVaw3B0unCgXtAl6eGlo2B7S2U",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Operationen auf Tabellen - Selektion, Projektion und Join - Richard ...moodle.wossidlogymnasium.de \u203a mod \u203a assign \u203a view",
+    "link": "https://moodle.wossidlogymnasium.de/mod/assign/view.php?id=11198&forceview=1",
+    "description": "25.08.2019 \u00b7 Erg\u00e4nzen Sie das Arbeitsblatt zu den Operationen der Relationenalgebra Selektion, Projektion und Join mithilfe des Lehrbuchs Sch\u00f6ningh\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://moodle.wossidlogymnasium.de/mod/assign/view.php%3Fid%3D11198%26forceview%3D1&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAB6BAgCEAE&usg=AOvVaw2x_NJj6yQVtML3edKVy9E3",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Wiederholung: SELECT Statement Wiederholung ...dmm.dbs.ifi.lmu.de \u203a content \u203a lehre \u203a dbs \u203a Uebung \u203a Wiederholun...",
+    "link": "https://dmm.dbs.ifi.lmu.de/content/lehre/WS1718/dbs/Uebung/Wiederholungsfolie05.pdf",
+    "description": "Wiederholung: Join Operationen (Verbund). \u2022 Joins werden in der FROM-Klausel spezifiziert. \u2022 Kreuzverbund (Kreuzprodukt) R \u00d7 S ... FROM R CROSS JOIN S\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dmm.dbs.ifi.lmu.de/content/lehre/WS1718/dbs/Uebung/Wiederholungsfolie05.pdf&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAF6BAgHEAE&usg=AOvVaw3bJRDp6NQqDdwnn7JzKyPl",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "OUTER APPLY | T-SQL Ninjawww.tsql-ninja.com \u203a 2020/02/13 \u203a woche-7-outer-apply",
+    "link": "https://www.tsql-ninja.com/2020/02/13/woche-7-outer-apply/",
+    "description": "13.02.2020 \u00b7 ... JOIN -Operationen m\u00f6glich ist. \u00dcbrigens entspricht ein OUTER APPLY einem LEFT JOIN , w\u00e4hrend ein CROSS APPLY einer INNER JOIN\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tsql-ninja.com/2020/02/13/woche-7-outer-apply/&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAJ6BAgJEAE&usg=AOvVaw0U8C7xaVtBRpN_xLIv4jPz",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Relationale Datenbanken - Join - OSZ Handel 1www.oszhandel.de \u203a informatik \u203a datenbanken \u203a relationale_db \u203a allg_join",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/datenbanken/relationale_db/allg_join.htm",
+    "description": "Weitere Operationen auf Tabellen sind: Einf\u00fcgen von Zeilen in Tabellen; L\u00f6schen von Zeilen; \u00c4ndern von Spaltenwerten. Dazu steht eine standardisierte\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oszhandel.de/gymnasium/faecher/informatik/datenbanken/relationale_db/allg_join.htm&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAN6BAgIEAE&usg=AOvVaw3yN2MY86cJPeZyJkd1Wa0T",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Datenbanken \u2014 Anfrageoptimierung - Relationale Datenbankendb-buch.inf.unibe.ch \u203a Folien \u203a 07_Optimierung",
+    "link": "https://db-buch.inf.unibe.ch/Folien/07_Optimierung.pdf",
+    "description": "effiziente Algorithmen ausw\u00e4hlen, um die Operationen der relationalen. Algebra ... Index Join. Mit Index I auf dem Attribut v in der Tabelle T. FOR EACH s IN S.",
+    "googleLink": "http://www.google.com/url?q=https://db-buch.inf.unibe.ch/Folien/07_Optimierung.pdf&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAR6BAgEEAE&usg=AOvVaw2VFPBTyq4E0C57Ms-cJbLd",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Relationale Algebra Relationale Algebrawww2.informatik.hu-berlin.de \u203a logik \u203a lehre \u203a fm-lehre \u203a logdb \u203a H...",
+    "link": "https://www2.informatik.hu-berlin.de/logik/lehre/fm-lehre/ws12/logdb/Handout-Kap4_RelationaleAlgebra_4.pdf",
+    "description": "folgenden Operationen ausdr\u00fccken: \u25bb Theta-Join \u22b2\u22b3\u03b8, wobei \u03b8 eine positive konjunktive Join-Bedingung ist. Semantik: I \u22b2\u22b3\u03b8 J := {(a,b) : a \u2208 I, b \u2208 J,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www2.informatik.hu-berlin.de/logik/lehre/fm-lehre/ws12/logdb/Handout-Kap4_RelationaleAlgebra_4.pdf&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAV6BAgGEAE&usg=AOvVaw1eT9V__BE0-BcenRi1MMIi",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "DDL, DML, DCL, TCL, DQL, Gruppenfunktionen, JOIN Flashcards ...quizlet.com \u203a ddl-dml-dcl-tcl-dql-gruppenfunktionen-join-flash-cards",
+    "link": "https://quizlet.com/de/530682729/ddl-dml-dcl-tcl-dql-gruppenfunktionen-join-flash-cards/",
+    "description": "Sind Tupel, denen bei JOIN Operationen die entsprechenden Tupel in der anderen Relation fehlen, mit denen sie verkn\u00fcpft werden k\u00f6nnen. Ein Outer Join\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://quizlet.com/de/530682729/ddl-dml-dcl-tcl-dql-gruppenfunktionen-join-flash-cards/&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAZ6BAgDEAE&usg=AOvVaw2mNq7Q54aoy0beBpp38y-M",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "3.5 INNER JOIN - kstbbwww.kstbb.de \u203a informatik \u203a rdb \u203a 3_5_sql_innerjoin",
+    "link": "https://www.kstbb.de/informatik/rdb/03/3_5_sql_innerjoin.html",
+    "description": "Die INNER-JOIN -Verkn\u00fcpfung verbindet jeden Datensatz aus der Tabelle Mietvertrag ... m\u00fcssen mehrere JOIN-Operationen hintereinander ausgef\u00fchrt werden.",
+    "googleLink": "http://www.google.com/url?q=https://www.kstbb.de/informatik/rdb/03/3_5_sql_innerjoin.html&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAd6BAgFEAE&usg=AOvVaw0VwblLvtcggz0GeWpQl62B",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "2.3.7 Join-Operationen in SQL-92 - studylibde.comstudylibde.com \u203a Ingenieurwissenschaft \u203a Informatik \u203a Datenbank",
+    "link": "https://studylibde.com/doc/2376564/2.3.7-join-operationen-in-sql-92",
+    "description": "FROM table join-op table [join-spec] WHERE \u2026 miteinander verbunden werden. (1/9) SQL - Structured Query Language 2.3.7 Join-Operationen in SQL-92 1\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://studylibde.com/doc/2376564/2.3.7-join-operationen-in-sql-92&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAh6BAgBEAE&usg=AOvVaw3yp72XXfsZpoM5J6eHl58Z",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Seminar / Kurs : SQL - Spezial, Teil 1 - Semigatorwww.semigator.de \u203a seminare \u203a SQL-Spezial-Teil-1-5543227-0",
+    "link": "https://www.semigator.de/seminare/SQL-Spezial-Teil-1-5543227-0",
+    "description": "Restriktion und Projektion; Die Join-Operationen; INNER JOIN, LEFT OUTER JOIN, RIGHT OUTER JOIN; FULL OUTER JOIN und COALESCE\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.semigator.de/seminare/SQL-Spezial-Teil-1-5543227-0&sa=U&ved=2ahUKEwj_o_CQue_uAhXRTsAKHeK9BUM4HhAWMAl6BAgAEAE&usg=AOvVaw1wl37cKlL8C9D1lVbx7waB",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Relationale Algebra Relationale Algebrawww2.informatik.hu-berlin.de \u203a logik \u203a lehre \u203a fm-lehre \u203a logdb \u203a H...",
+    "link": "https://www2.informatik.hu-berlin.de/logik/lehre/fm-lehre/ws12/logdb/Handout-Kap4_RelationaleAlgebra_4.pdf",
+    "description": "folgenden Operationen ausdr\u00fccken: \u25bb Theta-Join \u22b2\u22b3\u03b8, wobei \u03b8 eine positive konjunktive Join-Bedingung ist. Semantik: I \u22b2\u22b3\u03b8 J := {(a,b) : a \u2208 I, b \u2208 J,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www2.informatik.hu-berlin.de/logik/lehre/fm-lehre/ws12/logdb/Handout-Kap4_RelationaleAlgebra_4.pdf&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAB6BAgAEAE&usg=AOvVaw0BJhw7sSPw-hi05T_53HDM",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Datenbanken \u2014 Anfrageoptimierung - Relationale Datenbankendb-buch.inf.unibe.ch \u203a Folien \u203a 07_Optimierung",
+    "link": "https://db-buch.inf.unibe.ch/Folien/07_Optimierung.pdf",
+    "description": "effiziente Algorithmen ausw\u00e4hlen, um die Operationen der relationalen. Algebra ... Index Join. Mit Index I auf dem Attribut v in der Tabelle T. FOR EACH s IN S.",
+    "googleLink": "http://www.google.com/url?q=https://db-buch.inf.unibe.ch/Folien/07_Optimierung.pdf&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAF6BAgIEAE&usg=AOvVaw1W2_TJJe_LY18wzFOgVOpR",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "SQL III: Join/Self-Join | Lehre in den Digital Humanitieswww.dh-lehre.gwi.uni-muenchen.de \u203a ...",
+    "link": "https://www.dh-lehre.gwi.uni-muenchen.de/?p=211855&lv=0",
+    "description": "26.01.2021 \u00b7 5Bei der Operation Join wird hierbei zun\u00e4chst ein kartesisches Produkt gebildet, das daraufhin durch Selektion beschr\u00e4nkt wird.",
+    "googleLink": "http://www.google.com/url?q=https://www.dh-lehre.gwi.uni-muenchen.de/%3Fp%3D211855%26lv%3D0&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAJ6BAgHEAE&usg=AOvVaw1xafq_Poss9pKefM5O-Gr9",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Eingebettete Prozessorarchitekturen - 4 ... - TU Darmstadtwww.esa.informatik.tu-darmstadt.de \u203a archive \u203a twiki \u203a pub \u203a Lectures",
+    "link": "https://www.esa.informatik.tu-darmstadt.de/archive/twiki/pub/Lectures/EingebetteteProzessoren06De/epa04handout.pdf",
+    "description": "Kompensationscode. Joins. Kompensationscode. Wahl des Einsprungpunktes. So fr\u00fch wie m\u00f6glich, aber: Keine Operation, die vorher vor Join lag . . . darf nun\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.esa.informatik.tu-darmstadt.de/archive/twiki/pub/Lectures/EingebetteteProzessoren06De/epa04handout.pdf&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAN6BAgJEAE&usg=AOvVaw37n5KvSdflEv2CKeOG2-ij",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Relationale Datenbanken - Join - OSZ Handel 1www.oszhandel.de \u203a informatik \u203a datenbanken \u203a relationale_db \u203a allg_join",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/datenbanken/relationale_db/allg_join.htm",
+    "description": "Weitere Operationen auf Tabellen sind: Einf\u00fcgen von Zeilen in Tabellen; L\u00f6schen von Zeilen; \u00c4ndern von Spaltenwerten. Dazu steht eine standardisierte\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oszhandel.de/gymnasium/faecher/informatik/datenbanken/relationale_db/allg_join.htm&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAR6BAgFEAE&usg=AOvVaw2tnCtvEnnTJc813YYES2I6",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Seminar / Kurs : SQL - Spezial, Teil 1 - Semigatorwww.semigator.de \u203a seminare \u203a SQL-Spezial-Teil-1-5543227-0",
+    "link": "https://www.semigator.de/seminare/SQL-Spezial-Teil-1-5543227-0",
+    "description": "Restriktion und Projektion; Die Join-Operationen; INNER JOIN, LEFT OUTER JOIN, RIGHT OUTER JOIN; FULL OUTER JOIN und COALESCE\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.semigator.de/seminare/SQL-Spezial-Teil-1-5543227-0&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAV6BAgBEAE&usg=AOvVaw1xXBfhrBx7HGljXVb5U5CW",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "DDL, DML, DCL, TCL, DQL, Gruppenfunktionen, JOIN Flashcards ...quizlet.com \u203a ddl-dml-dcl-tcl-dql-gruppenfunktionen-join-flash-cards",
+    "link": "https://quizlet.com/de/530682729/ddl-dml-dcl-tcl-dql-gruppenfunktionen-join-flash-cards/",
+    "description": "Sind Tupel, denen bei JOIN Operationen die entsprechenden Tupel in der anderen Relation fehlen, mit denen sie verkn\u00fcpft werden k\u00f6nnen. Ein Outer Join\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://quizlet.com/de/530682729/ddl-dml-dcl-tcl-dql-gruppenfunktionen-join-flash-cards/&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAZ6BAgDEAE&usg=AOvVaw0wfTL3eAwEYZZSTFOJzCFm",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "3.5 INNER JOIN - kstbbwww.kstbb.de \u203a informatik \u203a rdb \u203a 3_5_sql_innerjoin",
+    "link": "https://www.kstbb.de/informatik/rdb/03/3_5_sql_innerjoin.html",
+    "description": "Die INNER-JOIN -Verkn\u00fcpfung verbindet jeden Datensatz aus der Tabelle Mietvertrag ... m\u00fcssen mehrere JOIN-Operationen hintereinander ausgef\u00fchrt werden.",
+    "googleLink": "http://www.google.com/url?q=https://www.kstbb.de/informatik/rdb/03/3_5_sql_innerjoin.html&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAd6BAgCEAE&usg=AOvVaw0JZ-NV1-eHBwIcN_Dm2d5h",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] L\u00d6SUNG - IFIS Uni L\u00fcbeckwww.ifis.uni-luebeck.de \u203a mvdb \u203a U2_anfrageoptimierung_Loesung",
+    "link": "https://www.ifis.uni-luebeck.de/fileadmin/user_files/lehre/ws0809/mvdb/U2_anfrageoptimierung_Loesung.pdf",
+    "description": "(Auch wenn man die Join-Operation nicht verwendet \u2013 d. h., die Joins in dem optimalen Baum durch ein kartesisches Produkt mit der anschlie\u00dfenden Selektion\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ifis.uni-luebeck.de/fileadmin/user_files/lehre/ws0809/mvdb/U2_anfrageoptimierung_Loesung.pdf&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAh6BAgGEAE&usg=AOvVaw1DbnoTEnlGwhCv48fb1g4T",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Query Optimierung - ETH Z\u00fcrichwww.ethz.ch \u203a dual \u203a informatik \u203a Leitprogramm_Query_Optimierung",
+    "link": "https://www.ethz.ch/content/dam/ethz/special-interest/dual/educeth-dam/documents/Unterrichtsmaterialien/informatik/Query%20Optimierung/Leitprogramm_Query_Optimierung.pdf",
+    "description": "die zu erwartenden Zeilen der Operation angegeben. Oracle kann vor der Ausf\u00fchrung nicht wissen, wie viele Zeilen der Hash-Join zur\u00fcckliefert. Darum werden\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ethz.ch/content/dam/ethz/special-interest/dual/educeth-dam/documents/Unterrichtsmaterialien/informatik/Query%2520Optimierung/Leitprogramm_Query_Optimierung.pdf&sa=U&ved=2ahUKEwiSkpSRue_uAhWPfMAKHTy-B2I4KBAWMAl6BAgEEAE&usg=AOvVaw0Y2m1NpTymHmRYC2qBWv9W",
+    "page": 4,
+    "index": 9
+  }
+]

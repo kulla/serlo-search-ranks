@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Bernoulli-Experimente und die Binomialverteilungwww.mathematik.de \u203a stochastik \u203a andere-verteilungen",
+    "link": "https://www.mathematik.de/algebra/86-erste-hilfe/stochastik/andere-verteilungen/1502-bernoulli-experimente-und-die-binomialverteilung",
+    "description": "Inhalt \u00bb Vorbemerkungen \u00bb Bernoulli-Experimente \u00bb Die Herleitung der Binomialverteilung \u00bb Die Formel \u00bb Beispiele \u00bb Erwartungswert und Varianz",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Bernoulli-Experiment - lernen mit Serlo!de.serlo.org \u203a mathe \u203a bernoulli-experiment",
+    "link": "https://de.serlo.org/mathe/2013/bernoulli-experiment",
+    "description": "Ein Bernoulli-Experiment ist ein Zufallsexperiment mit genau zwei m\u00f6glichen Versuchsausg\u00e4ngen (= Ergebnissen). F\u00fcr ein Bernoulli-Experiment wird eine\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Bernoulli-Experiment | MatheGurumatheguru.com \u203a Stochastik \u203a Bernoulli-Experiment",
+    "link": "https://matheguru.com/stochastik/bernoulli-experiment.html",
+    "description": "Ein Zufallsexperiment mit genau zwei m\u00f6glichen Ergebnissen (Treffer oder Niete) nennt man Bernoulli-Experiment. In der Praxis, kann ein Bernoulli-Experiment\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Bernoulli und Binomial Verteilung - StudyHelpwww.studyhelp.de \u203a Online-Lernen \u203a Mathe \u203a Stochastik",
+    "link": "https://www.studyhelp.de/online-lernen/mathe/bernoulli-verteilung/",
+    "description": "Weiter zu Was ist ein Bernoulli Experiment? \u2014 Ein Bernoulli Experiment ist ein Zufallsexperiment, bei dem man sich nur daf\u00fcr interessiert, ob ein Ereignis\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Bernoulli Experiment / Kette - auf Frustfrei-Lernen.dewww.frustfrei-lernen.de \u203a mathematik \u203a bernoulli-expe...",
+    "link": "https://www.frustfrei-lernen.de/mathematik/bernoulli-experiment-kette.html",
+    "description": "Mit dem Bernoulli-Experiment bzw. der Bernoulli-Kette befassen wir uns in diesem Artikel. Dabei erkl\u00e4ren wir euch, was ein Bernoulli Experiment bzw. eine\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Bernoulli Formel \u2022 einfach erkl\u00e4rt, Bernoulli Kette \u00b7 [mit Video]studyflix.de \u203a statistik \u203a bernoulli-formel-1789",
+    "link": "https://studyflix.de/statistik/bernoulli-formel-1789",
+    "description": "16.02.2020 \u2014 Eine Bernoulli Kette (oder Bernoulli Prozess) ist eine Reihe von stochastisch unabh\u00e4ngigen Bernoulli Experimenten. Bei einem solchen\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Bernoulli-Prozess \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Bernoulli-Prozess",
+    "link": "https://de.wikipedia.org/wiki/Bernoulli-Prozess",
+    "description": "Bei einem solchen Experiment gibt es stets nur zwei Ausg\u00e4nge, Treffer oder Niete. Zudem muss die Wahrscheinlichkeit f\u00fcr einen Treffer, p, und somit auch die f\u00fcr\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Bernoulli-Experimente - Lehrerfortbildungsserverlehrerfortbildung-bw.de \u203a modul4 \u203a 1_laengs \u203a voraus",
+    "link": "https://lehrerfortbildung-bw.de/u_matnatech/mathematik/gym/bp2004/fb2/modul4/1_laengs/voraus/bernoulli/",
+    "description": "Bernoulli-Experimente. Ein Zufallsexperiment, das nur zwei Ergebnisse hat, nennt man ein Bernoulli-Experiment Z.B.. Werfen einer M\u00fcnze: W \u2013Z; W\u00fcrfeln: 6\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Bernoulli-Versuche in Mathematik | Sch\u00fclerlexikon | Lernhelferwww.lernhelfer.de \u203a mathematik \u203a artikel \u203a bernoulli-v...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik/artikel/bernoulli-versuche",
+    "description": "Ein Zufallsexperiment mit nur zwei m\u00f6glichen Ergebnissen hei\u00dft BERNOULLI-Experiment. Artikel lesen. Daniel Bernoulli. * 08. Februar 1700 Groningen\u2020 17.",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Bernoulli-Experimente \u2014 Grundwissen Mathematikwww.grund-wissen.de \u203a mathematik \u203a stochastik \u203a bernoulli-experimente",
+    "link": "https://www.grund-wissen.de/mathematik/stochastik/bernoulli-experimente.html",
+    "description": "Bernoulli-Experimente\u00b6. Als \u201eBernoulli-Experiment (benannt nach Jakob Bernoulli) bezeichnet man ein Zufallsexperiment mit nur zwei m\u00f6glichen Ergebnissen.",
+    "googleLink": "http://www.google.com/url?q=https://www.grund-wissen.de/mathematik/stochastik/bernoulli-experimente.html&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAB6BAgDEAE&usg=AOvVaw2LlDSzTFmgjTrVSazprPnp",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Experiment, Bernoulli, W\u00fcrfel, Gl\u00fccksr\u00e4der, Urnen, Experimente ...www.mathe-seite.de \u203a oberstufe \u203a wahrscheinlichkeit-stochastik \u203a standard-...",
+    "link": "https://www.mathe-seite.de/oberstufe/wahrscheinlichkeit-stochastik/standard-experimente/",
+    "description": "Hinzu kommen noch diverse Bernoulli Experimente, also Experimente, in denen es nur zwei Ausgangsm\u00f6glichkeiten gibt und in denen die Wahrscheinlichkeit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-seite.de/oberstufe/wahrscheinlichkeit-stochastik/standard-experimente/&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAF6BAgJEAE&usg=AOvVaw23JBxXu4NSguU8pe0IGk7H",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Bernoulli-Kette - Stochastik - Abitur-Vorbereitung - Abiweb.dewww.abiweb.de \u203a mathe-stochastik \u203a binomialverteilung \u203a bernoulli-kette",
+    "link": "https://www.abiweb.de/mathe-stochastik/binomialverteilung/bernoulli-kette.html",
+    "description": "Ein Zufallsexperiment mit genau zwei Ergebnissen hei\u00dft Bernoulli-Experiment. Dabei wird das eine Ergebnis als Erfolg (Treffer) und das andere Ergebnis als\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.abiweb.de/mathe-stochastik/binomialverteilung/bernoulli-kette.html&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAJ6BAgHEAE&usg=AOvVaw2UGfUJIAOaYJGdT9IGienR",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Bernoulli-Versuche und die Binomialverteilung \u2022 Mathe-Brinkmann123mathe.de \u203a Mathematik",
+    "link": "https://123mathe.de/bernoulli-versuche-und-die-binomialverteilung",
+    "description": "08.12.2020 \u00b7 Definition Bernoulli-Experiment. Viele Zufallsexperimente k\u00f6nnen als Experimente mit zwei Ergebnissen interpretiert werden, wie z.B.. M\u00fcnzwurf\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://123mathe.de/bernoulli-versuche-und-die-binomialverteilung&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAN6BAgIEAE&usg=AOvVaw1LwNiZ-walK5JmvYLE_nlH",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Bernoulli-Experimente in Mathematik | Sch\u00fclerlexikon | Lernhelferwww.lernhelfer.de \u203a schuelerlexikon \u203a mathematik-abitur \u203a artikel \u203a berno...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/bernoulli-experimente",
+    "description": "Ein Zufallsexperiment mit nur zwei m\u00f6glichen Ergebnissen hei\u00dft BERNOULLI-\u200bExperiment. Die beiden Ergebnisse werden Erfolg bzw. Misserfolg genannt und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/bernoulli-experimente&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAR6BAgCEAE&usg=AOvVaw1-_sHcxU5BHEQlZc_GaHrL",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Bernoulli-Experiment - Wahrscheinlichkeitsrechnung einfach erkl\u00e4rt!learnattack.de \u203a Sch\u00fclerlexikon \u203a Mathematik Sch\u00fclerlexikon",
+    "link": "https://learnattack.de/schuelerlexikon/mathematik/bernoulli-experiment",
+    "description": "Der andere Ausgang hat dann die Gegenwahrscheinlichkeit 1 \u2013 p. Wird ein Bernoulli-Experiment n-mal unter identischen Bedingungen wiederholt, spricht man\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://learnattack.de/schuelerlexikon/mathematik/bernoulli-experiment&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAV6BAgFEAE&usg=AOvVaw0fV-tA5rXOzm0ICC75UVTN",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Bernoulli Experiment \u21d2 einfach und verst\u00e4ndlich erkl\u00e4rtwww.mathe-lerntipps.de \u203a bernoulli-experiment",
+    "link": "https://www.mathe-lerntipps.de/bernoulli-experiment/",
+    "description": "Ein Zufallsexperiment mit genau zwei m\u00f6glichen Ergebnissen (Treffer oder Niete\u200b) nennt man Bernoulli-Experiment. Formel des Bernoulli-Experiments. Formel des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-lerntipps.de/bernoulli-experiment/&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAZ6BAgBEAE&usg=AOvVaw2Zyp2U9uziIQSM_FTAb0Xq",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Bernoulli-Ketten und Binomialverteilung \u2014 Landesbildungsserver ...www.schule-bw.de \u203a unterrichtsmaterialien \u203a sekundarstufe1 \u203a zufall \u203a ber...",
+    "link": "https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/mathematik/unterrichtsmaterialien/sekundarstufe1/zufall/bernoulli",
+    "description": "Bei einem Bernoulli-Experiment gibt es genau zwei verschiedene Ausg\u00e4nge. (\u200bMeist spricht man von Treffer/kein Treffer oder Treffer/Niete.) Mit der Angabe der\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/mathematik/unterrichtsmaterialien/sekundarstufe1/zufall/bernoulli&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAd6BAgEEAE&usg=AOvVaw2h3XDgi7__JuO_XdEIDKj2",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Bernoulli-Experimente und Bernoulli-Ketten online lernen - Sofatutorwww.sofatutor.com \u203a mathematik \u203a mehrstufige-zufallsexperimente \u203a bern...",
+    "link": "https://www.sofatutor.com/mathematik/wahrscheinlichkeitsrechnung-und-stochastik/mehrstufige-zufallsexperimente/bernoulli-experimente-und-bernoulli-ketten",
+    "description": "Bernoulli-Experimente und Bernoulli-Ketten\u201d in Videos erkl\u00e4rt. Mathematik lernen mit Videos, \u00dcbungen & Aufgaben. Jetzt durchstarten und deine Noten\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sofatutor.com/mathematik/wahrscheinlichkeitsrechnung-und-stochastik/mehrstufige-zufallsexperimente/bernoulli-experimente-und-bernoulli-ketten&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAh6BAgGEAE&usg=AOvVaw3V-5uLmJLXlTYAiYbl16lJ",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Bernoulli-Experiment / Bernoulli-Kette | Statistik - Welt der BWLwelt-der-bwl.de \u203a Bernoulli-Experiment",
+    "link": "https://welt-der-bwl.de/Bernoulli-Experiment",
+    "description": "Bernoulli-Experiment Definition. Ein Bernoulli-Experiment ist ein Zufallsexperiment, das lediglich 2 Ergebnisse haben kann: ein positives Ergebnis (\"Erfolg\", \"Ja\",\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://welt-der-bwl.de/Bernoulli-Experiment&sa=U&ved=2ahUKEwjBtu-au-_uAhWkaRUIHe9LBRc4ChAWMAl6BAgAEAE&usg=AOvVaw3bCuVOWNX4BDrZ93piz9Ye",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Bernoulli, Experiment  www.umm.uni-heidelberg.de \u203a inst \u203a biom \u203a lexikon \u203a data",
+    "link": "https://www.umm.uni-heidelberg.de/inst/biom/lexikon/data/b019.html",
+    "description": "Bernoulli, Experiment",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.umm.uni-heidelberg.de/inst/biom/lexikon/data/b019.html&ved=2ahUKEwiwo66bu-_uAhUjpHEKHZV-BdI4FBAWMAF6BAgIEAE&usg=AOvVaw0HSMoa3celiEd-D8GE4mAd",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Bernoulli-Experiment - Wirtschaftslexikon  www.wirtschaftslexikon24.com \u203a bernoulli-experiment \u203a bernoulli-experi...",
+    "link": "http://www.wirtschaftslexikon24.com/d/bernoulli-experiment/bernoulli-experiment.htm",
+    "description": "Bernoulli-Experiment - Wirtschaftslexikon",
+    "googleLink": null,
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] 2.2 Wichtige Wahrscheinlichkeitsverteilungen Diskrete ... - TU Freiberg  tu-freiberg.de \u203a sites \u203a default \u203a files \u203a media \u203a stat \u203a diskrete_verteilungen",
+    "link": "https://tu-freiberg.de/sites/default/files/media/fakultaet-fuer-mathematik-und-informatik-fakultaet-1-9277/stat/diskrete_verteilungen.pdf",
+    "description": "[PDF] 2.2 Wichtige Wahrscheinlichkeitsverteilungen Diskrete ... - TU Freiberg",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://tu-freiberg.de/sites/default/files/media/fakultaet-fuer-mathematik-und-informatik-fakultaet-1-9277/stat/diskrete_verteilungen.pdf&ved=2ahUKEwiwo66bu-_uAhUjpHEKHZV-BdI4FBAWMAN6BAgJEAE&usg=AOvVaw0m-O88RGDmtpwqbAO1QpZY",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Wahrscheinlichkeitsrechnung - Bernoulli-Versuche ... - Mathegym  mathegym.de \u203a mathe \u203a uebung \u203a wahrscheinlichkeitsrechnung-bernoulli-...",
+    "link": "https://mathegym.de/mathe/uebung/1077/wahrscheinlichkeitsrechnung-bernoulli-versuche-binomialverteilung",
+    "description": "Wahrscheinlichkeitsrechnung - Bernoulli-Versuche ... - Mathegym",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://mathegym.de/mathe/uebung/1077/wahrscheinlichkeitsrechnung-bernoulli-versuche-binomialverteilung&ved=2ahUKEwiwo66bu-_uAhUjpHEKHZV-BdI4FBAWMAR6BAgKEAE&usg=AOvVaw0_Zb426r2DSz66Hu75cw_Y",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Grundwissen  ne.lo-net2.de \u203a n-stufige BERNOULLI-Experimente - Grundwissen",
+    "link": "http://ne.lo-net2.de/selbstlernmaterial/m/s1wk/be/n-stufige%20BERNOULLI-Experimente%20-%20Grundwissen.pdf",
+    "description": "[PDF] Grundwissen",
+    "googleLink": null,
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Bernoulli Experiment - Zufallsexperiment - www.mein-lernen.at  www.mein-lernen.at \u203a Mathematik AHS \u203a Wahrscheinlichkeit",
+    "link": "https://www.mein-lernen.at/mathematik2/wahrscheinlichkeitsrechnung/bernoulli-experiment",
+    "description": "Bernoulli Experiment - Zufallsexperiment - www.mein-lernen.at",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.mein-lernen.at/mathematik2/wahrscheinlichkeitsrechnung/bernoulli-experiment&ved=2ahUKEwiwo66bu-_uAhUjpHEKHZV-BdI4FBAWMAZ6BAgDEAE&usg=AOvVaw20BV98ojnPs9eZkM1q7bxA",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Kurs:Stochastik/Bernoulli-Experiment \u2013 Wikiversity  de.wikiversity.org \u203a wiki \u203a Kurs:Stochastik \u203a Bernoulli-Experiment",
+    "link": "https://de.wikiversity.org/wiki/Kurs:Stochastik/Bernoulli-Experiment",
+    "description": "Kurs:Stochastik/Bernoulli-Experiment \u2013 Wikiversity",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://de.wikiversity.org/wiki/Kurs:Stochastik/Bernoulli-Experiment&ved=2ahUKEwiwo66bu-_uAhUjpHEKHZV-BdI4FBAWMAd6BAgBEAE&usg=AOvVaw1xySkgzmtaJBvvCkqnjkk3",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "3.3.3 Binomialverteilte Zufallsgr\u00f6\u00dfe | mathelike  www.mathelike.de \u203a ABITUR SKRIPT \u203a 3 Stochastik \u203a 3.3 Zufallsgr\u00f6\u00dfen",
+    "link": "https://www.mathelike.de/abi-check-mathe-abi-skript-bayern/3-stochastik/3-3-zufallsgroessen/3-3-3-binomialverteilte-zufallsgroesse.html",
+    "description": "3.3.3 Binomialverteilte Zufallsgr\u00f6\u00dfe | mathelike",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.mathelike.de/abi-check-mathe-abi-skript-bayern/3-stochastik/3-3-zufallsgroessen/3-3-3-binomialverteilte-zufallsgroesse.html&ved=2ahUKEwiwo66bu-_uAhUjpHEKHZV-BdI4FBAWMAh6BAgFEAE&usg=AOvVaw2UWLKPRJ0-DGnD5Cda79NI",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Zusammenfassung: Erwartungswert, Bernoulli-Experiment und ...  esb1jockisch.lima-city.de \u203a math \u203a math13 \u203a Zusammenfassung1",
+    "link": "https://esb1jockisch.lima-city.de/math/math13/Zusammenfassung1.pdf",
+    "description": "[PDF] Zusammenfassung: Erwartungswert, Bernoulli-Experiment und ...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://esb1jockisch.lima-city.de/math/math13/Zusammenfassung1.pdf&ved=2ahUKEwiwo66bu-_uAhUjpHEKHZV-BdI4FBAWMAl6BAgEEAE&usg=AOvVaw11GyT_XIgCk4cCVJQ4FecV",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Zusammenfassung: Erwartungswert, Bernoulli-Experiment und ...esb1jockisch.lima-city.de \u203a math \u203a math13 \u203a Zusammenfassung1",
+    "link": "https://esb1jockisch.lima-city.de/math/math13/Zusammenfassung1.pdf",
+    "description": "Zusammenfassung: Erwartungswert, Bernoulli-Experiment und. Binomialverteilung. Wahrscheinlichkeitsverteilung. Wird beim werfen mit zwei W\u00fcrfeln jedem\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://esb1jockisch.lima-city.de/math/math13/Zusammenfassung1.pdf&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAB6BAgCEAE&usg=AOvVaw1WZBmMSfhCuvrHPVFpS37c",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Bernoulliexperiment - meinUnterrichtwww.meinunterricht.de \u203a Arbeitsbl\u00e4tter \u203a Mathematik",
+    "link": "https://www.meinunterricht.de/arbeitsblaetter/mathematik/bernoulliexperiment/",
+    "description": "Mathematik-Unterrichtsmaterial zum Thema \"Bernoulliexperiment\". Jetzt 5 Arbeitsbl\u00e4tter kostenlos herunterladen und ausprobieren.",
+    "googleLink": "http://www.google.com/url?q=https://www.meinunterricht.de/arbeitsblaetter/mathematik/bernoulliexperiment/&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAF6BAgJEAE&usg=AOvVaw0ertP3VaNg60RSeKadqgZK",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Bernoulli-Experimente - Bernoulli-Formel - \u00dcbungsaufgabenwww.unterricht.de \u203a Aufgaben \u203a Bernoulli-Experimente",
+    "link": "https://www.unterricht.de/Aufgaben/Bernoulli-Experimente",
+    "description": "BERNOULLI-EXPERIMENTE. kostenloser Kurs. Dieser Kurs beinhaltet Aufgaben zu: Berechnen von Wahrscheinlichkeiten in Bernoulli-Experimenten unter\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.unterricht.de/Aufgaben/Bernoulli-Experimente&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAJ6BAgHEAE&usg=AOvVaw0-6sPK2g2RbrLQsYhZNx1h",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Bernoulli-Experiment - Zufallsexperiment in Mathe - was ist wichtig?www.oberprima.com \u203a ... \u203a Wahrscheinlichkeitsrechnung",
+    "link": "https://www.oberprima.com/bernoulli-experiment-bernoulli-kette/",
+    "description": "09.11.2018 \u00b7 Was du \u00fcber das Bernoulli-Experiment wissen solltest, findest du hier - inkl. Lernvideos! Schau dir unsere Lernvideos zum\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oberprima.com/bernoulli-experiment-bernoulli-kette/&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAN6BAgIEAE&usg=AOvVaw1zcp8sPNR_BOQFUuDuKo-3",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Stochastik Bernoulli- Experiment | Matheloungewww.mathelounge.de \u203a stochastik-bernoulli-experiment",
+    "link": "https://www.mathelounge.de/704534/stochastik-bernoulli-experiment",
+    "description": "K\u00f6nntest du die vollst\u00e4ndige Frage wortgetreu wiedergeben? Ich wei\u00df wie schwer das ist, es w\u00fcrde aber das Beantworten sehr vereinfachen.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/704534/stochastik-bernoulli-experiment&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAR6BAgDEAE&usg=AOvVaw0rPbmFGCJeQnKe-jQA-z1d",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "BERNOULLI EXPERIMENT - Deutsch-\u00dcbersetzung - bab.la ...de.bab.la \u203a woerterbuch \u203a englisch-deutsch \u203a bernoulli-experiment",
+    "link": "https://de.bab.la/woerterbuch/englisch-deutsch/bernoulli-experiment",
+    "description": "\u00dcbersetzung f\u00fcr 'Bernoulli experiment' im kostenlosen Englisch-Deutsch W\u00f6rterbuch und viele weitere Deutsch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://de.bab.la/woerterbuch/englisch-deutsch/bernoulli-experiment&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAV6BAgFEAE&usg=AOvVaw1zEeA1FjAV62etzMrG1ZYc",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Binomialverteilung - Mathematik macht Freu(n)demathematikmachtfreunde.univie.ac.at \u203a user_upload \u203a Materialien \u203a A...",
+    "link": "https://mathematikmachtfreunde.univie.ac.at/fileadmin/user_upload/p_mathematikmachtfreunde/Materialien/AB-Binomialverteilung.pdf",
+    "description": "Ein Zufallsexperiment mit genau 2 m\u00f6glichen Ergebnissen hei\u00dft Bernoulli-\u200bExperiment. a) Ein Wurf mit einer fairen M\u00fcnze ist ein Bernoulli-Experiment mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathematikmachtfreunde.univie.ac.at/fileadmin/user_upload/p_mathematikmachtfreunde/Materialien/AB-Binomialverteilung.pdf&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAZ6BAgGEAE&usg=AOvVaw2r-6XVJJC9xTwm31ZUIhOC",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Bernoulli-Experimente und Bernoulli-Ketten - Markus Peitzwww.markus-peitz.de \u203a agentur \u203a download \u203a bernoulliketten",
+    "link": "https://www.markus-peitz.de/agentur/download/bernoulliketten.pdf",
+    "description": "Ein mehrstufiges Zufallsexperiment, das aus n identischen Bernoulli-. Experimenten mit der Trefferwahrscheinlichkeit p, die sich also nicht \u00e4ndern darf, besteht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.markus-peitz.de/agentur/download/bernoulliketten.pdf&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAd6BAgBEAE&usg=AOvVaw07e40SNJEkA9MgGYpk4SF4",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Wahrscheinlichkeitsverteilungenstormarnschule.net \u203a fach \u203a mathe \u203a Wahrscheinlichkeitsverteilungen1",
+    "link": "http://stormarnschule.net/archiv/fach/mathe/Wahrscheinlichkeitsverteilungen1.pdf",
+    "description": "1.2 Urnenmodell \u201cZiehen mit Zur\u00fccklegen\u201d , Formel von Bernoulli. Bernoulli-\u200bExperimente sind Zufallsexperimente, die nur zwei verschiedene Ergebnisse haben.",
+    "googleLink": "http://www.google.com/url?q=http://stormarnschule.net/archiv/fach/mathe/Wahrscheinlichkeitsverteilungen1.pdf&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAh6BAgEEAE&usg=AOvVaw0pCSdQVnbQQ85UXb8R1oer",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 6. Binomialverteilung ...schule.bayernport.com \u203a Abiturvorbereitung \u203a Stochastik",
+    "link": "https://schule.bayernport.com/Abiturvorbereitung/Stochastik/st_06.pdf",
+    "description": "dann bezeichnet man das Experiment als Bernoulli-Experiment. ... Die n-malige Ausf\u00fchrung eines Bernoulli-Experiments hei\u00dft Bernoullikette der L\u00e4nge n,.",
+    "googleLink": "http://www.google.com/url?q=https://schule.bayernport.com/Abiturvorbereitung/Stochastik/st_06.pdf&sa=U&ved=2ahUKEwijuc2bu-_uAhXCTBUIHV8qB-E4HhAWMAl6BAgAEAE&usg=AOvVaw3-ZOSGPShOfDjVeGG844qw",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "SWR Warum? Fliegen 4 / 3 - Planet Schulewww.planet-schule.de \u203a warum \u203a fliegen \u203a themenseiten",
+    "link": "https://www.planet-schule.de/warum/fliegen/themenseiten/t4/s3.html",
+    "description": "Der Schweizer Physiker Daniel Bernoulli (1700-1782) wird f\u00fcr die zweite ... Der Bernoulli-Effekt l\u00e4sst sich in einem einfachen Experiment leicht nachweisen.",
+    "googleLink": "http://www.google.com/url?q=https://www.planet-schule.de/warum/fliegen/themenseiten/t4/s3.html&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAB6BAgFEAE&usg=AOvVaw3rk7dwETpdmvVFt67-HuhE",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Bernoullikette und Binomialverteilung - Mathe-Online.atwww.mathe-online.at \u203a files \u203a Wahrscheinlichkeitsverteilungen \u203a Bern...",
+    "link": "http://www.mathe-online.at/materialien/Johann.Weilharter/files/4._Lernjahr_(5HAK)/Wahrscheinlichkeitsverteilungen/Bernoullikette_und_Binomialverteilung.pdf",
+    "description": "Ein Bernoulli-Experiment ist ein Zufallsexperiment, bei dem nur zwei ... Das hei\u00dft, ein M\u00fcnzwurf kann als Bernoulliexperiment betrachtet werden, da es ohne-.",
+    "googleLink": "http://www.google.com/url?q=http://www.mathe-online.at/materialien/Johann.Weilharter/files/4._Lernjahr_(5HAK)/Wahrscheinlichkeitsverteilungen/Bernoullikette_und_Binomialverteilung.pdf&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAF6BAgJEAE&usg=AOvVaw2iDPxLQ3ysDIOO9Zh-542M",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Balkendiagramm Bernoulli Experiment 2 \u2013 GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/ZhJNf5dG",
+    "description": "Balkendiagramm Bernoulli Experiment 2. Autor: Buchmacher. Thema: Balkendiagramm oder S\u00e4ulendiagramm, Binomialverteilung. GeoGebra Applet Dr\u00fccke\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/ZhJNf5dG&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAJ6BAgIEAE&usg=AOvVaw1_B0_oup4C0Jh_qRkfbAyU",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Bernoulli Experiment - Deutsch-Franz\u00f6sisch \u00dcbersetzung | PONSde.pons.com \u203a PONS W\u00f6rterbuch \u203a Deutsch \u00bb Franz\u00f6sisch",
+    "link": "https://de.pons.com/%C3%BCbersetzung/deutsch-franz%C3%B6sisch/Bernoulli+Experiment",
+    "description": "\u00dcbersetzungen f\u00fcr \u201eBernoulli Experiment\u201c im Deutsch \u00bb Franz\u00f6sisch-W\u00f6rterbuch (Springe zu Franz\u00f6sisch \u00bb Deutsch). Experiment <-[e]s, -e> [\u025bks\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.pons.com/%25C3%25BCbersetzung/deutsch-franz%25C3%25B6sisch/Bernoulli%2BExperiment&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAN6BAgHEAE&usg=AOvVaw0HrtvC-kj7WmkCwwqoowan",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Material Suche - Schulentwicklung NRWwww.schulentwicklung.nrw.de \u203a materialdatenbank \u203a material",
+    "link": "https://www.schulentwicklung.nrw.de/materialdatenbank/material/index?ft_1%5B%5D=1391",
+    "description": "Eintr\u00e4gen 1 - 21 von 21 \u00b7 Die Wahrscheinlichkeit von Bernoulli-Ketten wird in einer anwendungsbezogenen Aufgabe berechnet. Zudem bietet ein Aufgabenteil\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.schulentwicklung.nrw.de/materialdatenbank/material/index%3Fft_1%255B%255D%3D1391&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAR6BAgCEAE&usg=AOvVaw1dUnPkP3JdLwmF9bSMsb00",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Schwebender Ball | Experiment zum Bernoulli-Effekt, Bernoulli-Prinzipwww.experimentis.de \u203a experimente-versuche \u203a gas-wasser-luft \u203a ball-luftst...",
+    "link": "https://www.experimentis.de/experimente-versuche/gas-wasser-luft/ball-luftstrom-bernoulli-effekt/",
+    "description": "Einfaches Experiment zum Bernoulli-Effekt, das zeigt, warum Regenschirme bei Sturm manchmal nach oben klappen und warum St\u00fcrme sogar H\u00e4user\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.experimentis.de/experimente-versuche/gas-wasser-luft/ball-luftstrom-bernoulli-effekt/&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAV6BAgBEAE&usg=AOvVaw1gCn6BP6PfI5juSWfpob7O",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Wahrscheinlichkeits- rechnung - C.C. Buchnerwww.ccbuchner.de \u203a _files_media \u203a mediathek \u203a downloads",
+    "link": "https://www.ccbuchner.de/_files_media/mediathek/downloads/4502.pdf",
+    "description": "3.4 Bernoulli-Experimente. Aus der abgebildeten Urne werden nacheinander vier Kugeln mit Zur\u00fccklegen gezogen. Das Ziehen einer gelben Kugel wird als\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ccbuchner.de/_files_media/mediathek/downloads/4502.pdf&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAZ6BAgAEAE&usg=AOvVaw27MBwE_UEHvtQeZVgOG6Yf",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Bernoulli-Experimente - MatheNexusmathenexus.zum.de \u203a stochastik \u203a S430Bernoulli-Ketten",
+    "link": "http://mathenexus.zum.de/formelsammlungen/stochastik/S430Bernoulli-Ketten.htm",
+    "description": "29.03.2005 \u00b7 Ein Bernoulli-Experiment ist einZufallsexperiment, bei dem nur zwei Elementarereignisse m\u00f6glich sind, sich der Ergebnisraum also in der Form",
+    "googleLink": "http://www.google.com/url?q=http://mathenexus.zum.de/formelsammlungen/stochastik/S430Bernoulli-Ketten.htm&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAd6BAgEEAE&usg=AOvVaw0et42FxHs3iI5N36h-r_nE",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Bernoulli-Experiment \u2014 Aufgabe. Mathematik Zentralmatura, AHS ...www.yaclass.at \u203a ... \u203a Wahrscheinlichkeitsrechnung und Statistik",
+    "link": "https://www.yaclass.at/p/mathematik-zentralmatura/ahs-maturavorbereitung-2020/beispiele-typ-1-19084/wahrscheinlichkeitsrechnung-und-statistik-19099/re-f71ef328-70d8-4a46-9faa-dd3034416c5a",
+    "description": "Beim Realisieren eines Bernoulli-Experiments tritt Erfolg mit der Wahrscheinlichkeit q mit 0< q<1 ein. Die Werte der binomialverteilten Zufallsvariablen Y\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.yaclass.at/p/mathematik-zentralmatura/ahs-maturavorbereitung-2020/beispiele-typ-1-19084/wahrscheinlichkeitsrechnung-und-statistik-19099/re-f71ef328-70d8-4a46-9faa-dd3034416c5a&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAh6BAgGEAE&usg=AOvVaw36rCBJkUOXRkMq-GNzjkg7",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Bernoulli Experiment - [ Deutscher Bildungsserver ]www.bildungsserver.de \u203a Suche \u203a Onlineressourcen",
+    "link": "https://www.bildungsserver.de/onlineressource.html?onlineressourcen_id=56180",
+    "description": "11.09.2014 \u00b7 Ein Bernoulli-Experiment ist ein Zufallsexperiment mit genau zwei m\u00f6glichen Versuchsausg\u00e4ngen. F\u00fcr ein Bernoulli-Experiment wird eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.bildungsserver.de/onlineressource.html%3Fonlineressourcen_id%3D56180&sa=U&ved=2ahUKEwieu_ubu-_uAhX0uXEKHc35DmQ4KBAWMAl6BAgDEAE&usg=AOvVaw2jSnsyGxMkqAXTi3JqxtGn",
+    "page": 4,
+    "index": 9
+  }
+]

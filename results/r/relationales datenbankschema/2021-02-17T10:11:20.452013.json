@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Relationales Datenbankmodell im \u00dcberblick | Datenbankmodellewww.datenbanken-verstehen.de \u203a ... \u203a Datenbankmodell",
+    "link": "https://www.datenbanken-verstehen.de/datenbank-grundlagen/datenbankmodell/relationales-datenbankmodell/",
+    "description": "Bewertung  3,7  (205)",
+    "googleLink": "http://www.google.com/url?q=https://www.datenbanken-verstehen.de/datenbank-grundlagen/datenbankmodell/relationales-datenbankmodell/&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQFjAAegQIBRAB&usg=AOvVaw3WoodcZuiI54oSJSUWK7dJ",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Relationale Datenbank \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Relationale_Datenbank",
+    "link": "https://de.wikipedia.org/wiki/Relationale_Datenbank",
+    "description": "Eine relationale Datenbank ist eine digitale Datenbank, die zur elektronischen Datenverwaltung in Computersystemen dient und auf einem tabellenbasierten\u00a0...\nAbgrenzung \u00b7 Theorie der relationalen ... \u00b7 Datenbankschema und ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Relationale_Datenbank&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQFjABegQIDBAB&usg=AOvVaw0-lHmuqgjPYMR08KN16BSN",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Umsetzung in ein relationales Schemawww-lehre.informatik.uni-osnabrueck.de \u203a ~dbs \u203a skript \u203a node41",
+    "link": "http://www-lehre.informatik.uni-osnabrueck.de/~dbs/2001/skript/node41.html",
+    "description": "Umsetzung in ein relationales Schema. Konzeptuelles Schema der Universit\u00e4t. Das ER-Modell besitzt zwei grundlegende Strukturierungskonzepte: Entity-\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www-lehre.informatik.uni-osnabrueck.de/~dbs/2001/skript/node41.html&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQFjAPegQICRAB&usg=AOvVaw0VyWHNXOWFAe3I__GHNkSS",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Vom ERM zum relationalen Modell - von Tino Hempelwww.tinohempel.de \u203a info \u203a info \u203a datenbank",
+    "link": "https://www.tinohempel.de/info/info/datenbank/erm2codd.htm",
+    "description": "Transformation des ERM in das relationale Datenbankmodell. Grundregeln. Entit\u00e4tstypen: Jeder Entit\u00e4tstyp wird in ein eigenes Relationsschema (Tabelle)\u00a0...\n\n1:n: der Prim\u00e4rschl\u00fcssel des zweiten Entit\u00e4tstyps (also der \"n-Entit\u00e4t\")\nN:m: beide Prim\u00e4rschl\u00fcssel der beteiligten Entit\u00e4tstypen\nTyp: Schl\u00fcssel",
+    "googleLink": "http://www.google.com/url?q=https://www.tinohempel.de/info/info/datenbank/erm2codd.htm&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQFjAQegQIBxAB&usg=AOvVaw0dDUJUi6eE2C3BE-E5yroF",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Grundkurs Datenbanken: SQL und das relationale Datenbankmodellentwickler.de \u203a Online \u203a Datenbanken",
+    "link": "https://entwickler.de/online/datenbanken/datenbanken-grundlagen-und-entwurf-115676.html",
+    "description": "23.08.2018 \u00b7 Stichworte sind: relationale Datenbank, Normalisierung, ER-Modell und ... Teil 1: Theorie des Datenbankentwurfs: relationales Datenmodell,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://entwickler.de/online/datenbanken/datenbanken-grundlagen-und-entwurf-115676.html&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQFjAZegQIARAB&usg=AOvVaw1INsZFvhZGgZtmj_csTEjs",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Grundlagen des relationalen Datenbankdesigns \u2013 kompakt und klarentwickler.de \u203a Online \u203a PHP",
+    "link": "https://entwickler.de/online/php/grundlagen-relationales-datenbankdesign-579906947.html",
+    "description": "18.09.2019 \u00b7 Eine Tabelle bezeichnet man auch als Relation, daher der Name relationales Datenbanksystem. Eine relationale Datenbank enth\u00e4lt mindestens\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://entwickler.de/online/php/grundlagen-relationales-datenbankdesign-579906947.html&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQFjAaegQIDRAB&usg=AOvVaw07cJokgtGijyc_CmRxFw9t",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Was ist ein Relationales Datenbankmodell? - einfach erkl\u00e4rt ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=oFcAQqKucL0",
+    "description": "23.05.2020 \u00b7 Das Relationale Datenbankmodell ist ein wichtiges Thema, wenn es um Datenbanken ...Dauer: 5:23\nGepostet: 23.05.2020",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DoFcAQqKucL0&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQtwIwG3oECAAQAQ&usg=AOvVaw2-iFGe4Li94hPZbqPpPbI0",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Relationale Datenbanken | Das Datenmodell im \u00dcberblick - IONOSwww.ionos.de \u203a ... \u203a Hosting \u203a Hosting-Technik \u203a Relationale Datenbanken",
+    "link": "https://www.ionos.de/digitalguide/hosting/hosting-technik/relationale-datenbanken/",
+    "description": "Bis heute wird die elektronische Datenverwaltung vom relationalen Datenbankmodell dominiert. Zu den meistgenutzten relationalen Datenbank-\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ionos.de/digitalguide/hosting/hosting-technik/relationale-datenbanken/&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQFjAgegQICBAB&usg=AOvVaw1h8QAHNfStSaYM3lLI2SS0",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Abbilden eines ER-Schemas auf ein relationales Datenbankschemawww.gitta.info \u203a LogicModelin \u203a html \u203a unit_RelDBDesign",
+    "link": "http://www.gitta.info/LogicModelin/de/html/unit_RelDBDesign.html",
+    "description": "Um ein Entity-Relationship-Modell in ein relationales Datenbankschema umzuwandeln, m\u00fcssen alle 8 Abbildungsregeln abgearbeitet werden. Jede Regel wird\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.gitta.info/LogicModelin/de/html/unit_RelDBDesign.html&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQFjAhegQIBhAB&usg=AOvVaw1ax3T5y5SXbOhob6tICcuj",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Was ist eine relationale Datenbank? | Oracle Deutschlandwww.oracle.com \u203a Oracle Deutschland \u203a Database",
+    "link": "https://www.oracle.com/de/database/what-is-a-relational-database/",
+    "description": "In einer relationalen Datenbank ist jede Zeile in der Tabelle ein Datensatz mit einer eindeutigen ID, die als Schl\u00fcssel bezeichnet wird. Die Spalten der Tabelle\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oracle.com/de/database/what-is-a-relational-database/&sa=U&ved=2ahUKEwjF1MHPyfDuAhVOnlkKHUC3DqgQFjAiegQIChAB&usg=AOvVaw101Y-dg75XH9AELpKP44UN",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Was ist eine relationale Datenbank? - BigData-Insiderwww.bigdata-insider.de \u203a was-ist-eine-relationale-datenbank-a-643028",
+    "link": "https://www.bigdata-insider.de/was-ist-eine-relationale-datenbank-a-643028/",
+    "description": "13.09.2017 \u00b7 Als Basis relationaler Datenbankmodelle dienen neben der relationalen Algebra die Elemente Tabellen, Attribute und Beziehungen. Relationale\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.bigdata-insider.de/was-ist-eine-relationale-datenbank-a-643028/&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAB6BAgEEAE&usg=AOvVaw3Ep6Olwr3NYNOcxHxoOIxt",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "relationales Datenbankschema - lernen mit Serlo!de.serlo.org \u203a ...",
+    "link": "https://de.serlo.org/160123",
+    "description": "Das relationelle Datenbankschema kann aus dem objektorientierten Datenmodell gewonnen werden und gibt die Datenstruktur mithilfe von Relationen \u2026",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/160123&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAF6BAgFEAE&usg=AOvVaw1TfkVKGIN9cUntqzlcrkHA",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Relationale Datenbanken - einfach erkl\u00e4rt f\u00fcr dein Studium! \u00b7 [mit ...studyflix.de \u203a informatik \u203a relationale-datenbanken-600",
+    "link": "https://studyflix.de/informatik/relationale-datenbanken-600",
+    "description": "29.11.2018 \u00b7 Am meisten verwendet wird das relationale Datenmodell. Laut diesem Modell besteht jede Datenbank aus einer Menge von Tabellen.",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/informatik/relationale-datenbanken-600&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAJ6BAgJEAE&usg=AOvVaw0LQXy9i7UJWXfRveBDRjGZ",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Planen einer relationalen Datenbank - FileMaker Profmhelp.filemaker.com \u203a help \u203a fmp \u203a FMP_Help \u203a planning-databases",
+    "link": "https://fmhelp.filemaker.com/help/16/fmp/de/FMP_Help/planning-databases.html",
+    "description": "So planen Sie eine relationale Datenbank: 1. Bestimmen Sie die Kategorien der Informationen, die Ihre relationale Datenbank ben\u00f6tigt. Diese Kategorien werden\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://fmhelp.filemaker.com/help/16/fmp/de/FMP_Help/planning-databases.html&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAN6BAgIEAE&usg=AOvVaw3Z_8UPwtTKwwHOb0Fahuyc",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Was ist Relationale Datenbank? - Definition von WhatIs.comwww.computerweekly.com \u203a definition \u203a Relationale-Datenbank",
+    "link": "https://www.computerweekly.com/de/definition/Relationale-Datenbank",
+    "description": "Eine relationale Datenbank ist eine Sammlung von Datenelementen, die als ein Satz formal beschriebener Tabellen organisiert sind. Die Daten lassen sich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.computerweekly.com/de/definition/Relationale-Datenbank&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAR6BAgHEAE&usg=AOvVaw2fGKh3r7bZCWLH13GwTbsQ",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Teil 4: Das relationale Modellusers.informatik.uni-halle.de \u203a ~brass \u203a d4_relmo",
+    "link": "http://users.informatik.uni-halle.de/~brass/db05/d4_relmo.pdf",
+    "description": "Lipeck: Skript zur Vorlesung Datenbanksysteme, Univ. Hannover, 1996. \u2022 Codd: A relational model of data for large shared data banks. Communications of the.",
+    "googleLink": "http://www.google.com/url?q=http://users.informatik.uni-halle.de/~brass/db05/d4_relmo.pdf&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAV6BAgAEAE&usg=AOvVaw3oR2BriYZJPhVXQGnz8DDY",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Entwurf von Datenbanken \u00bb Vom ER- zum Relationalen ... - inf-schulewww.inf-schule.de \u203a datenbanksysteme \u203a ermodelle \u203a datenmodell",
+    "link": "https://www.inf-schule.de/information/datenbanksysteme/ermodelle/datenmodell",
+    "description": "Das kann im relationalen Modell nicht gehen (vgl. das Kapitel Beziehungstabellen in terra- oder gbuch-Datenbank). Daher wird f\u00fcr jede n:m-\u200bBeziehung eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/information/datenbanksysteme/ermodelle/datenmodell&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAZ6BAgCEAE&usg=AOvVaw3Y61VdzMw-wDpbw81BXRPO",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Datenbankmodellierungwww.breitenfellner.info \u203a klassenbereich \u203a downloak \u203a damo",
+    "link": "http://www.breitenfellner.info/klassenbereich/downloak/damo.pdf",
+    "description": "Zur Datenbankmodellierung wenden wir das Entity-Relationship-Modell an, das wir im Rahmen der relationalen Aufl\u00f6sung in eine Datenbank umwandeln. Mittels\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.breitenfellner.info/klassenbereich/downloak/damo.pdf&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAd6BAgGEAE&usg=AOvVaw0mKuT39tnO-Y4aPcH_51EY",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "5. Migrationswege f\u00fcr relationale Datenbankenlink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-09740-3_5.pdf",
+    "description": "Relationale Datenbanksysteme werden vermehrt f\u00fcr dispositive ... Um ein Entit\u00e4ten-Beziehungsmodell in ein relationales Datenbankschema \u00fcberf\u00fchren und.",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-3-662-09740-3_5.pdf&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAh6BAgDEAE&usg=AOvVaw1Nc5E60aGatBqYErq-Bpd_",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Das relationale Modell - VO Datenmodellierung - DBAIwww.dbai.tuwien.ac.at \u203a education \u203a Folien \u203a relationenmodell",
+    "link": "https://www.dbai.tuwien.ac.at/education/dm/Folien/relationenmodell.pdf",
+    "description": "3 Umsetzung des konzeptuellen in logisches (relationales) Schema. \u2022 Entitytypen\u200b, Beziehungstypen. \u2022 Funktionalit\u00e4t, Generalisierung, schwache Entities. 4 Date\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dbai.tuwien.ac.at/education/dm/Folien/relationenmodell.pdf&sa=U&ved=2ahUKEwjf1PnPyfDuAhXFmVkKHQ_1ARY4ChAWMAl6BAgBEAE&usg=AOvVaw0OnggpfmOI-EDrJZaeMLFb",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Relationales Datenmodell - Abteilung Datenbanken Leipzigdbs.uni-leipzig.de \u203a file \u203a kap3-ws0708",
+    "link": "https://dbs.uni-leipzig.de/file/kap3-ws0708.pdf",
+    "description": "Relationale Invarianten, insbesondere Vorkehrungen zur Wahrung der referentiellen Integrit\u00e4t. \u25ab Abbildung von ER/UML-Diagrammen in Relationenschema (\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dbs.uni-leipzig.de/file/kap3-ws0708.pdf&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAB6BAgBEAE&usg=AOvVaw1g4Je5TPypgn2SUOkBI517",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] \u201e\u00dcberf\u00fchrung eines ER-Diagramms in ein relationales Schema\u201cwww.informatik.uni-heidelberg.de \u203a images \u203a fachdidaktik \u203a Unterric...",
+    "link": "https://www.informatik.uni-heidelberg.de/images/fachdidaktik/Unterrichtsentwurf_Sebastian_Huber.pdf",
+    "description": "09.01.2012 \u00b7 Grundlagen eines relationalen Datenbank- systems1. Dauer ... Diagramm sukzessiv in ein relationales Schema \u00fcberf\u00fchren. Das behandelte\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.informatik.uni-heidelberg.de/images/fachdidaktik/Unterrichtsentwurf_Sebastian_Huber.pdf&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAF6BAgIEAE&usg=AOvVaw2N7SDsu-eY74Hr0BVTHP4C",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Relationales Modell | simonknott.desimonknott.de \u203a articles \u203a Relationales-Modell",
+    "link": "https://simonknott.de/articles/Relationales-Modell.html",
+    "description": "15.04.2018 \u00b7 Mithilfe des relationalen Modells l\u00e4sst sich ein ER-Modell in ein Datenbank-\u200bSchema \u00fcberf\u00fchren. Bei\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://simonknott.de/articles/Relationales-Modell.html&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAJ6BAgHEAE&usg=AOvVaw0Qf8dRdEzR2Ka284Gwss49",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Relationaler Datenbankentwurfhpi.de \u203a naumann \u203a folien \u203a DBS_I \u203a DBS1_03_RelationalerEntwurf",
+    "link": "https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/folien/SS11/DBS_I/DBS1_03_RelationalerEntwurf.pdf",
+    "description": "18.04.2011 \u00b7 Datenbankschema. \u25a1 Besteht aus einem oder mehreren Relationenschemata. \u25a1 Relationenschema. \u25a1 Weitere Eintr\u00e4ge in der Tabelle: Die \u201e\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/folien/SS11/DBS_I/DBS1_03_RelationalerEntwurf.pdf&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAN6BAgJEAE&usg=AOvVaw1R9Qyg_ZeHlO9sHuoYP6pD",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "1.2 Entwurf - kstbbwww.kstbb.de \u203a informatik \u203a rdb \u203a 1_2_Entwurf",
+    "link": "https://www.kstbb.de/informatik/rdb/01/1_2_Entwurf.html",
+    "description": "In einer relationalen Datenbank werden die Daten in Form von Tabellen gespeichert. Jede Relation definiert eine Datenbanktabelle. Die Attribute der Relation\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.kstbb.de/informatik/rdb/01/1_2_Entwurf.html&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAR6BAgCEAE&usg=AOvVaw3RohE506eq6CJr14yJ8N8i",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Relationale Datenbanken - Kapitel 6 - HdM Stuttgartwww.hdm-stuttgart.de \u203a ~riekert \u203a lehre \u203a db-kelz \u203a chap6",
+    "link": "https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap6.htm",
+    "description": "Viele moderne Datenbanksysteme werden von ihren Herstellern als relational bezeichnet. Welchen Kriterien eine der Definition entsprechende relationale\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap6.htm&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAV6BAgEEAE&usg=AOvVaw0l2zMw2Dwcn3w3nn1iD19G",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Relationales Datenbankmodell - deacademic.comdeacademic.com \u203a dic.nsf \u203a dewiki",
+    "link": "https://deacademic.com/dic.nsf/dewiki/1172300",
+    "description": "Eine relationale Datenbank dient zur elektronischen Datenverwaltung in Computersystemen und beruht auf dem relationalen Datenbankmodell. Dieses wurde\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://deacademic.com/dic.nsf/dewiki/1172300&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAZ6BAgFEAE&usg=AOvVaw0yAq4wqO6VQvnRwGSzeobG",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Datenbanken: Relationales Datenbankmodell RDM - PDF ...docplayer.org \u203a 9394049-Datenbanken-relationales-datenbankmodell-rdm",
+    "link": "https://docplayer.org/9394049-Datenbanken-relationales-datenbankmodell-rdm.html",
+    "description": "1 Das RDM wurde in den 70'er Jahren von Codd entwickelt und ist seit Mitte der 80'er Jahre definierter Standard f\u00fcr Datenbanksysteme! Der Name kommt vom\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/9394049-Datenbanken-relationales-datenbankmodell-rdm.html&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAd6BAgGEAE&usg=AOvVaw2Vtso2cASEssMz78DVGouY",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Relationale Datenbanken I - IfIS - Technische Universit\u00e4t ...www.ifis.cs.tu-bs.de \u203a sites \u203a default \u203a files \u203a Relationale_Datenbanke...",
+    "link": "http://www.ifis.cs.tu-bs.de/sites/default/files/Relationale_Datenbanken_I%20(2).pdf",
+    "description": "28.03.2019 \u00b7 die eine Vorlesung mit dem Titel 'Relationale Datenbanken 1' ... Gegeben sei folgendes relationales Schema einer Datenbank \u00fcber wissen-.",
+    "googleLink": "http://www.google.com/url?q=http://www.ifis.cs.tu-bs.de/sites/default/files/Relationale_Datenbanken_I%2520(2).pdf&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAh6BAgAEAE&usg=AOvVaw2FKHju_KiXUP9hFrMsOJVw",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Relationale Datenbankverwaltungssysteme: Kennen Sie die ...www.astera.com \u203a type \u203a blog \u203a relational-database-management-system",
+    "link": "https://www.astera.com/de/type/blog/relational-database-management-system/",
+    "description": "11.01.2021 \u00b7 Erfahren Sie mehr \u00fcber relationale Datenbankverwaltungsl\u00f6sungen im Detail. Relationales Datenbank Management System. Was ist ein\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.astera.com/de/type/blog/relational-database-management-system/&sa=U&ved=2ahUKEwj1_Z_QyfDuAhUPlFkKHVMUD_44FBAWMAl6BAgDEAE&usg=AOvVaw1aJldO5NhLsdW0qHHM0oEp",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Datenbank/Datenbankentwurf \u2013 ZUM-Wikiwiki.zum.de \u203a wiki \u203a Datenbank \u203a Datenbankentwurf",
+    "link": "https://wiki.zum.de/wiki/Datenbank/Datenbankentwurf",
+    "description": "Vom Klassendiagramm zum relationalen Datenbankschema. 1.",
+    "googleLink": "http://www.google.com/url?q=https://wiki.zum.de/wiki/Datenbank/Datenbankentwurf&sa=U&ved=2ahUKEwjVvcjQyfDuAhXnwVkKHUf3CJk4HhAWMAB6BAgCEAE&usg=AOvVaw0s8-jCGQp1aSwSosR7GbXb",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Das Relationale Modelldb.in.tum.de \u203a teaching \u203a grundlagen \u203a kapitel03",
+    "link": "https://db.in.tum.de/teaching/ws1415/grundlagen/kapitel03.pdf?lang=de",
+    "description": "Eine relationale Datenbank enth\u00e4lt eine Menge von Relationen. \u2022 Eine Relation R ... Einem Schema R: spezifiziert den Namen der Relation und die Namen.",
+    "googleLink": "http://www.google.com/url?q=https://db.in.tum.de/teaching/ws1415/grundlagen/kapitel03.pdf%3Flang%3Dde&sa=U&ved=2ahUKEwjVvcjQyfDuAhXnwVkKHUf3CJk4HhAWMAJ6BAgHEAE&usg=AOvVaw09psGdR5dTAiBlODDW0SkT",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Relationale Datenbanksysteme im Vergleich: Eine Zwischenbilanzwww.gesis.org \u203a publikationen \u203a gesis_reihen \u203a iz_arbeitsberichte",
+    "link": "https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/iz_arbeitsberichte/ab5.pdf",
+    "description": "1.4 Anforderungen an ein relationales Datenbanksystem im IZ. 9 ... Ziel (und Auftrag) der Studie ist es, die g\u00e4ngigsten relationalen Datenbank- systeme f\u00fcr\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/iz_arbeitsberichte/ab5.pdf&sa=U&ved=2ahUKEwjVvcjQyfDuAhXnwVkKHUf3CJk4HhAWMAN6BAgIEAE&usg=AOvVaw3x4YM58Ej3kle8le9XO6pL",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Relationale Datenbanken - TU Dortmundwww-ai.cs.tu-dortmund.de \u203a LEHRE \u203a KDD \u203a 03_Datenbanken1",
+    "link": "https://www-ai.cs.tu-dortmund.de/LEHRE/VORLESUNGEN/KDD/SS08/03_Datenbanken1.pdf",
+    "description": "Definieren Sie: Datenbank, Schema, Relation, Tupel! \u25ab Und was ist eine funktionale Abh\u00e4ngigkeit? \u25ab Was ist ein Schl\u00fcssel? Page 23\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www-ai.cs.tu-dortmund.de/LEHRE/VORLESUNGEN/KDD/SS08/03_Datenbanken1.pdf&sa=U&ved=2ahUKEwjVvcjQyfDuAhXnwVkKHUf3CJk4HhAWMAR6BAgAEAE&usg=AOvVaw0tQcsVXpuQI3CozBjQQS2q",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Rheinwerk Computing :: Praxisbuch Objektorientierung \u2013 6.3 ...openbook.rheinwerk-verlag.de \u203a oo_04_strukturvonooprogrammen_02_002",
+    "link": "http://openbook.rheinwerk-verlag.de/oo/oo_04_strukturvonooprogrammen_02_002.htm",
+    "description": "Viele relationale Datenbanksysteme kennen das Konzept der Partitionierung ... eigentlichen Daten der Objekte auf die Daten in einer relationalen Datenbank ist\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://openbook.rheinwerk-verlag.de/oo/oo_04_strukturvonooprogrammen_02_002.htm&sa=U&ved=2ahUKEwjVvcjQyfDuAhXnwVkKHUf3CJk4HhAWMAV6BAgBEAE&usg=AOvVaw3mZ8Agh1iGphAWKkBsYAtO",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "\u00dcbersicht zur Datenbank - Schulungssystem der BSE GmbHbse.bbs-varel.de \u203a uebersicht",
+    "link": "https://bse.bbs-varel.de/uebersicht.php",
+    "description": "\u00dcbersicht zum Aufbau der Datenbank. Entity-Relationship-Model (ERM); Kurzschreibweise; Relationales Datenbankschema\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://bse.bbs-varel.de/uebersicht.php&sa=U&ved=2ahUKEwjVvcjQyfDuAhXnwVkKHUf3CJk4HhAWMAZ6BAgEEAE&usg=AOvVaw1WR7vpl7hGx_jWT9emv05l",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "relationales Datenbankmodell - Englisch-\u00dcbersetzung \u2013 Linguee ...www.linguee.de \u203a deutsch-englisch \u203a uebersetzung \u203a relationales+datenban...",
+    "link": "https://www.linguee.de/deutsch-englisch/uebersetzung/relationales+datenbankmodell.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"relationales Datenbankmodell\" \u2013 Englisch-\u200bDeutsch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/deutsch-englisch/uebersetzung/relationales%2Bdatenbankmodell.html&sa=U&ved=2ahUKEwjVvcjQyfDuAhXnwVkKHUf3CJk4HhAWMAd6BAgDEAE&usg=AOvVaw3al1bdrhEwZZLAjEvS0S1q",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Relationales Datenbanksystem Oraclewww.is.inf.uni-due.de \u203a lectures \u203a Uebungsblaetter \u203a oracle_concepts",
+    "link": "http://www.is.inf.uni-due.de/courses/dortmund/lectures/is_ws01-02/Uebungsblaetter/oracle_concepts.pdf",
+    "description": "Relationales Datenbanksystem Oracle. 1 Relationales Modell. Im relationalen Modell wird ein relationales Datenbankschema wie folgt beschrieben:.",
+    "googleLink": "http://www.google.com/url?q=http://www.is.inf.uni-due.de/courses/dortmund/lectures/is_ws01-02/Uebungsblaetter/oracle_concepts.pdf&sa=U&ved=2ahUKEwjVvcjQyfDuAhXnwVkKHUf3CJk4HhAWMAh6BAgGEAE&usg=AOvVaw0L9sE8ighhiNPWu1LU8xzx",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 3. Das Relationale Datenmodellwww.mathematik.uni-marburg.de \u203a ~seeger \u203a dbsSkript99 \u203a kap3",
+    "link": "http://www.mathematik.uni-marburg.de/~seeger/dbsSkript99/kap3.pdf",
+    "description": "X. Notation: \u2751 Datenbankschema: Menge der Relationenschemata. \u2751 Datenbank: Menge der aktuellen Instanzen der Relationen. \u2751\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-marburg.de/~seeger/dbsSkript99/kap3.pdf&sa=U&ved=2ahUKEwjVvcjQyfDuAhXnwVkKHUf3CJk4HhAWMAl6BAgFEAE&usg=AOvVaw2_aYqNBdyKwH6T9ttQ-3Gl",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "3. Das Relationale Datenmodellwww.mathematik.uni-marburg.de \u203a dbsSkript99 \u203a kap3",
+    "link": "http://www.mathematik.uni-marburg.de/~seeger/dbsSkript99/kap3.pdf",
+    "description": "X. Notation: \u2751 Datenbankschema: Menge der Relationenschemata. \u2751 Datenbank: Menge der aktuellen Instanzen der Relationen. \u2751\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Webis Lecturenotes Browser Datenbanken - Webis.dewebis.de \u203a lecturenotes \u203a browser \u203a databases",
+    "link": "https://webis.de/lecturenotes/browser/databases.html",
+    "description": "Das relationale Modell Definition 2 (Datenbankschema, Datenbankzustand, ... Umsetzung ER-Schema in relationales Schema Regul\u00e4re Entity-Typen.",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Geodatabase-Speichermodell in relationalen Datenbanken ...desktop.arcgis.com \u203a manage-data \u203a gdb-architecture",
+    "link": "https://desktop.arcgis.com/de/arcmap/10.3/manage-data/gdb-architecture/geodatabase-storage-in-relational-databases.htm",
+    "description": "Ein einfaches relationales Datenbankschema (eine Reihe von Standard-Datenbanktabellen, Spaltentypen, Indizes und anderen Datenbankobjekten) bildet die\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Relationale Datenbank zur Verwaltung eines Onlineshopsdiuf.unifr.ch \u203a documents \u203a S-2010_Lorenz_Schwob",
+    "link": "https://diuf.unifr.ch/main/is/sites/diuf.unifr.ch.main.is/files/documents/student-projects/S-2010_Lorenz_Schwob.pdf",
+    "description": "In einem n\u00e4chsten Schritt wird ein Entit\u00e4ten-\u2010Beziehungsmodell er-\u2010 stellt, welches dann in ein relationales Datenbankschema \u00fcberf\u00fchrt wird. Im zweiten Teil\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Was ist ein Datenbankmodell? | Lucidchartwww.lucidchart.com \u203a pages \u203a was-ist-ein-datenbankm...",
+    "link": "https://www.lucidchart.com/pages/de/was-ist-ein-datenbankmodell",
+    "description": "Sehen wir uns die \u00fcblichsten Datenbankmodelle einmal genauer an. Relationales Modell. Das am h\u00e4ufigsten verwendete Modell ist das relationale. Dabei\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Was ist ein Relational Database Management System ...www.storage-insider.de \u203a was-ist-ein-relational-database...",
+    "link": "https://www.storage-insider.de/was-ist-ein-relational-database-management-system-rdbms-a-973087/",
+    "description": "01.12.2020 \u2014 Der englische Begriff f\u00fcr relationales Datenbank-Management-System lautet \u201eRelational Database Management System\u201c, abgek\u00fcrzt RDBMS.",
+    "googleLink": null,
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Anwendungsentwicklung - Relationen ... - INffORUMwww.infforum.de \u203a themen \u203a se-methode-rm",
+    "link": "http://www.infforum.de/themen/anwendungsentwicklung/se-methode-rm.htm",
+    "description": "Das relationale Datenmodell (Relationenmodell, Relational Model, ... f\u00fcr das Datenbankdesign Relationaler Datenbank Management Systeme (RDBMS).",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Kurs: Hempel: 11 GK/LK - A Relationale Datenbanksystememoodle.wossidlogymnasium.de \u203a course \u203a view",
+    "link": "https://moodle.wossidlogymnasium.de/course/view.php?id=225",
+    "description": "Ein Datenbanksystem (DBS) setzt sich aus einer Datenbasis und einem Datenbank-Managementsystem (DBMS) zusammen. Das DBMS ist ein Softwaresystem\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Relationale Datenbanksysteme - synyxsynyx.de \u203a JM5_15_Mennerich_Arrasz_NoSQL1",
+    "link": "https://synyx.de/wp-content/uploads/2019/03/JM5_15_Mennerich_Arrasz_NoSQL1.pdf",
+    "description": "beginnen mit einem R\u00fcckblick auf die relationalen Datenbanksysteme. Teil 1: Relationale ... f\u00fcr jedes Problem eine relationale Datenbank zu verwenden, den\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Relationales Datenbankdesign - GRIN - GRIN Verlagwww.grin.com \u203a document",
+    "link": "https://www.grin.com/document/105267",
+    "description": "Anwendungen k\u00f6nnen nur \u00fcber das DBMS auf die Datenbank zugreifen. Architektur von Datenbanksystemen \u2013 Drei-Schichten-Schemaarchitektur30: 1978 wurde\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 9
+  }
+]

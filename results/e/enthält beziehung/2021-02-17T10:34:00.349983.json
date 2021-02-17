@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Grundwissen Informatik - Enth\u00e4lt-Beziehung - Tobias Stork, Klavierwww.tobias-stork.de \u203a informatik \u203a grundwissen \u203a Enthaelt-Beziehung",
+    "link": "http://www.tobias-stork.de/gymnasium/informatik/grundwissen/Enthaelt-Beziehung.html",
+    "description": "Enth\u00e4lt-Beziehung. Jgst. 6, Kapitel 3. Die Enth\u00e4lt-Beziehung liegt vor, wenn Objekte einer Klasse Objekte einer anderen Klasse enthalten k\u00f6nnen. Beispiele:.",
+    "googleLink": "http://www.google.com/url?q=http://www.tobias-stork.de/gymnasium/informatik/grundwissen/Enthaelt-Beziehung.html&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjAAegQICRAB&usg=AOvVaw1BErLm88yu-tWDL0Bvg0hs",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Enth\u00e4lt-Beziehung - lernen mit Serlo!de.serlo.org \u203a informatik \u203a enth\u00e4lt-beziehung",
+    "link": "https://de.serlo.org/informatik/64636/enth%C3%A4lt-beziehung",
+    "description": "Objekte einer Klasse k\u00f6nnen Objekte weiterer Klassen enthalten. Eine solche Beziehung zwischen Objekten nennt man \\Beispiele TEXTDOKUMENT \u2026",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/64636/enth%25C3%25A4lt-beziehung&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjABegQIChAB&usg=AOvVaw3vBYGhwTDPmUtxqVCms31J",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Enth\u00e4lt-Beziehung in Textdokumenten - lernen mit Serlo!de.serlo.org \u203a informatik \u203a enth\u00e4lt-beziehung-in-textdokumenten",
+    "link": "https://de.serlo.org/informatik/64627/enth%C3%A4lt-beziehung-in-textdokumenten",
+    "description": "Die Klasse TEXTDOKUMENT ist ein Bauplan f\u00fcr Textdokumente. Jedes Objekt der Klasse TEXTDOKUMENT enth\u00e4lt kein, ein oder mehrere Objekt(e) \u2026",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/64627/enth%25C3%25A4lt-beziehung-in-textdokumenten&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjACegQIAhAB&usg=AOvVaw3y6nLMJwHFVWKGxmknNzP-",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Die Enth\u00e4lt-Beziehung im Textdokumentwww.joachimhofmann.org \u203a Klasse6 \u203a 07_L_EnthaeltBeziehung",
+    "link": "http://www.joachimhofmann.org/Klasse6/3%20Textdokumente/07_L_EnthaeltBeziehung.pdf",
+    "description": "Klasse COMPUTERRAUM enth\u00e4lt Objekte anderer Klassen (z.B. TAFEL, TISCH, etc.). Die. Enth\u00e4lt-Beziehung beschreibt diesen Zusammenhang und kann\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.joachimhofmann.org/Klasse6/3%2520Textdokumente/07_L_EnthaeltBeziehung.pdf&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjADegQICBAB&usg=AOvVaw0Uizt9l7SYoL95EALH_-jj",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Grundwissen Informatik der Jahrgangsstufe 6 - Gymnasium Dorfenwww.gymnasiumdorfen.de \u203a Dokumente \u203a Unterricht \u203a Faecher \u203a Gr...",
+    "link": "https://www.gymnasiumdorfen.de/fileadmin/Inhalte/Dokumente/Unterricht/Faecher/Informatik/GrundwissenInfo6.pdf",
+    "description": "Objekte der Klassen. ABSATZ und ZEICHEN stehen in einer Enth\u00e4lt-Beziehung zueinander: Beachte die Leserichtung und den dicken Punkt auf dem Rand des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gymnasiumdorfen.de/fileadmin/Inhalte/Dokumente/Unterricht/Faecher/Informatik/GrundwissenInfo6.pdf&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjAEegQIBxAB&usg=AOvVaw0gp5bqKbr4CECyb5shDhxM",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[PDF] (= Beziehungen zw. Objekten/Klassen, auch ... - informatikZentralewww.informatikzentrale.de \u203a _files",
+    "link": "https://www.informatikzentrale.de/_files/16java/java32b_assoziationen.pdf",
+    "description": "Wir modellieren die Beziehungen zwischen Klassen, um sie anschlie\u00dfend sinnvoll ... (nichts:) Keine Beziehung angegeben ... Artikel sie enth\u00e4lt, oder:.",
+    "googleLink": "http://www.google.com/url?q=https://www.informatikzentrale.de/_files/16java/java32b_assoziationen.pdf&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjAFegQIBhAB&usg=AOvVaw13cBB7i3pFdzO-HEsumuee",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Beziehungenu-helmich.de \u203a inf \u203a lexikon \u203a Beziehungen",
+    "link": "http://u-helmich.de/inf/lexikon/A-D/Beziehungen.html",
+    "description": "In der Informatik gibt es viele verschiedene Beziehungen zwischen Klassen bzw. ... Klassen \"zusammengebaut\" ist oder Objekte anderer Klassen enth\u00e4lt (HAT).",
+    "googleLink": "http://www.google.com/url?q=http://u-helmich.de/inf/lexikon/A-D/Beziehungen.html&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjAJegQIBBAB&usg=AOvVaw3HWqIjTHUrv-hYvQKdRdmq",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Grundwissen 6. Klasse \u2014 SGM - Staffelsee-Gymnasium Murnausgm.tcs.ifi.lmu.de \u203a faecher \u203a informatik \u203a grundwissen-6.-klasse",
+    "link": "http://sgm.tcs.ifi.lmu.de/faecher/informatik/grundwissen-6.-klasse",
+    "description": "Enth\u00e4lt-Beziehung: Objekte k\u00f6nnen andere Objekte enthalten. Enthaelt Leserichtung >: \u201eEin Textdokument enth\u00e4lt kein, ein oder mehrere Abs\u00e4tze. Ein Absatz\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sgm.tcs.ifi.lmu.de/faecher/informatik/grundwissen-6.-klasse&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjAKegQIARAB&usg=AOvVaw0K3fCm6kxIefDoKJVCCUSP",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Informatik \u2013 Grundwissen Klasse 6/7 - Informatische Grundbildungwww.informatische-grundbildung.com \u203a app \u203a download \u203a 2009-bay...",
+    "link": "https://www.informatische-grundbildung.com/app/download/5764718164/2009-bayern-grundwissen-Informatik.pdf?t=1494773954",
+    "description": "Ein Objekt der Klasse ABSATZ enth\u00e4lt. Objekte der Klasse ... Die Enth\u00e4lt-\u200bBeziehung beschreibt ... d. h., er kann sogar Objekte seiner eigenen Klasse enthalten.",
+    "googleLink": "http://www.google.com/url?q=https://www.informatische-grundbildung.com/app/download/5764718164/2009-bayern-grundwissen-Informatik.pdf%3Ft%3D1494773954&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjALegQIBRAB&usg=AOvVaw3FLq5bVid4Cq8nhOh1Jb3M",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Assoziation (UML) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Assoziation_(UML)",
+    "link": "https://de.wikipedia.org/wiki/Assoziation_(UML)",
+    "description": "Eine Assoziation (engl. association) ist ein Modellelement in der Unified Modeling Language (UML), einer Modellierungssprache f\u00fcr Software und andere Systeme. Beispiel f\u00fcr eine bin\u00e4re Assoziation. Beispiel f\u00fcr eine reflexive Assoziation. Eine Assoziation beschreibt eine Beziehung zwischen zwei oder mehr ... das als Ganzes Teile enth\u00e4lt, f\u00fcr die Existenz der Teile\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Assoziation_(UML)&sa=U&ved=2ahUKEwiJzvXXzvDuAhWNjVkKHenDDFoQFjAMegQIAxAB&usg=AOvVaw3nIkdqXragcEt_ci_bNPZC",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Enth\u00e4lt-Beziehung - Informatik Artikel \u00bb Serlo.org | edutagswww.edutags.de \u203a bookmark",
+    "link": "https://www.edutags.de/bookmark/29633",
+    "description": "Objekte einer Klasse k\u00f6nnen Objekte weiterer Klassen enthalten. Eine solche Beziehung zwischen Objekten nennt man \"Enth\u00e4lt-Beziehung\"Beispiele\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.edutags.de/bookmark/29633&sa=U&ved=2ahUKEwi-y6HYzvDuAhUv2FkKHUjjBbk4ChAWMAB6BAgIEAE&usg=AOvVaw0NQBKRA7IZo5QW8amiRWJT",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] \u00dcbungsaufgaben Informatik - Kronberg Gymnasiumwww.kronberg-gymnasium.de \u203a files \u203a g8_06_nt_inf_ueb_5628",
+    "link": "https://www.kronberg-gymnasium.de/files/g8_06_nt_inf_ueb_5628.pdf",
+    "description": "(Hinweis: Eine \u00e4hnliche Beziehung besteht zwischen den Klassen ELLIPSE ... Die Enth\u00e4lt-Beziehungen zwischen den Klassen AUTO und RAD kannst du wie in.",
+    "googleLink": "http://www.google.com/url?q=https://www.kronberg-gymnasium.de/files/g8_06_nt_inf_ueb_5628.pdf&sa=U&ved=2ahUKEwi-y6HYzvDuAhUv2FkKHUjjBbk4ChAWMAF6BAgEEAE&usg=AOvVaw02_zMxVBvDMrwjxItGRdB2",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Klassendiagramm (Class Diagram) - Enterprise Architectwww.sparxsystems.de \u203a ressourcen \u203a literatur \u203a klassendiagramm-class-diag...",
+    "link": "https://www.sparxsystems.de/ressourcen/literatur/leseprobe-zu-projektabwicklung-mit-uml-und-enterprise-architect/klassendiagramm-class-diagram/",
+    "description": "Eine zweite modellierbare Beziehung ist die Aufnahme einer Klasse in eine ... zu ihrem Typ, einen Initialwert, Eigenschaftswerte und Zusicherungen enthalten.",
+    "googleLink": "http://www.google.com/url?q=https://www.sparxsystems.de/ressourcen/literatur/leseprobe-zu-projektabwicklung-mit-uml-und-enterprise-architect/klassendiagramm-class-diagram/&sa=U&ved=2ahUKEwi-y6HYzvDuAhUv2FkKHUjjBbk4ChAWMAJ6BAgBEAE&usg=AOvVaw1qAJf6WwHFk3n4IoSaboTF",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Grundwissen Informatik 6. Jahrgangsstufe - AZSLIDE.COMazslide.com \u203a download",
+    "link": "https://azslide.com/download/grundwissen-informatik-6-jahrgangsstufe_59f0651d1723dde8848a2e72.html",
+    "description": "Enth\u00e4lt-Beziehung. Objekte k\u00f6nnen andere Objekte enthalten. z. B. Klassenname Beziehungsname. Leserichtung dicker Punkt. TEXTDOKUMENT. ABSATZ.",
+    "googleLink": "http://www.google.com/url?q=https://azslide.com/download/grundwissen-informatik-6-jahrgangsstufe_59f0651d1723dde8848a2e72.html&sa=U&ved=2ahUKEwi-y6HYzvDuAhUv2FkKHUjjBbk4ChAWMAN6BAgHEAE&usg=AOvVaw1BHcic3jD0lc6GjEGTrZ2b",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "UML Klassendiagramm \u2013 So beh\u00e4ltst du bei der Objektorientierung ...www.codeadventurer.de \u203a ...",
+    "link": "http://www.codeadventurer.de/?p=2428",
+    "description": "Wie du Beziehungen zwischen Klassen mit einem UML Klassendiagramm ... zwischen Aggregation und Komposition ist die st\u00e4rke der enth\u00e4lt Beziehung.",
+    "googleLink": "http://www.google.com/url?q=http://www.codeadventurer.de/%3Fp%3D2428&sa=U&ved=2ahUKEwi-y6HYzvDuAhUv2FkKHUjjBbk4ChAWMAR6BAgAEAE&usg=AOvVaw0nvMHox2SXSZ9X8l9yA3P-",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Inf6 Enth\u00e4lt Beziehung bei Klassen - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=Dyksoce-NqA",
+    "description": "08.02.2021 \u00b7 Inf6 Enth\u00e4lt Beziehung bei Klassen. Watch later. Share. Copy link. Info. Shopping\u200b. Tap ...Dauer: 14:04\nGepostet: 08.02.2021",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DDyksoce-NqA&sa=U&ved=2ahUKEwi-y6HYzvDuAhUv2FkKHUjjBbk4ChC3AjAFegQICRAB&usg=AOvVaw0aprs-356Hr7aCy1peG-dY",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Eine lange und harmonische Stillbeziehung f\u00f6rdert die Mutter-Kind ...www.philips.de \u203a c-dam \u203a avent_hub \u203a Breastfeeding_factsheet_DE",
+    "link": "https://www.philips.de/c-dam/b2bhc/de/alle-produkte/mutterundkind/avent_hub/Breastfeeding_factsheet_DE.pdf",
+    "description": "Stillpositionen. Eine lange und harmonische Stillbeziehung f\u00f6rdert die Mutter-\u200bKind-Beziehung. Zudem enth\u00e4lt Muttermilch alles, was ein Baby f\u00fcr eine gesunde\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.philips.de/c-dam/b2bhc/de/alle-produkte/mutterundkind/avent_hub/Breastfeeding_factsheet_DE.pdf&sa=U&ved=2ahUKEwi-y6HYzvDuAhUv2FkKHUjjBbk4ChAWMAd6BAgGEAE&usg=AOvVaw181vry_5hJ4UZMaauVfwo4",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Beziehungen-EF Core | Microsoft Docsdocs.microsoft.com \u203a ... \u203a Entity Framework Core \u203a Erstellen eines Modells",
+    "link": "https://docs.microsoft.com/de-de/ef/core/modeling/relationships",
+    "description": "01.10.2020 \u00b7 Konfigurieren von Beziehungen zwischen Entit\u00e4ts Typen bei ... Entit\u00e4t: Dies ist die Entit\u00e4t, die die Fremdschl\u00fcssel Eigenschaften enth\u00e4lt.",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/ef/core/modeling/relationships&sa=U&ved=2ahUKEwi-y6HYzvDuAhUv2FkKHUjjBbk4ChAWMAh6BAgCEAE&usg=AOvVaw2dtOnB_0bvJSiAGsRXrJXM",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Arbeiten mit Beziehungen in PivotTables - Excel - Microsoft Supportsupport.microsoft.com \u203a de-de \u203a office \u203a arbeiten-mit-beziehungen-in-pivo...",
+    "link": "https://support.microsoft.com/de-de/office/arbeiten-mit-beziehungen-in-pivottables-f64ea03b-435a-448d-bc35-3b252bd1233a",
+    "description": "Excel 2013 enth\u00e4lt Technologien, die von Microsoft Research (MSR) entwickelt wurden, um Beziehungsprobleme wie diese automatisch zu erkennen und zu\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://support.microsoft.com/de-de/office/arbeiten-mit-beziehungen-in-pivottables-f64ea03b-435a-448d-bc35-3b252bd1233a&sa=U&ved=2ahUKEwi-y6HYzvDuAhUv2FkKHUjjBbk4ChAWMAl6BAgFEAE&usg=AOvVaw2HlWzr47p6-YVjjOfjqIDq",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "n:n-Beziehungenfmhelp.filemaker.com \u203a fmp \u203a FMP_Help \u203a many-to-many-relationships",
+    "link": "https://fmhelp.filemaker.com/help/18/fmp/de/FMP_Help/many-to-many-relationships.html",
+    "description": "Eine n:n-Beziehung besteht, wenn mehrere Datens\u00e4tze in einer Tabelle mit ... den Wert der Prim\u00e4rschl\u00fcssel von den beiden Tabellen enth\u00e4lt, die sie verkn\u00fcpft.",
+    "googleLink": "http://www.google.com/url?q=https://fmhelp.filemaker.com/help/18/fmp/de/FMP_Help/many-to-many-relationships.html&sa=U&ved=2ahUKEwjHxMXYzvDuAhWGpFkKHUdyAsg4FBAWMAB6BAgBEAE&usg=AOvVaw09a8mlqwjyMX5qwnDCTvGA",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Arbeitshilfe Beziehungskennzeichnungen: Beziehungen zwischen ...wiki.dnb.de \u203a download \u203a attachments",
+    "link": "https://wiki.dnb.de/download/attachments/106042227/AH-018.pdf",
+    "description": "Beziehungskennzeichnungen: Beziehungen zwischen Werken, Expressionen, ... September 2017), Korrekturversion enth\u00e4lt \u00c4nderungen zur Version 1.5.",
+    "googleLink": "http://www.google.com/url?q=https://wiki.dnb.de/download/attachments/106042227/AH-018.pdf&sa=U&ved=2ahUKEwjHxMXYzvDuAhWGpFkKHUdyAsg4FBAWMAF6BAgGEAE&usg=AOvVaw0y1AFJ1NOf0pMiEPXkaHsm",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Fragen zu Beziehungen, zum Datenmodell und zu Datenquellen ...help.tableau.com \u203a pro \u203a desktop \u203a de-de \u203a datasource_datamodel_faq",
+    "link": "https://help.tableau.com/current/pro/desktop/de-de/datasource_datamodel_faq.htm",
+    "description": "Das Feld \"Anzahl der Datens\u00e4tze\" wird in Datenquellen, die logische Tabellen enthalten, nicht mehr angezeigt. Jede Tabelle enth\u00e4lt eine Z\u00e4hlung ihrer\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://help.tableau.com/current/pro/desktop/de-de/datasource_datamodel_faq.htm&sa=U&ved=2ahUKEwjHxMXYzvDuAhWGpFkKHUdyAsg4FBAWMAJ6BAgHEAE&usg=AOvVaw2210breTW2LJVgJwjdTUu9",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Kennt-Beziehung / Hat-Beziehung \u00bb Fachkonzept ... - inf-schulewww.inf-schule.de \u203a beziehungen \u203a kennthatbeziehung \u203a konzept_kennthat",
+    "link": "https://www.inf-schule.de/modellierung/ooppython/spiele/beziehungen/kennthatbeziehung/konzept_kennthat",
+    "description": "Fachkonzept - Kennt-Beziehung / Hat-Beziehung. Unterschiedliche Beziehungen\u200b. Wir betrachten eine Version des Elf-hoch-Spiels, bei dem die sowohl die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/modellierung/ooppython/spiele/beziehungen/kennthatbeziehung/konzept_kennthat&sa=U&ved=2ahUKEwjHxMXYzvDuAhWGpFkKHUdyAsg4FBAWMAl6BAgFEAE&usg=AOvVaw30ZfmI_wb7xabqLGtTxmQQ",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Dreieckstheorie der Liebe: Welche Komponenten enth\u00e4lt deine ...www.brigitte.de \u203a Liebe \u203a Beziehung",
+    "link": "https://www.brigitte.de/liebe/beziehung/dreieckstheorie-der-liebe--welche-komponenten-enthaelt-deine-beziehung--12195980.html",
+    "description": "05.10.2020 \u00b7 Laut Dreieckstheorie der Liebe h\u00e4ngt die Art unserer Beziehungen von ... das unsere Beziehung darstellen soll \u2013 nur wenn alle drei Elemente\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.brigitte.de/liebe/beziehung/dreieckstheorie-der-liebe--welche-komponenten-enthaelt-deine-beziehung--12195980.html&sa=U&ved=2ahUKEwjHxMXYzvDuAhWGpFkKHUdyAsg4FBAWMAp6BAgDEAE&usg=AOvVaw3iSzyPTt0bFkl6Z-_THlyx",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Was ist ein Use Case-Diagramm? \u2013 Wissen online - microTOOLwww.microtool.de \u203a wissen-online \u203a was-ist-ein-use-case-diagramm",
+    "link": "https://www.microtool.de/wissen-online/was-ist-ein-use-case-diagramm/",
+    "description": "Die Enth\u00e4lt-Beziehung ist in einem Use Case-Diagramm durch einen gestrichelten Pfeil und der Beschriftung include dargestellt. Der Pfeil zeigt immer auf den\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.microtool.de/wissen-online/was-ist-ein-use-case-diagramm/&sa=U&ved=2ahUKEwjHxMXYzvDuAhWGpFkKHUdyAsg4FBAWMAt6BAgAEAE&usg=AOvVaw1odjus3JWkj6nLEzBZrkzW",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Beziehungen zwischen Anwendungsf\u00e4llen - Objektorientierte ...vu.fernuni-hagen.de \u203a html \u203a se-beziehungen_zwischen_anwendungsfaellen",
+    "link": "https://vu.fernuni-hagen.de/lvuweb/lvu/file/FeU/EITech/2005WS/20022/oeffentlich/schnupperzugang/ke/ke1/html/se-beziehungen_zwischen_anwendungsfaellen.html",
+    "description": "\u201eFahrzeug reservieren\u201c und \u201eFahrzeug mieten\u201c. Die enth\u00e4lt-Beziehung erlaubt es uns, auf anschauliche Weise bestimmte Abl\u00e4ufe, die in verschiedenen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://vu.fernuni-hagen.de/lvuweb/lvu/file/FeU/EITech/2005WS/20022/oeffentlich/schnupperzugang/ke/ke1/html/se-beziehungen_zwischen_anwendungsfaellen.html&sa=U&ved=2ahUKEwjHxMXYzvDuAhWGpFkKHUdyAsg4FBAWMAx6BAgIEAE&usg=AOvVaw3QSMGEo91cGrlMMXNMBue8",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "2.6. Internationale Beziehungen der SED zu Staaten und Parteien ...www.argus.bstu.bundesarchiv.de \u203a ...",
+    "link": "http://www.argus.bstu.bundesarchiv.de/dy30bho/index.htm?kid=66b339e5-5830-421b-80ce-eab1011e1119",
+    "description": "enth\u00e4lt: Schreiben, Informationen an Erich Honecker. 1971, 1973,1986, 1989. Akte einsehen. DY 30 / 2419. Druckansicht. Beziehungen mit \u00c4thiopien.",
+    "googleLink": "http://www.google.com/url?q=http://www.argus.bstu.bundesarchiv.de/dy30bho/index.htm%3Fkid%3D66b339e5-5830-421b-80ce-eab1011e1119&sa=U&ved=2ahUKEwjHxMXYzvDuAhWGpFkKHUdyAsg4FBAWMA16BAgEEAE&usg=AOvVaw0ldLXltg44nE2asoiqHlv_",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Felder 770 - 787 - Bibliotheksverbund Bayernwww.bib-bvb.de \u203a web \u203a kkb-online \u203a rda-felder-770-787",
+    "link": "https://www.bib-bvb.de/web/kkb-online/rda-felder-770-787",
+    "description": "Das Segment enth\u00e4lt Hinweise zum Erfassen von Beziehungen zu in Beziehung stehenden Werken. Felder 770 - 787. MAB-Feld, Beschreibung. 770.",
+    "googleLink": "http://www.google.com/url?q=https://www.bib-bvb.de/web/kkb-online/rda-felder-770-787&sa=U&ved=2ahUKEwjHxMXYzvDuAhWGpFkKHUdyAsg4FBAWMA56BAgCEAE&usg=AOvVaw1vGVNZPa8OzhCY6e7iPf9G",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "4242 K10plusswbtools.bsz-bw.de \u203a cgi-bin",
+    "link": "https://swbtools.bsz-bw.de/cgi-bin/k10plushelp.pl?cmd=kat&val=4242&katalog=Standard",
+    "description": "In Feld 4242 wird die Beziehung zu einer kleineren Einheit nach RDA 25.1 und ... Bei der Katalogisierung nicht-lateinischer Schriften enth\u00e4lt das Unterfeld $L\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Bibliographie Deutsch-Polnische Beziehungen \u2013 Deutsche ...www.polenforschung.de \u203a ressourcen \u203a bibliographie-d...",
+    "link": "https://www.polenforschung.de/ressourcen/bibliographie-deutsch-polnische-beziehungen/",
+    "description": "Deutsch-polnische Beziehungen in Geschichte und Gegenwart. ... Band 4 enth\u00e4lt ausf\u00fchrliche Register, ein Abk\u00fcrzungsverzeichnis sowie Benutzerhinweise",
+    "googleLink": null,
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "OOP - Klassenbeziehungen II - OSZ Handel 1www.oszhandel.de \u203a faecher \u203a ooa-ood \u203a beziehungen_2",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/ooa-ood/beziehungen_2.htm",
+    "description": "Beziehungen zwischen Klassen f\u00fcr Fortgeschrittene ... Bibliotheksklasse ein privates (nicht dokumentiertes) Attribut 'Datum' zur Berechnung der Laufzeit enth\u00e4lt.",
+    "googleLink": null,
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Grundbegriffe der Mengenlehrewww.fb10.uni-bremen.de \u203a grundkurs2 \u203a kapitel5",
+    "link": "http://www.fb10.uni-bremen.de/khwagner/grundkurs2/kapitel5.aspx",
+    "description": "Die Elementbeziehung ist Element von wird durch , die Beziehung ist nicht Element von ... Die Beziehung ist enthalten wird durch das Zeichen \u2286 symbolisiert.",
+    "googleLink": null,
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Rheinwerk Computing :: Objektorientierte Programmierung ...openbook.rheinwerk-verlag.de \u203a oop_kapitel_04_003",
+    "link": "http://openbook.rheinwerk-verlag.de/oop/oop_kapitel_04_003.htm",
+    "description": "Das Objekt Plato steht zum Beispiel in so einer Beziehung mit der Klasse Mann, denn ... kann aber leer sein, oder es kann eine oder mehrere Dateien enthalten.",
+    "googleLink": null,
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "R\u00e4umliche Verbindungen nach Feature-Typ\u2014Hilfe | ArcGIS ...desktop.arcgis.com \u203a spatial-joins-by-feature-type",
+    "link": "https://desktop.arcgis.com/de/arcmap/10.3/manage-data/tables/spatial-joins-by-feature-type.htm",
+    "description": "... aus dem Verbindungs-Layer enth\u00e4lt. Die r\u00e4umliche Beziehung h\u00e4ngt von den Geometrietypen der Eingabe-Layer und von der gew\u00e4hlten Abgleichoption ab.",
+    "googleLink": null,
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Natur und Technik - Lehrplanwww.isb-gym8-lehrplan.de \u203a 3.1.neu \u203a g8.de",
+    "link": "http://www.isb-gym8-lehrplan.de/contentserv/3.1.neu/g8.de/id_26433.html",
+    "description": "Sie verstehen wichtige Beziehungen zwischen K\u00f6rperbau und Lebensweise bei ... Sie erkennen, dass hierarchische Ordnungen durch die Enth\u00e4lt-Beziehung\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Quantitative Beziehungen: Aufgaben - Restenaw3.restena.lu \u203a ddnuc \u203a COURS",
+    "link": "http://w3.restena.lu/ddnuc/COURS/6/650af.htm",
+    "description": "Wieviel Gramm reines Aceton enth\u00e4lt die Flasche? b. Wieviel Mol Aceton und wie viel Molek\u00fcle Aceton enth\u00e4lt die Flasche? L\u00f6sung: a. Folgende Beziehung ist\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Beziehungen zwischen Mengen \u2014 Theoretisches Material ...www.yaclass.at \u203a ... \u203a Aussagen und Mengen",
+    "link": "https://www.yaclass.at/p/mathematik/6-schulstufe/mengen-und-mengenoperationen-17080/aussagen-und-mengen-17463/re-dcb1353c-43d6-4df2-b475-58d4255a931e",
+    "description": "Zwei Mengen A, B hei\u00dfen gleich, A=B, wenn in beiden Mengen dieselben Elemente enthalten sind. Die Menge B hei\u00dft Teilmenge von A, B\\subseteq A, wenn\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Lagebeziehungen - Ebenen und Geraden - StudyHelpwww.studyhelp.de \u203a Online-Lernen \u203a Mathe \u203a Geometrie",
+    "link": "https://www.studyhelp.de/online-lernen/mathe/lagebeziehungen/",
+    "description": "Lagebeziehungen von Geraden und Ebenen geh\u00f6ren zu dem \u00fcbergeordneten Thema der Vektorrechnung und wird dir fr\u00fcher oder sp\u00e4ter in der Schule begegnen\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Der moderne Softwareentwicklungsprozess mit ... - Highscorewww.highscore.de \u203a uml \u203a klassendiagramm",
+    "link": "http://www.highscore.de/uml/klassendiagramm.html",
+    "description": "W\u00fcrde die Beziehung zwischen den Klassen Auto und Motor aufgehoben werden, so ist das ... Das hei\u00dft, ein Angebot enth\u00e4lt immer mindestens einen Artikel.",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Topologische Beziehungenwww.gitta.info \u203a html \u203a TopoBasedOps_learningObject1",
+    "link": "http://www.gitta.info/SpatialQueries/de/html/TopoBasedOps_learningObject1.html",
+    "description": "Das Gegenteil zu \u201eenthalten\u201c. Wenn A innerhalb B liegt, so enth\u00e4lt B A. Covers. Objekt A deckt Objekt B. Das Innere eines Objekts liegt vollst\u00e4ndig im Inneren des\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Aufgabensammlung Lagebeziehungen Gerade-Ebene (mit ...www.pinterest.de \u203a pin",
+    "link": "https://www.pinterest.de/pin/540150549081351992/",
+    "description": "Diese Aufgabensammlung enth\u00e4lt folgende 3 Aufgaben zu Lagebeziehungen zwischen Geraden und Ebenen im dreidimensionalen Raum:Gerade liegt in\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Beispiele zum ER-Modell - RoRo-Seitenwww.roro-seiten.de \u203a info \u203a ERModell2",
+    "link": "http://www.roro-seiten.de/info/db/04ERModell2/ERModell2.html",
+    "description": "Die Beziehung \"enth\u00e4lt\" ist auch eine N:M-Beziehung, da jede CD mehrere Songs enthalten kann, jeder Song aber auch auf mehreren CDs vorhanden sein\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "4-Ohren-Modell einfach erkl\u00e4rt - Vier Seiten einer Nachrichtwww.studienkreis.de \u203a ... \u203a Deutsch \u00dcbungen",
+    "link": "https://www.studienkreis.de/deutsch/vier-ohren-vier-seiten-modell/",
+    "description": "Die Beziehung. Die Seite der Beziehung enth\u00e4lt Informationen dar\u00fcber, was der Sender von dem Empf\u00e4nger h\u00e4lt und wie er zu ihm steht. Dies wird in der Art und\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Vier-Ohren-Modell | Kommunikationsmodell (Schulz von Thun)wortwuchs.net \u203a vier-ohren-modell",
+    "link": "https://wortwuchs.net/vier-ohren-modell/",
+    "description": "Demzufolge enth\u00e4lt jede \u00c4u\u00dferung vier Botschaften oder kann auf vier ... Aussage demnach die Seiten Sachinhalt, Beziehung, Selbstoffenbarung und Appell.",
+    "googleLink": null,
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Datenbankmodellierungwww.breitenfellner.info \u203a downloak \u203a damo",
+    "link": "http://www.breitenfellner.info/klassenbereich/downloak/damo.pdf",
+    "description": "b) die Attribute zu den Entit\u00e4ten und zur Beziehung sowie c) die Schl\u00fcsselattribute ... Es enth\u00e4lt Entit\u00e4ten, Beziehungen mit ihrem Grad und At- tribute. Zus\u00e4tzlich\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "UML - Assoziationenwww.cis.uni-muenchen.de \u203a ~micha \u203a uml \u203a Assoziation",
+    "link": "https://www.cis.uni-muenchen.de/~micha/praesentationen/uml/Assoziation",
+    "description": "Bei bin\u00e4ren Assoziationen handelt es sich um eine Beziehung zwischen genau zwei Objekten. Als reflexiv ... Klassen, in der eine Klasse eine andere enth\u00e4lt.\".",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Watzlawick/Beavin/Jackson - Uni-DUEwww.uni-due.de \u203a buenting \u203a Axiome",
+    "link": "https://www.uni-due.de/buenting/Axiome.html",
+    "description": "Zus\u00e4tzlich enth\u00e4lt sie einen Hinweis darauf, wie ihr Sender die Beziehung ... Die Beziehungen werden allerdings selten bewusst und ausdr\u00fccklich definiert.",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Mit Attributtabelle arbeiten - QGIS Documentationdocs.qgis.org \u203a working_with_vector \u203a attribute_table",
+    "link": "https://docs.qgis.org/2.14/de/docs/user_manual/working_with_vector/attribute_table.html",
+    "description": "... Formatierungsregeln f\u00fcr Tabellenzellen; Ein-Zu-Mehrere-Beziehungen ... Zeile in der Tabelle repr\u00e4sentiert ein Kartenobjekt und jede Spalte enth\u00e4lt bestimmte\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 9
+  }
+]

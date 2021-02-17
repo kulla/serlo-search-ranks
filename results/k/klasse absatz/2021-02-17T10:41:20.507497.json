@@ -1,0 +1,394 @@
+[
+  {
+    "name": "[PDF] Zeichen und Absatz Zeichen: Buchstaben, Ziffern ...www.pasquay.net \u203a files \u203a UEA502 \u203a zeiabs",
+    "link": "http://www.pasquay.net/IT/files/A5/UEA502/zeiabs.pdf",
+    "description": "z1 geh\u00f6rt zur Klasse ZEICHEN, a1 und a2 geh\u00f6ren zur Klasse ABSATZ. a1 a2 z1\u200b. Page 2. Attribute von Objekten der Klasse ZEICHEN.",
+    "googleLink": "http://www.google.com/url?q=http://www.pasquay.net/IT/files/A5/UEA502/zeiabs.pdf&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjAAegQIChAB&usg=AOvVaw09aZm-5TRDN2JhlrazeyAE",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Die Klasse Absatz - lernen mit Serlo!de.serlo.org \u203a informatik \u203a die-klasse-absatz",
+    "link": "https://de.serlo.org/informatik/190456/die-klasse-absatz",
+    "description": "Jedes Mal, wenn man die Enter-Taste best\u00e4tigt, wird ein neues Objekt der Klasse ABSATZ erzeugt, das durch Ver\u00e4nderung der Attributwerte unterschiedlich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/190456/die-klasse-absatz&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjABegQICxAB&usg=AOvVaw2w0Vt_bdHpBl0GjaY-4ken",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Enth\u00e4lt-Beziehung in Textdokumenten - lernen mit Serlo!de.serlo.org \u203a informatik \u203a enth\u00e4lt-beziehung-in-textdokumenten",
+    "link": "https://de.serlo.org/informatik/64627/enth%C3%A4lt-beziehung-in-textdokumenten",
+    "description": "Jedes Objekt der Klasse TEXTDOKUMENT enth\u00e4lt kein, ein oder mehrere Objekt\u200b(e) der Klasse ABSATZ. Diese Objekte enthalten wiederrum keine, eine oder\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/64627/enth%25C3%25A4lt-beziehung-in-textdokumenten&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjACegQIAhAB&usg=AOvVaw1mt5WM1-BwKN8aEPPlN3Fu",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Grundwissen Informatik - Absatz - Tobias Stork, Klavierwww.tobias-stork.de \u203a gymnasium \u203a informatik \u203a grundwissen \u203a Absatz",
+    "link": "http://www.tobias-stork.de/gymnasium/informatik/grundwissen/Absatz.html",
+    "description": "Absatz. Jgst. 6, Kapitel 3. Ein Textdokument enth\u00e4lt einen oder mehrere Abs\u00e4tze. Die Klassenkarte gibt einen \u00dcberblick \u00fcber die Attribute der Klasse ABSATZ:\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.tobias-stork.de/gymnasium/informatik/grundwissen/Absatz.html&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjADegQIBxAB&usg=AOvVaw2aMSH_mpirH7_TW7iwqU9L",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Informatik \u2013 Grundwissen Klasse 6/7 - Informatische Grundbildungwww.informatische-grundbildung.com \u203a app \u203a download \u203a 2009-bay...",
+    "link": "https://www.informatische-grundbildung.com/app/download/5764718164/2009-bayern-grundwissen-Informatik.pdf?t=1494773954",
+    "description": "Weitere Objekte in Textdokumenten sind z.B. von der Klasse ABSATZ. Wichtige Attribute dieser Klasse sind: Ausrichtung, Zeilenabstand, EinzugLinks,\u2026",
+    "googleLink": "http://www.google.com/url?q=https://www.informatische-grundbildung.com/app/download/5764718164/2009-bayern-grundwissen-Informatik.pdf%3Ft%3D1494773954&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjAEegQICBAB&usg=AOvVaw2sA3rdGGgbHshEpMRvHK_u",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Grundwissen Informatik der Jahrgangsstufe 6 - Gymnasium Dorfenwww.gymnasiumdorfen.de \u203a Dokumente \u203a Unterricht \u203a Faecher \u203a Gr...",
+    "link": "https://www.gymnasiumdorfen.de/fileadmin/Inhalte/Dokumente/Unterricht/Faecher/Informatik/GrundwissenInfo6.pdf",
+    "description": "In Textdokumenten findet man auch stets Objekte der Klasse ABSATZ. Objekte der Klassen. ABSATZ und ZEICHEN stehen in einer Enth\u00e4lt-Beziehung\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gymnasiumdorfen.de/fileadmin/Inhalte/Dokumente/Unterricht/Faecher/Informatik/GrundwissenInfo6.pdf&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjAFegQICRAB&usg=AOvVaw3wm-3mTUTx0a7kUP4Mwt2G",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Zeichen und Absatzovtg-alt.ovtg.de \u203a 5_service \u203a 2_Schulaufgaben \u203a gruwi_informatik",
+    "link": "http://ovtg-alt.ovtg.de/5_service/2_Schulaufgaben/gruwi_informatik/Inf06%204%20Text%20GruWui.pdf",
+    "description": "Ein einzelnes Objekt der Klasse Zeichen markierst am besten mit der Maus. Klassen\u2013Diagramm: Hinweise: E. Das obige Klassendiagramm ist nicht vollst\u00e4ndig.",
+    "googleLink": "http://www.google.com/url?q=http://ovtg-alt.ovtg.de/5_service/2_Schulaufgaben/gruwi_informatik/Inf06%25204%2520Text%2520GruWui.pdf&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjAKegQIAxAB&usg=AOvVaw3Amx9vW6OcbbAtAaqaaR4t",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Grundwissen 6. Klasse \u2014 SGM - Staffelsee-Gymnasium Murnausgm.tcs.ifi.lmu.de \u203a faecher \u203a informatik \u203a grundwissen-6.-klasse",
+    "link": "http://sgm.tcs.ifi.lmu.de/faecher/informatik/grundwissen-6.-klasse",
+    "description": "Klasse. In der Jahrgangsstufe 6 sind die gro\u00dfen Themenbereiche im Informatikteil von Natur und ... \u201eKein, ein oder mehrere Zeichen sind Teil von einem Absatz.",
+    "googleLink": "http://www.google.com/url?q=http://sgm.tcs.ifi.lmu.de/faecher/informatik/grundwissen-6.-klasse&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjALegQIBBAB&usg=AOvVaw06tClN0u6eg3DoeNjEO5UC",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Mercedes-Benz steigert 2019 den Absatz das neunte Jahr in Folge ...blog.mercedes-benz-passion.com \u203a Allgemein",
+    "link": "https://blog.mercedes-benz-passion.com/2020/01/mercedes-benz-steigert-2019-den-absatz-das-neunte-jahr-in-folge/",
+    "description": "09.01.2020 \u00b7 Die Mercedes-Maybach S-Klasse Limousine verzeichnete in 2019 einen neuen Absatzrekord, der besonders von den Erfolgen in China und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://blog.mercedes-benz-passion.com/2020/01/mercedes-benz-steigert-2019-den-absatz-das-neunte-jahr-in-folge/&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjAMegQIBhAB&usg=AOvVaw0R30bktFBKv4jHDymHSro9",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Mercedes-Benz Absatz 2020: Es bleibt ein Minus von 7,5 ...www.mercedes-fans.de \u203a magazin \u203a news \u203a mercedes-benz-absatz-2020-es-...",
+    "link": "https://www.mercedes-fans.de/magazin/news/mercedes-benz-absatz-2020-es-bleibt-ein-minus-von-7-5-endabrechung-2020-mercedes-benz-verkauft-2-164-187-pkw.16973",
+    "description": "08.01.2021 \u00b7 Absatz Mercedes-Benz Cars: Erfolgsmodelle. Die S-Klasse war im vergangenen Jahr erneut die meistverkaufte Luxuslimousine der Welt mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mercedes-fans.de/magazin/news/mercedes-benz-absatz-2020-es-bleibt-ein-minus-von-7-5-endabrechung-2020-mercedes-benz-verkauft-2-164-187-pkw.16973&sa=U&ved=2ahUKEwjqmISq0PDuAhXJuVkKHRZMA4oQFjANegQIBRAB&usg=AOvVaw1YE-lni43_yOP4ZxNDgHkS",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Anlage 7b FeV (zu \u00a7 6b Absatz 3 und 4 ) Fahrerschulung f\u00fcr das ...www.buzer.de \u203a ...",
+    "link": "https://www.buzer.de/Anlage_7b_FeV.htm",
+    "description": "Ziel der Schulung ist die Bef\u00e4higung zum sicheren, verantwortungsvollen und umweltbewussten F\u00fchren eines Kraftrades der Klasse A1. 2. Qualifikation f\u00fcr die\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.buzer.de/Anlage_7b_FeV.htm&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAB6BAgGEAE&usg=AOvVaw3sv67aQlGBgpRUa8JHGFvq",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "\u00a7 5 FahrschAusbO Praktischer Unterricht Fahrsch\u00fcler ... - Buzer.dewww.buzer.de \u203a gesetz",
+    "link": "https://www.buzer.de/gesetz/10195/a176530.htm",
+    "description": "(10) 1Bei den Ausbildungsfahrten auf Fahrzeugen der Klassen C1, C, D1 und D ist der nach \u00a7 5 Absatz 3 der Durchf\u00fchrungsverordnung zum Fahrlehrergesetz\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.buzer.de/gesetz/10195/a176530.htm&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAF6BAgJEAE&usg=AOvVaw2ITP0pgq18R-3KVq-v9ZOm",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "\u00a7 38b EStG - Einzelnorm - Gesetze im Internetwww.gesetze-im-internet.de \u203a estg",
+    "link": "https://www.gesetze-im-internet.de/estg/__38b.html",
+    "description": "(3) 1Auf Antrag des Arbeitnehmers kann abweichend von Absatz 1 oder 2 eine f\u00fcr ihn ung\u00fcnstigere Steuerklasse oder geringere Zahl der Kinderfreibetr\u00e4ge als\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gesetze-im-internet.de/estg/__38b.html&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAJ6BAgIEAE&usg=AOvVaw3vigM0i1yGLaXghrokOZpo",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Anlage 7 FeV - Einzelnorm - Gesetze im Internetwww.gesetze-im-internet.de \u203a fev_2010 \u203a anlage_7",
+    "link": "https://www.gesetze-im-internet.de/fev_2010/anlage_7.html",
+    "description": "Anlage 7 (zu \u00a7 16 Absatz 2, \u00a7 17 Absatz 2 und 3) ... Die Anzahl der Fragen je Klasse, die Anzahl der Punkte und die zul\u00e4ssige Fehlerpunktzahl ergeben sich aus\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gesetze-im-internet.de/fev_2010/anlage_7.html&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAN6BAgHEAE&usg=AOvVaw2LTzmV0uO5OStREsw2PAdQ",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Absatz Mercedes-Benz Pkw & Mercedes-Benz Vans | Daimler ...www.daimler.com \u203a Investoren \u203a Kennzahlen \u203a Gesch\u00e4ftsfelder",
+    "link": "https://www.daimler.com/investoren/kennzahlen/geschaeftsfelder/pkw-absatz/",
+    "description": "Monatlicher Absatz. Mercedes-Benz Cars & Mercedes-Benz Vans. Mercedes-\u200bBenz hat die monatliche Absatzberichterstattung umgestellt.",
+    "googleLink": "http://www.google.com/url?q=https://www.daimler.com/investoren/kennzahlen/geschaeftsfelder/pkw-absatz/&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAR6BAgFEAE&usg=AOvVaw0aDFMbuhKeN3rkwjZaXz_j",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Mercedes-Benz steigert Absatz das neunte Jahr in Folge und bleibt ...media.daimler.com \u203a marsMediaSite \u203a instance \u203a Mercedes-Benz-steigert-A...",
+    "link": "https://media.daimler.com/marsMediaSite/de/instance/ko/Mercedes-Benz-steigert-Absatz-das-neunte-Jahr-in-Folge-und-bleibt-die-Nummer-1-unter-den-Premium-Automobilmarken.xhtml?oid=45351625",
+    "description": "09.01.2020 \u00b7 Sechs Jahre nach Einf\u00fchrung der aktuellen Generation der S-Klasse Limousine liegt der Absatz mit rund 71.700 Einheiten in 2019 weiterhin auf\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://media.daimler.com/marsMediaSite/de/instance/ko/Mercedes-Benz-steigert-Absatz-das-neunte-Jahr-in-Folge-und-bleibt-die-Nummer-1-unter-den-Premium-Automobilmarken.xhtml%3Foid%3D45351625&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAV6BAgEEAE&usg=AOvVaw0DtZI6kCtI39b0SQ4lBqVJ",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Mercedes - Neuzulassungen nach Modell 2020 | Statistade.statista.com \u203a Verkehr & Logistik \u203a Fahrzeuge & Stra\u00dfenverkehr",
+    "link": "https://de.statista.com/statistik/daten/studie/239404/umfrage/zulassungen-der-bekanntesten-mercedes-modelle/",
+    "description": "11.01.2021 \u00b7 Im Jahr 2020 wurden rund 41.700 Mercedes der C-Klasse neu zugelassen. ... Statistiken zum Thema: \"Daimler AG - Produktion und Absatz\".",
+    "googleLink": "http://www.google.com/url?q=https://de.statista.com/statistik/daten/studie/239404/umfrage/zulassungen-der-bekanntesten-mercedes-modelle/&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAZ6BAgBEAE&usg=AOvVaw3ptyymYZOCszP64jVhsfQw",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Daimler-Absatz in China w\u00e4chst zweistellig - Automobil Produktionwww.automobil-produktion.de \u203a Hersteller",
+    "link": "https://www.automobil-produktion.de/hersteller/daimler-absatz-in-china-waechst-zweistellig-238.html",
+    "description": "18.12.2020 \u00b7 Die S-Klasse gilt als einer der Kassenschlager auf dem chinesischen Markt und tr\u00e4gt ma\u00dfgeblich zum Absatzwachstum bei. Bild: Daimler. 18.",
+    "googleLink": "http://www.google.com/url?q=https://www.automobil-produktion.de/hersteller/daimler-absatz-in-china-waechst-zweistellig-238.html&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAd6BAgAEAE&usg=AOvVaw22Dc8awWMhLH8BLjJLZtJd",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[DOC] Objekte und Klassewww.gwsg.net \u203a download-center \u203a category \u203a 1-informationen",
+    "link": "https://www.gwsg.net/index.php/elternbriefe-formulare-infos/download-center/category/1-informationen?download=8:zusammenfassung-des-lernstoffs-informatik-6",
+    "description": "Klassen und Objekte werden in der Informatik mit Klassen- und Objektkarten ... Ein Objekt der Klasse ABSATZ kann viele Objekte der Klasse ZEICHEN\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gwsg.net/index.php/elternbriefe-formulare-infos/download-center/category/1-informationen%3Fdownload%3D8:zusammenfassung-des-lernstoffs-informatik-6&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAh6BAgCEAE&usg=AOvVaw0qEq_Cspqyu5RLv4dDdX6T",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Erstes Plus in diesem Jahr: Mercedes-Absatz im November gestiegenwww.automobilwoche.de \u203a article \u203a AGENTURMELDUNGEN \u203a erstes-plu...",
+    "link": "https://www.automobilwoche.de/article/20201204/AGENTURMELDUNGEN/312049931/erstes-plus-in-diesem-jahr-mercedes-absatz-im-november-gestiegen",
+    "description": "04.12.2020 \u00b7 Mercedes E-Klasse: Der Absatz der Premiummarke ist im November zum ersten Mal in diesem Jahr gestiegen. (Foto: Daimler). Zum ersten Mal\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.automobilwoche.de/article/20201204/AGENTURMELDUNGEN/312049931/erstes-plus-in-diesem-jahr-mercedes-absatz-im-november-gestiegen&sa=U&ved=2ahUKEwiWj6uq0PDuAhXhw1kKHVO3BW44ChAWMAl6BAgDEAE&usg=AOvVaw16k2jyJp9Ah8GBjOOLYfhN",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Die Klasse Absatz 1 - LearningApps.orglearningapps.org \u203a ...",
+    "link": "https://learningapps.org/17023945",
+    "description": "28.01.2021 \u00b7 Klicke auf jede L\u00fccke und suche den richtigen Begriff.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://learningapps.org/17023945&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAB6BAgAEAE&usg=AOvVaw0_XDehrQ2ud41J2zGwacqF",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "LEEEC Autokopfst\u00fctze, Mercedes-Benz S-Klasse Maybach Mit ...www.amazon.de \u203a LEEEC-Autokopfst\u00fctze-Mercedes-Benz-Nackenkissen-A...",
+    "link": "https://www.amazon.de/LEEEC-Autokopfst%C3%BCtze-Mercedes-Benz-Nackenkissen-Autokissen/dp/B07VWS8SQK",
+    "description": "LEEEC Autokopfst\u00fctze, Mercedes-Benz S-Klasse Maybach Mit Gleichem Absatz Nackenkissen Autositz Autokissen 2-TLG, A: Amazon.de: K\u00fcche & Haushalt.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.amazon.de/LEEEC-Autokopfst%25C3%25BCtze-Mercedes-Benz-Nackenkissen-Autokissen/dp/B07VWS8SQK&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAF6BAgJEAE&usg=AOvVaw347Sd2mbhb2vTUc1RDr1IO",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Absatz 3 Nr. 1 - BASS 2020/2021 -bass.schul-welt.de \u203a Service",
+    "link": "https://bass.schul-welt.de/Service/6181.htm",
+    "description": "(1) In der Schuleingangsphase und in der Klasse 3 erhalten die Sch\u00fclerinnen und Sch\u00fcler Zeugnisse jeweils zum Ende des Schuljahres, in den Klassen 3 und 4\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://bass.schul-welt.de/Service/6181.htm&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAJ6BAgIEAE&usg=AOvVaw0DQAgpmDFxmZC4x764poUU",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "BASS 2020/2021 - 13-21 Nr. 1.1 Verordnung \u00fcber die Ausbildung ...bass.schul-welt.de \u203a ...",
+    "link": "https://bass.schul-welt.de/12691.htm",
+    "description": "7.7 zu Absatz 7. Zeugnisnoten f\u00fcr F\u00e4cher, die in fr\u00fcheren Klassen abgeschlossen worden sind, werden unter Angabe der Klasse, in der sie zuletzt unterrichtet\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://bass.schul-welt.de/12691.htm&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAN6BAgHEAE&usg=AOvVaw07Gsb_GfNUjRtvTMJsIgVO",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Mercedes Zulassungen im Oktober 2020 - JESMBjesmb.de \u203a ...",
+    "link": "https://jesmb.de/4564/",
+    "description": "07.11.2020 \u00b7 Mercedes E-Klasse Limousine Plug-in-Hybrid ... Weltweit gibt der Absatz von Mercedes-Benz Pkw leicht um 4,8% auf 195.966 Einheiten\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://jesmb.de/4564/&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAR6BAgDEAE&usg=AOvVaw2FUhR55DcXTwWx9ew5aG9r",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] NuT \u2013 Informatik, 6 - Gymnasium Schrobenhausengymnasium-schrobenhausen.de \u203a wp-content \u203a uploads \u203a 2019/07",
+    "link": "https://gymnasium-schrobenhausen.de/wp-content/uploads/2019/07/G9Informatik6.pdf",
+    "description": "Objekte der Klasse ABSATZ sind in Textdokumenten immer vorhanden. Wichtige Attribute mit den entsprechenden Werten sind: Ausrichtung, EinzugLinks,\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://gymnasium-schrobenhausen.de/wp-content/uploads/2019/07/G9Informatik6.pdf&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAV6BAgFEAE&usg=AOvVaw2mjxEUuJikSYVVElJxnFm4",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Premium-Absatz 2020: BMW r\u00fcckt n\u00e4her an Mercedes heranwww.bimmertoday.de \u203a 2021/01/14 \u203a premium-absatz-2020-bmw-ruckt-n...",
+    "link": "https://www.bimmertoday.de/2021/01/14/premium-absatz-2020-bmw-ruckt-naher-an-mercedes-heran/",
+    "description": "14.01.2021 \u00b7 Mit deutlichen Absatz-R\u00fcckg\u00e4ngen hatten im Jahr 2020 so gut wie alle gro\u00dfen ... Ein Oberklasse Kunde vergleicht die S-Klasse mit 7er/8er vs.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.bimmertoday.de/2021/01/14/premium-absatz-2020-bmw-ruckt-naher-an-mercedes-heran/&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAZ6BAgGEAE&usg=AOvVaw0tTCw6cjLpxNpLfXE18xUx",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "SGV Inhalt : Verordnung \u00fcber die Ausbildung und die ... - Recht NRWrecht.nrw.de \u203a lmi \u203a owa \u203a br_text_anzeigen",
+    "link": "https://recht.nrw.de/lmi/owa/br_text_anzeigen?v_id=10000000000000000640",
+    "description": "Die Klasse 5 kann einmal gem\u00e4\u00df \u00a7 21 Absatz 4 freiwillig wiederholt werden. (3) In der Erprobungsstufe werden dreimal im Schuljahr\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://recht.nrw.de/lmi/owa/br_text_anzeigen%3Fv_id%3D10000000000000000640&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAd6BAgCEAE&usg=AOvVaw1tRvvMsiyDniPW4BxyM9r-",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Schulordnung Grundschulen ... - REVOSax Landesrecht Sachsenwww.revosax.sachsen.de \u203a vorschrift \u203a 3886-Schulordnung-Grundschulen",
+    "link": "https://www.revosax.sachsen.de/vorschrift/3886-Schulordnung-Grundschulen",
+    "description": "Unterrichtsorganisation. \u00a7 9 Klassen- und Gruppenbildung. \u00a7 9. Klassen- und Gruppenbildung. (1) Der Unterricht wird in der Regel im Klassenverband erteilt.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.revosax.sachsen.de/vorschrift/3886-Schulordnung-Grundschulen&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAh6BAgEEAE&usg=AOvVaw0xsdeGrkKL5UvB3OWXc51w",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Anlage: (zu \u00a7 25 b Absatz 3) Fahrerlaubnis-Verordnung - Rechtsportalwww.rechtsportal.de \u203a Gesetze \u203a Gesetze \u203a Verkehrsrecht \u203a Anlage-zu-25-...",
+    "link": "https://www.rechtsportal.de/Gesetze/Gesetze/Verkehrsrecht/Fahrerlaubnis-Verordnung/Anlage-zu-25-b-Absatz-3-Fahrerlaubnis-Verordnung",
+    "description": "Anlage 8 d (zu \u00a7 25 b Absatz 3) Muster eines Internationalen F\u00fchrerscheins ... oder Kraftfahrzeuge der Klasse B mit einem Anh\u00e4nger, dessen Gesamtmasse\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.rechtsportal.de/Gesetze/Gesetze/Verkehrsrecht/Fahrerlaubnis-Verordnung/Anlage-zu-25-b-Absatz-3-Fahrerlaubnis-Verordnung&ved=2ahUKEwie3uCq0PDuAhUS1VkKHXuODtQ4FBAWMAl6BAgBEAE&usg=AOvVaw3K32l6RBQXivsNwntgwCXc",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Verordnung \u00fcber die Genehmigung von Leistungs- und ... - BRAVORS  bravors.brandenburg.de \u203a verordnungen \u203a lubkv",
+    "link": "https://bravors.brandenburg.de/verordnungen/lubkv",
+    "description": "Verordnung \u00fcber die Genehmigung von Leistungs- und ... - BRAVORS",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://bravors.brandenburg.de/verordnungen/lubkv&ved=2ahUKEwiJr5er0PDuAhXopVkKHT0nBZM4HhAWMAF6BAgIEAE&usg=AOvVaw3tObN-XjqOGolWyJ-u2519",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "\u00a7 31 Fahrerlaubnisverordnung - Fahrerlaubnisrecht  www.fahrerlaubnisrecht.de \u203a FeV31",
+    "link": "https://www.fahrerlaubnisrecht.de/FeV%20neu/FeV31.htm",
+    "description": "\u00a7 31 Fahrerlaubnisverordnung - Fahrerlaubnisrecht",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.fahrerlaubnisrecht.de/FeV%2520neu/FeV31.htm&ved=2ahUKEwiJr5er0PDuAhXopVkKHT0nBZM4HhAWMAJ6BAgGEAE&usg=AOvVaw1_B_6Diu2yQv2jgh9TlPIg",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Mercedes-Benz Fanwissen & Absatzzahlen aus dem Jahr 2020.  www.mercedes-benz.com \u203a fahrzeuge \u203a personenwagen \u203a mercedes-benz-f...",
+    "link": "https://www.mercedes-benz.com/de/fahrzeuge/personenwagen/mercedes-benz-fanwissen-und-absatzzahlen-aus-dem-jahr-2020/",
+    "description": "Mercedes-Benz Fanwissen & Absatzzahlen aus dem Jahr 2020.",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.mercedes-benz.com/de/fahrzeuge/personenwagen/mercedes-benz-fanwissen-und-absatzzahlen-aus-dem-jahr-2020/&ved=2ahUKEwiJr5er0PDuAhXopVkKHT0nBZM4HhAWMAN6BAgJEAE&usg=AOvVaw1l_2gEiBuH7ZSDmlXpVx6W",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Mehr S-Klasse: Die riskante Luxusstrategie von Daimler - WiWo  www.wiwo.de \u203a Unternehmen \u203a Auto",
+    "link": "https://www.wiwo.de/unternehmen/auto/mehr-s-klasse-geraet-daimler-in-die-luxusfalle/26250522.html",
+    "description": "Mehr S-Klasse: Die riskante Luxusstrategie von Daimler - WiWo",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.wiwo.de/unternehmen/auto/mehr-s-klasse-geraet-daimler-in-die-luxusfalle/26250522.html&ved=2ahUKEwiJr5er0PDuAhXopVkKHT0nBZM4HhAWMAR6BAgHEAE&usg=AOvVaw1N-JGXYFd7yylVl7p-HwMF",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Anmeldung einer Abschlussfeier zum Schulabschluss nach \u00a7 13 ...  www.uebach-palenberg.de \u203a media \u203a custom",
+    "link": "https://www.uebach-palenberg.de/media/custom/3345_1624_1.PDF?1593019500",
+    "description": "[PDF] Anmeldung einer Abschlussfeier zum Schulabschluss nach \u00a7 13 ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.uebach-palenberg.de/media/custom/3345_1624_1.PDF%3F1593019500&ved=2ahUKEwiJr5er0PDuAhXopVkKHT0nBZM4HhAWMAV6BAgBEAE&usg=AOvVaw0SzNhdn4BOoHQDfMg5_nY9",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Klassen | CSS-Lernen.net  www.css-lernen.net \u203a klassen",
+    "link": "http://www.css-lernen.net/klassen.html",
+    "description": "Klassen | CSS-Lernen.net",
+    "googleLink": null,
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Pumps Oberteil -klasse - Leder \u201eSchwarz\u201c Und Absatz \u201eRot\u201c - I. Bossi ...  www.ebay.de \u203a ... \u203a Vintage-Mode \u203a Vintage-Schuhe f\u00fcr Damen",
+    "link": "https://www.ebay.de/itm/Pumps-Oberteil-klasse-Leder-Schwarz-Und-Absatz-Rot-I-Bossi-T-39-5-/152881476529",
+    "description": "Pumps Oberteil -klasse - Leder \u201eSchwarz\u201c Und Absatz \u201eRot\u201c - I. Bossi ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.ebay.de/itm/Pumps-Oberteil-klasse-Leder-Schwarz-Und-Absatz-Rot-I-Bossi-T-39-5-/152881476529&ved=2ahUKEwiJr5er0PDuAhXopVkKHT0nBZM4HhAWMAd6BAgCEAE&usg=AOvVaw2B6H5Ilbd-Y49b6KC7QcPM",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Neue E-Klasse gefragt: Mercedes-Absatz sinkt im Mai - n-tv.de  www.n-tv.de \u203a Archiv",
+    "link": "https://www.n-tv.de/archiv/Mercedes-Absatz-sinkt-im-Mai-article126720.html?ntvDuo=true",
+    "description": "Neue E-Klasse gefragt: Mercedes-Absatz sinkt im Mai - n-tv.de",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.n-tv.de/archiv/Mercedes-Absatz-sinkt-im-Mai-article126720.html%3FntvDuo%3Dtrue&ved=2ahUKEwiJr5er0PDuAhXopVkKHT0nBZM4HhAWMAh6BAgFEAE&usg=AOvVaw1d7Hh1ec9qcNPhC2KHvphf",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Tesla im Blick: Daimler steigert Absatz von Elektro- und Hybridautos ...  www.iwr.de \u203a news \u203a tesla-im-blick-daimler-steigert-absatz-von-elektro-un...",
+    "link": "https://www.iwr.de/news/tesla-im-blick-daimler-steigert-absatz-von-elektro-und-hybridautos-im-jahr-2020-deutlich-news37172",
+    "description": "Tesla im Blick: Daimler steigert Absatz von Elektro- und Hybridautos ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.iwr.de/news/tesla-im-blick-daimler-steigert-absatz-von-elektro-und-hybridautos-im-jahr-2020-deutlich-news37172&ved=2ahUKEwiJr5er0PDuAhXopVkKHT0nBZM4HhAWMAl6BAgEEAE&usg=AOvVaw0QkFDy4HbIgHBGVR3Q-PR1",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Wie f\u00fcgt man einen Absatz in ein Textdokument ein? Wie kann ich in ...www.joachimhofmann.org \u203a Klasse6 \u203a 03_L_Klasse-Absatz",
+    "link": "http://www.joachimhofmann.org/Klasse6/3%20Textdokumente/03_L_Klasse-Absatz.pdf",
+    "description": "Klasse TEXTDOKUMENT. Aufgabe 03. \u00c4ndere die Umrandung deines Absatzes. Umrande den Absatz, der deine Kartennummer und Rasse enth\u00e4lt mit einer.",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Th\u00fcringer Schulordnung - Freistaat Th\u00fcringenwww.thueringen.de \u203a publikationen \u203a pic \u203a pubdownload1245",
+    "link": "https://www.thueringen.de/de/publikationen/pic/pubdownload1245.pdf",
+    "description": "le w\u00e4hlen die Sch\u00fcler einer Klasse zur Ein- \u00fcbung demokratischer ... nach Absatz 6 Satz 4 Klassen- oder Stamm- ... Absatz 2 und f\u00fcr die Th\u00fcringer Oberstufe.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.thueringen.de/de/publikationen/pic/pubdownload1245.pdf&ved=2ahUKEwjHwsyr0PDuAhUJ1lkKHfMQDNU4KBAWMAF6BAgJEAE&usg=AOvVaw0I5SCVrx77mfGojVSpbO59",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Neue Mercedes G-Klasse (2019): Liefertermin 2020 | AUTO MOTOR ...www.auto-motor-und-sport.de \u203a SUV \u203a Neuvorstellungen & Erlk\u00f6nige",
+    "link": "https://www.auto-motor-und-sport.de/neuheiten/mercedes-g-klasse-w-465-464-2019/",
+    "description": "04.01.2018 \u00b7 Mit steigender Tendenz: \u201eSowohl im April als auch seit Jahresbeginn 2019 wuchs der weltweite Absatz der G-Klasse stark zweistellig auf einen\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.auto-motor-und-sport.de/neuheiten/mercedes-g-klasse-w-465-464-2019/&ved=2ahUKEwjHwsyr0PDuAhUJ1lkKHfMQDNU4KBAWMAJ6BAgIEAE&usg=AOvVaw10HAdGPjIHrFHaYYP52APv",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Wie Mercedes-Tuner AMG den Absatz mit Hilfe der A-Klasse ...www.spiegel.de \u203a Mobilit\u00e4t",
+    "link": "https://www.spiegel.de/fotostrecke/wie-mercedes-tuner-amg-den-absatz-mit-hilfe-der-a-klasse-erhoehen-will-fotostrecke-83601.html",
+    "description": "16.06.2012 \u00b7 Auf die Dauer hilft nur Power: Der Mercedes-Tuner AMG hat einen F\u00fcnfjahresplan verk\u00fcndet. Bis 2017 sollen acht neue Modelle auf den Markt\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.spiegel.de/fotostrecke/wie-mercedes-tuner-amg-den-absatz-mit-hilfe-der-a-klasse-erhoehen-will-fotostrecke-83601.html&ved=2ahUKEwjHwsyr0PDuAhUJ1lkKHfMQDNU4KBAWMAN6BAgHEAE&usg=AOvVaw3Pjgy8A1px1AA0FY0CpeXZ",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "SUV und Limousine zugleich: Daimler plant neue Autoklassewww.businessinsider.de \u203a Wirtschaft \u203a Mobility",
+    "link": "https://www.businessinsider.de/wirtschaft/mobility/suv-und-limousine-zugleich-daimler-plant-neue-autoklasse/",
+    "description": "06.10.2020 \u00b7 Der Absatz des Autokonzerns ist von der Corona-Krise stark ... 2025 die A-Klasse\u200b-Limousine ersetzen und sowohl rein elektrisch als auch als\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.businessinsider.de/wirtschaft/mobility/suv-und-limousine-zugleich-daimler-plant-neue-autoklasse/&ved=2ahUKEwjHwsyr0PDuAhUJ1lkKHfMQDNU4KBAWMAR6BAgDEAE&usg=AOvVaw2jN9s8RWYwy_3-IsEWw3Le",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Absatz (Text) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Absatz_(Text)",
+    "link": "https://de.wikipedia.org/wiki/Absatz_(Text)",
+    "description": "In der Textgestaltung beschreibt ein Absatz, lateinisch passus, einen aus einem oder mehreren S\u00e4tzen bestehenden Abschnitt eines fortlaufenden Textes.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://de.wikipedia.org/wiki/Absatz_(Text)&ved=2ahUKEwjHwsyr0PDuAhUJ1lkKHfMQDNU4KBAWMAV6BAgBEAE&usg=AOvVaw1viD_9W1vqrsizt6RCdszx",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "zu \u00a7 4 Absatz 10 - ELWISwww.elwis.de \u203a Seeschifffahrtsrecht \u203a GGVSee \u203a Richtlinien \u203a zu-4-Absatz...",
+    "link": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/GGVSee/Richtlinien/zu-4-Absatz-10/zu-4-Absatz-10-node.html",
+    "description": "Klasse 7, Jeder Austritt/Verlust. Klasse 1: 1.1, 1.2, 1.3, 1.4L, 1.5D, UN 0190, 50 kg / 50 l. Klasse 2.3, 50 kg / 50 l. Klasse 3: Verpackungsgruppe I und UN 3343\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/GGVSee/Richtlinien/zu-4-Absatz-10/zu-4-Absatz-10-node.html&ved=2ahUKEwjHwsyr0PDuAhUJ1lkKHfMQDNU4KBAWMAZ6BAgGEAE&usg=AOvVaw3NKPM0i3agaLsRJaemq8DL",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Verordnung \u00fcber die Zulassung von Personen zum Stra\u00dfenverkehr ...ra.de \u203a gesetze \u203a fev-2010 \u203a eingangsformel",
+    "link": "https://ra.de/gesetze/fev-2010/eingangsformel",
+    "description": "(1) Die Fahrerlaubnis wird in folgenden Klassen erteilt: Klasse AM: \u2013: leichte zweir\u00e4drige Kraftfahrzeuge der Klasse L1e-B nach Artikel 4 Absatz 2 Buchstabe a\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://ra.de/gesetze/fev-2010/eingangsformel&ved=2ahUKEwjHwsyr0PDuAhUJ1lkKHfMQDNU4KBAWMAd6BAgEEAE&usg=AOvVaw13NwmSo7uOws9w7rEwjcQO",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Unmittelbar an das EUIPO zu entrichtende Geb\u00fchren - Europa EUeuipo.europa.eu \u203a ohimportal \u203a web \u203a guest \u203a fees-payable-direct-to-euipo",
+    "link": "https://euipo.europa.eu/ohimportal/de/web/guest/fees-payable-direct-to-euipo",
+    "description": "11.09.2017 \u00b7 F-002, Geb\u00fchr f\u00fcr jede Waren- und Dienstleistungsklasse ab der dritten Klasse f\u00fcr eine Unionsmarke (Artikel 31 Absatz 2 UMV), 150 EUR.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://euipo.europa.eu/ohimportal/de/web/guest/fees-payable-direct-to-euipo&ved=2ahUKEwjHwsyr0PDuAhUJ1lkKHfMQDNU4KBAWMAh6BAgCEAE&usg=AOvVaw2_-sBDkdr-LeSUnei8dDsq",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Erfolgreiches Jahr f\u00fcr Daimler Trucks: Absatz 2017 steigt deutlich ...autobrinkmann.de \u203a Mercedes-Benz LKW",
+    "link": "https://autobrinkmann.de/erfolgreiches-jahr-fuer-daimler-trucks-absatz-2017-steigt-deutlich-ueber-vorjahr-groessenordnung-von-465-000-lkw-erwartet/",
+    "description": "02.01.2018 \u00b7 Der neue CLA Shooting Brake \u00b7 Die neue E-Klasse \u00b7 Der neue EQV ... bei Daimler Trucks einen Absatz in der Gr\u00f6\u00dfenordnung von 465.000 Lkw\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://autobrinkmann.de/erfolgreiches-jahr-fuer-daimler-trucks-absatz-2017-steigt-deutlich-ueber-vorjahr-groessenordnung-von-465-000-lkw-erwartet/&ved=2ahUKEwjHwsyr0PDuAhUJ1lkKHfMQDNU4KBAWMAl6BAgFEAE&usg=AOvVaw0--nuDatiGzDnMi8p3ZuJ0",
+    "page": 4,
+    "index": 9
+  }
+]

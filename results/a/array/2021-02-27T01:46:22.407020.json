@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Array \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Array",
+    "link": "https://de.wikipedia.org/wiki/Array",
+    "description": "Ein Array [\u0259\u02c8\u0279e\u026a] (von englisch array \u201aAnordnung', \u201aBereich', \u201aFeld', \u201aGruppe') steht: in der Akustik f\u00fcr Mikrofongruppen, siehe Beamforming.",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Array&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QFnoECAQQAg&usg=AOvVaw0Y50WuSDNgYLCMYCLI5qAe",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Feld (Datentyp) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Feld_(Datentyp)",
+    "link": "https://de.wikipedia.org/wiki/Feld_(Datentyp)",
+    "description": "Ein Feld (englisch field, array [\u0259\u02c8\u0279e\u026a] (Betonung auf 2. Silbe) f\u00fcr \u201aAnordnung', \u201a\u200bAufstellung' usw.) ist in der Informatik eine Datenstruktur-Variante, mit deren\u00a0...\nBegriffe \u00b7 Sprachspezifische ... \u00b7 Feldvarianten \u00b7 Dimensionen",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Feld_(Datentyp)&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QFjATegQIBhAB&usg=AOvVaw1cVkd0FUEs02-EM1vqqqfe",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Array - Informatik - GYMIPROwww.gymipro.de \u203a informatik \u203a tutorial \u203a java \u203a array",
+    "link": "http://www.gymipro.de/informatik/tutorial/java/array.htm",
+    "description": "02.03.2004 \u00b7 Array. Arrays oder Felder sind Objekte in Java. Ein Array ist eine Aneinanderreihung von Elementen eines festen Datentyps. Anschauliche\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.gymipro.de/informatik/tutorial/java/array.htm&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QFjAUegQIDBAB&usg=AOvVaw1iI1O4_VQd1z9YzXcUok02",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Arrays - Manual - PHPwww.php.net \u203a manual \u203a language.types.array.php",
+    "link": "https://www.php.net/manual/de/language.types.array.php",
+    "description": "Arrays \u00b6. Ein Array in PHP ist tats\u00e4chlich eine geordnete Map. Eine Map ist ein Typ, der Werte zu Schl\u00fcsseln zuordnet. Dieser Typ ist f\u00fcr einige verschiedene\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.php.net/manual/de/language.types.array.php&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QFjAVegQIBRAB&usg=AOvVaw1Tbe4DwA1W0jqFVpCrNVfq",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Java Array \u2022 Erkl\u00e4rung + Beispiele \u00b7 [mit Video] - Studyflixstudyflix.de \u203a informatik \u203a java-array-1898",
+    "link": "https://studyflix.de/informatik/java-array-1898",
+    "description": "29.03.2020 \u00b7 Java Array einfach mit Beispielen erkl\u00e4rt \u2713 Array length und Sortierung \u2713 mehrdimensionale ...Dauer: 3:50\nGepostet: 29.03.2020",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/informatik/java-array-1898&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QtwIwFnoECA0QAQ&usg=AOvVaw0TmHgyZ7XE28bOD1ADYKCr",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Arrays C \u2013 einfach erkl\u00e4rt f\u00fcr dein Informatik-Studium \u00b7 [mit Video]studyflix.de \u203a informatik \u203a arrays-802",
+    "link": "https://studyflix.de/informatik/arrays-802",
+    "description": "29.11.2018 \u00b7 Programmieren von Arrays. Deklariert wird ein Array so: type array_name ...Dauer: 3:51\nGepostet: 29.11.2018",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/informatik/arrays-802&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QtwIwG3oECAEQAQ&usg=AOvVaw1naUYl2rDNxS4Ut4oTs-1M",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Array - JavaScript | MDNdeveloper.mozilla.org \u203a ... \u203a Globale Objekte",
+    "link": "https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "description": "15.10.2020 \u00b7 Das JavaScript-Array ist ein globales Objekt und Konstruktor f\u00fcr das Erstellen von Arrays, welche listen\u00e4hnliche Objekte sind.",
+    "googleLink": "http://www.google.com/url?q=https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QFjAcegQIABAB&usg=AOvVaw1jTeykbp3xlgm3tGHZgQ5i",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Arrays - Michael Kippmichaelkipp.de \u203a processing \u203a 08 arrays",
+    "link": "https://michaelkipp.de/processing/08%20arrays.html",
+    "description": "18.01.2020 \u00b7 Array ausgeben. In Processing k\u00f6nnen Sie \u00fcbrigens mit println(zahlen);. sehr bequem die Inhalte eines Arrays betrachten, die jeweilige\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://michaelkipp.de/processing/08%2520arrays.html&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QFjAdegQICBAB&usg=AOvVaw3P2thRne9oblLaLll3SEkb",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Arrays | Informatik - Programmieren lernen mit C++www.programmieren-lernen-cplusplus.de \u203a arrays",
+    "link": "https://www.programmieren-lernen-cplusplus.de/arrays/",
+    "description": "Arrays beinhalten stets Variablen desselben Datentyps, wie Integer oder Float. Schauen wir uns nun an, wie du ein Array konkret deklarieren kannst. Da stehen dir\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.programmieren-lernen-cplusplus.de/arrays/&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QFjAeegQIChAB&usg=AOvVaw0Hr8bi2da1RijLq9WJbj-I",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Array \u2022 Definition | Gabler Wirtschaftslexikonwirtschaftslexikon.gabler.de \u203a ... \u203a Grundlagen der Wirtschaftsinformatik",
+    "link": "https://wirtschaftslexikon.gabler.de/definition/array-29919",
+    "description": "Die Elemente des Array werden durch Indizierung des Arraynamens angesprochen. 2. Arten: Array kann mehrere Dimensionen aufweisen. Sprechweise in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wirtschaftslexikon.gabler.de/definition/array-29919&sa=U&ved=2ahUKEwixqYC064jvAhWUQEEAHQmLBO8QFjAfegQIBxAB&usg=AOvVaw0b5C4lI5G8CiMUQfAGh3MP",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Arrays - Java Tutorial 10 Gehe auf SIMPLECLUB.DE/GO & werde ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=SRJZ1XmqHfA",
+    "description": "18.12.2016 \u00b7 Wir erkl\u00e4ren euch den Unterschied zwischen Array und Variable und was hier hier beim ...Dauer: 7:02\nGepostet: 18.12.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DSRJZ1XmqHfA&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChC3AjAAegQIBBAB&usg=AOvVaw0sVOfzIdsKCXZvMihgDWvt",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Was ist ein Array | Algorithmen und Datenstrukturen - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=_di2Vk8ruAQ",
+    "description": "09.02.2019 \u00b7 Inhalt In diesem Video lernst du, was man unter der Datenstruktur \"Array\" versteht und ...Dauer: 2:59\nGepostet: 09.02.2019",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D_di2Vk8ruAQ&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChC3AjABegQIBhAB&usg=AOvVaw0vC3iZ0-se4oo7MgFTAsUo",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Array.CreateInstance Methode (System) | Microsoft Docsdocs.microsoft.com \u203a ... \u203a .NET API-Browser \u203a System \u203a Array \u203a Methoden",
+    "link": "https://docs.microsoft.com/de-de/dotnet/api/system.array.createinstance",
+    "description": "Initialisiert eine neue Instanz der Array-Klasse.Initializes a new instance of the Array class.",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/dotnet/api/system.array.createinstance&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChAWMAJ6BAgHEAE&usg=AOvVaw3FGdR-NO3X-_V8JnBHNCUx",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Array Klasse (System) | Microsoft Docsdocs.microsoft.com \u203a Docs \u203a .NET \u203a .NET API-Browser \u203a System",
+    "link": "https://docs.microsoft.com/de-de/dotnet/api/system.array",
+    "description": "using System; public class SamplesArray { public static void Main() { // Creates and initializes a new integer array and a new Object array. int[] myIntArray = new\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/dotnet/api/system.array&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChAWMAN6BAgIEAE&usg=AOvVaw0Fusm3qcOMVmDlWJKNQ7Fn",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Array: Bedeutung, Definition, Synonym - Wortbedeutung.infowww.wortbedeutung.info \u203a Array",
+    "link": "https://www.wortbedeutung.info/Array/",
+    "description": "2) Ein Array ist eine Variable, die f\u00fcr mehrere Werte steht. 2) In alten FORTRAN-\u200bVersionen konnte man Arrays nicht dynamisch erzeugen und musste sie mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wortbedeutung.info/Array/&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChAWMAR6BAgBEAE&usg=AOvVaw3EhJiqAlNEeZ3-fp1hrDmH",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Array \u2013 Wiktionaryde.wiktionary.org \u203a wiki \u203a Array",
+    "link": "https://de.wiktionary.org/wiki/Array",
+    "description": "[2] Ein Array ist eine Variable, die f\u00fcr mehrere Werte steht. [2] In alten FORTRAN-\u200bVersionen konnte man Arrays nicht dynamisch erzeugen und musste sie mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wiktionary.org/wiki/Array&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChAWMAV6BAgFEAE&usg=AOvVaw0l0laILvGHCCanHBWaYNdq",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "array - LEO: \u00dcbersetzung im Englisch \u21d4 Deutsch W\u00f6rterbuchdict.leo.org \u203a englisch-deutsch \u203a array",
+    "link": "https://dict.leo.org/englisch-deutsch/array",
+    "description": "Lernen Sie die \u00dcbersetzung f\u00fcr 'array' in LEOs Englisch \u21d4 Deutsch W\u00f6rterbuch. Mit Flexionstabellen der verschiedenen F\u00e4lle und Zeiten \u2713 Aussprache und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dict.leo.org/englisch-deutsch/array&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChAWMAZ6BAgCEAE&usg=AOvVaw3Ham7SdH_CYeu_gf9t9USB",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Array | Apple Developer Documentationdeveloper.apple.com \u203a documentation \u203a swift \u203a array",
+    "link": "https://developer.apple.com/documentation/swift/array",
+    "description": "An array can store any kind of elements\u2014from integers to strings to classes. Swift makes it easy to create arrays in your code using an array literal: simply surround\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://developer.apple.com/documentation/swift/array&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChAWMAd6BAgAEAE&usg=AOvVaw2HSDqTSpwpSl2yp1TbIUPa",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Arrays (The Java\u2122 Tutorials > Learning the Java Language ...docs.oracle.com \u203a tutorial \u203a java \u203a nutsandbolts \u203a ar...",
+    "link": "https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html",
+    "description": "Arrays. An array is a container object that holds a fixed number of values of a single type. The length of an array is established when\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChAWMAh6BAgDEAE&usg=AOvVaw0ynMYD6PmUDsJza703NKjr",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Array in PHP nutzen - Daten in Feldern speichern - PHP-Kurs.comwww.php-kurs.com \u203a arrays",
+    "link": "https://www.php-kurs.com/arrays.htm",
+    "description": "In Arrays k\u00f6nnen viele Daten hinterlegt, ausgegeben, durchsucht und sortiert werden. Die Bedeutung des englischen Begriffes Array ist \u201eAnordnung\u201c, \u201e\u200bAufstellung\u201c\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.php-kurs.com/arrays.htm&sa=U&ved=2ahUKEwjjmLK064jvAhWQh1wKHcqfDiE4ChAWMAl6BAgJEAE&usg=AOvVaw2AMIxHdkn6oDCvT6QAhls9",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "SELFHTML: JavaScript / Objektreferenz / Arrayeuklid.mi.uni-koeln.de \u203a doc \u203a html \u203a selfhtml-7.0 \u203a tecc",
+    "link": "http://euklid.mi.uni-koeln.de/c/doc/html/selfhtml-7.0/tecc.htm",
+    "description": "Array: Allgemeines zur Verwendung. Das Objekt Array ist als \"Container\" f\u00fcr Ketten gleichartiger Variablen gedacht. In der Programmierersprache spricht man\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://euklid.mi.uni-koeln.de/c/doc/html/selfhtml-7.0/tecc.htm&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAB6BAgCEAE&usg=AOvVaw25zo6ZTE5usVNVJhYgCdtQ",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "SELFHTML: JavaScript / Objekt-Referenz / Arraywww.dorn.org \u203a docs \u203a selfhtml \u203a javascript \u203a objekte \u203a array",
+    "link": "http://www.dorn.org/docs/selfhtml/javascript/objekte/array.htm",
+    "description": "Array: Allgemeines zur Verwendung. Das Objekt Array ist als \"Container\" f\u00fcr Ketten gleichartiger Variablen gedacht. In der Programmierersprache spricht man\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.dorn.org/docs/selfhtml/javascript/objekte/array.htm&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAF6BAgIEAE&usg=AOvVaw0ps6ear40n57gV8Vk85eml",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Array - Adobe ActionScript\u00ae 3 (AS3 ) API-Referenzhelp.adobe.com \u203a de_DE \u203a FlashPlatform \u203a reference \u203a actionscript \u203a Array",
+    "link": "https://help.adobe.com/de_DE/FlashPlatform/reference/actionscript/3/Array.html",
+    "description": "Die Array-Klasse erm\u00f6glicht den Zugriff und die Bearbeitung von Arrays. Alle Arrays haben die Basis null, d. h., das erste Element im Array ist [0] , das zweite\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://help.adobe.com/de_DE/FlashPlatform/reference/actionscript/3/Array.html&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAJ6BAgHEAE&usg=AOvVaw20SVZ5Jpqr7QSEyJL12XoD",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Array \\ Language (API) \\ Processing 3+processing.org \u203a reference \u203a Array",
+    "link": "https://processing.org/reference/Array.html",
+    "description": "01.01.2021 \u00b7 Array. Examples. int[] numbers = new int[3]; numbers[0] = 90; // Assign value to first element\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://processing.org/reference/Array.html&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAN6BAgJEAE&usg=AOvVaw23vTfzbXx1wDuba04souRZ",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Array \u2013 Schreibung, Definition, Bedeutung, Synonyme, Beispiele ...www.dwds.de \u203a Array",
+    "link": "https://www.dwds.de/wb/Array",
+    "description": "Verwendungsbeispiele f\u00fcr \u203aArray\u2039. maschinell ausgesucht aus den DWDS-\u200bKorpora. Mit einem Array dieser Gr\u00f6\u00dfe kann man nat\u00fcrlich nicht arbeiten. C't\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dwds.de/wb/Array&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAR6BAgDEAE&usg=AOvVaw1gj9lk9ouWRDPpZZSjXlAg",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "PHP - Was ist ein Array? - Php Scriptwww.php-space.info \u203a php \u203a space \u203a was-ist-ein-array",
+    "link": "https://www.php-space.info/php/space/was-ist-ein-array.php",
+    "description": "Ein Array ist ein Datentyp, wo man beliebig viele Werte abspeichern kann. W\u00e4hrend in einer Variable immer ausschlie\u00dflich ein einzelner Datentyp enth\u00e4lt, kann\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.php-space.info/php/space/was-ist-ein-array.php&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAV6BAgEEAE&usg=AOvVaw1_EvfcFIrEtR2TUtrt88sl",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "array - Deutsch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a englisch-deutsch \u203a uebersetzung \u203a array",
+    "link": "https://www.linguee.de/englisch-deutsch/uebersetzung/array.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"array\" \u2013 Deutsch-Englisch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von Deutsch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/englisch-deutsch/uebersetzung/array.html&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAZ6BAgBEAE&usg=AOvVaw2wiSe-gngGBJVyEkdy8Bxi",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "array \u2014 Efficient arrays of numeric values \u2014 Python 3.9.2 ...docs.python.org \u203a library \u203a array",
+    "link": "https://docs.python.org/3/library/array.html",
+    "description": "array \u2014 Efficient arrays of numeric values\u00b6. This module defines an object type which can compactly represent an array of basic values: characters, integers,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.python.org/3/library/array.html&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAd6BAgGEAE&usg=AOvVaw0R9RXB1SiqBoZCNG-b1M1i",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Array in PHP nutzen - Daten in Feldern speichern - PHP-Kurs.comwww.php-kurs.com \u203a arrays",
+    "link": "https://www.php-kurs.com/arrays.htm",
+    "description": "In einem Array werden viele Daten gespeichert, auf die gezielt wieder zugegriffen werden kann. Aufbau und Nutzen von Arrays in PHP.",
+    "googleLink": "http://www.google.com/url?q=https://www.php-kurs.com/arrays.htm&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAh6BAgAEAE&usg=AOvVaw1D1NfCGCQpL2we3CGFRW_D",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "JavaScript/Objekte/Array \u2013 SELFHTML-Wikiwiki.selfhtml.org \u203a wiki \u203a JavaScript \u203a Objekte \u203a Array",
+    "link": "https://wiki.selfhtml.org/wiki/JavaScript/Objekte/Array",
+    "description": "25.10.2016 \u00b7 \u00dcber das in der Eigenschaft prototype von Array hinterlegte Objekt wird eine Vielzahl an Methoden an alle Arrayinstanzen vererbt. Auf diese\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.selfhtml.org/wiki/JavaScript/Objekte/Array&sa=U&ved=2ahUKEwi-rtW064jvAhVOeMAKHccOCb84FBAWMAl6BAgFEAE&usg=AOvVaw0FEyD4n09LHnSxWDHxle3t",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "array | \u00dcbersetzung Englisch-Deutsch - Dict.ccwww.dict.cc \u203a s=array",
+    "link": "https://www.dict.cc/?s=array",
+    "description": "dict.cc | \u00dcbersetzungen f\u00fcr 'array' im Englisch-Deutsch-W\u00f6rterbuch, mit echten Sprachaufnahmen, Illustrationen, Beugungsformen, ...",
+    "googleLink": "http://www.google.com/url?q=https://www.dict.cc/%3Fs%3Darray&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAB6BAgCEAE&usg=AOvVaw1ZKxKsK6O98Q4R0Y4xvmtO",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Array \u2013 Schreibung, Definition, Bedeutung, Synonyme, Beispiele ...www.dwds.de \u203a Array",
+    "link": "https://www.dwds.de/wb/Array",
+    "description": "Verwendungsbeispiele f\u00fcr \u203aArray\u2039. maschinell ausgesucht aus den DWDS-\u200bKorpora. Mit einem Array dieser Gr\u00f6\u00dfe kann man nat\u00fcrlich nicht arbeiten. C't\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dwds.de/wb/Array&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAF6BAgIEAE&usg=AOvVaw2V7-ifA2ghHq_9C4YW1sn4",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "PHP/Tutorials/Einstieg/Arrays \u2013 SELFHTML-Wikiwiki.selfhtml.org \u203a wiki \u203a PHP \u203a Tutorials \u203a Einstieg \u203a Arrays",
+    "link": "https://wiki.selfhtml.org/wiki/PHP/Tutorials/Einstieg/Arrays",
+    "description": "06.01.2021 \u00b7 Statt Arrays zu \u201eerfinden\u201c, k\u00f6nnte man auch einfach mehrere Variablen verwenden. Das Array hat aber den Vorteil, eine in sich abgeschlossene\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.selfhtml.org/wiki/PHP/Tutorials/Einstieg/Arrays&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAJ6BAgJEAE&usg=AOvVaw388mga09N5ouT5J_0Kg4LD",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "array - Lexikon der Mathematik - Spektrumwww.spektrum.de \u203a Lexika \u203a Lexikon der Mathematik",
+    "link": "https://www.spektrum.de/lexikon/mathematik/array/784",
+    "description": "Soll zum Beispiel ein Vektor aus reellen Zahlen oder eine Matrix aus ganzen Zahlen verarbeitet werden, so verwendet man dazu einen array. Darunter versteht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.spektrum.de/lexikon/mathematik/array/784&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAN6BAgHEAE&usg=AOvVaw1qx0k9OTsgSuoTzi5O1tKB",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Array - lernen mit Serlo!de.serlo.org \u203a informatik \u203a array",
+    "link": "https://de.serlo.org/informatik/143284/array",
+    "description": "Eindimensionaler Array. Eigenschaften. Eindimensionale Arrays funktionieren prinzipiell wie eine einfache Liste mit Werten einer bestimmten Art. Sie haben\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/143284/array&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAR6BAgGEAE&usg=AOvVaw1CaQ2bdjfrh3YL-y5JgPh5",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "array - Deutsch-\u00dcbersetzung - Langenscheidt Englisch-Deutsch ...de.langenscheidt.com \u203a englisch-deutsch \u203a array",
+    "link": "https://de.langenscheidt.com/englisch-deutsch/array",
+    "description": "\u00dcbersetzung f\u00fcr 'array' im kostenlosen Englisch-Deutsch W\u00f6rterbuch von LANGENSCHEIDT \u2013 mit Beispielen, Synonymen und Aussprache.",
+    "googleLink": "http://www.google.com/url?q=https://de.langenscheidt.com/englisch-deutsch/array&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAV6BAgDEAE&usg=AOvVaw33BRhGx8BHtynl9MTzbV23",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Java: Arrays | informatikZentralewww.informatikzentrale.de \u203a java-arrays",
+    "link": "https://www.informatikzentrale.de/java-arrays.html",
+    "description": "Einer neuen Variablen wird der Wert des aktuellen Elements zugewiesen. Sie sind jetzt bereit f\u00fcr Aufgabe 3 unten (\"Java_30-Arrays-3: Array mit Schleifen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.informatikzentrale.de/java-arrays.html&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAZ6BAgFEAE&usg=AOvVaw1epHbcXV6vFljqc8-PknCV",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Array: Definition & Beispiele - Unternehmer.deunternehmer.de \u203a A",
+    "link": "https://unternehmer.de/lexikon/it-lexikon/array",
+    "description": "Arrays k\u00f6nnen ein- oder zweidimensional sein und werden nach standard Arrays und assoziativen Arrays unterschieden. Standard Array: Daten werden \u00fcber\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://unternehmer.de/lexikon/it-lexikon/array&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAd6BAgAEAE&usg=AOvVaw1t0Yfki8RjO8AZPgJCvxQi",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "array \u2014 Efficient arrays of numeric values \u2014 Python 3.9.2 ...docs.python.org \u203a library \u203a array",
+    "link": "https://docs.python.org/3/library/array.html",
+    "description": "array \u2014 Efficient arrays of numeric values\u00b6. This module defines an object type which can compactly represent an array of basic values: characters, integers,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.python.org/3/library/array.html&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAh6BAgEEAE&usg=AOvVaw0vqUHctYeT8LCutbpIeO-J",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "PHP - Was ist ein Array? - Php Scriptwww.php-space.info \u203a php \u203a space \u203a was-ist-ein-array",
+    "link": "https://www.php-space.info/php/space/was-ist-ein-array.php",
+    "description": "Ein Array ist ein Datentyp, wo man beliebig viele Werte abspeichern kann. W\u00e4hrend in einer Variable immer ausschlie\u00dflich ein einzelner Datentyp enth\u00e4lt, kann\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.php-space.info/php/space/was-ist-ein-array.php&sa=U&ved=2ahUKEwjCxoK164jvAhXCgVwKHY49DoE4HhAWMAl6BAgBEAE&usg=AOvVaw1OdjfspE5qb-CR8z0zqnDx",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "an array - Deutsch \u00dcbersetzung - Englisch Beispiele | Reverso ...context.reverso.net \u203a \u00fcbersetzung \u203a englisch-deutsch \u203a an+array",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/englisch-deutsch/an+array",
+    "description": "\u00dcbersetzung im Kontext von \u201ean array\u201c in Englisch-Deutsch von Reverso Context\u200b: an array of, comprises an array, an array according, comprising an array, an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://context.reverso.net/%25C3%25BCbersetzung/englisch-deutsch/an%2Barray&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAB6BAgBEAE&usg=AOvVaw2_QSZsxuJ_G_dgHI83bIA2",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Arrays - Beckhoff Information System - Germaninfosys.beckhoff.com \u203a content \u203a tcplccontrol \u203a html \u203a TcPlcCtrl_ARRAY",
+    "link": "http://infosys.beckhoff.com/content/1031/tcplccontrol/html/TcPlcCtrl_ARRAY.htm",
+    "description": "Entweder werden alle Elemente eines Array initialisiert oder keines. Beispiele f\u00fcr Initialisierungen von Arrays: arr1 : ARRAY [1..5] OF INT := 1,2,3,4,5;",
+    "googleLink": "http://www.google.com/url?q=http://infosys.beckhoff.com/content/1031/tcplccontrol/html/TcPlcCtrl_ARRAY.htm&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAF6BAgJEAE&usg=AOvVaw0i2_lMkt6VbY_uQlqK0miq",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Programmierkurs: Delphi: Pascal: Arrays \u2013 Wikibooks, Sammlung ...de.wikibooks.org \u203a wiki \u203a Programmierkurs:_Delphi:_Pascal:_Arrays",
+    "link": "https://de.wikibooks.org/wiki/Programmierkurs:_Delphi:_Pascal:_Arrays",
+    "description": "1.2 Arrays anlegen; 1.3 Auf Arrays zugreifen; 1.4 Dynamische Arrays. 1.4.1 L\u00e4nge des Arrays ver\u00e4ndern; 1.4.2 Erster und letzter Index; 1.4.3 Array freigeben.",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Programmierkurs:_Delphi:_Pascal:_Arrays&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAJ6BAgIEAE&usg=AOvVaw3TXExl_eBaYTVEpWaGGOuY",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Array - Computer Weeklywww.computerweekly.com \u203a definition \u203a Array",
+    "link": "https://www.computerweekly.com/de/definition/Array",
+    "description": "F\u00fcr den Begriff \"Array\" gibt es verschiedene Bedeutungen. Geht es um die Speicherung von Informationen ist damit eine Methode zum Ablegen auf mehreren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.computerweekly.com/de/definition/Array&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAN6BAgHEAE&usg=AOvVaw09Y6E-CMopMK_ceOdz8kx8",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Datenstrukturen \u00bb Arrays - inf-schulewww.inf-schule.de \u203a algorithmen \u203a suchbaeume \u203a datenstrukturen \u203a array",
+    "link": "https://www.inf-schule.de/algorithmen/suchbaeume/datenstrukturen/array",
+    "description": "Arrays. Wie funktioniert ein Array? Diejenigen von euch, die neben Python schonmal mit anderen Sprachen programmiert haben, z.B. mit java oder c++, haben\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/algorithmen/suchbaeume/datenstrukturen/array&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAR6BAgEEAE&usg=AOvVaw01_bkuOEo6H1saLFNlflAB",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "an array of - Deutsch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a englisch-deutsch \u203a uebersetzung \u203a an+array+of",
+    "link": "https://www.linguee.de/englisch-deutsch/uebersetzung/an+array+of.html",
+    "description": "positioned behind the second transparent electrode means, which retroreflector comprises an array of full corner cube elements (15), characterised in that all the\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/englisch-deutsch/uebersetzung/an%2Barray%2Bof.html&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAV6BAgFEAE&usg=AOvVaw0frR8S033pzntMXfsKQMjE",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "C Referenz -Arrays-www2.hs-esslingen.de \u203a home.fhtw-berlin.de \u203a junghans \u203a cref \u203a CONCEPT",
+    "link": "http://www2.hs-esslingen.de/~zomotor/home.fhtw-berlin.de/junghans/cref/CONCEPT/arrays.html",
+    "description": "char Arrays (Zeichenketten). char (mehrdimensionale Felder). int und float Arrays\u200b. Um eine ganze Zahl oder eine Gleitkommazahl zu definieren w\u00fcrden man\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www2.hs-esslingen.de/~zomotor/home.fhtw-berlin.de/junghans/cref/CONCEPT/arrays.html&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAZ6BAgCEAE&usg=AOvVaw1o4HdjCuW5DZxmB1hTA-cx",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Numerisches Array in PHP | Indiziertes Arraywww.loy-webdesign.de \u203a webdesign \u203a array",
+    "link": "https://www.loy-webdesign.de/webdesign/array.htm",
+    "description": "Numerisch indizierte Arrays in der Programmiersprache PHP. Bildung von Arrays\u200b, Werte hinzuf\u00fcgen und direkt oder mit der foreach Schleife ausgeben lassen.",
+    "googleLink": "http://www.google.com/url?q=https://www.loy-webdesign.de/webdesign/array.htm&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAd6BAgAEAE&usg=AOvVaw0soTf2p5FfIdTuztoQYnMj",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Arrays - Manual - PHPphp.adamharvey.name \u203a manual \u203a book.array.php",
+    "link": "http://php.adamharvey.name/manual/de/book.array.php",
+    "description": "For newbies like me. Creating new arrays:- //Creates a blank array. $theVariable = array(); //Creates an array with elements. $\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://php.adamharvey.name/manual/de/book.array.php&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAh6BAgGEAE&usg=AOvVaw1k1tIXe1nUb7jo9p5xlChL",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "SELFHTML: JavaScript / Objekt-Referenz / Array - HERA-Bwww-hera-b.desy.de \u203a ... \u203a JavaScript/DOM \u203a Objekt-Referenz",
+    "link": "http://www-hera-b.desy.de/subgroup/computing/IT/www/selfhtml/javascript/objekte/array.htm",
+    "description": "Dieser Array besitzt zwei Elemente. Jedes dieser Elemente stellt selbst wieder einen Array dar. Dabei handelt es sich jedoch um assoziative Arrays, denn als\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www-hera-b.desy.de/subgroup/computing/IT/www/selfhtml/javascript/objekte/array.htm&sa=U&ved=2ahUKEwjP9ae164jvAhWIYcAKHcjnB5k4KBAWMAl6BAgDEAE&usg=AOvVaw3FYs0HNGtFXbfLWiG7pPzY",
+    "page": 4,
+    "index": 9
+  }
+]

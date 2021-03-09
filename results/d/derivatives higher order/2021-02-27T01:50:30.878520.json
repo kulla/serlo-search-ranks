@@ -1,0 +1,402 @@
+[
+  {
+    "name": "",
+    "link": "https://www.cliffsnotes.com/study-guides/calculus/calculus/the-derivative/higher-order-derivatives?sa=X&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQ9QF6BAgIEAI",
+    "description": "Because the derivative of a function y = f( x) is itself a function y\u2032 = f\u2032( x), you can take the derivative of f\u2032( x), which is generally referred to as the second derivative of f(x) and written f\u201c( x) or f 2( x). Example 2: Find the first, second, and third derivatives of y = sin 2 x. ...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Calculus I - Higher Order Derivatives - Pauls Online Math Notestutorial.math.lamar.edu \u203a classes \u203a calci \u203a higherord...",
+    "link": "https://tutorial.math.lamar.edu/classes/calci/higherorderderivatives.aspx",
+    "description": "26.05.2020 \u00b7 In this section we define the concept of higher order derivatives and give a quick application of the second order derivative and show how\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://tutorial.math.lamar.edu/classes/calci/higherorderderivatives.aspx&sa=U&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQFjAMegQICRAB&usg=AOvVaw0MPz3sYk03hGA6Mkv7e1Ja",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Higher Order Derivatives - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=s7rd9YPJrNc",
+    "description": "25.02.2018 \u00b7 This calculus video tutorial provides a basic introduction into higher order derivatives. it ...Dauer: 10:51\nGepostet: 25.02.2018",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3Ds7rd9YPJrNc&sa=U&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQtwIwDXoECAAQAQ&usg=AOvVaw2yboRD-2Spd_Ip65vrZr_J",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Higher-Order Derivatives - Math24www.math24.net \u203a Higher-Order Derivatives",
+    "link": "https://www.math24.net/higher-order-derivatives/",
+    "description": "Higher-Order Derivatives of an Explicit Function. Let the function y=f(x) have a finite derivative f\u2032(x) in a certain interval (a,b), i.e. the derivative f\u2032(x) is also a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math24.net/higher-order-derivatives/&sa=U&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQFjAOegQIBxAB&usg=AOvVaw0Rswbw0-yfQJZsy0Ao6uIS",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Analysis - Higher-order derivatives | Britannicawww.britannica.com \u203a science \u203a analysis-mathematics",
+    "link": "https://www.britannica.com/science/analysis-mathematics/Higher-order-derivatives",
+    "description": "Higher-order derivatives. The process of differentiation can be applied several times in succession, leading in particular to the second derivative f\u2033 of the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.britannica.com/science/analysis-mathematics/Higher-order-derivatives&sa=U&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQFjAPegQIAhAB&usg=AOvVaw0afW9d_-iOYxyaVZ2gP5-R",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Calculus/Higher Order Derivatives - Wikibooks, open books for an ...en.wikibooks.org \u203a wiki \u203a Higher_Order_Derivatives",
+    "link": "https://en.wikibooks.org/wiki/Calculus/Higher_Order_Derivatives",
+    "description": "... differentiable, with the fourth derivative, the fifth derivative, and so on. Any derivative beyond the first derivative can be referred to as a higher order derivative.",
+    "googleLink": "http://www.google.com/url?q=https://en.wikibooks.org/wiki/Calculus/Higher_Order_Derivatives&sa=U&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQFjAQegQIBRAB&usg=AOvVaw3qGF67dQ2IXypAeyI44YV8",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Higher Order Differentiation - Mathonlinemathonline.wikidot.com \u203a higher-order-differentiation",
+    "link": "http://mathonline.wikidot.com/higher-order-differentiation",
+    "description": "Higher order derivatives are simply derivatives of derivatives. A common example occurs in physics where the derivative of displacement s(t) is velocity, that is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/higher-order-differentiation&sa=U&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQFjARegQIAxAB&usg=AOvVaw0GDFDDUnlw2yQk2tx0dBnR",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "14.6 Higher order derivativeswww.whitman.edu \u203a mathematics \u203a section14.06.html",
+    "link": "https://www.whitman.edu/mathematics/calculus_online/section14.06.html",
+    "description": "It's easy to see where some complication is going to come from: with two variables there are four possible second derivatives. To take a \"derivative,'' we must take\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.whitman.edu/mathematics/calculus_online/section14.06.html&sa=U&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQFjASegQIBBAB&usg=AOvVaw0GzlZBrw_PDNocAJ4D64Xw",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "What are higher order derivatives | StudyPugwww.studypug.com \u203a calculus-help \u203a higher-order-...",
+    "link": "https://www.studypug.com/calculus-help/higher-order-derivatives",
+    "description": "At times, instead of just one derivative, you may need to find a 2nd derivative of a function. Learn how to do that here with our guided examples.",
+    "googleLink": "http://www.google.com/url?q=https://www.studypug.com/calculus-help/higher-order-derivatives&sa=U&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQFjATegQIARAB&usg=AOvVaw1wRojXWeoPY1jAznl5bYeH",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Higher Order Derivative Calculator - Symbolabwww.symbolab.com \u203a ... \u203a Calculus \u203a Derivatives",
+    "link": "https://www.symbolab.com/solver/higher-order-derivative-calculator",
+    "description": "Free derivative calculator - high order differentiation solver step-by-step.",
+    "googleLink": "http://www.google.com/url?q=https://www.symbolab.com/solver/higher-order-derivative-calculator&sa=U&ved=2ahUKEwiRmZmq7IjvAhXGMMAKHYgUA1kQFjAUegQIBhAB&usg=AOvVaw3zG9BKtisnl_KZWK3hfqb5",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "High-Order Derivative - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a engineering \u203a high-order-derivative",
+    "link": "https://www.sciencedirect.com/topics/engineering/high-order-derivative",
+    "description": "High-Order Derivative. Higher order derivatives have more zero moments and allow us to draw information on the peculiarities of higher order being hidden in the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/engineering/high-order-derivative&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChAWMAB6BAgJEAE&usg=AOvVaw39TU_eeKVl8g_t0Z7M8yfl",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Derivative - Wikipediaen.wikipedia.org \u203a wiki \u203a Derivative",
+    "link": "https://en.wikipedia.org/wiki/Derivative",
+    "description": "These repeated derivatives are called higher-order derivatives. The nth derivative is also called the derivative of order n.",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Derivative&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChAWMAF6BAgEEAE&usg=AOvVaw0kFzBtIWmIzKH1Hiu1ec6q",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "What Are Higher-Order Derivatives? - Math Warehousewww.mathwarehouse.com \u203a calculus \u203a what-are-hig...",
+    "link": "https://www.mathwarehouse.com/calculus/derivatives/what-are-higher-order-derivatives.php",
+    "description": "Example 1. Suppose f(x)=5x3+3x2\u22127x+4. Find the second and third derivatives. Step 1. Find the first derivative. f\u2032(x)=15x2+6x\u22127. Step 2. Find the second\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathwarehouse.com/calculus/derivatives/what-are-higher-order-derivatives.php&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChAWMAJ6BAgHEAE&usg=AOvVaw1AoIqTCwGOI_L62iY9y8h6",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "CoDiPack: Tutorial 7: Higher order derivatives - TU Kaiserslauternwww.scicomp.uni-kl.de \u203a codi \u203a Tutorial7",
+    "link": "https://www.scicomp.uni-kl.de/codi/d2/d59/Tutorial7.html",
+    "description": "This will be done by using the helper structure DerivativeHelper, which provides several functions to easily access higher order derivatives. The function that we\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.scicomp.uni-kl.de/codi/d2/d59/Tutorial7.html&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChAWMAN6BAgIEAE&usg=AOvVaw0_s45qmN_pcllZoYX0Npuo",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Second derivatives (video) | Khan Academywww.khanacademy.org \u203a ab-differentiation-2-new",
+    "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-6/v/second-derivatives",
+    "description": "21.08.2016 \u00b7 Calculating higher-order derivatives. Second\u00a0...Dauer: 2:27\nGepostet: 21.08.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-6/v/second-derivatives&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChC3AjAEegQIAhAB&usg=AOvVaw2nYB9p4BOAxDAGmibFtPRm",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Higher Order Derivatives: Examples | noolnool.ontariotechu.ca \u203a mathematics \u203a calculus \u203a hig...",
+    "link": "https://nool.ontariotechu.ca/mathematics/calculus/derivatives/higher-order-derivatives-examples.php",
+    "description": "15.08.2019 \u00b7 Higher Order Derivatives: Examples.Dauer: 4:29\nGepostet: 15.08.2019",
+    "googleLink": "http://www.google.com/url?q=https://nool.ontariotechu.ca/mathematics/calculus/derivatives/higher-order-derivatives-examples.php&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChC3AjAFegQIBhAB&usg=AOvVaw2n2SPRIeoKpe-lnOYr5xXf",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Higher-Order Derivatives - Coping With Calculuswww.copingwithcalculus.com \u203a HigherOrderDerivat...",
+    "link": "http://www.copingwithcalculus.com/HigherOrderDerivatives.html",
+    "description": "Higher-Order Derivatives We know how to take some derivatives, but what if we want to find the second derivative, or more? To do that, we simply differentiate\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.copingwithcalculus.com/HigherOrderDerivatives.html&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChAWMAZ6BAgBEAE&usg=AOvVaw2rl2lcs2QnHCTWlihEIrAP",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Higher-order Derivatives | Brilliant Math & Science Wikibrilliant.org \u203a wiki \u203a higher-order-derivatives",
+    "link": "https://brilliant.org/wiki/higher-order-derivatives/",
+    "description": "Higher-order Derivatives. Recommended courses and practice. Quizzes. Characteristics of f, f',\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://brilliant.org/wiki/higher-order-derivatives/&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChAWMAd6BAgFEAE&usg=AOvVaw26j7Mp2Eg6A872f1Bcng0c",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Derivatives - Wolfram|Alpha Exampleswww.wolframalpha.com \u203a calculus-and-analysis \u203a d...",
+    "link": "https://www.wolframalpha.com/examples/mathematics/calculus-and-analysis/derivatives/",
+    "description": "Answers to calculus derivatives problems. Compute derivatives, higher-order and partial derivatives, directional derivatives and derivatives of abstract functions.",
+    "googleLink": "http://www.google.com/url?q=https://www.wolframalpha.com/examples/mathematics/calculus-and-analysis/derivatives/&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChAWMAh6BAgDEAE&usg=AOvVaw1kTBRSxLvVWBSXPpGalJKK",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Visualizing higher order derivatives? - ResearchGatewww.researchgate.net \u203a post \u203a Visualizing-higher-or...",
+    "link": "https://www.researchgate.net/post/Visualizing-higher-order-derivatives",
+    "description": "I mean suppose in a dynamics the third derivative of position arises,then how do I visualize this quantity? In mathematics we do solve higher order differential\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/post/Visualizing-higher-order-derivatives&sa=U&ved=2ahUKEwiLleWq7IjvAhUGV8AKHbRfBuU4ChAWMAl6BAgAEAE&usg=AOvVaw3ocrF6MaD1gBgFY9ptVWLv",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "15.1 Higher Order Derivativespeople.reed.edu \u203a math111.html \u203a header \u203a node78",
+    "link": "http://people.reed.edu/~mayer/math111.html/header/node78.html",
+    "description": "15.1 Definition (Higher order derivatives.) Let $f$ be a function whose domain is a subset of R. We define a function $f'$ (called the derivative of $f$ ) by.",
+    "googleLink": "http://www.google.com/url?q=http://people.reed.edu/~mayer/math111.html/header/node78.html&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAB6BAgBEAE&usg=AOvVaw29dbdbQwp84Rid4_K2Nx3x",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Higher-order numerical derivatives for photonic applicationswww.spiedigitallibrary.org \u203a 12.2568985.full",
+    "link": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11509/115090Q/Higher-order-numerical-derivatives-for-photonic-applications/10.1117/12.2568985.full",
+    "description": "21.08.2020 \u00b7 Here we present a detailed comparison of four methods to obtain higher-order derivatives from digital/discrete data. Finite differences method\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11509/115090Q/Higher-order-numerical-derivatives-for-photonic-applications/10.1117/12.2568985.full&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAF6BAgJEAE&usg=AOvVaw1Wjq5wYtWcy7gMSt8XhIF6",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "1.12: Higher-Order Derivatives - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 1: Derivatives",
+    "link": "https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Yet_Another_Calculus_Text__A_Short_Introduction_with_Infinitesimals_(Sloughter)/01%3A_Derivatives/1.12%3A_Higher-Order_Derivatives",
+    "description": "17.11.2020 \u00b7 Since dydx is then itself a function of x, we may ask for its rate of change with respect to x, which we call the second-order derivative of y with\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Calculus/Book%253A_Yet_Another_Calculus_Text__A_Short_Introduction_with_Infinitesimals_(Sloughter)/01%253A_Derivatives/1.12%253A_Higher-Order_Derivatives&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAJ6BAgHEAE&usg=AOvVaw1VaSp5_3xaSt_aecZ2Okkk",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "2.5: Higher Order Derivatives - Math.toronto.eduwww.math.toronto.edu \u203a notes \u203a Chapter2 \u203a S2.5.html",
+    "link": "http://www.math.toronto.edu/courses/mat237y1/20199/notes/Chapter2/S2.5.html",
+    "description": "Suppose that S\u2286Rn is open, and f:S\u2192R is a function of class C1 If the partial derivatives of f are differentiable, we can define the second-order partial\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.toronto.edu/courses/mat237y1/20199/notes/Chapter2/S2.5.html&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAN6BAgIEAE&usg=AOvVaw1NDWkCjMvZVNcAhAwaf6LO",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Higher order derivatives and graphs - Ximeraximera.osu.edu \u203a mooculus \u203a calculus1 \u203a digInHigh...",
+    "link": "https://ximera.osu.edu/mooculus/calculus1/higherOrderDerivativesAndGraphs/digInHigherOrderDerivativesAndGraphs",
+    "description": "Here we make a connection between a graph of a function and its derivative and higher order derivatives. We say that a function is increasing on an interval if\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ximera.osu.edu/mooculus/calculus1/higherOrderDerivativesAndGraphs/digInHigherOrderDerivativesAndGraphs&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAR6BAgDEAE&usg=AOvVaw2e1gaTkDttPXtGqkkFP-ps",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Sobolev Training with higher order Derivatives - Lehrstuhl f\u00fcr ...wiki.tum.de \u203a display \u203a ldv \u203a Sobolev+Training+with+higher+order+Deriv...",
+    "link": "https://wiki.tum.de/display/ldv/Sobolev+Training+with+higher+order+Derivatives?desktop=true&macroName=view-file",
+    "description": "02.10.2019 \u00b7 We show for a variety of function regression tasks that by using also higher order derivatives smaller test errors can be achieved compared to the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.tum.de/display/ldv/Sobolev%2BTraining%2Bwith%2Bhigher%2Border%2BDerivatives%3Fdesktop%3Dtrue%26macroName%3Dview-file&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAV6BAgFEAE&usg=AOvVaw2nZKcqinhXlm94WSvJj6T6",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "higher order derivatives - Deutsch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a englisch-deutsch \u203a uebersetzung \u203a higher+order+derivati...",
+    "link": "https://www.linguee.de/englisch-deutsch/uebersetzung/higher+order+derivatives.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"higher order derivatives\" \u2013 Deutsch-Englisch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von Deutsch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/englisch-deutsch/uebersetzung/higher%2Border%2Bderivatives.html&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAZ6BAgAEAE&usg=AOvVaw1Kdyw2u_WLTreH1Ourvf7c",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Higher order derivative operators as quantum correctionsarxiv.org \u203a hep-th",
+    "link": "https://arxiv.org/abs/1906.02741",
+    "description": "06.06.2019 \u00b7 ... coupling between the gauge field and the fermionic one from which we obtain, perturbatively, terms with higher order derivatives as quantum\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1906.02741&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAd6BAgEEAE&usg=AOvVaw1fzFfF9wDMZX_IBDcmq3kI",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Variational Methods with Higher\u2013Order Derivatives in Image ...page.math.tu-berlin.de \u203a ~steidl \u203a PDFs \u203a SetSte08",
+    "link": "http://page.math.tu-berlin.de/~steidl/PDFs/SetSte08.pdf",
+    "description": "the application of variational methods with higher\u2013order derivatives in image processing. We focus on gray-valued and matrix-valued images and deal with a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://page.math.tu-berlin.de/~steidl/PDFs/SetSte08.pdf&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAh6BAgCEAE&usg=AOvVaw0JHHeEOHXg4jh0xrOaHM_E",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "What is an example of an application of a higher order derivative ($y ...math.stackexchange.com \u203a questions \u203a what-is-an-e...",
+    "link": "https://math.stackexchange.com/questions/71626/what-is-an-example-of-an-application-of-a-higher-order-derivative-yn-n",
+    "description": "If y(t) denotes the position at time t, then: The first derivative, y\u2032(t), denotes velocity at time t. The second derivative, y\u2033(t), denotes acceleration at time t.",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/71626/what-is-an-example-of-an-application-of-a-higher-order-derivative-yn-n&sa=U&ved=2ahUKEwiUjZSr7IjvAhWPfMAKHcMHBDs4FBAWMAl6BAgGEAE&usg=AOvVaw2-SpcMC3dXb7fhVU3pxc88",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "3.5 Higher order derivativeskenndanielso.github.io \u203a 3_Automatic_differentiation",
+    "link": "https://kenndanielso.github.io/mlrefined/blog_posts/3_Automatic_differentiation/3_5_higher_order.html",
+    "description": "Higher order derivatives of g(w)=w4\u00b6. Right away we can use the power rule here to write out the first derivative as.",
+    "googleLink": "http://www.google.com/url?q=https://kenndanielso.github.io/mlrefined/blog_posts/3_Automatic_differentiation/3_5_higher_order.html&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAB6BAgBEAE&usg=AOvVaw0PET537c2iVs8QDY7VAwTW",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "On higher order derivatives of Lyapunov functions - IEEE ...ieeexplore.ieee.org \u203a document",
+    "link": "https://ieeexplore.ieee.org/document/5991573/",
+    "description": "Abstract: This note is concerned with a class of differential inequalities in the literature that involve higher order derivatives of Lyapunov functions and have been\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ieeexplore.ieee.org/document/5991573/&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAF6BAgIEAE&usg=AOvVaw2mpWrdmE5sBgnEGYnwSs0D",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Higher-Order Derivatives - Expiiwww.expii.com \u203a higher-order-derivatives-171",
+    "link": "https://www.expii.com/t/higher-order-derivatives-171",
+    "description": "Higher-Order Derivatives. Now that we understand the derivative of f(x) as a function, we can keep differentiating to define the higher derivatives of function f(x\u200b).",
+    "googleLink": "http://www.google.com/url?q=https://www.expii.com/t/higher-order-derivatives-171&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAJ6BAgHEAE&usg=AOvVaw0VZU1J3mZlG8_qNd9HyQ5X",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Formulas for Higher-Order Derivatives on eMathHelpwww.emathhelp.net \u203a notes \u203a calculus-1 \u203a formulas-...",
+    "link": "https://www.emathhelp.net/notes/calculus-1/higher-order-derivatives/formulas-for-higher-order-derivatives/",
+    "description": "Formulas for Higher-Order Derivatives. In general, to find n-th derivative of function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.emathhelp.net/notes/calculus-1/higher-order-derivatives/formulas-for-higher-order-derivatives/&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAN6BAgJEAE&usg=AOvVaw3Ft4IVO_FDrsJmCI6fFNk4",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "The utility of higher order derivatives in constructing molecular ...aip.scitation.org \u203a doi",
+    "link": "https://aip.scitation.org/doi/10.1063/1.469982",
+    "description": "In this paper we evaluate the use of higher order derivatives in the construction of an interpolated potential energy surface for the OH+H2\u2192H2O+H reaction.",
+    "googleLink": "http://www.google.com/url?q=https://aip.scitation.org/doi/10.1063/1.469982&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAR6BAgEEAE&usg=AOvVaw3W0QGr4sr_x4uFtSbAqAIU",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Higher Order Derivativescitadel.sjfc.edu \u203a vector \u203a Block2 \u203a der_rev \u203a node9",
+    "link": "http://citadel.sjfc.edu/faculty/kgreen/vector/Block2/der_rev/node9.html",
+    "description": "Higher Order Derivatives. Since the derivative of a function is, in general, a function, we can also take derivatives of the derivative, and so forth. The derivative of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://citadel.sjfc.edu/faculty/kgreen/vector/Block2/der_rev/node9.html&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAV6BAgFEAE&usg=AOvVaw0uJ8OO-RD-cR6QztYnPMOT",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Higher order Derivatives - Solved Example Problems| Mathematicswww.brainkart.com \u203a article \u203a Higher-order-Derivat...",
+    "link": "http://www.brainkart.com/article/Higher-order-Derivatives_36115/",
+    "description": "28.08.2018 \u00b7 Higher order Derivatives. If s = s(t) is the position function (displacement) of an object that moves in a straight line, we know that its first\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.brainkart.com/article/Higher-order-Derivatives_36115/&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAZ6BAgGEAE&usg=AOvVaw083uO2EdUnFMlPOrI7HSiK",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Paper: Distinguishing Properties of Higher Order Derivatives of ...iacr.org \u203a cryptodb \u203a data \u203a paper",
+    "link": "https://iacr.org/cryptodb/data/paper.php?pubkey=23318",
+    "description": "Abstract: Higher order differential cryptanalysis is based on the property of higher order derivatives of Boolean functions that the degree of a Boolean function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://iacr.org/cryptodb/data/paper.php%3Fpubkey%3D23318&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAd6BAgDEAE&usg=AOvVaw05DNaArGXK3xQpNVUyUNfI",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Calculating Higher-Order Derivatives | 2021 AP Calculus AB/BC ...fiveable.me \u203a ap-calc \u203a unit-3 \u203a study-guide",
+    "link": "https://fiveable.me/ap-calc/unit-3/calculating-higher-order-derivatives/study-guide/Mh7ZnLES3ycIzEEKWl95",
+    "description": "22.06.2020 \u00b7 The term \u201chigher-order derivative\u201d may seem intimidating at first. However, this simply means that we can take the first derivative, second\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://fiveable.me/ap-calc/unit-3/calculating-higher-order-derivatives/study-guide/Mh7ZnLES3ycIzEEKWl95&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAh6BAgCEAE&usg=AOvVaw3RJDhMmn2SxAYk9YnLhbtO",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Taylor-Mode Automatic Differentiation for Higher-Order Derivatives ...openreview.net \u203a forum",
+    "link": "https://openreview.net/forum?id=SkxEF3FNPH",
+    "description": "21.09.2019 \u00b7 Generalizes forward-mode AD for higher-order derivatives, implements in JAX, applications to Neural ODEs.",
+    "googleLink": "http://www.google.com/url?q=https://openreview.net/forum%3Fid%3DSkxEF3FNPH&sa=U&ved=2ahUKEwiH07-r7IjvAhWRY8AKHebhCE44HhAWMAl6BAgAEAE&usg=AOvVaw0wir7glWsBUBcRGzuSCDmC",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 03 - Higher Order Derivatives - Kuta Softwarecdn.kutasoftware.com \u203a Worksheets \u203a Calc \u203a 03 - Higher Order Deriv...",
+    "link": "https://cdn.kutasoftware.com/Worksheets/Calc/03%20-%20Higher%20Order%20Derivatives.pdf",
+    "description": "Period____. Date________________. Higher Order Derivatives. For each problem, find the indicated derivative with respect to x. 1) y = \u2212x. 2. Find d. 2 y dx\u200b. 2.",
+    "googleLink": "http://www.google.com/url?q=https://cdn.kutasoftware.com/Worksheets/Calc/03%2520-%2520Higher%2520Order%2520Derivatives.pdf&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAB6BAgGEAE&usg=AOvVaw1H58KZwH5hxQ_O7KLaVg-2",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Computing Higher Order Derivatives of Matrix and Tensor Expressionstheinf2.informatik.uni-jena.de \u203a Publications \u203a matrixCalculus2",
+    "link": "https://theinf2.informatik.uni-jena.de/theinf2_multimedia/Publications/matrixCalculus2.pdf",
+    "description": "The second order derivative of this function, i.e., its Hessian, is the matrix A + A. Frameworks like TensorFlow [1], Theano [23], PyTorch [16], or HIPS autograd [14]\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://theinf2.informatik.uni-jena.de/theinf2_multimedia/Publications/matrixCalculus2.pdf&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAF6BAgJEAE&usg=AOvVaw1PxS5nh9Abd7ZzGGNqQctV",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Higher order derivatives and higher order differentials - nabla.hrwww.nabla.hr \u203a CL-DerivativeD1",
+    "link": "http://www.nabla.hr/CL-DerivativeD1.htm",
+    "description": "Higher order derivatives are successive derivatives of the same function. Thus, the second derivative is the derivative of the first derivative, and the derivative of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.nabla.hr/CL-DerivativeD1.htm&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAJ6BAgIEAE&usg=AOvVaw0SS1oiSJOCwK8Uyujs7Nz2",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Higher Order Derivatives (w/ 11+ Step-by-Step Examples!)calcworkshop.com \u203a Derivatives",
+    "link": "https://calcworkshop.com/derivatives/higher-order-derivatives/",
+    "description": "A higher-order derivative means the derivatives other than the first derivative and are used to model real-life phenomena like most transportation devices such as:.",
+    "googleLink": "http://www.google.com/url?q=https://calcworkshop.com/derivatives/higher-order-derivatives/&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAN6BAgHEAE&usg=AOvVaw3CcBnMfRx--DWx0vVeRex3",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Functions With Higher Order Derivatives \u2013 GeoGebrawww.geogebra.org \u203a CHZNmDZ4",
+    "link": "https://www.geogebra.org/m/CHZNmDZ4",
+    "description": "Functions With Higher Order Derivatives. This GeoGebra applet demonstrates an example of a differentiable function that fails to have second derivative at x=0,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/CHZNmDZ4&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAR6BAgAEAE&usg=AOvVaw24ImS9eZg6CLBAuxf0Xm0M",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Higher order numerical derivative Python - Stack Overflowstackoverflow.com \u203a questions \u203a higher-order-nume...",
+    "link": "https://stackoverflow.com/questions/60934902/higher-order-numerical-derivative-python",
+    "description": "If you want the derivative of y^n with respect to x, this is the code: (EDIT: added missing x ) def derivative(x,y,n): if(n==1): return np.gradient(y,x)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://stackoverflow.com/questions/60934902/higher-order-numerical-derivative-python&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAV6BAgFEAE&usg=AOvVaw2RpPG2K7iAgANBeukT3HYh",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Higher Order Derivatives ( Read ) | Calculus | CK-12 Foundationwww.ck12.org \u203a higher-order-derivatives \u203a lesson",
+    "link": "https://www.ck12.org/calculus/higher-order-derivatives/lesson/Higher-Order-Derivatives-CALC/",
+    "description": "24.09.2014 \u00b7 Acceleration Acceleration is the rate at which the speed and direction of an object are changing. \u00b7 higher order derivative A higher order\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ck12.org/calculus/higher-order-derivatives/lesson/Higher-Order-Derivatives-CALC/&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAZ6BAgCEAE&usg=AOvVaw0GYQK5ul6MFv-H1Usr5HkU",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "What's the use of higher order derivatives? : learnmath - Redditwww.reddit.com \u203a learnmath \u203a comments \u203a whats_t...",
+    "link": "https://www.reddit.com/r/learnmath/comments/95e5bo/whats_the_use_of_higher_order_derivatives/",
+    "description": "07.08.2018 \u00b7 Is the factorial function. With this, and higher order derivatives, you can redefine functions like sin(x)=x - x 3 (1/3!) + x\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/learnmath/comments/95e5bo/whats_the_use_of_higher_order_derivatives/&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAd6BAgDEAE&usg=AOvVaw17rV5KKfCMnUUQhdFOWs2t",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "9. Higher Order Derivatives. Applications of differentiation: local and ...www.federica.unina.it \u203a mathematics-exercises \u203a hig...",
+    "link": "http://www.federica.unina.it/agraria/mathematics-exercises/higher-order-derivatives/",
+    "description": "Higher Order Derivatives. Derivatives of order two or more are called higher derivatives and are represented by the following notation: f''(x)=\\frac{d^{2}f. The last\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.federica.unina.it/agraria/mathematics-exercises/higher-order-derivatives/&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAh6BAgEEAE&usg=AOvVaw2dRkwukiGTdCp6Vqfu5HJ0",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Higher order derivatives - MATLAB Answers - MATLAB Centralwww.mathworks.com \u203a matlabcentral \u203a 7550-higher...",
+    "link": "https://www.mathworks.com/matlabcentral/answers/7550-higher-order-derivatives",
+    "description": "Higher order derivatives. Learn more about richardson extrpolation, higher order derivative, homework, anonymous function MATLAB.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathworks.com/matlabcentral/answers/7550-higher-order-derivatives&sa=U&ved=2ahUKEwjMruWr7IjvAhUMZcAKHZGkDCU4KBAWMAl6BAgBEAE&usg=AOvVaw0704UeKuQQsW1kMNcImrqZ",
+    "page": 4,
+    "index": 9
+  }
+]

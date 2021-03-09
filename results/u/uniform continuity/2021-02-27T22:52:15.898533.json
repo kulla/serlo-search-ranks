@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Uniform continuity - Wikipediaen.wikipedia.org \u203a wiki \u203a Uniform_continuity",
+    "link": "https://en.wikipedia.org/wiki/Uniform_continuity",
+    "description": "In mathematics, a function f is uniformly continuous if, roughly speaking, it is possible to guarantee that f(x) and f(y) be as close to each other as we please by requiring only that x and y are sufficiently close to each other; unlike ordinary continuity, where the maximum distance between f(x) and f(y) may depend on ...\nDefinition for functions on ... \u00b7 Local continuity versus ... \u00b7 Properties \u00b7 History",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://en.wikipedia.org/wiki/Uniform_continuity&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQFjAAegQIARAB&usg=AOvVaw2pI4UazmvcRAEbbDnK8Y2Z",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Continuity and Uniform Continuitywww.math.wisc.edu \u203a ~robbin \u203a cont",
+    "link": "https://www.math.wisc.edu/~robbin/521dir/cont.pdf",
+    "description": "It is obvious that a uniformly continuous function is continuous: if we can find a \u03b4 which works for all x0, we can find one (the same one) which works for any\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.math.wisc.edu/~robbin/521dir/cont.pdf&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQFjATegQICRAB&usg=AOvVaw3-qyXdElC6h4IppgYQOd4d",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Difference between continuity and uniform continuity - Mathematics ...math.stackexchange.com \u203a questions \u203a difference-be...",
+    "link": "https://math.stackexchange.com/questions/653100/difference-between-continuity-and-uniform-continuity/653105",
+    "description": "First of all, continuity is defined at a point c, whereas uniform continuity is defined on a set A. That makes a big difference. But your interpretation is rather correct:\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://math.stackexchange.com/questions/653100/difference-between-continuity-and-uniform-continuity/653105&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQFjAUegQICBAB&usg=AOvVaw3L_22FjXpXTo4gRxUigDkv",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Uniform continuity \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr-, Sach ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Uniform_continuity",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Uniform_continuity",
+    "description": "Uniform continuity is a stronger form of continuity. It is derived from the epsilon-\u200bdelta criterion of continuity and particularly important for approximating functions.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://de.wikibooks.org/wiki/Serlo:_EN:_Uniform_continuity&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQFjAZegQIBRAB&usg=AOvVaw1iY91GNmsycX2-VNtFaYTb",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Continuity versus Uniform Continuity - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=nquj643mU1o",
+    "description": "15.11.2018 \u00b7 Please Subscribe here, thank you!!! https://goo.gl/JQ8NysContinuity versus Uniform Continuity ...Dauer: 10:29\nGepostet: 15.11.2018",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.youtube.com/watch%3Fv%3Dnquj643mU1o&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQtwIwGnoECAMQAQ&usg=AOvVaw1Fl9eNWz-0Clmi90ZymvBu",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Continuous and Uniformly Continuous Functions - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=hXkQqCBLRp8",
+    "description": "07.04.2012 \u00b7 However, with uniform continuity, given some \u03b5, we have to find a \u03b4 that works for -every- point of ...Dauer: 5:13\nGepostet: 07.04.2012",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.youtube.com/watch%3Fv%3DhXkQqCBLRp8&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQtwIwG3oECAQQAQ&usg=AOvVaw1E9swfvffVoP-TE-8umom2",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Uniform Continuity - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a engineering \u203a uniform-continuity",
+    "link": "https://www.sciencedirect.com/topics/engineering/uniform-continuity",
+    "description": "A function f : I \u2192 R is said to be uniformly continuous in I if the property in Definition 2.13 holds for \u03b4 depending only on \u03b5 and not on x 0 . This means that for every\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.sciencedirect.com/topics/engineering/uniform-continuity&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQFjAcegQIBhAB&usg=AOvVaw1gNw3DTiiw7TomTy42FXYC",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Uniform Continuity - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a uniform-continuity",
+    "link": "https://www.sciencedirect.com/topics/mathematics/uniform-continuity",
+    "description": "uniform continuity is a property of a function on a set, whereas continuity is ... Suppose that the kernel of an integral operator is almost uniformly continuous with\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.sciencedirect.com/topics/mathematics/uniform-continuity&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQFjAdegQICxAB&usg=AOvVaw1QVCIPo9pu-WuzumbTB-Vg",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Continuity and Uniform Continuitysites.math.washington.edu \u203a ~ebekyel \u203a Math134 \u203a UniformContinuity",
+    "link": "https://sites.math.washington.edu/~ebekyel/Math134/UniformContinuity.pdf",
+    "description": "Uniform continiuty is stronger than continuity, that is,. Proposition 1 If f is uniformly continuous on an interval I, then it is continuous on I. Proof: Assume f is uniformly\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://sites.math.washington.edu/~ebekyel/Math134/UniformContinuity.pdf&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQFjAeegQIChAB&usg=AOvVaw15DnzU2N_AavV-fBacxqGl",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Uniform Continuity | SpringerLinklink.springer.com \u203a chapter",
+    "link": "https://link.springer.com/chapter/10.1007/978-1-84628-627-8_9",
+    "description": "We have introduced strong forms of continuity. We have seen that uniformly continuous functions preserve total boundedness and Cauchy sequences and that\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://link.springer.com/chapter/10.1007/978-1-84628-627-8_9&ved=2ahUKEwiM6KathovvAhWnQUEAHVJbBCoQFjAfegQIBxAB&usg=AOvVaw2Q4-ak7KrQdI2G7BYyTTzI",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Uniform Continuity - Wolfram Demonstrations Projectdemonstrations.wolfram.com \u203a UniformContinuity",
+    "link": "http://demonstrations.wolfram.com/UniformContinuity/",
+    "description": "This Demonstration illustrates a theorem of analysis a function that is continuous on the closed interval is uniformly continuous on the interval A function is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://demonstrations.wolfram.com/UniformContinuity/&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAB6BAgEEAE&usg=AOvVaw2nEfQI6pK7iCb5eFvWzYUv",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "UNIFORM CONTINUITY OF CONTINUOUS ... - Project Euclidprojecteuclid.org \u203a download \u203a pdf_1 \u203a euclid.pjm",
+    "link": "https://projecteuclid.org/download/pdf_1/euclid.pjm/1103040241",
+    "description": "In this paper we intend to find equivalent conditions under which continuous functions of a metric space are always uniformly continuous. Isiwata has attempted\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/download/pdf_1/euclid.pjm/1103040241&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAF6BAgJEAE&usg=AOvVaw2FE4uFMUs4_Yn0Cczc63zI",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Uniform Continuity | springerprofessional.dewww.springerprofessional.de \u203a uniform-continuity",
+    "link": "https://www.springerprofessional.de/uniform-continuity/1933164",
+    "description": "We have introduced strong forms of continuity. We have seen that uniformly continuous functions preserve total boundedness and Cauchy sequences and.",
+    "googleLink": "http://www.google.com/url?q=https://www.springerprofessional.de/uniform-continuity/1933164&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAJ6BAgHEAE&usg=AOvVaw3hBsNsdd8Yr0U1qafA5W4R",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "On Almost Uniform Continuity of Borel Functions on Polish Metric ...arxiv.org \u203a math",
+    "link": "http://arxiv.org/abs/2008.00786",
+    "description": "03.08.2020 \u00b7 ... uniformly continuous function in the sense that for every \\varepsilon ... this result complements the known result of almost uniform continuity of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://arxiv.org/abs/2008.00786&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAN6BAgIEAE&usg=AOvVaw1meRiv2UMCMrubzSmsMikh",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Uniform Continuity and a New Bornology for a Metric Space ...link.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1007/s11228-017-0429-4",
+    "description": "08.06.2017 \u00b7 In the context of functions between metric spaces, continuity is preserved by uniform convergence on the bornology of relatively compact\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/article/10.1007/s11228-017-0429-4&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAR6BAgDEAE&usg=AOvVaw30GsOeBziUbHUnb59G1xy7",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "3.5: Uniform Continuity - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 3: Limits and Continuity",
+    "link": "https://math.libretexts.org/Bookshelves/Analysis/Introduction_to_Mathematical_Analysis_I_(Lafferriere_Lafferriere_and_Nguyen)/03%3A_Limits_and_Continuity/3.05%3A_Uniform_Continuity",
+    "description": "12.12.2020 \u00b7 If a function f:D\u2192R is H\u00f6lder continuous, then it is uniformly continuous. Proof.",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Analysis/Introduction_to_Mathematical_Analysis_I_(Lafferriere_Lafferriere_and_Nguyen)/03%253A_Limits_and_Continuity/3.05%253A_Uniform_Continuity&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAV6BAgCEAE&usg=AOvVaw0vMcGhm2Aewgnn-D0AiivI",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "What is the intuition behind uniform continuity? - Mathematics Stack ...math.stackexchange.com \u203a questions \u203a what-is-the-i...",
+    "link": "https://math.stackexchange.com/questions/3241309/what-is-the-intuition-behind-uniform-continuity",
+    "description": "The real \"gist\" of continuity, in its various forms, is that it's the \"property that makes calculators and measurements useful\". Calculators and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/3241309/what-is-the-intuition-behind-uniform-continuity&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAZ6BAgBEAE&usg=AOvVaw0ZYXWcAK6KyA-ZFqeyD5A3",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Understanding and Visualization of the Uniform Continuity ofwww.atlantis-press.com \u203a article",
+    "link": "https://www.atlantis-press.com/article/25868766.pdf",
+    "description": "concept uniform continuity of functions compared to the concept of continuity. ... sophisticated class uniformly continuous and non-uniformly continuous functions\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.atlantis-press.com/article/25868766.pdf&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAd6BAgFEAE&usg=AOvVaw3PHfBKSdglR5DPmgNS3lXd",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "UNIFORM CONTINUITY AND COMPACTNESSwww.ams.org \u203a journals \u203a proc",
+    "link": "https://www.ams.org/journals/proc/1962-013-01/S0002-9939-1962-0133392-8/S0002-9939-1962-0133392-8.pdf",
+    "description": "A topological group G will be said to have property U if every con- tinuous real-\u200bvalued function / on G is uniformly continuous (i.e. for every e > 0 there is a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ams.org/journals/proc/1962-013-01/S0002-9939-1962-0133392-8/S0002-9939-1962-0133392-8.pdf&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAh6BAgAEAE&usg=AOvVaw2DSZD949n-gsJofAQEmjcE",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "(PDF) Uniform continuity in sequentially uniform spaceswww.researchgate.net \u203a publication \u203a 242955225_U...",
+    "link": "https://www.researchgate.net/publication/242955225_Uniform_continuity_in_sequentially_uniform_spaces",
+    "description": "09.10.2020 \u00b7 uc-ness (continuity of some set of functions is uniform) coincide: (a) any. real-\u200bvalued continuous and bounded function is uniformly continuous,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/242955225_Uniform_continuity_in_sequentially_uniform_spaces&sa=U&ved=2ahUKEwjSg-OthovvAhULCsAKHQ2DDwE4ChAWMAl6BAgGEAE&usg=AOvVaw33cvt6pus1PE6Y24OC5JsL",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Uniform continuity - Encyclopedia of Mathematicsencyclopediaofmath.org \u203a wiki \u203a Uniform_continuity",
+    "link": "https://encyclopediaofmath.org/wiki/Uniform_continuity",
+    "description": "06.06.2020 \u00b7 If a mapping f:X\u2192Y is continuous on X and X is a compactum, then f is uniformly ... Uniform continuity of mappings occurs also in the theory of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://encyclopediaofmath.org/wiki/Uniform_continuity&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAB6BAgAEAE&usg=AOvVaw3d21_gRA2ozel4_nJYlYbo",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Uniform Continuity: Another Way to Approach This Concept in the ...www.tandfonline.com \u203a ... \u203a Volume 50, Issue 1",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/07468342.2019.1535208",
+    "description": "A sufficient condition for uniform continuity. We begin by recalling that a function f is uniformly continuous on an interval J if, for all.",
+    "googleLink": "http://www.google.com/url?q=https://www.tandfonline.com/doi/full/10.1080/07468342.2019.1535208&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAF6BAgJEAE&usg=AOvVaw35s8e7Mg7eXLYgIyl2WPw0",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Uniform Continuitywarwick.ac.uk \u203a fac \u203a sci \u203a maths \u203a people \u203a staff \u203a acosta",
+    "link": "https://warwick.ac.uk/fac/sci/maths/people/staff/acosta/ma260handountuc.pdf",
+    "description": "This review is intended as a \u201cwarm up\u201d before tackling compactness. Let f : (0, 1) \u2192 R be a continuous function and 0 < an < 1 nfor all\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://warwick.ac.uk/fac/sci/maths/people/staff/acosta/ma260handountuc.pdf&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAJ6BAgIEAE&usg=AOvVaw3aeTDR0hFPiFLE3p2OWL5z",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Uniform continuity - Math Tutor - Functions - Theory - Real Functionsmath.fel.cvut.cz \u203a txtb",
+    "link": "https://math.fel.cvut.cz/mt/txtb/3/txe3ba3g.htm",
+    "description": "Uniform Continuity \u00b7 Definition. Let f be a function, let M be a subset of its domain D( f ). \u00b7 Theorem. A uniformly continuous function on a set is necessarily\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.fel.cvut.cz/mt/txtb/3/txe3ba3g.htm&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAN6BAgHEAE&usg=AOvVaw10BIBaAcWJgpE-_jC71EtK",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Uniform continuity on unbounded intervals - USCwebspersoais.usc.es \u203a persoais \u203a persoais \u203a rodrigo.lopez \u203a ContUnif",
+    "link": "http://webspersoais.usc.es/export9/sites/persoais/persoais/rodrigo.lopez/ContUnif.pdf",
+    "description": "(i) To provide students with efficient and simple criteria to decide whether a continuous function is also uniformly continuous;. (ii) To provide students with skill to\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://webspersoais.usc.es/export9/sites/persoais/persoais/rodrigo.lopez/ContUnif.pdf&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAR6BAgDEAE&usg=AOvVaw0nff1ls_88ia8y4FOiHeey",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Uniform Continuity of Continuous Functions on Uniform Spaces ...www.cambridge.org \u203a product \u203a type \u203a journal_article",
+    "link": "https://www.cambridge.org/core/product/identifier/S0008414X00013547/type/journal_article",
+    "description": "20.11.2018 \u00b7 It is evident that every continuous real function on a uniform space is uniformly continuous if and only if the uniform structure of the space is finer\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cambridge.org/core/product/identifier/S0008414X00013547/type/journal_article&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAV6BAgBEAE&usg=AOvVaw1HSikkWF7J8QwcY7LtbiFM",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Uniform continuity over locally compact quantum groups | Journal of ...academic.oup.com \u203a jlms \u203a article",
+    "link": "https://academic.oup.com/jlms/article/80/1/55/878323",
+    "description": "Abstract. We define, for a locally compact quantum group \ud835\udd3e in the sense of Kustermans\u2013Vaes, the space of LUC(\ud835\udd3e) of left uniformly continuous elements in \u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://academic.oup.com/jlms/article/80/1/55/878323&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAZ6BAgFEAE&usg=AOvVaw0F4l8RDXKQyITP0jHuJ2iG",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Uniform continuity and quantization on bounded symmetric domains ...londmathsoc.onlinelibrary.wiley.com \u203a abs \u203a jlms",
+    "link": "https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms.12069",
+    "description": "11.08.2017 \u00b7 We prove that * remains true for f and g in the space UC ( \u03a9 ) of all \u03b2 \u2010uniformly continuous functions on \u03a9 . Note that this space contains also\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms.12069&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAd6BAgEEAE&usg=AOvVaw201fpXZ9SNqMlJawH4dFId",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Uniform continuity - Math Berkeleymath.berkeley.edu \u203a ~iliopoum \u203a Topics_104 \u203a Uniform continuity",
+    "link": "https://math.berkeley.edu/~iliopoum/Topics_104/Uniform%20continuity.pdf",
+    "description": "uniformly continuous if : for all pro, there exists S=S(\u20ac) >0, st. if x,y eA, with Ix-ylo,. - then Ifa fcy) | <e. Page\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.berkeley.edu/~iliopoum/Topics_104/Uniform%2520continuity.pdf&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAh6BAgCEAE&usg=AOvVaw12GR-H2v7B422iNqIenl0O",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "(J. Berger) Constructive Equivalents of the Uniform Continuity ...www.jucs.org \u203a jucs_11_12 \u203a constructive_equivale...",
+    "link": "http://www.jucs.org/jucs_11_12/constructive_equivalents_of_the",
+    "description": "Abstract: For the purpose of constructive reverse mathematics, we show the equivalence of the uniform continuity theorem to a series of propositions; this\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.jucs.org/jucs_11_12/constructive_equivalents_of_the&sa=U&ved=2ahUKEwjxvIiuhovvAhVzlFwKHRxxBl44FBAWMAl6BAgGEAE&usg=AOvVaw2minzbqodX8J9Mgl6FEuvr",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 1 Uniform Continuity Let us first review the notion of continuity of a ...home.iitk.ac.in \u203a ~psraj \u203a mth101 \u203a lecture_notes \u203a uniform",
+    "link": "https://home.iitk.ac.in/~psraj/mth101/lecture_notes/uniform.pdf",
+    "description": "Prososition 1: A function f : A \u2192 IR is uniformly continuous on a set A \u2282 IR if and only if whenever sequences (xn) and (yn) of points A are such that the sequence (\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://home.iitk.ac.in/~psraj/mth101/lecture_notes/uniform.pdf&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAB6BAgFEAE&usg=AOvVaw0xgIie2_8nWoHKrj6AAb5-",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] (Uniform) Continuity, (Uniform) Convergencewww.math.ucla.edu \u203a ~davidjekel \u203a Teaching_Analysis \u203a 131B_W17...",
+    "link": "http://www.math.ucla.edu/~davidjekel/Teaching_Analysis/131B_W17_Uniform_Continuity.pdf",
+    "description": "21.02.2017 \u00b7 Uniform continuity describes how f(x) changes when you change x. \u2022 If f is uniformly continuous, that means that if x is close to x0, then f(x) is close\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.ucla.edu/~davidjekel/Teaching_Analysis/131B_W17_Uniform_Continuity.pdf&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAF6BAgJEAE&usg=AOvVaw1WC2TYT15E069RYIoNXcW5",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Uniform Continuity-hint.htmwww.radford.edu \u203a ~wyang \u203a page216 \u203a Uniform C...",
+    "link": "https://www.radford.edu/~wyang/430/page216/Uniform%20Continuity-hint.htm",
+    "description": "Exercises on Uniform Continuity. page 216. Is it true that if $S$ is an unbounded set of real numbers and MATH for every number $x\\in S$ then the function $f$\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.radford.edu/~wyang/430/page216/Uniform%2520Continuity-hint.htm&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAJ6BAgIEAE&usg=AOvVaw38xIkCJXNGTt7yynZ71mVL",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] SHEET 11: UNIFORM CONTINUITY AND INTEGRATIONwww.math.uchicago.edu \u203a ~boller \u203a IBL",
+    "link": "http://www.math.uchicago.edu/~boller/IBL/M163script11.pdf",
+    "description": "For any constant c \u2208 R, the function c \u00b7 f is uniformly continuous on A. We will now prove that continuous functions with compact domain are automatically.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uchicago.edu/~boller/IBL/M163script11.pdf&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAN6BAgHEAE&usg=AOvVaw3-DLLadjZA80Tl3j8qkn0v",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Uniform Continuity - Mathonlinemathonline.wikidot.com \u203a uniform-continuity",
+    "link": "http://mathonline.wikidot.com/uniform-continuity",
+    "description": "Uniform Continuity. Definition: Let f : A \\to \\mathbb{R} be a function. We say that\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/uniform-continuity&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAR6BAgBEAE&usg=AOvVaw2IBCGiAXcyo2Aa5JkGhCm2",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Uniform continuity over locally compact quantum groups - NASA/ADSui.adsabs.harvard.edu \u203a abs \u203a abstract",
+    "link": "https://ui.adsabs.harvard.edu/abs/2008arXiv0802.2053R/abstract",
+    "description": "We define, for a locally compact quantum group $G$ in the sense of Kustermans-\u200b-Vaes, the space of $LUC(G)$ of left uniformly continuous elements in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ui.adsabs.harvard.edu/abs/2008arXiv0802.2053R/abstract&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAV6BAgAEAE&usg=AOvVaw1Z2mSB1RXcYK5Kna9GFeeO",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Uniform Continuity of Fractal Interpolation Function - Hindawiwww.hindawi.com \u203a journals \u203a mpe",
+    "link": "https://www.hindawi.com/journals/mpe/2020/7840432/",
+    "description": "The result shows that the fractal interpolation function is uniformly continuous in ... by the definition of uniform continuity and compactness theorem of sequence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.hindawi.com/journals/mpe/2020/7840432/&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAZ6BAgDEAE&usg=AOvVaw07SeimEvVghL0Ge9MkDc8V",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Strong uniform continuity - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/81971757.pdf",
+    "description": "01.04.2008 \u00b7 with uniform continuity on members of B when B is either the power set of X ... and K is a compact subset of X, then f |K is uniformly continuous.",
+    "googleLink": "http://www.google.com/url?q=https://core.ac.uk/download/pdf/81971757.pdf&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAd6BAgGEAE&usg=AOvVaw2V0GIcoVSYMc9-sT2sDR40",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 1 Uniform continuitywww.math.pitt.edu \u203a ~sph \u203a 0450-notes17",
+    "link": "http://www.math.pitt.edu/~sph/0450/0450-notes17.pdf",
+    "description": "is uniformly continuous on [0,&). Now we have an important theorem. Theorem 3 If A \u03c6 [a, b] is a closed bounded interval, and / : A % R is continuous on A, then\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.pitt.edu/~sph/0450/0450-notes17.pdf&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAh6BAgEEAE&usg=AOvVaw2isvmyTZ2duSmQG9LCWOO0",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Uniform-continuitywww.cs.bham.ac.uk \u203a ~mhe \u203a xu-escardo \u203a C-space-3",
+    "link": "https://www.cs.bham.ac.uk/~mhe/papers/xu-escardo/C-space-3/Uniform-continuity.html",
+    "description": "Chuangjie Xu, 2012 \\begin{code} module Uniform-continuity where open import Mini-library open import Setoid constant : {A B : Setoid} \u2192 E-map A B \u2192 Set\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cs.bham.ac.uk/~mhe/papers/xu-escardo/C-space-3/Uniform-continuity.html&sa=U&ved=2ahUKEwjXtLCuhovvAhVOT8AKHUoACMs4HhAWMAl6BAgCEAE&usg=AOvVaw1GykxHi5zo46Cu6gXCevnM",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Uniform Continuity - Explore the Science & Experts | ideXlabwww.idexlab.com \u203a openisme \u203a topic-uniform-conti...",
+    "link": "https://www.idexlab.com/openisme/topic-uniform-continuity/",
+    "description": "In the context of functions between metric spaces, Continuity is preserved by Uniform convergence on the bornology of relatively compact subsets while Cauchy\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.idexlab.com/openisme/topic-uniform-continuity/&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAB6BAgEEAE&usg=AOvVaw3jPgZomq2DEOP0aiCzIhdt",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Definition:Uniform Continuity - ProofWikiproofwiki.org \u203a wiki \u203a Definition:Uniform_Continuity",
+    "link": "https://proofwiki.org/wiki/Definition:Uniform_Continuity",
+    "description": "22.07.2020 \u00b7 Real Numbers. Let I\u2286R be a real interval. A real function f:I\u2192R is said to be uniformly continuous on I if and only if: for every \u03f5>0 there exists \u03b4>0\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Definition:Uniform_Continuity&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAF6BAgJEAE&usg=AOvVaw24xt30oKJvE88iqgXYZTcV",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Uniform Continuity \u2013 GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/kT7WV4GR",
+    "description": "Play with uniform continuity. ... Uniform Continuity. Author: Chad Kuhns. Topic: Continuity. Click, slide, play! GeoGebra Applet Press Enter to start activity\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/kT7WV4GR&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAJ6BAgHEAE&usg=AOvVaw3cxt1OJANJ-lySDbjFrjFE",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Uniform continuity and Br\u00e9zis\u2013Lieb-type splitting for superposition ...www.degruyter.com \u203a document \u203a doi \u203a anona-2016-0123 \u203a html",
+    "link": "https://www.degruyter.com/document/doi/10.1515/anona-2016-0123/html",
+    "description": "An intermediate result on the uniform continuity of superposition operators in ... If in addition \u2131 is uniformly continuous on bounded subsets of L p , then it is easy\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.degruyter.com/document/doi/10.1515/anona-2016-0123/html&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAN6BAgIEAE&usg=AOvVaw1AH0erMBMyGg7qB69_YDWM",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Chapter 06, Class 33 - Analysis WebNoteswww.analysiswebnotes.com \u203a class33.htmld \u203a class33",
+    "link": "http://www.analysiswebnotes.com/class33.htmld/class33.html",
+    "description": "Uniform Continuity. We'll start by re-examining the definition of continuity for a function between two metric spaces. Of course this rather begs the question,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.analysiswebnotes.com/class33.htmld/class33.html&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAR6BAgFEAE&usg=AOvVaw0a1Ah5S-S6ro3TbCZCd3IT",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] PROFESSOR SMITH MATH 295 LECTURE NOTES 1. Uniform ...www.math.lsa.umich.edu \u203a ~kesmith",
+    "link": "http://www.math.lsa.umich.edu/~kesmith/nov5notes.pdf",
+    "description": "Definition: A function f : R \u2192 R is uniformly continuous if \u2200\u03f5 > 0\u2203\u03b4 > 0 s.t. \u2200x, y \u2208. R, |x \u2212 y| < \u03b4 \u21d2 |f(x) \u2212 f(y)| < \u03f5. In the book (Appendix to Chapter 8), it is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.lsa.umich.edu/~kesmith/nov5notes.pdf&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAV6BAgDEAE&usg=AOvVaw1M1eqA6Tsi1IgwtGoPCOq0",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Uniform continuity - HandWikihandwiki.org \u203a wiki \u203a Uniform_continuity",
+    "link": "https://handwiki.org/wiki/Uniform_continuity",
+    "description": "26.12.2020 \u00b7 In mathematics, a function f is uniformly continuous if, roughly speaking, it is possible to guarantee that f(x) and f(y) be as close to each other as\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://handwiki.org/wiki/Uniform_continuity&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAZ6BAgBEAE&usg=AOvVaw2irOreV5TRSH_4zNq1uBIv",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Visualizing Uniform Continuity of Functions of Several ... - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2319215",
+    "description": "on a real interval, uniform continuity of f is equivalent to the condition that steep chords of the graph of f are short. His definition of this condition can be shown.",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2319215&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAd6BAgCEAE&usg=AOvVaw1xSph0StT6jH4hQa2gJ-wx",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "uniform-continuity | Math Counterexampleswww.mathcounterexamples.net \u203a tag \u203a uniform-cont...",
+    "link": "https://www.mathcounterexamples.net/tag/uniform-continuity/",
+    "description": "f:I\u2192R is said to be uniform continuity on I if (\u2200\u03f5>0)(\u2203\u03b4>0)(\u2200x,y\u2208I)(|x\u2212y|\u2264\u03b4\u21d2|f\u200b(x)\u2212f(y)|\u2264\u03f5). Obviously, a function which is uniform continuous on I is continuous\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathcounterexamples.net/tag/uniform-continuity/&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAh6BAgAEAE&usg=AOvVaw3hOfrA-4Uy6_JxyQ00NBtE",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Uniform Continuity - Desmoswww.desmos.com \u203a calculator",
+    "link": "https://www.desmos.com/calculator/oqq7v5isa6",
+    "description": "Uniform Continuity. Log InorSign Up. f x = s i n x. 1. e p s i l o n \u200b=0.18. 2. d e l t a \u200b=0.38. 3. Points. Points. Hide this folder from students. 4. Conditions.",
+    "googleLink": "http://www.google.com/url?q=https://www.desmos.com/calculator/oqq7v5isa6&sa=U&ved=2ahUKEwi2xdmuhovvAhWGYcAKHV15BuM4KBAWMAl6BAgGEAE&usg=AOvVaw0-m2mBmQUi8FBg3tY-MC4W",
+    "page": 4,
+    "index": 9
+  }
+]

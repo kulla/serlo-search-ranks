@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Vector Spaces - TCD Maths homewww.maths.tcd.ie \u203a ~dwilkins \u203a Courses \u203a vspace",
+    "link": "https://www.maths.tcd.ie/~dwilkins/Courses/111/vspace.pdf",
+    "description": "Proof. The vector space axioms ensure the existence of an element \u2212v of V with the property that v+(\u2212v) = 0, where 0 is the zero element of V . ... x = x + 0 = x + (v + (\u2212v)) = (x + v)+(\u2212v) = u + (\u2212v). This proves that there is exactly one element x of V satisfying x + v = u, and it is given by the formula x = u + (\u2212v).",
+    "googleLink": "http://www.google.com/url?q=https://www.maths.tcd.ie/~dwilkins/Courses/111/vspace.pdf&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFnoECAUQAg&usg=AOvVaw1FHzvKitoC8yzD4_mWVGI_",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Prove in full detail that the set is a vector space - Mathematics Stack ...math.stackexchange.com \u203a questions \u203a prove-in-full...",
+    "link": "https://math.stackexchange.com/questions/49733/prove-in-full-detail-that-the-set-is-a-vector-space",
+    "description": "Write V={(x,2x)\u2223x\u2208R}. Here the main thing is to note that (x1,2x1)+(x2,2x2) and c(x1,2x1) [edit]a bad typo was here - it used to read c(x_1,2x_2)[/edit] can both\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/49733/prove-in-full-detail-that-the-set-is-a-vector-space&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFjACegQIDBAB&usg=AOvVaw1dbWezO-8PlgQ1rV9VBBpc",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Prove Vector Space Properties Using Vector Space Axioms ...yutsumura.com \u203a prove-vector-space-properties-usi...",
+    "link": "https://yutsumura.com/prove-vector-space-properties-using-vector-space-axioms/",
+    "description": "Prove the following vector space properties using the axioms of a vector space: the cancellation law, the zero vector is unique, the additive inverse is unique, etc.\nThe Axioms of a Vector Space \u00b7 Solution. \u00b7 c) The zero vector 0 is unique.",
+    "googleLink": "http://www.google.com/url?q=https://yutsumura.com/prove-vector-space-properties-using-vector-space-axioms/&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFjALegQIABAB&usg=AOvVaw1mgiVEDKn5tx4mBbNbzs1L",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Vectors and Vector Spaces - TAMU Mathwww.math.tamu.edu \u203a ~dallen \u203a lectures \u203a chapter1",
+    "link": "https://www.math.tamu.edu/~dallen/m640_03c/lectures/chapter1.pdf",
+    "description": "If U is closed under vector addition and scalar multiplication, then U is a subspace of V . Proof. We remark that this result provides a \u201cshort cut\u201d to proving that a.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tamu.edu/~dallen/m640_03c/lectures/chapter1.pdf&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFjAMegQIChAB&usg=AOvVaw3xVknmAYD90jQqddER361y",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Vector Spaces - Archive of Formal Proofswww.isa-afp.org \u203a entries \u203a VectorSpace",
+    "link": "https://www.isa-afp.org/entries/VectorSpace.html",
+    "description": "29.08.2014 \u00b7 It includes basic definitions: linear combinations, span, linear independence; linear transformations; interpretation of function spaces as vector\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.isa-afp.org/entries/VectorSpace.html&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFjANegQIBxAB&usg=AOvVaw0SLAWQj-_FoaBZvvITY_9D",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Some simple properties of vector spaces Theorem Suppose that V is ...www.maths.usyd.edu.au \u203a geoffp \u203a lm-ss \u203a lectp4",
+    "link": "https://www.maths.usyd.edu.au/u/geoffp/lm-ss/lectp4.pdf",
+    "description": "Proof. (a) Suppose that 0 and 0 are both zero vectors in V . Then x + 0 = x and x + ... space. To prove this it is enough to observe that the remaining vector space\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maths.usyd.edu.au/u/geoffp/lm-ss/lectp4.pdf&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFjAOegQIBBAB&usg=AOvVaw3qS9bW7P8UtKBVZ78PSFP7",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "4.2: Elementary properties of vector spaces - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 4: Vector spaces",
+    "link": "https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_Linear_Algebra_(Schilling_Nachtergaele_and_Lankham)/04%3A_Vector_spaces/4.02%3A_Elementary_properties_of_vector_spaces",
+    "description": "12.08.2020 \u00b7 Hence 0=0\u2032, proving that the additive identity is unique. Proposition 4.2.2. Every v\u2208V has a unique additive inverse. Proof\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%253A_Linear_Algebra_(Schilling_Nachtergaele_and_Lankham)/04%253A_Vector_spaces/4.02%253A_Elementary_properties_of_vector_spaces&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFjAPegQIAxAB&usg=AOvVaw0e0RKDKVlVL03HHiQHW8EQ",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Proofs of Properties of finite-dimensional Vector Spaces using ...www.unirioja.es \u203a jodivaso \u203a degree_thesis \u203a presentacion",
+    "link": "http://www.unirioja.es/cu/jodivaso/degree_thesis/presentacion.pdf",
+    "description": "The objective of this project is to formalize concepts and theorems of linear algebra, concretly of vector spaces, using Isabelle/HOL. 2. We have followed a Halmos'\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.unirioja.es/cu/jodivaso/degree_thesis/presentacion.pdf&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFjAQegQIARAB&usg=AOvVaw1DeBDyb6_Nn47Qduhre3OK",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Section VS Vector Spaces - A First Course in Linear Algebralinear.ups.edu \u203a ... \u203a Vector Spaces",
+    "link": "http://linear.ups.edu/html/section-VS.html",
+    "description": "These proofs do not get too involved, but are not trivial either, so these are good theorems to try proving yourself before you study the proof given here. (See Proof\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://linear.ups.edu/html/section-VS.html&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFjARegQIAhAB&usg=AOvVaw17ItIRsSGPMxQmYpCx7agz",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Examples of vector spaces - Wikipediaen.wikipedia.org \u203a wiki \u203a Examples_of_vector_spaces",
+    "link": "https://en.wikipedia.org/wiki/Examples_of_vector_spaces",
+    "description": "This property can be used to prove that a field is a vector space. Any non-zero element of F serves as a basis so F is a 1-dimensional vector space over itself. The\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Examples_of_vector_spaces&sa=U&ved=2ahUKEwj4jdT4i4vvAhUzonEKHQ93BQwQFjASegQICBAB&usg=AOvVaw3DOdzApMDj5NBpWrEmIBvB",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 1 VECTOR SPACES AND SUBSPACEScourses.smp.uq.edu.au \u203a MATH2301 \u203a linalglecturenotes",
+    "link": "https://courses.smp.uq.edu.au/MATH2301/linalglecturenotes.pdf",
+    "description": "Such vectors belong to the foundation vector space - Rn - of all vector spaces. The ... The proofs are omitted but these facts should become evident after some\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://courses.smp.uq.edu.au/MATH2301/linalglecturenotes.pdf&ved=2ahUKEwjb7pT5i4vvAhWHTBUIHdOTAoc4ChAWMAB6BAgGEAE&usg=AOvVaw1Os750p2hdewSDcJPrLq-j",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Examples of vector spaces - Wikipediaen.wikipedia.org \u203a wiki \u203a Examples_of_vector_spaces",
+    "link": "https://en.wikipedia.org/wiki/Examples_of_vector_spaces",
+    "description": "This page lists some examples of vector spaces. See vector space for the definitions of terms used on this page. See also: dimension, basis. Notation.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://en.wikipedia.org/wiki/Examples_of_vector_spaces&ved=2ahUKEwjb7pT5i4vvAhWHTBUIHdOTAoc4ChAWMAF6BAgHEAE&usg=AOvVaw3Fs592v8AQfdgQXSc2LRf8",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Vector Spaces - UC Davis Mathematicswww.math.ucdavis.edu \u203a ~anne \u203a mat67-Le-Vector_Spaces",
+    "link": "https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Le-Vector_Spaces",
+    "description": "01.02.2007 \u00b7 1 Definition of vector spaces. As we have seen in the introduction, a vector space is a set V with two operations: addition of vectors and scalar\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Le-Vector_Spaces&ved=2ahUKEwjb7pT5i4vvAhWHTBUIHdOTAoc4ChAWMAJ6BAgJEAE&usg=AOvVaw3SkoktsDk3BamTfv9-_6je",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "4.2: Elementary properties of vector spaces - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 4: Vector spaces",
+    "link": "https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_Linear_Algebra_(Schilling_Nachtergaele_and_Lankham)/04%3A_Vector_spaces/4.02%3A_Elementary_properties_of_vector_spaces",
+    "description": "12.08.2020 \u00b7 We are going to prove several important, yet simple, properties of vector spaces. From now on, V will denote a vector space over F. Proposition\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%253A_Linear_Algebra_(Schilling_Nachtergaele_and_Lankham)/04%253A_Vector_spaces/4.02%253A_Elementary_properties_of_vector_spaces&ved=2ahUKEwjb7pT5i4vvAhWHTBUIHdOTAoc4ChAWMAN6BAgIEAE&usg=AOvVaw1M0cUKTdDdB-H7XQqeD9HS",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Linear Algebra/Definition and Examples of Vector Spaces ...en.wikibooks.org \u203a wiki \u203a Definition_and_Example...",
+    "link": "https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Vector_Spaces",
+    "description": "They specify that the addition and scalar multiplication operations are always sensible \u2014 they are defined for every pair of vectors, and every scalar and vector,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Vector_Spaces&ved=2ahUKEwjb7pT5i4vvAhWHTBUIHdOTAoc4ChAWMAR6BAgFEAE&usg=AOvVaw2T6w9PhufDSBC7rUJ4v-km",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Proofs for vector spaces \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Proofs_for_vector_spaces",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Proofs_for_vector_spaces",
+    "description": "Diese Seite ist noch im Entstehen und noch nicht offizieller Bestandteil des Buchs. Gib der Autorin / dem Autor Zeit, die Seite anzupassen! In diesem Kapitel\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://de.wikibooks.org/wiki/Serlo:_EN:_Proofs_for_vector_spaces&ved=2ahUKEwjb7pT5i4vvAhWHTBUIHdOTAoc4ChAWMAV6BAgBEAE&usg=AOvVaw0gj9bgKi3cmZZBHWtIdtP9",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Kinds of proofs Math 130 Linear Algebramathcs.clarku.edu \u203a ~djoyce \u203a kindsOfProofs",
+    "link": "https://mathcs.clarku.edu/~djoyce/ma130/kindsOfProofs.pdf",
+    "description": "For reference, here are the eight axioms for vector spaces. a. Vector addition is commutative: v + w = w + v b. Vector addition is associative: (u + v)\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://mathcs.clarku.edu/~djoyce/ma130/kindsOfProofs.pdf&ved=2ahUKEwjb7pT5i4vvAhWHTBUIHdOTAoc4ChAWMAZ6BAgAEAE&usg=AOvVaw1l1A8k60TnwkOH550TomfC",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 1 Example of Proper Proofswww.geneseo.edu \u203a ~heap \u203a courses \u203a example_proof",
+    "link": "https://www.geneseo.edu/~heap/courses/333/example_proof.pdf",
+    "description": "A vector space V over a field F is a set of elements with two defined operations called addition and scalar multiplication such that the following properties hold. (\u200bC1)\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.geneseo.edu/~heap/courses/333/example_proof.pdf&ved=2ahUKEwjb7pT5i4vvAhWHTBUIHdOTAoc4ChAWMAd6BAgDEAE&usg=AOvVaw13GwQbEgtYVh7plHrjikJf",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Properties of Vector Spaces - Mathonlinemathonline.wikidot.com \u203a properties-of-vector-spaces",
+    "link": "http://mathonline.wikidot.com/properties-of-vector-spaces",
+    "description": "Properties of Vector Spaces. We will now look at some important properties of vector spaces and provide what may seem like trivial proofs. Please review the\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Math 2331 \u2013 Linear Algebra - 4.1 Vector Spaces & Subspaceswww.math.uh.edu \u203a ~jiwenhe \u203a math2331 \u203a lectures \u203a sec4_1",
+    "link": "https://www.math.uh.edu/~jiwenhe/math2331/lectures/sec4_1.pdf",
+    "description": "4.1 Vector Spaces & Subspaces. Jiwen He. Department of Mathematics, University of Houston jiwenhe@math.uh.edu math.uh.edu/\u223cjiwenhe/math2331.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.math.uh.edu/~jiwenhe/math2331/lectures/sec4_1.pdf&ved=2ahUKEwjb7pT5i4vvAhWHTBUIHdOTAoc4ChAWMAl6BAgEEAE&usg=AOvVaw0FgVDtB7E6g5Uosqo10Ca5",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Vector Space Theory - Project Euclid  projecteuclid.org \u203a download \u203a pdf_1 \u203a euclid.lnms",
+    "link": "https://projecteuclid.org/download/pdf_1/euclid.lnms/1196285107",
+    "description": "Vector Space Theory - Project Euclid",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://projecteuclid.org/download/pdf_1/euclid.lnms/1196285107&ved=2ahUKEwjfuOf5i4vvAhWTo3EKHYmFCiw4FBAWMAF6BAgIEAE&usg=AOvVaw2XCqrhHFH9O2BGxrSt_-ol",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] The Hahn-Banach Theorem for Real Vector Spaces - Isabelle  isabelle.in.tum.de \u203a library \u203a HOL \u203a HOL-Hahn_Banach \u203a outline",
+    "link": "https://isabelle.in.tum.de/library/HOL/HOL-Hahn_Banach/outline.pdf",
+    "description": "[PDF] The Hahn-Banach Theorem for Real Vector Spaces - Isabelle",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://isabelle.in.tum.de/library/HOL/HOL-Hahn_Banach/outline.pdf&ved=2ahUKEwjfuOf5i4vvAhWTo3EKHYmFCiw4FBAWMAJ6BAgHEAE&usg=AOvVaw2vMJ-j3MxtvaNFqER8MqOu",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] 1 VECTOR SPACES AND SUBSPACES  courses.smp.uq.edu.au \u203a MATH2301 \u203a linalglecturenotes",
+    "link": "https://courses.smp.uq.edu.au/MATH2301/linalglecturenotes.pdf",
+    "description": "[PDF] 1 VECTOR SPACES AND SUBSPACES",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://courses.smp.uq.edu.au/MATH2301/linalglecturenotes.pdf&ved=2ahUKEwjfuOf5i4vvAhWTo3EKHYmFCiw4FBAWMAN6BAgJEAE&usg=AOvVaw1XUHr3W8meAU0Jj5Pehl4P",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Vector Space -- from Wolfram MathWorld  mathworld.wolfram.com \u203a VectorSpace",
+    "link": "https://mathworld.wolfram.com/VectorSpace.html",
+    "description": "Vector Space -- from Wolfram MathWorld",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://mathworld.wolfram.com/VectorSpace.html&ved=2ahUKEwjfuOf5i4vvAhWTo3EKHYmFCiw4FBAWMAR6BAgFEAE&usg=AOvVaw2bB8WG0FhIGf7jRl-wj9mC",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Linear Spaces - CMU Math  www.math.cmu.edu \u203a ...",
+    "link": "https://www.math.cmu.edu/~wn0g/2ch1a.pdf",
+    "description": "[PDF] Linear Spaces - CMU Math",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.math.cmu.edu/~wn0g/2ch1a.pdf&ved=2ahUKEwjfuOf5i4vvAhWTo3EKHYmFCiw4FBAWMAV6BAgBEAE&usg=AOvVaw0NUmQ5pQ3ABKNAkLWCif7Z",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Vector Spaces 1 - Michael Sullivan  galileo.math.siu.edu \u203a Courses \u203a Sum06 \u203a vspaces",
+    "link": "http://galileo.math.siu.edu/Courses/221/Sum06/vspaces.pdf",
+    "description": "[PDF] Vector Spaces 1 - Michael Sullivan",
+    "googleLink": null,
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Normed spaces - Uni Ulm  www.uni-ulm.de \u203a mawi.inst.020 \u203a sauter \u203a normed-spaces.2014-11-12.pdf",
+    "link": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.020/sauter/ws14/normed-spaces.2014-11-12.pdf",
+    "description": "[PDF] Normed spaces - Uni Ulm",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.020/sauter/ws14/normed-spaces.2014-11-12.pdf&ved=2ahUKEwjfuOf5i4vvAhWTo3EKHYmFCiw4FBAWMAd6BAgGEAE&usg=AOvVaw0fjgEgdukM4kwM2hxJQHTQ",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Vector Spaces - LTCC Online  ltcconline.net \u203a greenl \u203a courses \u203a vectors \u203a vectorsp...",
+    "link": "http://ltcconline.net/greenl/courses/203/vectors/vectorspaces.htm",
+    "description": "Vector Spaces - LTCC Online",
+    "googleLink": null,
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Vector spaces and linear maps - Stanford University  web.stanford.edu \u203a class \u203a vectorspaces",
+    "link": "https://web.stanford.edu/class/math61cm/vectorspaces.pdf",
+    "description": "[PDF] Vector spaces and linear maps - Stanford University",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://web.stanford.edu/class/math61cm/vectorspaces.pdf&ved=2ahUKEwjfuOf5i4vvAhWTo3EKHYmFCiw4FBAWMAl6BAgAEAE&usg=AOvVaw37CqQWT_5D7rM9VIR5wwUW",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Vector spaces and linear maps - Stanford Universityweb.stanford.edu \u203a class \u203a vectorspaces",
+    "link": "https://web.stanford.edu/class/math61cm/vectorspaces.pdf",
+    "description": "vector space. Another example of what one can prove in a vector space: Lemma 1 Suppose (V,+,\u00b7) is a vector space over F. Then (\u22121) \u00b7 x = \u2212x. Proof: We have\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://web.stanford.edu/class/math61cm/vectorspaces.pdf&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAB6BAgFEAE&usg=AOvVaw0A6w5sjjsQT_U5uzSSmDki",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Vector Spaces - UCSD CSEcseweb.ucsd.edu \u203a ~gill \u203a CILASite \u203a Resources",
+    "link": "https://cseweb.ucsd.edu/~gill/CILASite/Resources/06Chap2.pdf",
+    "description": "We now prove several useful properties of vector spaces that are analo- gous to the ... Proof We first remark that there is a certain amount of sloppiness in our.",
+    "googleLink": "http://www.google.com/url?q=https://cseweb.ucsd.edu/~gill/CILASite/Resources/06Chap2.pdf&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAF6BAgIEAE&usg=AOvVaw2nC6iPkLeAbKJ8xDKHiXRC",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] LECTURE 12: PROPERTIES OF VECTOR SPACES AND ...math.vanderbilt.edu \u203a rolenl \u203a LinearAlgebraNotes12",
+    "link": "https://math.vanderbilt.edu/rolenl/LinearAlgebraNotes12.pdf",
+    "description": "If V is a vector space and u, v, w are vectors such that u + w = v + w, then u = v. Proof. By the axioms defining vector spaces, there is an additive inverse x for w such.",
+    "googleLink": "http://www.google.com/url?q=https://math.vanderbilt.edu/rolenl/LinearAlgebraNotes12.pdf&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAJ6BAgHEAE&usg=AOvVaw15AdbTcV5zWjjz2RsOWAB5",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Slick proof?: A vector space has the same dimension as its dual if ...mathoverflow.net \u203a questions \u203a slick-proof-a-vector...",
+    "link": "https://mathoverflow.net/questions/13322/slick-proof-a-vector-space-has-the-same-dimension-as-its-dual-if-and-only-if-i",
+    "description": "Here is a simple proof I thought, tell me if anything is wrong. First claim. Let k be a field, V a vector space of dimension at least the cardinality of k and infinite.",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/13322/slick-proof-a-vector-space-has-the-same-dimension-as-its-dual-if-and-only-if-i&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAN6BAgJEAE&usg=AOvVaw3g-ORu8-8H9NtyjV8b4e9q",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "A Zorn's Lemma Proof of the Dimension Theorem for Vector Spaceswww.jstor.org \u203a stable \u203a amer.math.monthly.121.03.260",
+    "link": "https://www.jstor.org/stable/10.4169/amer.math.monthly.121.03.260",
+    "description": "This note gives a \u201cZorn's Lemma\u201d style proof that any two bases in a vector space have the same cardinality. One of the most fundamental notions in linear algebra\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/10.4169/amer.math.monthly.121.03.260&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAR6BAgEEAE&usg=AOvVaw1UhstSUUq3rKLupjHGfb7M",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Chapter 4 Vector Spacesmandal.ku.edu \u203a math290",
+    "link": "https://mandal.ku.edu/math290/m290NotesChFour.pdf",
+    "description": "Proof. To prove that additive identity is unique, suppose v + u = v for all v in Rn. Then, taking v = 0, we\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mandal.ku.edu/math290/m290NotesChFour.pdf&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAV6BAgCEAE&usg=AOvVaw3yepBppZUxI0mT5di0ryuz",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Vector Spaces of Random Variables - Random Serviceswww.randomservices.org \u203a random \u203a expect \u203a Spaces",
+    "link": "https://www.randomservices.org/random/expect/Spaces.html",
+    "description": "... in norm properties (and thus very little additional work is required for the proofs\u200b). ... Of course bi-linearity holds for any inner product on a vector space.",
+    "googleLink": "http://www.google.com/url?q=https://www.randomservices.org/random/expect/Spaces.html&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAZ6BAgDEAE&usg=AOvVaw0LMS6filNRWiY0QuTlmdmM",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Finite-Dimensional Vector Spacesfaculty.wwu.edu \u203a curgus \u203a Courses",
+    "link": "http://faculty.wwu.edu/curgus/Courses/504_201710/Ch_2.pdf",
+    "description": "We now prove that this intuition is correct. 2.7. Proposition: Every subspace of a finite-dimensional vector space is finite dimensional. Proof: Suppose V\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://faculty.wwu.edu/curgus/Courses/504_201710/Ch_2.pdf&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAd6BAgGEAE&usg=AOvVaw0daROhvwBC2XdmdBMXiUFW",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] How to write subspace proofs Problem: H is a subset of a known ...kunklet.people.cofc.edu \u203a MATH203 \u203a ssproofs",
+    "link": "http://kunklet.people.cofc.edu/MATH203/ssproofs.pdf",
+    "description": "10.12.2014 \u00b7 The vectors (. 1. 5. \u22123 1 )and (. 0 2. 0 0 ) belong to H. 2. 0 \u2208 H? Is the zero vector 0 in V also a member of H? First think what exactly is meant by\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://kunklet.people.cofc.edu/MATH203/ssproofs.pdf&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAh6BAgBEAE&usg=AOvVaw1uppPvoqVGs6Q2r0Kv0G0j",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Math 2331 \u2013 Linear Algebra - 4.1 Vector Spaces & Subspaceswww.math.uh.edu \u203a ~jiwenhe \u203a math2331 \u203a lectures \u203a sec4_1",
+    "link": "https://www.math.uh.edu/~jiwenhe/math2331/lectures/sec4_1.pdf",
+    "description": "A vector space is a nonempty set V of objects, called vectors, on which are defined ... subspace of V. Proof: In order to verify this, check properties a, b and c of.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uh.edu/~jiwenhe/math2331/lectures/sec4_1.pdf&sa=U&ved=2ahUKEwj7h436i4vvAhU_UhUIHUMqCdc4HhAWMAl6BAgAEAE&usg=AOvVaw1hveF8qoZq0-JSLPoVHQth",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Euclidean Space and Linear Algebralink.springer.com \u203a content \u203a pdf \u203a bbm:978-3-0348-8041-1 \u203a 1.pdf",
+    "link": "https://link.springer.com/content/pdf/bbm%3A978-3-0348-8041-1%2F1.pdf",
+    "description": "we shall present the results without proofs. General references for ... We start by describing the type of vector spaces we shall consider in this book. A.I.1 Ordered\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/bbm%253A978-3-0348-8041-1%252F1.pdf&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAB6BAgGEAE&usg=AOvVaw0D4aqXsO-85Tob_fP3uHDZ",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Vector Spaces and Subspaces - Ximeraximera.osu.edu \u203a laode \u203a linearAlgebra \u203a vectorSpa...",
+    "link": "https://ximera.osu.edu/laode/linearAlgebra/vectorSpaces/vectorSpacesAndSubspaces",
+    "description": "Let be a subset of the vector space . If is closed under addition and closed under scalar multiplication, then is a subspace. Proof: We have to show that is a vector\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ximera.osu.edu/laode/linearAlgebra/vectorSpaces/vectorSpacesAndSubspaces&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAF6BAgIEAE&usg=AOvVaw2ZErJxlC9ZYYEqMCEa7k8R",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] 1 Vector Spaces - Penn Mathwww.math.upenn.edu \u203a ~siegelch \u203a Notes \u203a linalg",
+    "link": "https://www.math.upenn.edu/~siegelch/Notes/linalg.pdf",
+    "description": "W\u03bb is also a subspace of V. 1. Page 2. Proof. 1. Test 0: T = \u2205.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.upenn.edu/~siegelch/Notes/linalg.pdf&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAJ6BAgHEAE&usg=AOvVaw18y1ku0AAUc47r_tksscDm",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Kinds of proofs Math 130 Linear Algebramathcs.clarku.edu \u203a ~djoyce \u203a kindsOfProofs",
+    "link": "https://mathcs.clarku.edu/~djoyce/ma130/kindsOfProofs.pdf",
+    "description": "Math 130 Linear Algebra. D Joyce, Fall 2015. Kinds of proofs. Last meeting we looked at some of the theorems that come from the axioms for vector spaces.",
+    "googleLink": "http://www.google.com/url?q=https://mathcs.clarku.edu/~djoyce/ma130/kindsOfProofs.pdf&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAN6BAgJEAE&usg=AOvVaw0aQdULRassQHXnDepvmaip",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Linear Algebra Definition. A vector space (over R) is an ordered ...services.math.duke.edu \u203a ~wka \u203a math204 \u203a linalg",
+    "link": "https://services.math.duke.edu/~wka/math204/linalg.pdf",
+    "description": "Proof. Simple exercise for the reader. Definition. Suppose V and W are vector spaces and L : V \u2192 W. We say L is linear if. (i) L(v + w) = L(v) + L(w) whenever v,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://services.math.duke.edu/~wka/math204/linalg.pdf&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAR6BAgAEAE&usg=AOvVaw2hW626-ABPYLOlzuUou-3A",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] MATH 2300 Sample Proofshome.cc.umanitoba.ca \u203a Worksheets \u203a SampleProofs-PartialSolutions",
+    "link": "https://home.cc.umanitoba.ca/~borgerse/14R-T1/MATH2300/Worksheets/SampleProofs-PartialSolutions.pdf",
+    "description": "Prove that for any set of vectors S = {v1,...,vn} in a vector space V , span(S) is a subspace of V . Solution: Let u,w \u2208 span(S), k \u2208 R. Then there exist c1,...cn \u2208 R\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://home.cc.umanitoba.ca/~borgerse/14R-T1/MATH2300/Worksheets/SampleProofs-PartialSolutions.pdf&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAV6BAgCEAE&usg=AOvVaw36Ma0VqmgC-_tOIJH8vw-K",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Examples of a Proof for a Subspacesarantsev.faculty.pstat.ucsb.edu \u203a proof_examples",
+    "link": "http://sarantsev.faculty.pstat.ucsb.edu/math308b_sp13_docs/proof_examples.pdf",
+    "description": "Prove that this is a subspace. Let us check three conditions: (1) The zero vector belongs to L. This follows from 0 = 0 + 0. (2) The subset L is closed under vector\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sarantsev.faculty.pstat.ucsb.edu/math308b_sp13_docs/proof_examples.pdf&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAZ6BAgEEAE&usg=AOvVaw2DqCWEep2Xnm4mSnBJ20XH",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Lecture Notes for MATH 2406 (Abstract Vector Spaces)people.math.gatech.edu \u203a ~heil \u203a fall11 \u203a chapter3",
+    "link": "https://people.math.gatech.edu/~heil/2406/fall11/chapter3.pdf",
+    "description": "04.04.2013 \u00b7 proofs. First we'll prove that there is only one zero vector in a vector space. Lemma 3.7. A vector space can have only one zero element. Proof.",
+    "googleLink": "http://www.google.com/url?q=https://people.math.gatech.edu/~heil/2406/fall11/chapter3.pdf&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAd6BAgDEAE&usg=AOvVaw2EbOsI0XgytmPaJAj9vgXu",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 1 Vector spaceswww.math.ust.hk \u203a Math2121 \u203a lectures \u203a 14_Math2121_Fall2017",
+    "link": "https://www.math.ust.hk/~emarberg/teaching/2017/Math2121/lectures/14_Math2121_Fall2017.pdf",
+    "description": "following identities which are obvious for subspaces of Rn. Proposition. If V is a vector space then 0v = 0 and c0 = 0 for all c \u2208 R and v \u2208 V . Proof. We have 0v\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.ust.hk/~emarberg/teaching/2017/Math2121/lectures/14_Math2121_Fall2017.pdf&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAh6BAgBEAE&usg=AOvVaw0mayFULbNQ7gSpMjr3VNwg",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Vector Spaces and Subspaceswww.math.utah.edu \u203a ~gustafso \u203a vectorspaceSubspaceIndependence",
+    "link": "http://www.math.utah.edu/~gustafso/s2008/vectorspaceSubspaceIndependence.pdf",
+    "description": "Then S is a subspace of V . Items 2, 3 can be summarized as all linear combinations of vectors in S are again in S. In proofs using the criterion, items 2 and 3\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.utah.edu/~gustafso/s2008/vectorspaceSubspaceIndependence.pdf&sa=U&ved=2ahUKEwjEib76i4vvAhWzSxUIHXZ_BY44KBAWMAl6BAgFEAE&usg=AOvVaw23Y9aC392mwarqTUr_XoNn",
+    "page": 4,
+    "index": 9
+  }
+]

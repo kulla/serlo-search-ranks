@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Linear independence - Wikipediaen.wikipedia.org \u203a wiki \u203a Linear_independence",
+    "link": "https://en.wikipedia.org/wiki/Linear_independence",
+    "description": "In the theory of vector spaces, a set of vectors is said to be linearly dependent if at least one of the vectors in the set can be defined as a linear combination of the\u00a0...\nDefinition \u00b7 Geometric meaning \u00b7 Evaluating linear ... \u00b7 Linear independence of ...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Linear_independence&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QFjAAegQICBAB&usg=AOvVaw1DrxtKGpeUmYtYw-he79tm",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Linear Independencetextbooks.math.gatech.edu \u203a ila \u203a linear-independence",
+    "link": "https://textbooks.math.gatech.edu/ila/linear-independence.html",
+    "description": "Theorem. A set of vectors { v 1 , v 2 ,..., v k } is linearly dependent if and only if one of the vectors is in the span of the other ones.",
+    "googleLink": "http://www.google.com/url?q=https://textbooks.math.gatech.edu/ila/linear-independence.html&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QFjATegQIBRAB&usg=AOvVaw189lIrsU4GKfUm8O9jaMAK",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Introduction to linear independence (video) | Khan Academywww.khanacademy.org \u203a math \u203a vectors-and-spaces",
+    "link": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence",
+    "description": "30.04.2011 \u00b7 The term to use is always \"linearly\" independent or dependent regardless how many ...Dauer: 15:46\nGepostet: 30.04.2011",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QtwIwFHoECAIQAQ&usg=AOvVaw2CviwdihhPrsU2BE3mFQo9",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Linear Independence and Linear Dependence, Ex 1 - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=yLi8RxqfowA",
+    "description": "07.09.2011 \u00b7 Linear Independence and Linear Dependence, Ex 1. 1,181,000 views1.1M views\u200b. \u2022 Sep 7 ...Dauer: 8:05\nGepostet: 07.09.2011",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DyLi8RxqfowA&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QtwIwFXoECAMQAQ&usg=AOvVaw2vBnI-nxvaMPi7PReVRSDP",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Linear Independence - CliffsNoteswww.cliffsnotes.com \u203a real-euclidean-vector-spaces",
+    "link": "https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/linear-independence",
+    "description": "Linear Independence \u00b7 Example 1 \u00b7 If none of these vectors can be expressed as a linear combination of the other two, then the vectors are independent; otherwise,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/linear-independence&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QFjAWegQICxAB&usg=AOvVaw2x0RVhoOYv0WFH7LIvAJdM",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Testing for Linear Dependence of Vectors - Oregon State Universitysites.science.oregonstate.edu \u203a vcalc \u203a lindep \u203a lindep",
+    "link": "http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lindep/lindep.html",
+    "description": "We have now found a test for determining whether a given set of vectors is linearly independent: A set of n vectors of length n is linearly independent if the matrix\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lindep/lindep.html&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QFjAXegQIBxAB&usg=AOvVaw32MDl7FE0z2siRObRAXGOp",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "What exactly does linear dependence and linear independence ...math.stackexchange.com \u203a questions \u203a what-exactly...",
+    "link": "https://math.stackexchange.com/questions/456002/what-exactly-does-linear-dependence-and-linear-independence-imply",
+    "description": "Intuitively vectors being linearly independent means they represent independent directions in your vector spaces, while linearly dependent vectors means they\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/456002/what-exactly-does-linear-dependence-and-linear-independence-imply&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QFjAYegQIBBAB&usg=AOvVaw0dGo9L1gRUYJm3T1uXAJZg",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "How To Understand Linear Independence (Linear Algebra) | by ...medium.com \u203a swlh \u203a how-to-understand-linear-ind...",
+    "link": "https://medium.com/swlh/how-to-understand-linear-independence-linear-algebra-8bab1d918509",
+    "description": "30.06.2020 \u00b7 Short Review \u00b7 Given the equation c\u2081v\u2081 + c\u2082v\u2082 + \u2026 \u00b7 A set of vectors is linearly dependent if there exists a non-trivial solution to the equation\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://medium.com/swlh/how-to-understand-linear-independence-linear-algebra-8bab1d918509&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QFjAdegQIBhAB&usg=AOvVaw1d7qhS7D2FTa-4iD_D1xI2",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Math 2331 \u2013 Linear Algebra - 1.7 Linear Independencewww.math.uh.edu \u203a ~jiwenhe \u203a math2331 \u203a lectures \u203a sec1_7",
+    "link": "https://www.math.uh.edu/~jiwenhe/math2331/lectures/sec1_7.pdf",
+    "description": "Each linear dependence relation among the columns of A corresponds to a nontrivial solution to Ax = 0. The columns of matrix A are linearly independent if and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uh.edu/~jiwenhe/math2331/lectures/sec1_7.pdf&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QFjAeegQIARAB&usg=AOvVaw01srtNnXa4yP0bYVy554lb",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Linear dependence and independence (chapter. 4)www.maths.usyd.edu.au \u203a geoffp \u203a lm-ss \u203a lectp7",
+    "link": "https://www.maths.usyd.edu.au/u/geoffp/lm-ss/lectp7.pdf",
+    "description": "This lecture we will use the notions of linear independence and linear dependence to find the smallest sets of vectors which span V . \u2022 It turns out that there are\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maths.usyd.edu.au/u/geoffp/lm-ss/lectp7.pdf&sa=U&ved=2ahUKEwiv-tCq_orvAhX5SxUIHS-OD60QFjAfegQICRAB&usg=AOvVaw19txmrz6qqqAZol84AOlgg",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Linear Independence Calculator - Omni Calculatorwww.omnicalculator.com \u203a math \u203a linear-independe...",
+    "link": "https://www.omnicalculator.com/math/linear-independence",
+    "description": "08.10.2020 \u00b7 Linearly independent vectors; The span of vectors in linear algebra; How to check linear dependence; Example: using the linear independence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.omnicalculator.com/math/linear-independence&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAB6BAgCEAE&usg=AOvVaw0DLKZQokVd7Ue8ENBCiqzZ",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Linear Algebra Toolkitwww.math.odu.edu \u203a ~bogacki \u203a cgi-bin \u203a lat",
+    "link": "http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=li",
+    "description": "2000\u22122019 P. Bogacki, Linear independence and dependence, v. ... in the vector space V, determine whether S is linearly independent or linearly dependent.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi%3Fc%3Dli&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAF6BAgIEAE&usg=AOvVaw2LHcxJvyZ_ezAqcQ0rwccG",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Definition of Linear Independence by Merriam-Websterwww.merriam-webster.com \u203a dictionary \u203a linear ind...",
+    "link": "https://www.merriam-webster.com/dictionary/linear%20independence",
+    "description": "Linear independence definition is - the property of a set (as of matrices or vectors ) having no linear combination of all its elements equal to zero when\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.merriam-webster.com/dictionary/linear%2520independence&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAJ6BAgHEAE&usg=AOvVaw3UKFT7jta7Xio2_UICLG7m",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Linear independence - StatLectwww.statlect.com \u203a matrix-algebra \u203a linear-indepen...",
+    "link": "https://www.statlect.com/matrix-algebra/linear-independence",
+    "description": "Linear independence is a central concept in linear algebra. Two or more vectors are said to be linearly independent if none of them can be written as a linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.statlect.com/matrix-algebra/linear-independence&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAN6BAgJEAE&usg=AOvVaw3uZR56y04bhSF1tlFAP23J",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Linear Independence - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a linear-independence",
+    "link": "https://www.sciencedirect.com/topics/mathematics/linear-independence",
+    "description": "Suppose ci \u2260 0. Then, xi = \u2212 (c1x1 + c2x2 + \u22ef + ci\u2212 1xi\u2212 1 + ci+ 1xi+ 1 + \u22ef + cmxm)/ci. The vector xi can be written as a linear combination of the remaining\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/mathematics/linear-independence&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAR6BAgGEAE&usg=AOvVaw19dz4YK6EK7pdnqx2mnlVp",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Linear Algebra - Wolfram|Alpha Exampleswww.wolframalpha.com \u203a examples \u203a mathematics",
+    "link": "https://www.wolframalpha.com/examples/mathematics/linear-algebra/",
+    "description": "Linear Independence. Check vectors for both linear dependence and linear independence. Determine whether a set of vectors is linearly independent:.",
+    "googleLink": "http://www.google.com/url?q=https://www.wolframalpha.com/examples/mathematics/linear-algebra/&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAV6BAgBEAE&usg=AOvVaw0C3R1nXi0zuKaAsSjRWVs9",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Section 9.13 (0CKK): Linear independence of characters\u2014The ...stacks.math.columbia.edu \u203a tag",
+    "link": "https://stacks.math.columbia.edu/tag/0CKK",
+    "description": "Then \\chi _1, \\ldots , \\chi _ n are L-linearly independent: if \\lambda _1, \\ldots , \\ lambda _ n \\in L not all zero, then \\sum \\lambda _ i\\chi _ i(g) \\not= 0 for some g \\in G.",
+    "googleLink": "http://www.google.com/url?q=https://stacks.math.columbia.edu/tag/0CKK&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAZ6BAgEEAE&usg=AOvVaw0uUCljO_TtlwzTTPIOJWIf",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Linear Independence | Brilliant Math & Science Wikibrilliant.org \u203a wiki \u203a linear-independence",
+    "link": "https://brilliant.org/wiki/linear-independence/",
+    "description": "Linear independence is a property of sets of vectors that tells whether or not any of the vectors can be expressed in terms of the other vectors (and any scalars).",
+    "googleLink": "http://www.google.com/url?q=https://brilliant.org/wiki/linear-independence/&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAd6BAgFEAE&usg=AOvVaw3cmFjg2r2Yw0TTVZjqP4iw",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Linear independence in linear systems on elliptic curvesarxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/2005.05473",
+    "description": "11.05.2020 \u00b7 For P \\in C, let s_P be a rational function with divisor N \\cdot P - N \\cdot O. We ask whether the N functions s_P are linearly independent. For\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/2005.05473&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAh6BAgAEAE&usg=AOvVaw1Na4k86KjRHsGJCd6M7c-U",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Local linear independence of the translates of a box spline ...link.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1007/BF01890029",
+    "description": "is linearly independent over any open setA. AMS (MOS) classification. 41 A 15 41 A 63 15 A 03. Key words and phrases.",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/article/10.1007/BF01890029&sa=U&ved=2ahUKEwjA8JWr_orvAhUztHEKHYlhDx44ChAWMAl6BAgDEAE&usg=AOvVaw2-OBE48GyxK1pwfpali_W0",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "On the linear independence of a function and its derivatives - IEEE ...ieeexplore.ieee.org \u203a document",
+    "link": "https://ieeexplore.ieee.org/document/1100431",
+    "description": "1) Suppose that z(t) and its first m derivatives z^{(k)}(t), k = 1,...,m , are continuous functions with values in a normed linear vector space. We define a class of linear\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ieeexplore.ieee.org/document/1100431&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAB6BAgEEAE&usg=AOvVaw0oZ2uSDpvc35_qywpVy6wT",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Linear Algebra/Definition and Examples of Linear Independence ...en.wikibooks.org \u203a wiki \u203a Linear_Algebra \u203a Solutions",
+    "link": "https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Linear_Independence/Solutions",
+    "description": "We can see this by inspection, straight from the definition of linear independence. Obviously neither is a multiple of the other. This set is linearly independent. The\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Linear_Independence/Solutions&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAF6BAgIEAE&usg=AOvVaw3I-gOMXT8Ci0ojnP3ixfHF",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Linear Independence and the Wronskian - LTCC Onlineltcconline.net \u203a greenl \u203a courses \u203a ConstantCoeff \u203a li...",
+    "link": "https://ltcconline.net/greenl/courses/204/ConstantCoeff/linearIndependence.htm",
+    "description": "The two functions are linearly independent. In the above example, we arbitrarily selected two values for t. It turns out that there is a systematic way to check for\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ltcconline.net/greenl/courses/204/ConstantCoeff/linearIndependence.htm&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAJ6BAgJEAE&usg=AOvVaw1gaDRLKO6HRMsT2GfkLTH5",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "10.2: Showing Linear Independence - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 10: Linear Independence",
+    "link": "https://math.libretexts.org/Bookshelves/Linear_Algebra/Map%3A_Linear_Algebra_(Waldron_Cherney_and_Denton)/10%3A_Linear_Independence/10.02%3A_Showing_Linear_Independence",
+    "description": "20.12.2020 \u00b7 On the other hand, to check that a set of vectors is linearly independent, we must check that every linear combination of our vectors with\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Linear_Algebra/Map%253A_Linear_Algebra_(Waldron_Cherney_and_Denton)/10%253A_Linear_Independence/10.02%253A_Showing_Linear_Independence&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAN6BAgHEAE&usg=AOvVaw396x80WwHBScZsm0nRefqQ",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Linearly Dependent Functions -- from Wolfram MathWorldmathworld.wolfram.com \u203a LinearlyDependentFuncti...",
+    "link": "https://mathworld.wolfram.com/LinearlyDependentFunctions.html",
+    "description": "for all x in some interval I . If the functions are not linearly dependent, they are said to be linearly independent. Now, if the functions and in C^(n-1) (the space of\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/LinearlyDependentFunctions.html&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAR6BAgAEAE&usg=AOvVaw2s3XKGqPGaWYXCv8O5Pe5c",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "4) Linear Independence - Linear Algebra - Intuitive Mathintuitive-math.club \u203a linear-algebra \u203a linear-indepen...",
+    "link": "https://intuitive-math.club/linear-algebra/linear-independence",
+    "description": "When we talk about linear independence what we are actually talking about is whether a vector in a set of vectors actually gives us the freedom to move in another\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://intuitive-math.club/linear-algebra/linear-independence&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAV6BAgBEAE&usg=AOvVaw2Qpnr_fN56Q8XxMLspAHzN",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Linear Independence and Dependence - Math User Home Pageswww-users.math.umn.edu \u203a documents \u203a teaching_math2373 \u203a MAT...",
+    "link": "http://www-users.math.umn.edu/~chand409/documents/teaching_math2373/MATH2373_LinearIndependence.pdf",
+    "description": "(3) w4 +... 0. 1. 2.. = w1,. We say that vectors are linearly dependent if one is a scalar multiple of the other, like w1 and w2 above. Otherwise, we\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www-users.math.umn.edu/~chand409/documents/teaching_math2373/MATH2373_LinearIndependence.pdf&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAZ6BAgCEAE&usg=AOvVaw1kd3ZDe_OetDnklJy7z9iz",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 26 Linear Independence - IMSAstaff.imsa.edu \u203a ~fogel \u203a LinAlg \u203a PDF \u203a 26 Linear Independence",
+    "link": "https://staff.imsa.edu/~fogel/LinAlg/PDF/26%20Linear%20Independence.pdf",
+    "description": "Definition: a set of vectors is called linearly independent if the only linear combination of them that adds to 0 is the trivial combination. If there is a nontrivial\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://staff.imsa.edu/~fogel/LinAlg/PDF/26%2520Linear%2520Independence.pdf&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAd6BAgGEAE&usg=AOvVaw1kbRJICNecXYfWf7mjrRNq",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Linear independence | Psychology Wiki | Fandompsychology.wikia.org \u203a wiki \u203a Linear_independence",
+    "link": "https://psychology.wikia.org/wiki/Linear_independence",
+    "description": "Linear dependence is a property of the family, not of any particular vector; here we could just as well write the first vector as a linear combination of the last three. {\\\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://psychology.wikia.org/wiki/Linear_independence&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAh6BAgFEAE&usg=AOvVaw2Zcqej2zpoWFcm3WoEkf8v",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Linear Independencesites.millersville.edu \u203a bikenaga \u203a linear-algebra \u203a li...",
+    "link": "https://sites.millersville.edu/bikenaga/linear-algebra/linear-independence/linear-independence.html",
+    "description": "Linear Independence. Definition. Let V be a vector space over a field F, and let $\u200bS \\subset V$ . The set S is linearly independent if $v_1, \\ldots, v_n \\in S$ , $a_1\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://sites.millersville.edu/bikenaga/linear-algebra/linear-independence/linear-independence.html&sa=U&ved=2ahUKEwjgkcSr_orvAhUiQhUIHQ0LBKU4FBAWMAl6BAgDEAE&usg=AOvVaw0spMCFidzdTeFUY7ATT1-a",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Linear Independence - The Juniversethejuniverse.org \u203a LOLA \u203a indep \u203a examples",
+    "link": "http://thejuniverse.org/PUBLIC/LinearAlgebra/LOLA/indep/examples.html",
+    "description": "Thus: A set of two vectors is linearly dependent if one is parallel to the other,. and linearly independent if they are not parallel.",
+    "googleLink": "http://www.google.com/url?q=http://thejuniverse.org/PUBLIC/LinearAlgebra/LOLA/indep/examples.html&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAB6BAgBEAE&usg=AOvVaw21tWkPzCpdjTwM6lOv6AkF",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Linear Independence and Rank - Linear Algebra - Varsity Tutorswww.varsitytutors.com \u203a linear_algebra-help \u203a linea...",
+    "link": "https://www.varsitytutors.com/linear_algebra-help/linear-independence-and-rank",
+    "description": "Linear Independence And Rank : Example Question #1. Determine whether the following vectors in Matrix form are Linearly Independent.",
+    "googleLink": "http://www.google.com/url?q=https://www.varsitytutors.com/linear_algebra-help/linear-independence-and-rank&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAF6BAgJEAE&usg=AOvVaw3LzdneRPlKvmzPQvQa31iH",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Linear Combination and Linear Independence | Problems in ...yutsumura.com \u203a Linear Algebra",
+    "link": "https://yutsumura.com/linear-algebra/linear-combination-and-linear-independence/",
+    "description": "Problems of Linear Combination and Linear Independence. From introductory exercise problems to linear algebra exam problems from various universities.",
+    "googleLink": "http://www.google.com/url?q=https://yutsumura.com/linear-algebra/linear-combination-and-linear-independence/&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAJ6BAgHEAE&usg=AOvVaw3edhhajQjf8V5-UdPFtD6E",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Linear Independencepeople.math.carleton.ca \u203a math \u203a notes \u203a MATH1107",
+    "link": "https://people.math.carleton.ca/~kcheung/math/notes/MATH1107/wk09/09_linear_independence.html",
+    "description": "Linear independence. Let V be a vector space. Vectors v1,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://people.math.carleton.ca/~kcheung/math/notes/MATH1107/wk09/09_linear_independence.html&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAN6BAgIEAE&usg=AOvVaw2myZUTK1VjE7DiAV-rKQ2i",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Linear Independence and Dependence - Mathonlinemathonline.wikidot.com \u203a linear-independence-and-...",
+    "link": "http://mathonline.wikidot.com/linear-independence-and-dependence",
+    "description": "We will now look at some examples of vector sets which are either linearly independent or linearly dependent. Note: Another way to write that a set of vectors $\\{\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/linear-independence-and-dependence&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAR6BAgGEAE&usg=AOvVaw2y81m749Uzw0NqNAyYI8K1",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Linear Independence - ML Wikimlwiki.org \u203a index.php \u203a Linear_Independence",
+    "link": "http://mlwiki.org/index.php/Linear_Independence",
+    "description": "27.06.2017 \u00b7 Linear Independence. Vectors x1,x2,...,xn are linearly independent if no linear combinations gives a zero vector 0. c1x1+c2x2+...+cnxn\u22600; only\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mlwiki.org/index.php/Linear_Independence&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAV6BAgAEAE&usg=AOvVaw18e8w7RjwbASJHfMz1vW-m",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Linear Independence: Definition & Examples - Precalculus Class ...study.com \u203a academy \u203a lesson \u203a linear-independenc...",
+    "link": "https://study.com/academy/lesson/linear-independence-definition-examples.html",
+    "description": "If at least one of the equations can be described in terms of the other equations, the system is said to be linearly dependent. If there is no way to write at least one\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://study.com/academy/lesson/linear-independence-definition-examples.html&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAZ6BAgEEAE&usg=AOvVaw3RXy5pYfat0qJQGzZMWTub",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Linearly dependent and linearly independent vectors - OnlineMSchoolonlinemschool.com \u203a vector \u203a linear-independence",
+    "link": "https://onlinemschool.com/math/library/vector/linear-independence/",
+    "description": "Definition. The vectors a1, ..., an are called linearly independent if there are no non-trivial combination of these vectors equal to the zero vector. That is, the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://onlinemschool.com/math/library/vector/linear-independence/&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAd6BAgFEAE&usg=AOvVaw01_yYDWY8txZKX4ag_GvJt",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Section LI Linear Independence - A First Course in Linear Algebralinear.ups.edu \u203a ... \u203a Vectors",
+    "link": "http://linear.ups.edu/html/section-LI.html",
+    "description": "Subsection LISV Linearly Independent Sets of Vectors \u00b7 Definition RLDCV Relation of Linear Dependence for Column Vectors \u00b7 Definition LICV Linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://linear.ups.edu/html/section-LI.html&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAh6BAgDEAE&usg=AOvVaw17IZhJKF6UnhVFRCSBb6G9",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Mordell : On the linear independence of algebraic numbers.projecteuclid.org \u203a euclid.pjm",
+    "link": "https://projecteuclid.org/euclid.pjm/1103051334",
+    "description": "Mordell, L. J. On the linear independence of algebraic numbers. Pacific J. Math. 3 (1953), no. 3, 625--630. https://projecteuclid.org/euclid.pjm/1103051334\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/euclid.pjm/1103051334&sa=U&ved=2ahUKEwibwous_orvAhXlQhUIHbfWCUo4HhAWMAl6BAgCEAE&usg=AOvVaw0qlo9zIoMsB4MdqhyCCrb4",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Linearly Independent Vectors Definition | DeepAIdeepai.org \u203a machine-learning-glossary-and-terms",
+    "link": "https://deepai.org/machine-learning-glossary-and-terms/linearly-independent-vectors",
+    "description": "Linear independence is an important property of a set of vectors. A set of vectors is called linearly independent if no vector in the set can be expressed as a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://deepai.org/machine-learning-glossary-and-terms/linearly-independent-vectors&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAB6BAgEEAE&usg=AOvVaw2rNIQAvdNmvyiEeGnYXpif",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Linear Independence Matrix - Stack Overflowstackoverflow.com \u203a questions \u203a linear-independenc...",
+    "link": "https://stackoverflow.com/questions/1734873/linear-independence-matrix",
+    "description": "Only because no one officially answered yet... can't you just use QR? Q, R = qr(A)\u200b. QR factorization finds orthonormal matrix Q and upper triangular matrix R\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://stackoverflow.com/questions/1734873/linear-independence-matrix&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAF6BAgJEAE&usg=AOvVaw3cccOMu4WrIceuk8u-3Ddv",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "definition of linear independence by The Free Dictionarywww.thefreedictionary.com \u203a linear+independence",
+    "link": "https://www.thefreedictionary.com/linear+independence",
+    "description": "We carried out the linear independence analysis of thermal parameters, the impact of the U-pipe shank spacing value on the effective borehole thermal\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.thefreedictionary.com/linear%2Bindependence&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAJ6BAgHEAE&usg=AOvVaw3DQE-OMCSMye3mRc5yR8-G",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Linear independence of linear forms in polylogarithms - Numdamwww.numdam.org \u203a ASNSP_2006_5_5_1_1_0",
+    "link": "http://www.numdam.org/item/ASNSP_2006_5_5_1_1_0/",
+    "description": "Linear independence of linear forms in polylogarithms. Marcovecchio, Raffaele. Annali della Scuola Normale Superiore di Pisa - Classe di Scienze, S\u00e9rie 5,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.numdam.org/item/ASNSP_2006_5_5_1_1_0/&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAN6BAgIEAE&usg=AOvVaw2hjqctQT3xyuKfOmSg0fjH",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Linear Independence - Measurement Studio 2019 Help - National ...zone.ni.com \u203a en-XX \u203a help \u203a mstudioanalysis \u203a lva...",
+    "link": "http://zone.ni.com/reference/en-XX/help/375857B-01/mstudioanalysis/lvac_linear_independence/",
+    "description": "In simpler terms, if one of the vectors can be written in terms of a linear combination of the others, the vectors are linearly dependent. If the only set of ai for which\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://zone.ni.com/reference/en-XX/help/375857B-01/mstudioanalysis/lvac_linear_independence/&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAR6BAgFEAE&usg=AOvVaw3FcoqnXdlufqzyS0JuqiMW",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Linear independence of element-wise powers of positive vectors ...mathoverflow.net \u203a questions \u203a linear-independence...",
+    "link": "https://mathoverflow.net/questions/341870/linear-independence-of-element-wise-powers-of-positive-vectors",
+    "description": "The following proposition shows that x\u03b31,\u2026x\u03b3n are indeed always linearly independent if x\u2208Rn has n mutually distinct strictly positive entries.",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/341870/linear-independence-of-element-wise-powers-of-positive-vectors&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAV6BAgBEAE&usg=AOvVaw2ewo4I-ewAjhulDrNamBUy",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Linear independence - Encyclopedia of Mathematicsencyclopediaofmath.org \u203a wiki \u203a Linear_independe...",
+    "link": "https://encyclopediaofmath.org/wiki/Linear_independence",
+    "description": "20.11.2014 \u00b7 The vectors a1,\u2026,an are linearly dependent if and only if at least one of them is a linear combination of the others. An infinite subset of vectors of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://encyclopediaofmath.org/wiki/Linear_independence&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAZ6BAgCEAE&usg=AOvVaw0UwehQF0XgGMTLpxCWFKiA",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] THE LINEAR INDEPENDENCE OF SETS OF TWO AND ... - EMISwww.emis.de \u203a ELA \u203a ela-articles \u203a articles \u203a vol20_pp436-448",
+    "link": "https://www.emis.de/journals/ELA/ela-articles/articles/vol20_pp436-448.pdf",
+    "description": "linearly independent. We present the proofs of these results using elementary methods. Key words. Algebraic curvature tensor, Linear independence,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.emis.de/journals/ELA/ela-articles/articles/vol20_pp436-448.pdf&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAd6BAgAEAE&usg=AOvVaw1ej6fjA-LbxJDHeX1Ifhny",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Basis Vectors, Linear Combinations, Span and Linear ... - GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/tfgc32au",
+    "description": "Basis Vectors, Linear Combinations, Span and Linear Independence/\u200bDependence.",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/tfgc32au&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAh6BAgDEAE&usg=AOvVaw3vZDGWZKnD9McEzu2TBgAZ",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "ShareTechnotewww.sharetechnote.com \u203a html \u203a Handbook_EngM...",
+    "link": "https://www.sharetechnote.com/html/Handbook_EngMath_Vector_LinearIndependence.html",
+    "description": "Linear Independence is an indicator of showing the relationship among two or more vectors. Putting it simple, \"Linear Independence\" imply \"No correlation\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sharetechnote.com/html/Handbook_EngMath_Vector_LinearIndependence.html&sa=U&ved=2ahUKEwjPur2s_orvAhW8RhUIHd-QB4c4KBAWMAl6BAgGEAE&usg=AOvVaw3I48PcXfH8Sn5C5UpShVT3",
+    "page": 4,
+    "index": 9
+  }
+]

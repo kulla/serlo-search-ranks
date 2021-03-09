@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Exponential Form of a Complex Number - Expiiwww.expii.com \u203a exponential-form-of-a-complex-number-9210",
+    "link": "https://www.expii.com/t/exponential-form-of-a-complex-number-9210",
+    "description": "If you have a complex number z = r(cos(\u03b8) + i sin(\u03b8)) written in polar form, you can use Euler's formula to write it even more concisely in exponential form: z = re^(i\u03b8).",
+    "googleLink": "http://www.google.com/url?q=https://www.expii.com/t/exponential-form-of-a-complex-number-9210&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQFnoECAYQAg&usg=AOvVaw1mq8sG_NzTjkFLjhQhqFmP",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Euler's formula - Wikipediaen.wikipedia.org \u203a wiki \u203a Euler's_formula",
+    "link": "https://en.wikipedia.org/wiki/Euler%27s_formula",
+    "description": "This complex exponential function is sometimes denoted cis x (\"cosine plus i sine\u200b\"). The formula is still valid if x is a complex number, and so some authors refer\u00a0...\nEuler's identity \u00b7 Euler characteristic \u00b7 Integration using Euler's ...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Euler%2527s_formula&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQFjACegQIBxAB&usg=AOvVaw3TaEFc6ii8Rt6SzbNP4OnD",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "exp(x) for imaginary numbers - Mathematics Stack Exchangemath.stackexchange.com \u203a questions \u203a expx-for-ima...",
+    "link": "https://math.stackexchange.com/questions/577191/expx-for-imaginary-numbers",
+    "description": "Defining the complex exponential is straightforward. What we want to do is find an analytic function f(z) such that f(z1+z2)=f(z1)f(z2). and f(x)=ex. for all real x.",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/577191/expx-for-imaginary-numbers&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQFjADegQICRAB&usg=AOvVaw0QtuRfOHPq1kI-DlomBqG0",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "5. Exponential Form of Complex Number - Interactive Mathematicswww.intmath.com \u203a complex-numbers \u203a 5-exponen...",
+    "link": "https://www.intmath.com/complex-numbers/5-exponential-form.php",
+    "description": "06.02.2019 \u00b7 5. Exponential Form of a Complex Number. by M. Bourne. IMPORTANT: In this section,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.intmath.com/complex-numbers/5-exponential-form.php&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQFjAMegQICBAB&usg=AOvVaw0oR2zu5GL1lhLTJ_kogwsU",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Polar and Exponential Forms - Complex Number Primertutorial.math.lamar.edu \u203a Extras \u203a Forms",
+    "link": "https://tutorial.math.lamar.edu/Extras/ComplexPrimer/Forms.aspx",
+    "description": "14.01.2018 \u00b7 Polar & Exponential Form. Most people are familiar with complex numbers in the form z=a+bi z = a + b i , however there are some alternate\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://tutorial.math.lamar.edu/Extras/ComplexPrimer/Forms.aspx&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQFjANegQIBBAB&usg=AOvVaw1DG3O8iHtxzFx6oxcoN4KO",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "std::exp(std::complex) - cppreference.comen.cppreference.com \u203a cpp \u203a numeric \u203a exp",
+    "link": "https://en.cppreference.com/w/cpp/numeric/complex/exp",
+    "description": "07.01.2021 \u00b7 complex<T> exp( const complex<T>& z );. Compute base-e exponential of z , that is e (Euler's number, 2.7182818 )\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.cppreference.com/w/cpp/numeric/complex/exp&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQFjAOegQIARAB&usg=AOvVaw0JHzR1arnrgfLXyCNVbsWO",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Complex exponential magnitude (video) | Khan Academywww.khanacademy.org \u203a ... \u203a AC circuit analysis",
+    "link": "https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponential-magnitude",
+    "description": "26.09.2016 \u00b7 A closer look at the complex exponential term in Euler's Formula. We see that it represents a ...Dauer: 6:10\nGepostet: 26.09.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponential-magnitude&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQtwIwE3oECAMQAQ&usg=AOvVaw1c-j0Asp9W6a9sAI3lR_DU",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 2.2 Magic with complex exponentialswww.princeton.edu \u203a ~wbialek \u203a intsci_web \u203a dynamics2.2.pdf",
+    "link": "https://www.princeton.edu/~wbialek/intsci_web/dynamics2.2.pdf",
+    "description": "you are told about imaginary numbers, where the basic object is i = \u221a. \u22121. It is not ... complex number, but it's also an exponential and so it has to obey all the.",
+    "googleLink": "http://www.google.com/url?q=https://www.princeton.edu/~wbialek/intsci_web/dynamics2.2.pdf&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQFjAUegQICxAB&usg=AOvVaw2rTidSP838WjXzpJLLtdmH",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Complex Numbers in Exponential Form - Free Mathematics Tutorialswww.analyzemath.com \u203a complex \u203a exponential-form",
+    "link": "https://www.analyzemath.com/complex/exponential-form.html",
+    "description": "Complex numbers are written in exponential form. Multiplications and divisions of complex numbers in exponential form are presented along with questions and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.analyzemath.com/complex/exponential-form.html&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQFjAVegQIBRAB&usg=AOvVaw08sJL1ruMdsAgfgMCqwT6r",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Complex Numbers - Exponential Form Examples : ExamSolutions ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=RSmFw7sTs9Q",
+    "description": "23.11.2012 \u00b7 Example questions of complex numbers in exponential formGo to http://www.\u200bexamsolutions ...Dauer: 9:42\nGepostet: 23.11.2012",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DRSmFw7sTs9Q&sa=U&ved=2ahUKEwjgpq7pyIjvAhVylMMKHf24D3EQtwIwFnoECAIQAQ&usg=AOvVaw23Q6JtYkVftbuTMAoJpUFa",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Complex exponential function - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=6geNX1F34I8",
+    "description": "06.09.2010 \u00b7 Definition of complex exponential function using Taylor series.Join me on Coursera:Matrix ...Dauer: 14:06\nGepostet: 06.09.2010",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D6geNX1F34I8&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChC3AjAAegQIAhAB&usg=AOvVaw0QDYhS6NuhE3wkEv5dCkRx",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Exponential form to find complex roots | Imaginary and ... - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=N0Y8ia57C24",
+    "description": "16.12.2010 \u00b7 Using exponential form to find complex rootsWatch the next lesson: ... in calculus, including ...Dauer: 11:53\nGepostet: 16.12.2010",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DN0Y8ia57C24&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChC3AjABegQIARAB&usg=AOvVaw0HRyOquGtS28iDLiov6Dx2",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Complex exponential, Polar form of a complex number - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=4Lil7TFrrw4",
+    "description": "22.07.2017 \u00b7 From MIT's class on differential equations, 18.03. Complex exponentials arise when taking the ...Dauer: 17:37\nGepostet: 22.07.2017",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D4Lil7TFrrw4&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChC3AjACegQIBBAB&usg=AOvVaw2utrYr3DnbMGUq-ahp7QgV",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Exponential Notation of Complex Number Calculator - Online Toolwww.dcode.fr \u203a complex-number-exponential-form",
+    "link": "https://www.dcode.fr/complex-number-exponential-form",
+    "description": "The conversion of cartesian coordinates into polar coordinates for the complex numbers z=ai+b z = a i + b (with (a,b) ( a , b ) the cartesian coordinates) is precisely\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dcode.fr/complex-number-exponential-form&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChAWMAN6BAgHEAE&usg=AOvVaw27z7FQV-Q2YjWAepAj7hDj",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "The Complex Exponential Function - Mathonlinemathonline.wikidot.com \u203a the-complex-exponential-...",
+    "link": "http://mathonline.wikidot.com/the-complex-exponential-function",
+    "description": "FoldUnfold. Table of Contents. The Complex Exponential Function. Polar Representations of Complex Numbers and the Exponential Function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/the-complex-exponential-function&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChAWMAR6BAgAEAE&usg=AOvVaw0HvQeJ27A03cHqkaLaRB7F",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "exp() function for complex number in C++ - GeeksforGeekswww.geeksforgeeks.org \u203a exp-function-for-comple...",
+    "link": "https://www.geeksforgeeks.org/exp-function-for-complex-number-in-c/",
+    "description": "11.10.2018 \u00b7 The exp() function for complex number is defined in the complex ... to calculate the base e exponential of a complex number z and returns the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geeksforgeeks.org/exp-function-for-complex-number-in-c/&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChAWMAV6BAgDEAE&usg=AOvVaw3QOqQAzdrWCVIg8ncSRohA",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] The Exponential Form of a Complex Number - Learnlearn.lboro.ac.uk \u203a Workbook10 \u203a 10_3_expo_form_complx_num",
+    "link": "https://learn.lboro.ac.uk/archive/olmp/olmp_resources/pages/workbooks_1_50_jan2008/Workbook10/10_3_expo_form_complx_num.pdf",
+    "description": "The exponential form of a complex number is in widespread use in engineering and science. ' &. $. %. Prerequisites. Before starting this Section you should .",
+    "googleLink": "http://www.google.com/url?q=https://learn.lboro.ac.uk/archive/olmp/olmp_resources/pages/workbooks_1_50_jan2008/Workbook10/10_3_expo_form_complx_num.pdf&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChAWMAZ6BAgGEAE&usg=AOvVaw17QyJxbq_UhNGP4V5hM75T",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Complex.Exp(Complex) Methode (System.Numerics) | Microsoft Docsdocs.microsoft.com \u203a ... \u203a System.Numerics \u203a Complex \u203a Methoden",
+    "link": "https://docs.microsoft.com/de-de/dotnet/api/system.numerics.complex.exp",
+    "description": "Gibt e potenziert mit einer angegebenen komplexen Zahl zur\u00fcck.Returns e raised to the power specified by a complex number.",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/dotnet/api/system.numerics.complex.exp&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChAWMAd6BAgFEAE&usg=AOvVaw3V_yrcvhbGffS29aDpS09w",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[PDF] The exponential form - Mathcentrewww.mathcentre.ac.uk \u203a resources",
+    "link": "https://www.mathcentre.ac.uk/resources/Engineering%20maths%20first%20aid%20kit/latexsource%20and%20diagrams/7_7.pdf",
+    "description": "In addition to the cartesian and polar forms of a complex number there is a third form in which a complex number may be written - the exponential form.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathcentre.ac.uk/resources/Engineering%2520maths%2520first%2520aid%2520kit/latexsource%2520and%2520diagrams/7_7.pdf&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChAWMAh6BAgIEAE&usg=AOvVaw2mXPAY96DhIfxxatVOjU1d",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Find exponential of a complex number - Stack Overflowstackoverflow.com \u203a questions \u203a find-exponential-o...",
+    "link": "https://stackoverflow.com/questions/25771761/find-exponential-of-a-complex-number",
+    "description": "What's wrong with the cexp( ) function declared in complex.h ? Why do you want to use OpenCV instead of the standard library? #include\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://stackoverflow.com/questions/25771761/find-exponential-of-a-complex-number&sa=U&ved=2ahUKEwiowt7pyIjvAhUFHHcKHY7gCRI4ChAWMAl6BAgJEAE&usg=AOvVaw0pmooGTPaxBtN-E1ORoiXt",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Meaning of Complex Exponential for Electric Engineering | by ...medium.com \u203a meaning-of-complex-exponential-fo...",
+    "link": "https://medium.com/@theorose49/meaning-of-complex-exponential-for-electric-engineering-68de0625603f",
+    "description": "24.06.2019 \u00b7 Imagine the mechanism of rotation. So we have to stretching the plane and rotating the plane to ...Dauer: 6:14\nGepostet: 24.06.2019",
+    "googleLink": "http://www.google.com/url?q=https://medium.com/%40theorose49/meaning-of-complex-exponential-for-electric-engineering-68de0625603f&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBC3AjAAegQIBBAB&usg=AOvVaw06SBaVKNk-yVHD0uDI31Pg",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Complex exponential function | how people go wrong - John D. Cookwww.johndcook.com \u203a blog \u203a 2018/11/30 \u203a comple...",
+    "link": "https://www.johndcook.com/blog/2018/11/30/complex-exponentials/",
+    "description": "30.11.2018 \u00b7 Most of the rules from high school algebra carry over to complex numbers, with one important exception: exponentials.",
+    "googleLink": "http://www.google.com/url?q=https://www.johndcook.com/blog/2018/11/30/complex-exponentials/&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBAWMAF6BAgIEAE&usg=AOvVaw35wyQ_5Cl6mK8rCN_szDgm",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "15.2 - Complex Numbers in Polar and Exponential Formmathonweb.com \u203a help_ebook \u203a html \u203a complex_2",
+    "link": "https://mathonweb.com/help_ebook/html/complex_2.htm",
+    "description": "Complex Numbers in Polar Coordinate Form. The form a + b i is called the rectangular coordinate form of a complex number because to plot the number we\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathonweb.com/help_ebook/html/complex_2.htm&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBAWMAJ6BAgJEAE&usg=AOvVaw0BKxe-Zt8KyQ9sTGLRbAXA",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 1. Complex Numbers and the Complex Exponentialwww.csulb.edu \u203a ~kmerry \u203a FourierAnalysis \u203a Fourier_01",
+    "link": "http://www.csulb.edu/~kmerry/FourierAnalysis/Fourier_01.pdf",
+    "description": "For now, note that (a + bi)(c + di)=(ac \u2212 bd)+(ad + bc)i. 1.2. Real parts, imaginary parts, and complex conjugates. Suppose a complex number z is written in its\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.csulb.edu/~kmerry/FourierAnalysis/Fourier_01.pdf&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBAWMAN6BAgHEAE&usg=AOvVaw3QEPIByu3NrY_hXAiISQ67",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "The Complex Exponential Function \u2013 GeoGebrawww.geogebra.org \u203a aEUGrASs",
+    "link": "https://www.geogebra.org/m/aEUGrASs",
+    "description": "Drag the blue points to see the effect of adding the complex number a to various shapes. The checkboxes show different shapes. The \"before\" shape is filled in,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/aEUGrASs&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBAWMAR6BAgGEAE&usg=AOvVaw0IVCmEeKreMDckU59MuPDm",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Exponential Function and Complex Numbers - eFundawww.efunda.com \u203a math \u203a exp_log \u203a complex",
+    "link": "https://www.efunda.com/math/exp_log/complex.cfm",
+    "description": "Complex numbers expressed as an exponential, common operations of complex numbers, and logarithms of complex numbers.",
+    "googleLink": "http://www.google.com/url?q=https://www.efunda.com/math/exp_log/complex.cfm&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBAWMAV6BAgAEAE&usg=AOvVaw23Cnf8fTXVVRFrbzYObn_3",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Intro to complex numbers and functions with Maple for physics ...www.maplesoft.com \u203a applications \u203a view",
+    "link": "https://www.maplesoft.com/applications/view.aspx?SID=4024&view=html",
+    "description": "You first learned about complex numbers when an algebra teacher tried to ... And this form, combined with the properties of the exponential function under\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maplesoft.com/applications/view.aspx%3FSID%3D4024%26view%3Dhtml&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBAWMAZ6BAgBEAE&usg=AOvVaw3tGA-3Kcinqu_jhanJ2Bx_",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Euler's Formula and Trigonometry - Columbia Mathematics ...www.math.columbia.edu \u203a ~woit \u203a eulerformula",
+    "link": "https://www.math.columbia.edu/~woit/eulerformula.pdf",
+    "description": "any complex number c, one defines its \u201cconjugate\u201d by changing the sign of the ... exponential function can be extended from the real to the complex numbers,.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.columbia.edu/~woit/eulerformula.pdf&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBAWMAd6BAgFEAE&usg=AOvVaw1GDiVnnlHSUx3b5lV9zAhr",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "exp() function for complex number in C++ - Tutorialspointwww.tutorialspoint.com \u203a exp-function-for-complex...",
+    "link": "https://www.tutorialspoint.com/exp-function-for-complex-number-in-cplusplus",
+    "description": "17.04.2020 \u00b7 std::exp() function for complex numbers is an inbuilt function in C++ STL, which is defined in a <complex> header file. exp() function for complex\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tutorialspoint.com/exp-function-for-complex-number-in-cplusplus&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBAWMAh6BAgCEAE&usg=AOvVaw32noa3Q8GttdKYgK3X_SWe",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Excel IMEXP Functionwww.excelfunctions.net \u203a excel-imexp-function",
+    "link": "https://www.excelfunctions.net/excel-imexp-function.html",
+    "description": "Function Description. The Excel Imexp function returns the exponential of a supplied complex number. The syntax of the function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.excelfunctions.net/excel-imexp-function.html&sa=U&ved=2ahUKEwiM3v_pyIjvAhVKs4sKHUlUDGw4FBAWMAl6BAgDEAE&usg=AOvVaw2-jzOHSOwectqn7QYEibSF",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "MATLAB Lesson 1 - Complex numbers - UNSW Sydneywww.maths.unsw.edu.au \u203a files \u203a MatlabSelfPaced",
+    "link": "https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson1/MatlabLesson1_Complex.html",
+    "description": "All arithmetic with complex numbers works in the usual way. In MATLAB ... In MATLAB the function exp(x) gives the value of the exponential function ex. Find the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson1/MatlabLesson1_Complex.html&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAB6BAgAEAE&usg=AOvVaw2XjeJJ9ehDAaK7lEfiPQE2",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] 6. The complex exponential The exponential function is a basic ...math.mit.edu \u203a classes \u203a sup \u203a sup6",
+    "link": "https://math.mit.edu/classes/18.03/sup/sup6.pdf",
+    "description": "Complex numbers expand the scope of the exponential function, and bring trigonometric functions under its sway. 6.1. Exponential solutions. The function et is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.mit.edu/classes/18.03/sup/sup6.pdf&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAF6BAgHEAE&usg=AOvVaw1aJImze5S42uUmAfFIJoVJ",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Transcendental Functions, part 1 - Duke Mathematics Departmentservices.math.duke.edu \u203a ccp \u203a engin \u203a trans \u203a trans1",
+    "link": "https://services.math.duke.edu/education/ccp/materials/engin/trans/trans1.html",
+    "description": "Next we'll look at how the complex exponential function maps real numbers and purely imaginary numbers. The series definition of the exponential function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://services.math.duke.edu/education/ccp/materials/engin/trans/trans1.html&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAJ6BAgJEAE&usg=AOvVaw1IfYMFvU_sgfIDbq726xfs",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Real Part of Complex Exponential Function - ProofWikiproofwiki.org \u203a wiki \u203a Real_Part_of_Complex_Exp...",
+    "link": "https://proofwiki.org/wiki/Real_Part_of_Complex_Exponential_Function",
+    "description": "Theorem. Let z=x+iy\u2208C be a complex number, where x,y\u2208R. Let expz denote the complex exponential function. Then: Re(expz)=excosy. where: Rez denotes\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Real_Part_of_Complex_Exponential_Function&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAN6BAgIEAE&usg=AOvVaw1aQ51NdR913PimXajDTOl1",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Exponentials - University of California, Berkeleyptolemy.berkeley.edu \u203a eecs20 \u203a sidebars \u203a complex",
+    "link": "https://ptolemy.berkeley.edu/eecs20/sidebars/complex/exponentials.html",
+    "description": "The exponential of a complex number z is written e z or exp(z), and is defined in the same way as the exponential of a real number,. e z = \u2211(k=0 to \u221e) (z k / k!) = 1\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ptolemy.berkeley.edu/eecs20/sidebars/complex/exponentials.html&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAR6BAgDEAE&usg=AOvVaw1FgjxKedM312cc586M1gZ4",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Exponential form, polar form, Cartesian form for complex numbers ...de.mathworks.com \u203a matlabcentral \u203a answers \u203a 185...",
+    "link": "https://de.mathworks.com/matlabcentral/answers/185037-exponential-form-polar-form-cartesian-form-for-complex-numbers-question",
+    "description": "This is the question I have and I have no idea how to write the code! \u00b7 Convert the complex number 8-7j into exponential and polar form. \u00b7 I know already \u00b7 syms a a\u200b=\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.mathworks.com/matlabcentral/answers/185037-exponential-form-polar-form-cartesian-form-for-complex-numbers-question&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAV6BAgCEAE&usg=AOvVaw3LnjPHYHgKW6WkAEEmCHMz",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Complex Exponentials - Enigmaticswww.enigmatic-consulting.com \u203a complex_exponents",
+    "link": "http://www.enigmatic-consulting.com/Communications_articles/Radio_intro_article/complex_exponents.html",
+    "description": "The complex exponential exp(ix) or for electrical engineers exp(jx) is a nearly ... Complex numbers are defined as numbers that contain an imaginary component\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.enigmatic-consulting.com/Communications_articles/Radio_intro_article/complex_exponents.html&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAZ6BAgFEAE&usg=AOvVaw250xB_H5pb0RLd6pCh3P7f",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "https://docs.python.org/3.4/library/cmath.html?hig...",
+    "link": "https://docs.python.org/3.4/library/cmath.html?highlight=exp",
+    "description": "F\u00fcr diese Seite sind keine Informationen verf\u00fcgbar. \u00b7 Weitere Informationen",
+    "googleLink": "http://www.google.com/url?q=https://docs.python.org/3.4/library/cmath.html%3Fhighlight%3Dexp&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAd6BAgGEAE&usg=AOvVaw3bVOx1bHdzbxvAGHJaE-qI",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Complex Numbers and the Complex Exponential - About | Electrical ...www.comm.utoronto.ca \u203a frank \u203a notes \u203a complex",
+    "link": "https://www.comm.utoronto.ca/frank/notes/complex.pdf",
+    "description": "Likewise, by introducing integer quotients, the integers can to be extended to the rational numbers Q = {a/b : a, b \u2208 Z,b = 0} so that we may solve simple equations\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://www.comm.utoronto.ca/frank/notes/complex.pdf&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAh6BAgEEAE&usg=AOvVaw26Agzbk8T3xm6GA-2SFUqd",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] The complex logarithm, exponential and power functionsscipp.ucsc.edu \u203a ~haber \u203a clog_11",
+    "link": "http://scipp.ucsc.edu/~haber/ph116A/clog_11.pdf",
+    "description": "Before we begin, I shall review the properties of the argument of a non-zero complex number z, denoted by arg z (which is a multi-valued function), and the.",
+    "googleLink": "http://www.google.com/url?q=http://scipp.ucsc.edu/~haber/ph116A/clog_11.pdf&sa=U&ved=2ahUKEwiyoKvqyIjvAhXlo4sKHWqlCAo4HhAWMAl6BAgBEAE&usg=AOvVaw01rJ4Hz1WrEeKsBlifxHgD",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Complex Exponentiation -- from Wolfram MathWorldmathworld.wolfram.com \u203a ComplexExponentiation",
+    "link": "https://mathworld.wolfram.com/ComplexExponentiation.html",
+    "description": "(1+i)^(1+i)=sqrt(2). (3). A complex number taken to a complex number can be real. In fact,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/ComplexExponentiation.html&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAB6BAgAEAE&usg=AOvVaw3c9hr4Ew38FaE3M3PL40fe",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "convert complex number to exponential form - MaplePrimeswww.mapleprimes.com \u203a questions \u203a 224890-Conv...",
+    "link": "http://www.mapleprimes.com/questions/224890-Convert-Complex-Number-To-Exponential-Form",
+    "description": "10.06.2018 \u00b7 How do I convert a complex number to abs and arg presentation. For example: z=\u200b1+1*I would be z=sqrt(2)*exp(I*Pi/4). or when doing a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mapleprimes.com/questions/224890-Convert-Complex-Number-To-Exponential-Form&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAF6BAgIEAE&usg=AOvVaw2WfJNxmACdb-xBcpcpP9k4",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] NOTES ON COMPLEX VARIABLES 1. The complex Exponential ...math.unm.edu \u203a ~nitsche \u203a courses \u203a handouts \u203a complex",
+    "link": "https://math.unm.edu/~nitsche/courses/163/handouts/complex.pdf",
+    "description": "Notice that taking a complex number z = rei\u03b8 to a power zn = rnein\u03b8. 1. Page 2. simply takes the power of the modulus and multiplies the argument by n. For\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.unm.edu/~nitsche/courses/163/handouts/complex.pdf&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAJ6BAgGEAE&usg=AOvVaw2sB6QVgBT9shBhCBvwK9tu",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Class VisualNumerics.math.Complexwww.mathematik.hu-berlin.de \u203a JAVA \u203a JNL \u203a api",
+    "link": "https://www.mathematik.hu-berlin.de/~lamour/software/JAVA/JNL/api/VisualNumerics.math.Complex.html",
+    "description": "This class implements complex numbers. It provides the basic operations ... exp(\u200bComplex): Returns the exponential of a Complex z, exp(z). o isInfinite(Complex)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.hu-berlin.de/~lamour/software/JAVA/JNL/api/VisualNumerics.math.Complex.html&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAN6BAgHEAE&usg=AOvVaw3xr3u_pFzw4SII-WqXQjZc",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Complex number exponential function - CUDA Programming and ...forums.developer.nvidia.com \u203a complex-number-ex...",
+    "link": "https://forums.developer.nvidia.com/t/complex-number-exponential-function/24696",
+    "description": "06.05.2020 \u00b7 I need to write a kernel function which has exponential operation on complex numbers. What is the right way to do this? If A is float number,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://forums.developer.nvidia.com/t/complex-number-exponential-function/24696&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAR6BAgJEAE&usg=AOvVaw1lcJz-YdOOR7MTbMcrnmEU",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Euler's Formula for Complex Numbers - Math is Funwww.mathsisfun.com \u203a algebra \u203a eulers-formula",
+    "link": "https://www.mathsisfun.com/algebra/eulers-formula.html",
+    "description": "Read on! Discovery. It was around 1740, and mathematicians were interested in imaginary numbers. An imaginary number, when squared gives a negative result.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathsisfun.com/algebra/eulers-formula.html&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAV6BAgEEAE&usg=AOvVaw226rDZ99glFXDvBdDRyqu9",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Exponential Form and Complex Numbers - StuDocuwww.studocu.com \u203a document \u203a lecture-notes \u203a view",
+    "link": "https://www.studocu.com/en-us/document/university-of-iowa/engineer-math-iv-differential-equations/lecture-notes/exponential-form-and-complex-numbers/1747992/view",
+    "description": "Bewertung  5,0  (4)",
+    "googleLink": "http://www.google.com/url?q=https://www.studocu.com/en-us/document/university-of-iowa/engineer-math-iv-differential-equations/lecture-notes/exponential-form-and-complex-numbers/1747992/view&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAZ6BAgFEAE&usg=AOvVaw3gMvxsV7INGQSlayREI4k0",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Exp - Analytica Wikiwiki.analytica.com \u203a Exp",
+    "link": "http://wiki.analytica.com/Exp",
+    "description": "The exponential of a complex number is, in general, complex. EnableComplexNumbers does not have to be 1 to evaluate\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://wiki.analytica.com/Exp&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAd6BAgCEAE&usg=AOvVaw3Ot2GemjtCseH28uiPvz2l",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Complex Numbers - Arizona Mathmath.arizona.edu \u203a Complex_Numbers_5_6_7_Handout_1x2",
+    "link": "http://math.arizona.edu/~glickenstein/math322s08/M322/complex/Complex_Numbers_5_6_7_Handout_1x2.pdf",
+    "description": "exp(z) = 0. Chapter 13: Complex Numbers. Complex exponential. Trigonometric and hyperbolic functions. Complex logarithm.",
+    "googleLink": "http://www.google.com/url?q=http://math.arizona.edu/~glickenstein/math322s08/M322/complex/Complex_Numbers_5_6_7_Handout_1x2.pdf&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAh6BAgBEAE&usg=AOvVaw0Q7IPBI3M6i1Z-OnHGaFNw",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Lab 3: Complex Numberselectron6.phys.utk.edu \u203a phys250 \u203a Laboratories \u203a c...",
+    "link": "http://electron6.phys.utk.edu/phys250/Laboratories/complex_numbers.htm",
+    "description": "Here exp(i\u03c6) is defined as exp(i\u03c6)= cos(\u03c6) + i sin(\u03c6). When using the exponential notation, we give the angle in radians. One way to describe the point 4 + 3i in the\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://electron6.phys.utk.edu/phys250/Laboratories/complex_numbers.htm&sa=U&ved=2ahUKEwj2tdXqyIjvAhWoAxAIHYM6DDE4KBAWMAl6BAgDEAE&usg=AOvVaw2pUK8ofrO4sANYrsiPkS6h",
+    "page": 4,
+    "index": 9
+  }
+]

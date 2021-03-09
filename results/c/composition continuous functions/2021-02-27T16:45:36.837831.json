@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Continuity of Compositions - Expiiwww.expii.com \u203a continuity-of-compositions-96",
+    "link": "https://www.expii.com/t/continuity-of-compositions-96",
+    "description": "To prove continuity of compositions of functions, a helpful rule is: if f and g are continuous (at \"matching\" points or on \"matching\" intervals), so is the composition g\u2218f (think: \"apply f first, then g\").",
+    "googleLink": "http://www.google.com/url?q=https://www.expii.com/t/continuity-of-compositions-96&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQFnoECAUQAg&usg=AOvVaw0PJfIf0U3NXmiOnM6TFBuR",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Real Analysis: Continuity of a Composition Function - Mathematics ...math.stackexchange.com \u203a questions \u203a real-analysis-...",
+    "link": "https://math.stackexchange.com/questions/527855/real-analysis-continuity-of-a-composition-function",
+    "description": "Since f is continuous at g(a), our definition of continuity tells us that for all \u03b5>0 there is some \u03b41 such that |g(x)\u2212g(a)|<\u03b41\u27f9|f(g(x))\u2212f(g(a))|<\u03b5. Also, since g is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/527855/real-analysis-continuity-of-a-composition-function&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQFjACegQIAhAB&usg=AOvVaw3MJXvbSEW20vDuo4i-tT9S",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Composition of continuous functions \u2013 Serlo \u2013 Wikibooks ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Composition_of_continuous_functi...",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Composition_of_continuous_functions",
+    "description": "However, one can prove that the concatenation of continuous functions is once again a continuous function. This is an important tool that simplifies the proof for\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Composition_of_continuous_functions&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQFjADegQIARAB&usg=AOvVaw371aed997EMaTlO90Jj4Pl",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Composition of continuous functionswww.dpmms.cam.ac.uk \u203a ~wtg10 \u203a easyanalysis4",
+    "link": "https://www.dpmms.cam.ac.uk/~wtg10/easyanalysis4.html",
+    "description": "A composition of continuous functions is continuous. A formal statement of the result to be proved. Let X, Y and Z be subsets of R, let f be a continuous function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dpmms.cam.ac.uk/~wtg10/easyanalysis4.html&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQFjAMegQIChAB&usg=AOvVaw0G89fI8PPI68-4Kro-EzM-",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Continuity of Compositions - Oregon State Universityoregonstate.edu \u203a Stage4 \u203a Lesson \u203a composition",
+    "link": "https://oregonstate.edu/instruct/mth251/cq/Stage4/Lesson/composition.html",
+    "description": "Composition Law: Suppose that f(x) = g(h(x)) for functions g and h. If h is continuous at x ... Solution: The function ln(x) is defined and continuous for all positive x.",
+    "googleLink": "http://www.google.com/url?q=https://oregonstate.edu/instruct/mth251/cq/Stage4/Lesson/composition.html&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQFjANegQICBAB&usg=AOvVaw16ct0KOhMRsOEg8ICDgIdD",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Topology Proof The Composition of Continuous Functions is ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=Mad80mZgzzY",
+    "description": "25.03.2020 \u00b7 Topology Proof The Composition of Continuous Functions is ContinuousIf you enjoyed this ...Dauer: 8:46\nGepostet: 25.03.2020",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DMad80mZgzzY&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQtwIwDnoECAMQAQ&usg=AOvVaw2VFY01l0YdxhN3K_I4eo5f",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "The composition of two continuous functions is a continuous function ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=lQbSq35ii2U",
+    "description": "20.12.2019 \u00b7 To ask Unlimited Maths doubts download Doubtnut from - https://goo.gl/9WZjCW The ...Dauer: 5:04\nGepostet: 20.12.2019",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DlQbSq35ii2U&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQtwIwD3oECAQQAQ&usg=AOvVaw1DGAuMsDtfv5F0vfeuwuVP",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Function composition - Wikipediaen.wikipedia.org \u203a wiki \u203a Function_composition",
+    "link": "https://en.wikipedia.org/wiki/Function_composition",
+    "description": "... Analytic \u00b7 Smooth \u00b7 Continuous \u00b7 Measurable \u00b7 Injective \u00b7 Surjective \u00b7 Bijective. Constructions. Restriction; Composition; \u03bb \u00b7 Inverse. Generalizations. Partial \u00b7 Multivalued \u00b7 Implicit \u00b7 v \u00b7 t \u00b7 e. In mathematics, function composition is an operation that takes two functions f and g and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Function_composition&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQFjAQegQIBxAB&usg=AOvVaw3vX5a5p2Ic-nfQ-51e5HyQ",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Continuous Functions - UC Davis Mathematicswww.math.ucdavis.edu \u203a ~hunter \u203a intro_analysis_ch3",
+    "link": "https://www.math.ucdavis.edu/~hunter/m125a/intro_analysis_ch3.pdf",
+    "description": "The next theorem states that the composition of continuous functions is continuous. Note carefully the points at which we assume f and g are continuous.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.ucdavis.edu/~hunter/m125a/intro_analysis_ch3.pdf&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQFjARegQICRAB&usg=AOvVaw2LC4vdMMBqyidx_GRfss0L",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "COMPOSITIONS OF CONTINUOUS FUNCTIONS AND ...www.ams.org \u203a journals \u203a proc",
+    "link": "https://www.ams.org/journals/proc/1992-115-01/S0002-9939-1992-1073528-7/S0002-9939-1992-1073528-7.pdf",
+    "description": "In calculus, we encounter the result that the composition gof of two contin- uous functions /:/\u2014\u25bb/ and g: I \u2014> I is continuous, where / = [0, 1]. This brings to mind\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ams.org/journals/proc/1992-115-01/S0002-9939-1992-1073528-7/S0002-9939-1992-1073528-7.pdf&sa=U&ved=2ahUKEwjh1J2xtIrvAhVCqlsKHW1ZB1EQFjASegQIBhAB&usg=AOvVaw3L90oo5Ps5htdFZR-XqPsO",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "The Composition of Continuous Functions - Mathonlinemathonline.wikidot.com \u203a the-composition-of-conti...",
+    "link": "http://mathonline.wikidot.com/the-composition-of-continuous-functions",
+    "description": "The Composition of Continuous Functions. This page is intended to be a part of the Real Analysis section of Math Online. Similar topics can also be found in the\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Continuity of the Composition of Continuous Maps on Topo. Spaces ...mathonline.wikidot.com \u203a continuity-of-the-compos...",
+    "link": "http://mathonline.wikidot.com/continuity-of-the-composition-of-continuous-maps-on-topologi",
+    "description": "Similarly, since $g$ is continuous on all of $Y$ we have that for every open set $\u200bW$ in $Z$ that $g^{-1}(W)$ is open in $Y$. Consider the composite function $g \\\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "The composition of two continuous functions is a continuous functidoubtnut.com \u203a question-answer \u203a the-composition-...",
+    "link": "https://doubtnut.com/question-answer/the-composition-of-two-continuous-functions-is-a-continuous-function-1340150",
+    "description": "The composition of two continuous functions is a continuous function. check-\u200bcircle. Answer. Step by step solution by experts to help you in\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://doubtnut.com/question-answer/the-composition-of-two-continuous-functions-is-a-continuous-function-1340150&ved=2ahUKEwj68fKxtIrvAhXjGjQIHY9FB_I4ChAWMAJ6BAgJEAE&usg=AOvVaw3EM7WMG8-Nt0ujhisRRHRq",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Composite function - Encyclopedia of Mathematicsencyclopediaofmath.org \u203a wiki \u203a Composite_function",
+    "link": "https://encyclopediaofmath.org/wiki/Composite_function",
+    "description": "10.12.2018 \u00b7 Bari and D.E. Men'shov [1], composition of three absolutely-continuous functions on an interval does not lead to a wider class of functions than\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://encyclopediaofmath.org/wiki/Composite_function&ved=2ahUKEwj68fKxtIrvAhXjGjQIHY9FB_I4ChAWMAN6BAgHEAE&usg=AOvVaw2T6_34GjKEuh1RX4w5HSad",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Composition operators between algebras of uniformly continuous ...link.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1007/s000130050092",
+    "description": "Banach Space Continuous Function Unit Ball Composition Operator Universal Property. These keywords were added by machine and not by the authors.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://link.springer.com/article/10.1007/s000130050092&ved=2ahUKEwj68fKxtIrvAhXjGjQIHY9FB_I4ChAWMAR6BAgDEAE&usg=AOvVaw0TuPuUU8cumAubsI0i7_fT",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Composition in Modulus Maps on Semigroups of Continuous ...arxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/1910.09216",
+    "description": "21.10.2019 \u00b7 For locally compact Hausdorff spaces X and Y, and function algebras A and B on X and Y, respectively, surjections T:A \\longrightarrow B\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://arxiv.org/abs/1910.09216&ved=2ahUKEwj68fKxtIrvAhXjGjQIHY9FB_I4ChAWMAV6BAgGEAE&usg=AOvVaw3APqsGA7s4HMHnov5-RFIn",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "(PDF) Composition operators between algebras of uniformly ...www.researchgate.net \u203a ... \u203a Analysis \u203a Banach Space",
+    "link": "https://www.researchgate.net/publication/225603399_Composition_operators_between_algebras_of_uniformly_continuous_functions",
+    "description": "27.11.2020 \u00b7 Composition operators between algebras. of uniformly continuous functions. By. MIGUEL LACRUZ and JOSE. \u00b4G. LLAVONA *). Abstract.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.researchgate.net/publication/225603399_Composition_operators_between_algebras_of_uniformly_continuous_functions&ved=2ahUKEwj68fKxtIrvAhXjGjQIHY9FB_I4ChAWMAZ6BAgEEAE&usg=AOvVaw0goiKCfwAxh-7TOFdIDD4m",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Continuous Functions - Problem 3 - Calculus Video by Brightstormwww.brightstorm.com \u203a ... \u203a Limits and Continuity",
+    "link": "https://www.brightstorm.com/math/calculus/limits-and-continuity/continuous-functions-problem-3/",
+    "description": "The composition of continuous functions is also continuous. So, if f(x) and g(x) are continuous functions, meaning that they are continuous at all points at which\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.brightstorm.com/math/calculus/limits-and-continuity/continuous-functions-problem-3/&ved=2ahUKEwj68fKxtIrvAhXjGjQIHY9FB_I4ChAWMAd6BAgFEAE&usg=AOvVaw25Tx1Yjxpgati2aXcAe89O",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Prove that the composition of continuous functions is continuous ...calculus123.com \u203a wiki \u203a Prove_that_the_compositi...",
+    "link": "https://calculus123.com/wiki/Prove_that_the_composition_of_continuous_functions_is_continuous",
+    "description": "This site is devoted to mathematics and its applications. Created and run by Peter Saveliev. Prove that the composition of continuous functions is continuous. From\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://calculus123.com/wiki/Prove_that_the_composition_of_continuous_functions_is_continuous&ved=2ahUKEwj68fKxtIrvAhXjGjQIHY9FB_I4ChAWMAh6BAgAEAE&usg=AOvVaw3aozgRAchhdFa45E6jQsqo",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] composition theorem for limits - Vipul Naikfiles.vipulnaik.com \u203a math-152 \u203a compositiontheoremforlimits",
+    "link": "https://files.vipulnaik.com/math-152/compositiontheoremforlimits.pdf",
+    "description": "There is a composition theorem for continuous functions: if g is continuous at c and f is continuous at g(c), then f \u25e6 g is continuous at c. We might suspect an\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://files.vipulnaik.com/math-152/compositiontheoremforlimits.pdf&ved=2ahUKEwj68fKxtIrvAhXjGjQIHY9FB_I4ChAWMAl6BAgCEAE&usg=AOvVaw1T7qULPxo2ZWcqleri7VrS",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Graphs of continuous functions under composition-1 \u2013 GeoGebrawww.geogebra.org \u203a nJMtPCbp",
+    "link": "https://www.geogebra.org/m/nJMtPCbp",
+    "description": "Topic: Functions. This applet may be used to explore continuity under composition with square root function. GeoGebra Applet Press Enter to start activity.",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/nJMtPCbp&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAB6BAgEEAE&usg=AOvVaw0qsfAkjfLW_x5VYqKoUjTN",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Banaszewski , Banaszewski : Compositions of Two Additive Almost ...projecteuclid.org \u203a euclid.rae",
+    "link": "https://projecteuclid.org/euclid.rae/1337086085",
+    "description": "Compositions of Two Additive Almost Continuous Functions. Real Anal. Exchange 23 (1997), no. 1, 193. https://projecteuclid.org/euclid.rae/1337086085\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/euclid.rae/1337086085&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAF6BAgIEAE&usg=AOvVaw1QTaEI_uopjk5TNIwmCELv",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "continuity of composition of functions - PlanetMath.orgplanetmath.org \u203a continuityofcompositionoffunctions",
+    "link": "https://planetmath.org/continuityofcompositionoffunctions",
+    "description": "22.03.2013 \u00b7 Then g(x)=0 g \u2062 ( x ) = 0 for all x\u2208R x \u2208 \u211d , so the composition of two discontinuous functions can be continuous . Example 2 If g(x)=h(f(x)) g\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://planetmath.org/continuityofcompositionoffunctions&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAJ6BAgJEAE&usg=AOvVaw21hm5W2OoMA5GqrH7mcyDQ",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Illustrating the Continuity of Function Composition - msme.uswww.msme.us \u203a ...",
+    "link": "http://www.msme.us/2011-1-6.pdf",
+    "description": "presentation and the topic of the day was continuity of continuous functions. Partway through the presentation of the proof that the composition of continuous.",
+    "googleLink": "http://www.google.com/url?q=http://www.msme.us/2011-1-6.pdf&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAN6BAgHEAE&usg=AOvVaw0fGimfGpQT3knfjR22tDtC",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Infinite composition of continuous functions - MathOverflowmathoverflow.net \u203a questions \u203a infinite-composition...",
+    "link": "https://mathoverflow.net/questions/365603/infinite-composition-of-continuous-functions",
+    "description": "14.07.2020 \u00b7 Let fn:R\u2192R be a sequence of functions and define Fn:=fn\u2218\u22ef\u2218f1. Then Fn is continuous. However, the pointwise limit need not be (consider\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/365603/infinite-composition-of-continuous-functions&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAR6BAgBEAE&usg=AOvVaw3pBndTiQS6f-Ttbtbr5Buz",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Continuous Functionswww.math.wisc.edu \u203a ~angenent \u203a ContinuousFunct...",
+    "link": "https://www.math.wisc.edu/~angenent/521.2017s/ContinuousFunctions.html",
+    "description": "The function f is continuous at a point p\u2208E if for every \u03f5>0 there is a \u03b4>0 such ... g is continuous at f(p)\u2208Y, then the composition h=g\u2218f:X\u2192Z is continuous at p.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.wisc.edu/~angenent/521.2017s/ContinuousFunctions.html&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAV6BAgAEAE&usg=AOvVaw195VhrDBNmK1bUToHldw3J",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "compact operators of composition on some locally convex function ...www.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/24714582",
+    "description": "spaces of continuous functions, Lp-spaces, etc. In case we have a function algebra with composition as multiplication, then every element of the function algebra\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/24714582&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAZ6BAgFEAE&usg=AOvVaw3HtsV7gVBFE2VllyWfmqMR",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Compositions of \u03f1-upper continuous functions in: Mathematica ...www.degruyter.com \u203a view \u203a journals \u203a article-p585",
+    "link": "https://www.degruyter.com/view/journals/ms/66/3/article-p585.xml",
+    "description": "By UC\u03f1 we denote the class of \u03f1-upper continuous functions defined on an open interval I. Theorem 1.1 ([4: Theorem 2.1]). Let\u03f1 \u2208 (0, 1). If\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.degruyter.com/view/journals/ms/66/3/article-p585.xml&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAd6BAgDEAE&usg=AOvVaw2_DsqrP8gTZYmDy_7BAy3q",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Compositions of porouscontinuous functions in: Mathematica ...www.degruyter.com \u203a view \u203a journals \u203a article-p199",
+    "link": "https://www.degruyter.com/view/journals/ms/69/1/article-p199.xml",
+    "description": "We find classes of functions whose compositions with porouscontinuous ... Similar results were obtained for approximately continuous functions, see [6], and for\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.degruyter.com/view/journals/ms/69/1/article-p199.xml&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAh6BAgGEAE&usg=AOvVaw27cbeWXZvtXwIF6Z_Gg801",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Prove that composition of two continuous function is continuous.www.toppr.com \u203a ask \u203a question \u203a prove-that-comp...",
+    "link": "https://www.toppr.com/ask/question/prove-that-composition-of-two-continuous-function-is-continuous/",
+    "description": "Prove that composition of two continuous function is continuous. \u00b7 Answer \u00b7 Proof : \u2200x\u03b5X,\u2200\u03b5>0,\u2203\u03b4>0 d(x,y)<\u03b4 \u21d2d(f(x),f(g))<\u03b5 defn. of matric square Let f.g : X\u2192X\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.toppr.com/ask/question/prove-that-composition-of-two-continuous-function-is-continuous/&sa=U&ved=2ahUKEwjk6J-ytIrvAhUhIDQIHbb1B744FBAWMAl6BAgCEAE&usg=AOvVaw34LYUBniBKTDg-wSxHf3ZI",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Supplement: Continuity of composition.  www.math.cmu.edu \u203a ~gautam \u203a teaching \u203a 269-vector-analysis \u203a pdfs \u203a c...",
+    "link": "https://www.math.cmu.edu/~gautam/teaching/2011-12/269-vector-analysis/pdfs/composition.pdf",
+    "description": "[PDF] Supplement: Continuity of composition.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.cmu.edu/~gautam/teaching/2011-12/269-vector-analysis/pdfs/composition.pdf&sa=U&ved=2ahUKEwiBspeztIrvAhW8FzQIHZHmBms4HhAWMAF6BAgIEAE&usg=AOvVaw3tfMMvPSyuWVcbSDhU_9iF",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "If [math] f(x) [/math]and [math]g(x)[/math] are both continuous ... - Quora  www.quora.com \u203a If-f-x-and-g-x-are-both-continuo...",
+    "link": "https://www.quora.com/If-f-x-and-g-x-are-both-continuous-functions-can-the-composition-f-circ-g-x-be-discontinuous",
+    "description": "If [math] f(x) [/math]and [math]g(x)[/math] are both continuous ... - Quora",
+    "googleLink": "http://www.google.com/url?q=https://www.quora.com/If-f-x-and-g-x-are-both-continuous-functions-can-the-composition-f-circ-g-x-be-discontinuous&sa=U&ved=2ahUKEwiBspeztIrvAhW8FzQIHZHmBms4HhAWMAJ6BAgKEAE&usg=AOvVaw0IWqdh1QRVoSy_iJ3L3Dp3",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Uniformly bounded composition operators in the Banach space of ...  www.sciencedirect.com \u203a science \u203a article \u203a abs \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0362546X12001423",
+    "description": "Uniformly bounded composition operators in the Banach space of ...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/abs/pii/S0362546X12001423&sa=U&ved=2ahUKEwiBspeztIrvAhW8FzQIHZHmBms4HhAWMAN6BAgJEAE&usg=AOvVaw3t7Znk97F4dv_4rAzes4Zo",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "f If lim x f x and lim x g x 0 then lim x f x g x does not exist Answer ...  www.coursehero.com \u203a file \u203a Problem-3-Prove-that-...",
+    "link": "https://www.coursehero.com/file/p1gq8vkq/Problem-3-Prove-that-the-composition-of-uniformly-continuous-functions-is/",
+    "description": "f If lim x f x and lim x g x 0 then lim x f x g x does not exist Answer ...",
+    "googleLink": "http://www.google.com/url?q=https://www.coursehero.com/file/p1gq8vkq/Problem-3-Prove-that-the-composition-of-uniformly-continuous-functions-is/&sa=U&ved=2ahUKEwiBspeztIrvAhW8FzQIHZHmBms4HhAWMAR6BAgHEAE&usg=AOvVaw17OCky9nJAH-8yxe3aVi2G",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Continuous Functions - Jay Havaldar  jhavaldar.github.io \u203a assets \u203a 2017-08-09-top2",
+    "link": "https://jhavaldar.github.io/assets/2017-08-09-top2.pdf",
+    "description": "[PDF] Continuous Functions - Jay Havaldar",
+    "googleLink": "http://www.google.com/url?q=https://jhavaldar.github.io/assets/2017-08-09-top2.pdf&sa=U&ved=2ahUKEwiBspeztIrvAhW8FzQIHZHmBms4HhAWMAV6BAgCEAE&usg=AOvVaw1sT6Ms6RvYFdrSCSyal7v-",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Composition of Absolutely continuous functions ... - Reddit  www.reddit.com \u203a cheatatmathhomework \u203a comments",
+    "link": "https://www.reddit.com/r/cheatatmathhomework/comments/5fi9pj/composition_of_absolutely_continuous_functions/",
+    "description": "Composition of Absolutely continuous functions ... - Reddit",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/cheatatmathhomework/comments/5fi9pj/composition_of_absolutely_continuous_functions/&sa=U&ved=2ahUKEwiBspeztIrvAhW8FzQIHZHmBms4HhAWMAZ6BAgEEAE&usg=AOvVaw3xdbZZpMZ5C9Yy_RiSQhQe",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] R \u2192 R such that (a) f is not continuous, but g and g fa  math.unm.edu \u203a ~crisp \u203a courses \u203a math402 \u203a Math402-straugh \u203a sol-hwk4",
+    "link": "https://math.unm.edu/~crisp/courses/math402/Math402-straugh/sol-hwk4.pdf",
+    "description": "[PDF] R \u2192 R such that (a) f is not continuous, but g and g fa",
+    "googleLink": "http://www.google.com/url?q=https://math.unm.edu/~crisp/courses/math402/Math402-straugh/sol-hwk4.pdf&sa=U&ved=2ahUKEwiBspeztIrvAhW8FzQIHZHmBms4HhAWMAd6BAgBEAE&usg=AOvVaw1tT6EkjE-mEwRdFo6NZ_ZY",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Properties of Limits Properties of Limits Limit of a Composite ...  www2.math.uconn.edu \u203a ~stein \u203a math115 \u203a Slides",
+    "link": "https://www2.math.uconn.edu/~stein/math115/Slides/math115-130notes.pdf",
+    "description": "[PDF] Properties of Limits Properties of Limits Limit of a Composite ...",
+    "googleLink": "http://www.google.com/url?q=https://www2.math.uconn.edu/~stein/math115/Slides/math115-130notes.pdf&sa=U&ved=2ahUKEwiBspeztIrvAhW8FzQIHZHmBms4HhAWMAh6BAgDEAE&usg=AOvVaw1gXIM-Kud-21zCYg-YGD-V",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Composite of Continuous Mappings is Continuous - ProofWiki  proofwiki.org \u203a wiki \u203a Composite_of_Continuous_...",
+    "link": "https://proofwiki.org/wiki/Composite_of_Continuous_Mappings_is_Continuous",
+    "description": "Composite of Continuous Mappings is Continuous - ProofWiki",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Composite_of_Continuous_Mappings_is_Continuous&sa=U&ved=2ahUKEwiBspeztIrvAhW8FzQIHZHmBms4HhAWMAl6BAgFEAE&usg=AOvVaw1E0Gq7ECZJF_U9JrL27dKr",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Properties of Limits Properties of Limits Limit of a Composite ...www2.math.uconn.edu \u203a ~stein \u203a math115 \u203a Slides",
+    "link": "https://www2.math.uconn.edu/~stein/math115/Slides/math115-130notes.pdf",
+    "description": "The limit of a composition is the composition of the limits, provided the outside function is continuous at the limit of the inside function. Example: limx\u21923. \u221a. 5x + 1=.",
+    "googleLink": "http://www.google.com/url?q=https://www2.math.uconn.edu/~stein/math115/Slides/math115-130notes.pdf&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAB6BAgDEAE&usg=AOvVaw311dFZdWYcyXjWdSuZNi54",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Composite of Continuous Mappings is Continuous - ProofWikiproofwiki.org \u203a wiki \u203a Composite_of_Continuous_...",
+    "link": "https://proofwiki.org/wiki/Composite_of_Continuous_Mappings_is_Continuous",
+    "description": "08.12.2020 \u00b7 Then the composite mapping g\u2218f:T1\u2192T3 is continuous. ... (next): Part I: Basic Definitions: Section 1: General Introduction: Functions. Retrieved\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Composite_of_Continuous_Mappings_is_Continuous&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAF6BAgJEAE&usg=AOvVaw3zIhCm3eprqpt92PIjkESL",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] More on Continuitymath.hws.edu \u203a ~mitchell \u203a tufte-latex \u203a Notes09",
+    "link": "http://math.hws.edu/~mitchell/Math130F12/tufte-latex/Notes09.pdf",
+    "description": "A function f is continuous at a if the following three condi- tions hold: ... process called composition also produces new functions and this process is unique.",
+    "googleLink": "http://www.google.com/url?q=http://math.hws.edu/~mitchell/Math130F12/tufte-latex/Notes09.pdf&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAJ6BAgIEAE&usg=AOvVaw0kewVoBgC0V-R2draEVfZ1",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Continuous Functions Theorem 4.3.2 - BYU Math Departmentmath.byu.edu \u203a ~bakker \u203a Lectures \u203a Lec21",
+    "link": "https://math.byu.edu/~bakker/M341/Lectures/Lec21.pdf",
+    "description": "We recall the \u03f5 \u2212 \u03b4 notion of what it means for a function to be continuous at a point in its domain. ... Theorem 4.3.9 (Composition of Continuous Functions).",
+    "googleLink": "http://www.google.com/url?q=https://math.byu.edu/~bakker/M341/Lectures/Lec21.pdf&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAN6BAgHEAE&usg=AOvVaw2g83N7gO-jeLYhGo9QE6__",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 3.5 Compositions of Measurable Functionspeople.math.gatech.edu \u203a ~heil \u203a spring11 \u203a section3.5.pdf",
+    "link": "https://people.math.gatech.edu/~heil/6337/spring11/section3.5.pdf",
+    "description": "respect to the usual operations on functions, such as composition, addition, ... For example, Lemma 3.20 tells us that every continuous function g: R \u2192 R is Borel\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://people.math.gatech.edu/~heil/6337/spring11/section3.5.pdf&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAR6BAgFEAE&usg=AOvVaw2wNOODOTVBtIT6mIrVIj3f",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "TIFR2010-Maths-B-3 - GATE Overflowgateoverflow.in \u203a tifr2010-maths-b-3",
+    "link": "https://gateoverflow.in/19368/tifr2010-maths-b-3",
+    "description": "https://math.stackexchange.com/questions/575805/composition-of-two-uniformly- continuous-functions.",
+    "googleLink": "http://www.google.com/url?q=https://gateoverflow.in/19368/tifr2010-maths-b-3&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAV6BAgEEAE&usg=AOvVaw2kWkZww-EeH8igh-h-QrA_",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] On the integration of the composition of an integrable function and a ...math.ecnu.edu.cn \u203a teaching \u203a Real_N_Complex_Analysis_2015 \u203a O...",
+    "link": "http://math.ecnu.edu.cn/~wsun/teaching/Real_N_Complex_Analysis_2015/On%20the%20integration%20of%20the%20composition%20of%20an%20integrable%20function%20and%20a%20convex%20function.pdf",
+    "description": "be a convex (thus continuous) function. Question: Can we expect f \u25e6 g to be in L1(X)?. In general, no. A quick example is like this: Consider (0,1) with the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://math.ecnu.edu.cn/~wsun/teaching/Real_N_Complex_Analysis_2015/On%2520the%2520integration%2520of%2520the%2520composition%2520of%2520an%2520integrable%2520function%2520and%2520a%2520convex%2520function.pdf&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAZ6BAgGEAE&usg=AOvVaw0mOoLSY4BTV90t_jj9ux72",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Prove that composition of two continuous function is continuous ...brainly.in \u203a Math \u203a Secondary School",
+    "link": "https://brainly.in/question/8239891",
+    "description": "Prove that composition of two continuous function is continuous. 1. See answer. Add answer+13 pts. Log in to add comment.",
+    "googleLink": "http://www.google.com/url?q=https://brainly.in/question/8239891&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAd6BAgBEAE&usg=AOvVaw1uTpUm8EFQCzMFfqrka2eK",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Measurability of Functionstheanalysisofdata.com \u203a probability",
+    "link": "http://theanalysisofdata.com/probability/E_6.html",
+    "description": "Proposition E.6.2. The composition of two measurable functions is a measurable function. ... If a function f:Rm\u2192Rn is continuous, then it is measurable. Proof.",
+    "googleLink": "http://www.google.com/url?q=http://theanalysisofdata.com/probability/E_6.html&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAh6BAgAEAE&usg=AOvVaw1urDQl4fS5dPRjd9kaIUal",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Composition operators on weighted spaces of continuous functions ...www.cambridge.org \u203a core \u203a journals \u203a article \u203a co...",
+    "link": "https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/composition-operators-on-weighted-spaces-of-continuous-functions/5DACBD99F2CB0665E0313E5073B244DB",
+    "description": "We give algebraic criteria for distinguishing composition operators among all continuous linear operators on spaces of continuous functions with topologies\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/composition-operators-on-weighted-spaces-of-continuous-functions/5DACBD99F2CB0665E0313E5073B244DB&sa=U&ved=2ahUKEwi_1o60tIrvAhUZHDQIHa5ZABQ4KBAWMAl6BAgCEAE&usg=AOvVaw3pGWwwA7szciYYmyk9IU7i",
+    "page": 4,
+    "index": 9
+  }
+]

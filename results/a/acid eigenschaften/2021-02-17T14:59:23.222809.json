@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Was ist ACID? - BigData-Insiderwww.bigdata-insider.de \u203a was-ist-acid-a-776182",
+    "link": "https://www.bigdata-insider.de/was-ist-acid-a-776182/",
+    "description": "15.11.2018 \u00b7 Der Begriff ACID (Atomicity, Consistency, Isolation, Durability) beschreibt Regeln und Eigenschaften zur Durchf\u00fchrung von Transaktionen in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.bigdata-insider.de/was-ist-acid-a-776182/&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjAAegQIBRAB&usg=AOvVaw2KoUXbBvhXPdQUUD3ZCSGb",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "ACID \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a ACID",
+    "link": "https://de.wikipedia.org/wiki/ACID",
+    "description": "Man spricht im Deutschen auch von AKID-Eigenschaften (Atomarit\u00e4t, Konsistenz, Isolation und Dauerhaftigkeit). Sie gelten als\u00a0...\nAtomarit\u00e4t ... \u00b7 Isolation (Abgrenzung) \u00b7 Dauerhaftigkeit",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/ACID&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjABegQIChAB&usg=AOvVaw1zDREbJ2_qRc_OlkajZ-YH",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "13.1 Die ACID-Eigenschaften - Abteilung Datenbanken Leipzigdbs.uni-leipzig.de \u203a buecher \u203a DBSI-Buch \u203a HTML \u203a kap13-2",
+    "link": "https://dbs.uni-leipzig.de/buecher/DBSI-Buch/HTML/kap13-2.html",
+    "description": "ACID-Eigenschaften, abgeleitet von den Anfangsbuchstaben der englischen Begriffe Atomicity, Consistency, Isolation und Durability [H\u00c4RD83b]. Diese im\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dbs.uni-leipzig.de/buecher/DBSI-Buch/HTML/kap13-2.html&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjACegQIBxAB&usg=AOvVaw0Q1w39LuveGRaqCN0wOYik",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Was ist AKID/ACID? - Definition von WhatIs.com - Computer Weeklywww.computerweekly.com \u203a definition \u203a AKID-ACID",
+    "link": "https://www.computerweekly.com/de/definition/AKID-ACID",
+    "description": "Diese Eigenschaften gelten in Datenbank-Management-Systemen als ... Isolation und Dauerhaftigkeit (Atomicity, Consisteny, Isolation and Durability, ACID).",
+    "googleLink": "http://www.google.com/url?q=https://www.computerweekly.com/de/definition/AKID-ACID&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjADegQIBhAB&usg=AOvVaw3kp2FVVObKworOw_tvFJRs",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "",
+    "link": "https://de.marklogic.com/product/marklogic-database-overview/database-features/acid-transactions/",
+    "description": "ACID, deutsch auch AKID, ist eine Abk\u00fcrzung in der Informatik. Es beschreibt h\u00e4ufig erw\u00fcnschte Eigenschaften von Transaktionen in Datenbankmanagementsystemen und verteilten Systemen. Es steht f\u00fcr englisch atomicity, consistency, isolation und... Wikipedia",
+    "googleLink": "http://www.google.com/url?q=https://de.marklogic.com/product/marklogic-database-overview/database-features/acid-transactions/&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQwW4wBHoECAwQAg&usg=AOvVaw25XK9-VCBc1hPdqbj1W4YB",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "ACID-Eigenschaften - lernen mit Serlo!de.serlo.org \u203a informatik \u203a acid-eigenschaften",
+    "link": "https://de.serlo.org/informatik/160497/acid-eigenschaften",
+    "description": "Dazu halten sich die meisten Datenbanken an die ACID-Eigenschaften. Beispiel. Betrachten wir eine \u00dcberweisung von 50 Euro von einem Bankkonto auf ein\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/160497/acid-eigenschaften&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjAHegQICBAB&usg=AOvVaw1L9oWMuRDoFSPdVTwChoWV",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "ACID-Prinzip in Datenbanktransaktionen | Datenbank Blogdatenbanken-verstehen.de \u203a Blog \u203a Datenbankentwicklung",
+    "link": "https://datenbanken-verstehen.de/blog/datenbankentwicklung/datenbanktransaktionen-acid-prinzip/",
+    "description": "Bewertung  3,8  (17)",
+    "googleLink": "http://www.google.com/url?q=https://datenbanken-verstehen.de/blog/datenbankentwicklung/datenbanktransaktionen-acid-prinzip/&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjAIegQICRAB&usg=AOvVaw2IuJd-zoAlgWxsRX3ANqIb",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "ACID-Eigenschaften - Wirtschaftslexikonwww.wirtschaftslexikon24.com \u203a acid-eigenschaften \u203a acid-eigenschaften",
+    "link": "http://www.wirtschaftslexikon24.com/e/acid-eigenschaften/acid-eigenschaften.htm",
+    "description": "ACID steht (in der Datenverarbeitung) kollektiv f\u00fcr die vier Eigenschaften Atomizit\u00e4t (atomicity), Konsistenz (consistency), Isolation (isolation) und Dauerhaftigkeit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.wirtschaftslexikon24.com/e/acid-eigenschaften/acid-eigenschaften.htm&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjANegQIABAB&usg=AOvVaw3nbMplGmSV8MfCAm7XxfoA",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "ACID-Transaktionen | MarkLogic NoSQL-Datenbankfunktionde.marklogic.com \u203a product \u203a database-features \u203a acid-transactions",
+    "link": "https://de.marklogic.com/product/marklogic-database-overview/database-features/acid-transactions/",
+    "description": "MarkLogic ACID-Eigenschaften haben auch f\u00fcr Multi-Dokument-, Multi- Anweisungs- und XA-Transaktionen (Transaktionen zwischen Clustern) G\u00fcltigkeit. Dadurch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.marklogic.com/product/marklogic-database-overview/database-features/acid-transactions/&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjAOegQIARAB&usg=AOvVaw0rLvwLq_EUbdrMi0RBz_vx",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "ACID-Eigenschaftenwww.biancahoegel.de \u203a computer \u203a acid",
+    "link": "https://www.biancahoegel.de/computer/db/acid.html",
+    "description": "ACID beschreibt h\u00e4ufig erw\u00fcnschte Eigenschaften von Transaktionen in Datenbankmanagementsystemen (DBMS) und verteilten Systemen.",
+    "googleLink": "http://www.google.com/url?q=https://www.biancahoegel.de/computer/db/acid.html&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjAPegQIAhAB&usg=AOvVaw3uwKNr7NY3nWHy5ZLA1VWl",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Beispielszenarien. 12. Transaktionen. ACID-Eigenschaften ...docplayer.org \u203a 56211593-Beispielszenarien-12-transaktionen-acid-eigensc...",
+    "link": "https://docplayer.org/56211593-Beispielszenarien-12-transaktionen-acid-eigenschaften-transaktion.html",
+    "description": "... 1 VL Datenbanken I 12 2 Transaktion ACID-Eigenschaften Eine Transaktion ist eine ... Zustand \u00fcberf\u00fchrt, wobei das ACID-Prinzip eingehalten werden muss.",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/56211593-Beispielszenarien-12-transaktionen-acid-eigenschaften-transaktion.html&sa=U&ved=2ahUKEwiVtMmAivHuAhVDzlkKHTwMCBcQFjAQegQIAxAB&usg=AOvVaw0sn6th0PvSyeFPFOvrsBQ4",
+    "page": 0,
+    "index": 10
+  },
+  {
+    "name": "ACID (Informatik) - deacademic.comdeacademic.com \u203a dic.nsf \u203a dewiki",
+    "link": "https://deacademic.com/dic.nsf/dewiki/15834",
+    "description": "Weiter zu Eigenschaften \u2014 Es steht f\u00fcr atomicity, consistency, isolation und durability. Man spricht im Deutschen auch von AKID-Eigenschaften (Atomarit\u00e4t,\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Nennen Sie ACID-Eigenschaften von Transaktionen ...www.repetico.de \u203a card-71023181",
+    "link": "https://www.repetico.de/card-71023181",
+    "description": "30.09.2018 \u2014 Konsistenz (engl.: consistency): Eine Transaktion erh\u00e4lt die Konsistenz der Datenbank. Sie \u00fcberf\u00fchrt den Datenbestand von einem\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "ACID-Eigenschaften f\u00fcr Transaktionen - IBM Knowledge Centerwww.ibm.com \u203a Home \u203a SSGMCP_5.4.0",
+    "link": "https://www.ibm.com/support/knowledgecenter/de/SSGMCP_5.4.0/product-overview/acid.html",
+    "description": "Im Kontext der Transaktionsverarbeitung bezeichnet das Akronym ACID die vier Schl\u00fcsseleigenschaften einer Transaktion: Atomicity (Atomizit\u00e4t), Consistency\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "ACID - DB-Engines Enzyklop\u00e4diedb-engines.com \u203a article \u203a ACID",
+    "link": "https://db-engines.com/de/article/ACID",
+    "description": "ACID. ACID beschreibt eine h\u00e4ufig gew\u00fcnschte Eigenschaft f\u00fcr zusammengeh\u00f6rige ... Schritt abgebrochen, m\u00fcsste ein die ACID Eigenschaften erf\u00fcllendes\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Teil I \u2013 Einf\u00fchrung & Grundlagen 1.1 Was ist eine Transaktion?www.dbs.ethz.ch \u203a education \u203a timi \u203a 1-Einfuehrung",
+    "link": "http://www.dbs.ethz.ch/education/timi/WS_03_04/Vorlesungsunterlagen/1-Einfuehrung.pdf",
+    "description": "Ausf\u00fchrungsgarantien durchzusetzen. \u2013 Ausf\u00fchrungsgarantien abgeleitet von ACID-Eigenschaften. \u2013 Diese Garantien werden vom System transparent f\u00fcr den\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Die ACID Eigenschaften von Transaktionen - ITTechNickittechnick.de \u203a die-acid-eigenschaften-von-transaktionen",
+    "link": "https://ittechnick.de/die-acid-eigenschaften-von-transaktionen/",
+    "description": "13.05.2020 \u2014 Die 4 ACID Eigenschaften Atomarit\u00e4t, Konsistenzerhaltung, Isolation und die Dauerhaftigkeit sind Bedingungen, die eine Transaktion und das\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "12. Transaktionen Beispielszenarien Transaktion ACID ...wwwiti.cs.uni-magdeburg.de \u203a ~sattler \u203a hal",
+    "link": "https://wwwiti.cs.uni-magdeburg.de/~sattler/hal/db-12.pdf",
+    "description": "s Ablaufintegrit\u00e4t: Fehler durch \u201egleichzeitigen\u201c Zugriff mehrerer Benutzer auf dieselben Daten vermeiden. VL Datenbanken I \u2013 12\u20133. ACID-Eigenschaften.",
+    "googleLink": null,
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Einsatz von ACID-Transaktionen im Wandel der Zeit ...link.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1365/s40702-019-00575-w",
+    "description": "21.11.2019 \u2014 Diese Transaktionseigenschaften stehen in enger Beziehung zueinander. Eine ACID-Transaktion f\u00fchrt einen konsistenten Zustand eines\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "database \u2014 Wie funktionieren ACID- und ... - Deutschwww.it-swarm.com.de \u203a deutsch \u203a database",
+    "link": "https://www.it-swarm.com.de/de/database/wie-funktionieren-acid-und-datenbanktransaktionen/970947316/",
+    "description": "ACID ist eine Reihe von Eigenschaften, die Sie beim \u00c4ndern einer Datenbank anwenden m\u00f6chten. Atomarit\u00e4t; Konsistenz; Isolierung; Haltbarkeit.",
+    "googleLink": null,
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "About: ACIDde.dbpedia.org \u203a page \u203a ACID",
+    "link": "http://de.dbpedia.org/page/ACID",
+    "description": "ACID, deutsch auch AKID, ist eine Abk\u00fcrzung in der Informatik. Es beschreibt h\u00e4ufig erw\u00fcnschte Eigenschaften von Verarbeitungsschritten in\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Transaktion \u2014 Enzyklopaedie der Wirtschaftsinformatikenzyklopaedie-der-wirtschaftsinformatik.de \u203a lexikon \u203a Datenbanksystem",
+    "link": "https://enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Datenmanagement/Datenbanksystem/Transaktion",
+    "description": "19.02.2019 \u00b7 ACID-Eigenschaften. Die sogenannten ACID-Eigenschaften beschreiben, welche Leistungen eine Transaktionen abzudecken hat: Atomarit\u00e4t:\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Datenmanagement/Datenbanksystem/Transaktion&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAB6BAgGEAE&usg=AOvVaw0oNQn53vdIItflS-YgIGKZ",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Acid House in Musik | Sch\u00fclerlexikon | Lernhelferwww.lernhelfer.de \u203a schuelerlexikon \u203a musik \u203a artikel \u203a acid-house",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/musik/artikel/acid-house",
+    "description": "Musikalische Eigenschaften. Obwohl die Grenzen zu Techno flie\u00dfend sind und Acid House einen \u00e4hnlich geschichtete Klangaufbau \u00fcber einem mechanischen\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/musik/artikel/acid-house&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAF6BAgHEAE&usg=AOvVaw3ADUWUKZ9U7t_RsUrECgP1",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Lysergs\u00e4urediethylamid - Chemie.dewww.chemie.de \u203a lexikon \u203a LSD \u203a .html",
+    "link": "https://www.chemie.de/lexikon/LSD%2F.html",
+    "description": "Lysergs\u00e4urediethylamid (LSD, auch LSD-25; im Slang \u201eAcid\u201c genannt) ist ein ... psychoaktiver Eigenschaften des LSD; der Jahrestag wird von popkulturellen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.chemie.de/lexikon/LSD%252F.html&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAJ6BAgIEAE&usg=AOvVaw0xfXmWZMLACzU-YNxX0BcT",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "ACID | it-administrator.dewww.it-administrator.de \u203a lexikon \u203a acid",
+    "link": "https://www.it-administrator.de/lexikon/acid.html",
+    "description": "ACID. Atomicity, Consistency, Isolation, Durability ACID steht als Abk\u00fcrzung f\u00fcr die Eigenschaften einer Transaktion: Atomicity (Unteilbarkeit) - die Transaktion\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.it-administrator.de/lexikon/acid.html&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAN6BAgJEAE&usg=AOvVaw2hXcGWnvpt0DQ97vEplUit",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Was sind die ACID-Eigenschaften? | Karteikarten online lernen ...www.cobocards.com \u203a pool \u203a card \u203a online-karteikarten-was-sind-die-acid-...",
+    "link": "https://www.cobocards.com/pool/card/8nvih1211/online-karteikarten-was-sind-die-acid-eigenschaften-/",
+    "description": "07.02.2012 \u00b7 Was sind die ACID-Eigenschaften? = Anforderungen an Transaktionen Atomarit\u00e4t. Eine Transaktion wird entweder ganz oder gar nicht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cobocards.com/pool/card/8nvih1211/online-karteikarten-was-sind-die-acid-eigenschaften-/&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAR6BAgFEAE&usg=AOvVaw3IEPiYFNzruXolp7GEFm3X",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "LSD \u2013 Chemie-Schulewww.chemie-schule.de \u203a KnowHow \u203a Lysergs\u00e4urediethylamid",
+    "link": "https://www.chemie-schule.de/KnowHow/Lysergs%C3%A4urediethylamid",
+    "description": "Dieses Datum gilt heute als Zeitpunkt der Entdeckung der psychoaktiven Eigenschaften des LSD. Der Jahrestag wird von popkulturellen LSD-Anh\u00e4ngern als\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.chemie-schule.de/KnowHow/Lysergs%25C3%25A4urediethylamid&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAV6BAgBEAE&usg=AOvVaw1Zh9RrtzDi-oOXMPJfpQ48",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Artistri\u00ae Acid Dye Druckfarben DuPont Germanywww.dupont.de \u203a products \u203a artistri-acid-dye-inks",
+    "link": "https://www.dupont.de/products/artistri-acid-dye-inks.html",
+    "description": "Hervorragende Anwendungseigenschaften mit einem breiten Angebot an Farbt\u00f6nen. Hohe Best\u00e4ndigkeiten gegen \u00fcber Meerwasser, Chlor und Licht.",
+    "googleLink": "http://www.google.com/url?q=https://www.dupont.de/products/artistri-acid-dye-inks.html&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAZ6BAgDEAE&usg=AOvVaw1y9u71955MIs5dqDe4OD6Z",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "ACIDwww.jbusse.de \u203a traktate \u203a ACID",
+    "link": "http://www.jbusse.de/traktate/ACID.html",
+    "description": "ACID-Eigenschaften. Atomicity (Atomarit\u00e4t): Transaktion wird entweder ganz oder gar nicht ausgef\u00fchrt; Consistency (Konsistenz oder auch Integrit\u00e4tserhaltung):\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.jbusse.de/traktate/ACID.html&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAd6BAgCEAE&usg=AOvVaw0-mKv6ZTvTk2-7KYckgDkw",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Holten, C. H.: Lactic Acid, Properties and Chemistry of Lactic Acid ...onlinelibrary.wiley.com \u203a doi \u203a abs \u203a star.19730250108",
+    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/star.19730250108",
+    "description": "Holten, C. H.: Lactic Acid, Properties and Chemistry of Lactic Acid and Derivatives (Milchs\u00e4ure, Eigenschaften und Chemie der Milchs\u00e4ure und ihrer Derivate).",
+    "googleLink": "http://www.google.com/url?q=https://onlinelibrary.wiley.com/doi/abs/10.1002/star.19730250108&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAh6BAgAEAE&usg=AOvVaw0AAjHny-qJk_xiCWRtiEBs",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "LSD - PharmaWikiwww.pharmawiki.ch \u203a wiki \u203a wiki=LSD",
+    "link": "https://www.pharmawiki.ch/wiki/index.php?wiki=LSD",
+    "description": "LSD (Lysergs\u00e4urediethylamid) ist ein bewusstseinserweiternder Wirkstoff aus ... Er entdeckte im Jahr 1943 zuf\u00e4llig ihre starken halluzinogenen Eigenschaften,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.pharmawiki.ch/wiki/index.php%3Fwiki%3DLSD&sa=U&ved=2ahUKEwjmkbyBivHuAhXtt1kKHQ8NChE4FBAWMAl6BAgEEAE&usg=AOvVaw0SlQCipKHNzmPEuH55SEpq",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Was ist eine Transaktion? - DataCenter-Insider  www.datacenter-insider.de \u203a was-ist-eine-transaktion-a-796354",
+    "link": "https://www.datacenter-insider.de/was-ist-eine-transaktion-a-796354/",
+    "description": "Was ist eine Transaktion? - DataCenter-Insider",
+    "googleLink": "http://www.google.com/url?q=https://www.datacenter-insider.de/was-ist-eine-transaktion-a-796354/&sa=U&ved=2ahUKEwjVhOOBivHuAhWQrVkKHaHxCkI4HhAWMAF6BAgKEAE&usg=AOvVaw3ljPXB0XL25lg46M2yyVpw",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Kapitel 2 Verteilte Transaktionsverwaltung Transaktionskonzept ...  wwwlgis.informatik.uni-kl.de \u203a MDWVIS.Kapitel.02.VerteilteTA.pdf",
+    "link": "http://wwwlgis.informatik.uni-kl.de/archiv/wwwdvs.informatik.uni-kl.de/courses/MDWVIS/WS0304/Vorlesungsunterlagen/MDWVIS.Kapitel.02.VerteilteTA.pdf",
+    "description": "[PDF] Kapitel 2 Verteilte Transaktionsverwaltung Transaktionskonzept ...",
+    "googleLink": "http://www.google.com/url?q=http://wwwlgis.informatik.uni-kl.de/archiv/wwwdvs.informatik.uni-kl.de/courses/MDWVIS/WS0304/Vorlesungsunterlagen/MDWVIS.Kapitel.02.VerteilteTA.pdf&sa=U&ved=2ahUKEwjVhOOBivHuAhWQrVkKHaHxCkI4HhAWMAJ6BAgJEAE&usg=AOvVaw3GJ_Ke14BUG2vaiK5ZUFIS",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Transaktion - Vorlesung Verteilte Systeme  users.informatik.haw-hamburg.de \u203a ~schmidt \u203a 07_Transaktionen",
+    "link": "https://users.informatik.haw-hamburg.de/~schmidt/vs/07_Transaktionen.pdf",
+    "description": "[PDF] Transaktion - Vorlesung Verteilte Systeme",
+    "googleLink": "http://www.google.com/url?q=https://users.informatik.haw-hamburg.de/~schmidt/vs/07_Transaktionen.pdf&sa=U&ved=2ahUKEwjVhOOBivHuAhWQrVkKHaHxCkI4HhAWMAN6BAgHEAE&usg=AOvVaw2qn0E9f3v-LgjvUdMEPqP8",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "NoSQL \u2013 Funktion und Vorteile von NoSQL-Datenbanken - IONOS  www.ionos.de \u203a Digitalguide \u203a Hosting \u203a Hosting-Technik \u203a NoSQL",
+    "link": "https://www.ionos.de/digitalguide/hosting/hosting-technik/nosql/",
+    "description": "NoSQL \u2013 Funktion und Vorteile von NoSQL-Datenbanken - IONOS",
+    "googleLink": "http://www.google.com/url?q=https://www.ionos.de/digitalguide/hosting/hosting-technik/nosql/&sa=U&ved=2ahUKEwjVhOOBivHuAhWQrVkKHaHxCkI4HhAWMAV6BAgGEAE&usg=AOvVaw30KVzlD1AFJubX-1la757M",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "fulvic acid - Deutsch \u00dcbersetzung - Franz\u00f6sisch Beispiele | Reverso ...  context.reverso.net \u203a \u00fcbersetzung \u203a franzosisch-deutsch \u203a fulvic+acid",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/franzosisch-deutsch/fulvic+acid",
+    "description": "fulvic acid - Deutsch \u00dcbersetzung - Franz\u00f6sisch Beispiele | Reverso ...",
+    "googleLink": "http://www.google.com/url?q=https://context.reverso.net/%25C3%25BCbersetzung/franzosisch-deutsch/fulvic%2Bacid&sa=U&ved=2ahUKEwjVhOOBivHuAhWQrVkKHaHxCkI4HhAWMAZ6BAgBEAE&usg=AOvVaw3AUNLBltsVc5URvg90omyj",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Mainframe - Talentschmiede  www.talentschmiede.com \u203a techtalk \u203a mainframe",
+    "link": "https://www.talentschmiede.com/techtalk/mainframe/",
+    "description": "Mainframe - Talentschmiede",
+    "googleLink": "http://www.google.com/url?q=https://www.talentschmiede.com/techtalk/mainframe/&sa=U&ved=2ahUKEwjVhOOBivHuAhWQrVkKHaHxCkI4HhAWMAd6BAgCEAE&usg=AOvVaw06zNamJIT_v0BXhN5nQURm",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Insights into the acid-base properties of functionalized ... - DepositOnce  depositonce.tu-berlin.de \u203a handle",
+    "link": "https://depositonce.tu-berlin.de/handle/11303/4402?mode=full",
+    "description": "Insights into the acid-base properties of functionalized ... - DepositOnce",
+    "googleLink": "http://www.google.com/url?q=https://depositonce.tu-berlin.de/handle/11303/4402%3Fmode%3Dfull&sa=U&ved=2ahUKEwjVhOOBivHuAhWQrVkKHaHxCkI4HhAWMAh6BAgEEAE&usg=AOvVaw2d4mLYdab8D-J41Equqpwq",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Mehrbenutzersynchronisation  db.in.tum.de \u203a teaching \u203a grundlagen \u203a kapitel10",
+    "link": "https://db.in.tum.de/teaching/ws1415/grundlagen/kapitel10.pdf?lang=de",
+    "description": "[PDF] Mehrbenutzersynchronisation",
+    "googleLink": "http://www.google.com/url?q=https://db.in.tum.de/teaching/ws1415/grundlagen/kapitel10.pdf%3Flang%3Dde&sa=U&ved=2ahUKEwjVhOOBivHuAhWQrVkKHaHxCkI4HhAWMAl6BAgFEAE&usg=AOvVaw0ORdQm4zMRFwstnzR5WxVb",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "(PDF) Milchs\u00e4ure (engl. lactic acid) - ResearchGatewww.researchgate.net \u203a publication \u203a 331822154_Milchs...",
+    "link": "https://www.researchgate.net/publication/331822154_Milchsaure_engl_lactic_acid",
+    "description": "17.03.2019 \u2014 PDF | Milchs\u00e4ure (lactic acid) hat verschiedenste Eigenschaften und Vorkommen. Milchs\u00e4ure ist ein wichtiges Stoffwechselprodukt. Bekannt ist\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "13.72 Transaktionen und ACID - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=ZHq5f7eZPwA",
+    "description": "Video for my inverted classroom \"Database Systems\". The complete list of videos, slides, and additional ...",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Citric acid (and) Silver Citrate - Internetchemiewww.internetchemie.info \u203a stoffdaten \u203a Datei=Citric aci...",
+    "link": "https://www.internetchemie.info/stoffdaten/index.php?Datei=Citric%20acid%20(and)%20Silver%20Citrate",
+    "description": "Weiter zu Daten, Eigenschaften \u2014 Stoffdaten und Eigenschaften. Citric acid (and) Silver Citrate ist die international gebr\u00e4uche INCI-Bezeichnung f\u00fcr eine in\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "(2-BENZOTHIAZOLYLTHIO)ACETIC ACID | 6295-57-4www.chemicalbook.com \u203a ChemicalProductProperty_D...",
+    "link": "https://www.chemicalbook.com/ChemicalProductProperty_DE_CB8264020.htm",
+    "description": "(2-BENZOTHIAZOLYLTHIO)ACETIC ACID Eigenschaften. Schmelzpunkt: 159\u00b0C. Siedepunkt: 423.4\u00b147.0 \u00b0C(Predicted). Dichte: 1.4374 (rough estimate).",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Peel: Nat\u00fcrliche Peelings - Basis Biopolymer - farbig | IMPAG ...www.impag.de \u203a personal-care \u203a produkte \u203a functionals",
+    "link": "https://www.impag.de/life-science-1/personal-care/produkte/functionals/peel-natuerliche-peelings-basis-biopolymer-farbig/",
+    "description": "12.07.2019 \u2014 Das mikronisierte Biopolymer Polylactic Acid besitzt in der Anwendung als Peeling die hervorragenden Eigenschaften der Polyethylen-Partikel.",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Trocken Pulver Peracetic Essigs\u00e4ure Paa Chemische ...german.alibaba.com \u203a ... \u203a Organische S\u00e4ure",
+    "link": "https://german.alibaba.com/product-detail/dry-powder-peracetic-acetic-acid-paa-chemical-properties-chemical-properties-60700850864.html",
+    "description": "... Pulver Peracetic Essigs\u00e4ure Paa Chemische Eigenschaften Chemische Eigenschaften,Acetic Acid Chemical Properties,Dry Powder Peracetic Acid Paa,Acetic\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "ACID PEEL - Fruchts\u00e4urepeelings mit AHAs & BHAs | Health ...www.health-cosmeticals.com \u203a chemische-fruchtsaeure...",
+    "link": "https://www.health-cosmeticals.com/chemische-fruchtsaeurepeelings-acid-peel/",
+    "description": "Die ACID PEEL Fruchts\u00e4urepeelings von Health Cosmeticals sind der Kategorie der chemischen ... Wirkung und Eigenschaften von Fruchts\u00e4urepeelings.",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Locked Nucleic Acid - biomers.net Oligonucleotide - biomers.netwww.biomers.net \u203a produkte \u203a Locked_Nucleic_Acid",
+    "link": "https://www.biomers.net/de/produkte/Locked_Nucleic_Acid.html?lang=de",
+    "description": "Eine weitere bemerkenswerte Eigenschaft von LNA ist ihre erh\u00f6hte Affinit\u00e4t zu komplement\u00e4rer DNA und RNA, die LNA-basierte Oligonucleotide ideal f\u00fcr den\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "database - ACID- und Datenbanktransaktionen? - Stack Overrunstackoverrun.com \u203a ...",
+    "link": "https://stackoverrun.com/de/q/860752",
+    "description": "ACID ist eine Gruppe von Eigenschaften, die Sie beim \u00c4ndern einer Datenbank anwenden m\u00f6chten. Atomicity; Consistency; Isolation; Durability.",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Grundkurs Datenbanken: Wichtige Datenbanksysteme im ...entwickler.de \u203a Online \u203a Datenbanken",
+    "link": "https://entwickler.de/online/datenbanken/grundkurs-datenbanken-datenbanksysteme-579859345.html",
+    "description": "13.09.2018 \u2014 Implementierung der ACID-Eigenschaften; Plattform\u00fcbergreifende Unterst\u00fctzung verteilter Datenbanken; Data-Warehouse-Funktionalit\u00e4t; Java\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 9
+  }
+]

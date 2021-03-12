@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Parameter (Informatik) \u2013 Wikipediahttps://de.wikipedia.org \u203a wiki \u203a Parameter_(Informatik)",
+    "link": "https://de.wikipedia.org/wiki/Parameter_(Informatik)",
+    "description": "Parameter \u2013 (deutsch) auch \u00dcbergabewerte genannt \u2013 sind in der Informatik Variablen, durch die ein Computerprogramm (oft ein Unterprogramm) auf die\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Parameter von Methoden einfach erkl\u00e4rt! [mit Video] \u00b7 [mit Video]https://studyflix.de \u203a informatik \u203a parameter-von-methode...",
+    "link": "https://studyflix.de/informatik/parameter-von-methoden-426",
+    "description": "Einer Java Methode kannst du Parameter \u00fcbergeben. In diesem Beitrag lernst du, was Parameter ...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Parameter (Informatik) - lernen mit Serlo!https://de.serlo.org \u203a informatik \u203a parameter-informatik",
+    "link": "https://de.serlo.org/informatik/176581/parameter-informatik",
+    "description": "Als Parameter bezeichnet man in der Informatik die Platzhalter f\u00fcr die Eingabewerte einer Methode oder Funktion. Sie stehen in Klammern \u2026",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Parameter (Informatik) - deacademic.com deacademic.comhttps://deacademic.com \u203a dic.nsf \u203a dewiki",
+    "link": "https://deacademic.com/dic.nsf/dewiki/1076749",
+    "description": "Parameter sind in der Informatik Variablen, \u00fcber die ein Computerprogramm oder Unterprogramm, f\u00fcr einen Aufruf g\u00fcltig, auf bestimmte Werte eingestellt\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "DeWiki > Parameter (Informatik)https://dewiki.de \u203a Lexikon \u203a Parameter_(Informatik)",
+    "link": "https://dewiki.de/Lexikon/Parameter_(Informatik)",
+    "description": "Wird beim Aufruf des (Unter-)Programms nicht f\u00fcr jeden Parameter ein Argument \u00fcbergeben, kann dieses eine beim Erstellen des Programms festgelegte\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Grundwissen Informatik - Parameter - Tobias Stork, Klavierhttp://www.tobias-stork.de \u203a gymnasium \u203a Parameter",
+    "link": "http://www.tobias-stork.de/gymnasium/informatik/grundwissen/Parameter.html",
+    "description": "Grundwissen Informatik \u2013 \u00a9 2010 Tobias Stork. Parameter. Jgst. 6, Kapitel 2. Parameter sind zus\u00e4tzliche Angaben, die eine Methode f\u00fcr ihre Ausf\u00fchrung\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Was ist ein Parameter (Informatik)? (Schule) - Gutefragehttps://www.gutefrage.net \u203a frage \u203a was-ist-ein-paramet...",
+    "link": "https://www.gutefrage.net/frage/was-ist-ein-parameter-informatik",
+    "description": "04.11.2018 \u2014 Mit den Parametern kannst du im Konstruktor Variablen statt Werte einf\u00fcgen und so jedesmal neu entscheiden, wie dein Schl\u00e4ger aussieht, indem du in die\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Formale und aktuelle Parameter - Gailer-Nethttp://www.gailer-net.de \u203a tutorials \u203a java \u203a Notes",
+    "link": "http://www.gailer-net.de/tutorials/java/Notes/chap34A/ch34A_3.html",
+    "description": "Ja \u2014 kontostand ist Teil des Zustands des Objekts und wird den Wert solange enthalten wie das Objekt existiert. Wird der Parameter betrag einen dauerhaften\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Folge 33: Parameter | informatikZentralehttps://www.informatikzentrale.de \u203a greenfoot-3-param...",
+    "link": "https://www.informatikzentrale.de/greenfoot-3-parameter-java.html",
+    "description": "15.03.2018 \u2014 informatikZentrale ... Greenfoot 3, Folge 33: Parameter [deutsch] ... erkl\u00e4re den G\u00fcltigkeitsbereich von Parametern (denn Parameter sind - wie\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Parameteru-helmich.de \u203a inf \u203a lexikon \u203a Parameter",
+    "link": "http://u-helmich.de/inf/lexikon/M-R/Parameter.html",
+    "description": "Informatik > Lexikon ... Parameter sind Variablen, die dazu dienen, einer Methode beim Aufruf ... Mehrere formale Parameter werden durch Kommata getrennt.",
+    "googleLink": "http://www.google.com/url?q=http://u-helmich.de/inf/lexikon/M-R/Parameter.html&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAB6BAgBEAE&usg=AOvVaw3AbIcMW9KApuV2K0nYsFOb",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Parameterarten - phasinma.dewww.phasinma.de \u203a Java \u203a page19 \u203a page19",
+    "link": "http://www.phasinma.de/Java/page19/page19.html",
+    "description": "Damit k\u00f6nnen auch die Werte der aktuellen Parameter durch die Methode ge\u00e4ndert werden. Projekt zur Schulentwicklung \"Der Informatikunterricht der Zukunft\"",
+    "googleLink": "http://www.google.com/url?q=http://www.phasinma.de/Java/page19/page19.html&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAF6BAgHEAE&usg=AOvVaw3nmwbBgUAYEDiH3ghrk-bN",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Parameter in Java verwenden | informatikZentralewww.informatikzentrale.de \u203a java-parameter-verwenden",
+    "link": "https://www.informatikzentrale.de/java-parameter-verwenden.html",
+    "description": "Die Methode shouten gibt den Wert des \u00fcbergebenen Parameters geshouteterText aus. Java: Parameter 02: Geldautomat Programmieren Sie die in Bild 16java/\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.informatikzentrale.de/java-parameter-verwenden.html&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAJ6BAgIEAE&usg=AOvVaw2UEUO2XO-G_84NzgNOtlyJ",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Parameter (Informatik) - Enzyklop\u00e4die - Brockhaus.debrockhaus.de \u203a ecs \u203a enzy \u203a article \u203a parameter-informatik",
+    "link": "https://brockhaus.de/ecs/enzy/article/parameter-informatik",
+    "description": "Parameter (Informatik). Parameter der, -s/-, Informatik: In der Definition einer Prozedur werden mit den formalen Parametern Typ. (15 von 103 W\u00f6rtern). M\u00f6chten\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://brockhaus.de/ecs/enzy/article/parameter-informatik&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAN6BAgJEAE&usg=AOvVaw35Z-fQuh3PLKHqCsxJi7mh",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Wert\u00fcbergabe mit Parametern - Bildungsserver Berlin-Brandenburgbildungsserver.berlin-brandenburg.de \u203a greenfoot \u203a 10_Parameter",
+    "link": "https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/unterricht/faecher/naturwissenschaften/informatik/programmiersprachen/greenfoot/10_Parameter.pdf",
+    "description": "10.3 Fenster zur Welt \u2014 Wert\u00fcbergabe mit Parametern. 10.3.1 Methoden mit ... public void schritte(int anzahl) { // Parameter anzahl wird deklariert for(int i = 0;i\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/unterricht/faecher/naturwissenschaften/informatik/programmiersprachen/greenfoot/10_Parameter.pdf&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAR6BAgAEAE&usg=AOvVaw0pgt-sbXf9TNzK6DO-ZYlb",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Funktionsparameter in C++ - Arnold Willemerwww.willemer.de \u203a informatik \u203a cpp \u203a parameter",
+    "link": "http://www.willemer.de/informatik/cpp/parameter.htm",
+    "description": "Funktionsparameter Willemers Informatik-Ecke. Schnittstelle. Funktionen k\u00f6nnen Parameter haben. Sie dienen dazu, Werte an Funktionen durchzureichen.",
+    "googleLink": "http://www.google.com/url?q=http://www.willemer.de/informatik/cpp/parameter.htm&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAV6BAgEEAE&usg=AOvVaw2OvfZ59Dhvh1WnILw5Aebd",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Einf\u00fchrung in die Informatik Definition von Klassenais.informatik.uni-freiburg.de \u203a material \u203a mst_04_defClasses",
+    "link": "http://ais.informatik.uni-freiburg.de/teaching/ss08/info_MST/material/mst_04_defClasses.pdf",
+    "description": "Parameter sind Variablen, die im Prototyp einer Methode spezifiziert werden. Page 11. 4.11. Definition einer Methode mit Argument. \u2022 Da unsere\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://ais.informatik.uni-freiburg.de/teaching/ss08/info_MST/material/mst_04_defClasses.pdf&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAZ6BAgDEAE&usg=AOvVaw1VudGN5nNRi6qParBDP1vb",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Prozeduren und Funktionen Parameter sind Platzhalter in einer ...www.oszhandel.de \u203a algo-progr \u203a prozeduren_funktionen_vergleich",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/algo-progr/prozeduren_funktionen_vergleich.pdf",
+    "description": "In Anlehnung an: Duden Informatik (3.Auflage, Dudenverlag, 2001, S. 477). Prozeduren und Funktionen. Parameter sind Platzhalter in einer Prozedur oder\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oszhandel.de/gymnasium/faecher/informatik/algo-progr/prozeduren_funktionen_vergleich.pdf&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAd6BAgFEAE&usg=AOvVaw1Mz-JXjiBhbzxIYcfDzN8S",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "OSZ Oberstufenzentrum Handel 1 Informatik Werteparameter ...www.oszhandel.de \u203a faecher \u203a informatik \u203a algo-progr \u203a parameter",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/algo-progr/parameter.html",
+    "description": "Werteparameter (engl. call by value): \"sind Parameter von Unterprogrammen in Programmiersprachen, die die \u00dcbergabe, jedoch nicht die R\u00fcckgabe von Werten\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oszhandel.de/gymnasium/faecher/informatik/algo-progr/parameter.html&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAh6BAgCEAE&usg=AOvVaw2i8VM3l_y1iOnOIkfSOgGG",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Informatik - Programming: Grundlegende ... - SwissEducwww.swisseduc.ch \u203a programming \u203a javakara \u203a variablen-parameter",
+    "link": "https://www.swisseduc.ch/informatik/120-lektionen/practices/programming/javakara/variablen-parameter.html",
+    "description": "18.12.2019 \u00b7 Grundlegende Programmierkonzepte: Variablen, Methoden-Parameter, R\u00fcckgabewerte. Verfasst von Raimond Reichert\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.swisseduc.ch/informatik/120-lektionen/practices/programming/javakara/variablen-parameter.html&sa=U&ved=2ahUKEwjwke2o66XvAhVPrFkKHcA_Aus4ChAWMAl6BAgGEAE&usg=AOvVaw0fjyrJuCKTFePZXPtSvSdZ",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Funktionen | Informatik I | TU Chemnitzwww-user.tu-chemnitz.de \u203a Informatik I",
+    "link": "https://www-user.tu-chemnitz.de/~arij/lehre/theorie/info1/funktionen/funktionen.html",
+    "description": "Wie funktionierts? Die Parameter in foo( ) werden mittels einem & zu Referenzparametern: int foo(int &a, int &b) Das bedeutet nun\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www-user.tu-chemnitz.de/~arij/lehre/theorie/info1/funktionen/funktionen.html&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAB6BAgEEAE&usg=AOvVaw2e32MqeZcBrf26W2ACp3u0",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Parameter\u00fcbergabemechanismen f\u00fcr den Methodenaufrufwww.dbs.ifi.lmu.de \u203a Lehre \u203a NFInfoSW \u203a Skript \u203a Folien06",
+    "link": "https://www.dbs.ifi.lmu.de/Lehre/NFInfoSW/WS0708/Skript/Folien06.pdf",
+    "description": "Einf\u00fchrung in die Informatik: Programmierung und Software-Entwicklung, WS 07/\u200b08. C. B\u00f6hm: Parameter\u00fcbergabe. Klasse Point public class Point. { private int x\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dbs.ifi.lmu.de/Lehre/NFInfoSW/WS0708/Skript/Folien06.pdf&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAF6BAgIEAE&usg=AOvVaw23m67qOF8reLT8v_0PFLM-",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Parameter \u2022 Definition | Gabler Wirtschaftslexikonwirtschaftslexikon.gabler.de \u203a ... \u203a Grundlagen der Wirtschaftsinformatik",
+    "link": "https://wirtschaftslexikon.gabler.de/definition/parameter-42989",
+    "description": "Erwartungswert und Varianz, sowie explizite Parameter, also variable Gr\u00f6\u00dfen, welche explizit in ... zwischen der Betriebswirtschaftslehre und der Informatik ein.",
+    "googleLink": "http://www.google.com/url?q=https://wirtschaftslexikon.gabler.de/definition/parameter-42989&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAJ6BAgHEAE&usg=AOvVaw2F9TbjgCKMFdVfTM-7ZPym",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Parameter \u2013 SELFHTML-Wikiwiki.selfhtml.org \u203a wiki \u203a Parameter",
+    "link": "https://wiki.selfhtml.org/wiki/Parameter",
+    "description": "31.12.2020 \u00b7 Ein Parameter \u2013 auch \u00dcbergabewert genannt \u2013 ist eine Variable, \u00fcber ... de.\u200bwikipedia.org: Parameter (Informatik); en.wiktionary.org: Argument.",
+    "googleLink": "http://www.google.com/url?q=https://wiki.selfhtml.org/wiki/Parameter&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAN6BAgJEAE&usg=AOvVaw2ic5p2BMTmBsqyJqDYc08S",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Parameter: Bedeutung, Definition, Synonym - Wortbedeutung.infowww.wortbedeutung.info \u203a Parameter",
+    "link": "https://www.wortbedeutung.info/Parameter/",
+    "description": "2a) Informatik ein Argument, das einem Unterprogramm \u00fcbergeben wird: 2b) analytische Geometrie die Variablen der Parameterdarstellung: 2c) Statistik eine von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wortbedeutung.info/Parameter/&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAR6BAgGEAE&usg=AOvVaw02PPGKNRArI4nWpXOqMF8X",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Funktionen - Angewandte Informatik - Hochschule Flensburgwww.inf.hs-flensburg.de \u203a lang \u203a prog \u203a funktion",
+    "link": "https://www.inf.hs-flensburg.de/lang/prog/funktion.htm",
+    "description": "In der Mathematik ordnet eine Funktion einem Argument einen Funktionswert zu. Beispiel: Die Funktion. successor : nat\u00fcrliche Zahlen Pfeil nach rechts nat\u00fcrliche\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.inf.hs-flensburg.de/lang/prog/funktion.htm&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAV6BAgDEAE&usg=AOvVaw2leZrDgYyp2NNy1ZCcBRrV",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Parameter - OInfoinf.ch \u203a konzept \u203a parameter",
+    "link": "https://oinf.ch/konzept/parameter/",
+    "description": "Parameter \u2013 (deutsch) auch \u00dcbergabewert genannt \u2013 sind in der Informatik Variablen, durch die ein Computerprogramm (oft ein Unterprogramm) auf die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://oinf.ch/konzept/parameter/&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAZ6BAgFEAE&usg=AOvVaw0I6OV8a078pJs7OiN45c6k",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Funktionen | Informatik - Programmieren lernen mit C++www.programmieren-lernen-cplusplus.de \u203a funktionen",
+    "link": "https://www.programmieren-lernen-cplusplus.de/funktionen/",
+    "description": "Dann musst du dir einen Namen f\u00fcr die Funktion ausdenken, bevor du in Klammern deine Eingabeparameter, deinen Input eingibst. Dabei wird jeder Parameter\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.programmieren-lernen-cplusplus.de/funktionen/&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAd6BAgCEAE&usg=AOvVaw0IX6vm7avheGhYOOv9-qd_",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "informatik:computerkunst:funktionen-mit-parameter [Unterrichtswiki ...herr-pfeiffer.de \u203a unterrichtswiki \u203a informatik:computerkunst:funktionen-...",
+    "link": "https://herr-pfeiffer.de/unterrichtswiki/informatik:computerkunst:funktionen-mit-parameter",
+    "description": "Parameter sind Platzhalter f\u00fcr Werte, die jedes Mal anders sein k\u00f6nnen. Du gibst den Parameter bei der Definition einer Funktion hinter den Funktionsnamen in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://herr-pfeiffer.de/unterrichtswiki/informatik:computerkunst:funktionen-mit-parameter&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAh6BAgBEAE&usg=AOvVaw1ZIlU6HvmD3mNIk_ktKb9e",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Methoden und Parameter - Java Tutorial - Programmieren lernen f\u00fcr ...panjutorials.de \u203a ... \u203a Java Tutorial - Programmieren lernen f\u00fcr Anf\u00e4nger",
+    "link": "https://panjutorials.de/tutorials/java-tutorial-programmieren-lernen-fuer-anfaenger/lektionen/methoden-und-parameter/",
+    "description": "Zugriff + (static) + Datentyp oder void + MethodenName + (Parameter) + { // Methodeninhalt. } F\u00fcr \"Zugriff\" haben wir drei M\u00f6glichkeiten: public (\u00f6ffentlich)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://panjutorials.de/tutorials/java-tutorial-programmieren-lernen-fuer-anfaenger/lektionen/methoden-und-parameter/&sa=U&ved=2ahUKEwjhrpWp66XvAhVvxFkKHUQrA8E4FBAWMAl6BAgAEAE&usg=AOvVaw1r154AZuzIWlmdP0sN-1HW",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Parameter\u00fcbergabemechanismen f\u00fcr den Methodenaufrufwww.dbs.informatik.uni-muenchen.de \u203a NFInfoSW \u203a Skript \u203a Folien06",
+    "link": "http://www.dbs.informatik.uni-muenchen.de/Lehre/NFInfoSW/WS0708/Skript/Folien06.pdf",
+    "description": "Einf\u00fchrung in die Informatik: Programmierung und Software-Entwicklung, WS 07/ 08. C. B\u00f6hm: Parameter\u00fcbergabe. Klasse Point public class Point. { private int x\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.dbs.informatik.uni-muenchen.de/Lehre/NFInfoSW/WS0708/Skript/Folien06.pdf&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAB6BAgAEAE&usg=AOvVaw3STZ4D98epXpK1ZiBtX3qt",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Felder als Parameter bei Methoden - Einstieg in die Informatik mit Javawww.math.kit.edu \u203a seite \u203a media \u203a methodenundfelder.handout.pdf",
+    "link": "https://www.math.kit.edu/ianm2/lehre/progjava2009w/seite/aktuelles/media/methodenundfelder.handout.pdf",
+    "description": "Gliederung. 1 \u00a8Uberblick. 2 Felder als Parameter bei Methoden. 3 Feld als Ergebnistyp einer Methode. 4 Hauptprogrammparameter. 2 / 17\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.kit.edu/ianm2/lehre/progjava2009w/seite/aktuelles/media/methodenundfelder.handout.pdf&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAF6BAgIEAE&usg=AOvVaw32IriULjfo_pz7nGERDF-g",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "DFG - GEPRIS - Aktionsplan-Informatik: Kleine Parameter in ...gepris.dfg.de \u203a gepris \u203a projekt",
+    "link": "https://gepris.dfg.de/gepris/projekt/5401637",
+    "description": "Aktionsplan-Informatik: Kleine Parameter in schwierigen Problemen: Entwurf, Analyse, Implementierung und Anwendung von Festparameteralgorithmen.",
+    "googleLink": "http://www.google.com/url?q=https://gepris.dfg.de/gepris/projekt/5401637&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAJ6BAgJEAE&usg=AOvVaw3YYqh5P0ZQCRwAsRPEKKsw",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Anweisungen, Funktionen und Parameter - Werner-von-Siemens ...www.siemens-gymnasium-berlin.de \u203a sites \u203a files \u203a Artikel_oeffentlich",
+    "link": "https://www.siemens-gymnasium-berlin.de/sites/default/files/Artikel_oeffentlich/anweisungen-funktionen-parameter_0.pdf",
+    "description": "Modularisierung in der Informatik - (Teil)-Probleme mit Hilfe von Funktionen l\u00f6sen. (Skript \u201eAugust 2017\u201c Seiten 14-19, Kapitel Parameter, Repetitionen,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.siemens-gymnasium-berlin.de/sites/default/files/Artikel_oeffentlich/anweisungen-funktionen-parameter_0.pdf&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAN6BAgHEAE&usg=AOvVaw3KAuzGaDJlLnySCqbNTiGH",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Parameter \u2013 Wiktionaryde.wiktionary.org \u203a wiki \u203a Parameter",
+    "link": "https://de.wiktionary.org/wiki/Parameter",
+    "description": "[2a] Informatik: ein Argument, das einem Unterprogramm \u00fcbergeben wird: [2b] ... entlehnt aus dem lateinischen parameter, welches wohl aus den (zuvor)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wiktionary.org/wiki/Parameter&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAR6BAgFEAE&usg=AOvVaw14SVF0_o123LDFq56dYHeA",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Werte- und Variablen-Parameter - GK Informatikwww.gk-informatik.de \u203a eep \u203a valref",
+    "link": "http://www.gk-informatik.de/eep/valref.html",
+    "description": "Wenn einer Prozedur, die als. Procedure tuwas (a: Integer); deklariert ist, ein Parameter a \u00fcbergeben wird, dann kann beim Aufruf der Prozedur entweder ein \u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.gk-informatik.de/eep/valref.html&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAV6BAgEEAE&usg=AOvVaw3p_5Ruu_BQqlAwgNVY0lF9",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Implizite type-parameter und partiell angewandte ... - FSI Informatikfsi.cs.fau.de \u203a forum \u203a thread \u203a 16429-Implizite-type-parameter-und-partie...",
+    "link": "https://fsi.cs.fau.de/forum/thread/16429-Implizite-type-parameter-und-partiell-angewandte",
+    "description": "Parameter angeben muss , wenn ich \"blabla\" verwende. Was ich will ist, dass ich den Typparameter (das \"{A : type}\") implizit machen kann\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://fsi.cs.fau.de/forum/thread/16429-Implizite-type-parameter-und-partiell-angewandte&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAZ6BAgBEAE&usg=AOvVaw1qK73D9AjQMK79kOovGfdl",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Informatik in der Oberstufe - Module (2) - Uni Karlsruhewww.lehrer.uni-karlsruhe.de \u203a informatik \u203a infkurs \u203a module2",
+    "link": "https://www.lehrer.uni-karlsruhe.de/~za714/informatik/infkurs/module2.html",
+    "description": "Die Parameterliste enth\u00e4t mit Datentypangabe deklarierte Variablen, die stellvertretend f\u00fcr die beim Aufruf erforderlichen aktuellen Parameter, welche tats\u00e4chlich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lehrer.uni-karlsruhe.de/~za714/informatik/infkurs/module2.html&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAd6BAgGEAE&usg=AOvVaw0HBpoRwI3MOywjF7TE2C5r",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Visual Analysis of Multi-Parameter Distributions ... - TUM Informatikwww.in.tum.de \u203a research \u203a publications \u203a visual-analysis-of-multi-paramet...",
+    "link": "https://www.in.tum.de/cg/research/publications/2020/visual-analysis-of-multi-parameter-distributions-across-ensembles/",
+    "description": "Abstract. For an ensemble of data points in a multi-parameter space, we present a visual analytics technique to select a representative distribution of parameter\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.in.tum.de/cg/research/publications/2020/visual-analysis-of-multi-parameter-distributions-across-ensembles/&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAh6BAgCEAE&usg=AOvVaw1dYOkZ0xoD2aZUVmszYKLo",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Cluster-based Analysis of Multi-Parameter Distributions in Cloud ...www.in.tum.de \u203a research \u203a publications \u203a cluster-based-analysis-of-multi-...",
+    "link": "https://www.in.tum.de/cg/research/publications/2019/cluster-based-analysis-of-multi-parameter-distributions-in-cloud-simulation-ensembles/",
+    "description": "Informatik 15 - Lehrstuhl f\u00fcr Grafik und Visualisierung \u00b7 Fakult\u00e4t f\u00fcr Informatik ... Cluster-based Analysis of Multi-Parameter Distributions in Cloud Simulation\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.in.tum.de/cg/research/publications/2019/cluster-based-analysis-of-multi-parameter-distributions-in-cloud-simulation-ensembles/&sa=U&ved=2ahUKEwiSgbqp66XvAhWho1kKHXj9BfY4HhAWMAl6BAgDEAE&usg=AOvVaw0s7MphKtp9BRUBzkdY2bQ3",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Prozeduren und Funktionen | - Delphi-Treffwww.delphi-treff.de \u203a object-pascal \u203a prozeduren-und-...",
+    "link": "https://www.delphi-treff.de/object-pascal/prozeduren-und-funktionen/",
+    "description": "Aufbau einer Prozedur; Aufbau einer Funktion; forward- und interface-Deklarationen; Parameter; Wert- und Variablenparameter; Konstantenparameter\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Convoy parameter estimation with array radar - Digitale ...dl.gi.de \u203a ...",
+    "link": "https://dl.gi.de/20.500.12116/18792",
+    "description": "von R Klemm \u00b7 2011 \u2014 Convoy parameter estimation with array radar. In: Hei\u00df, H.-U., Pepper, P., Schlingloff, H. & Schneider, J. (Hrsg.), INFORMATIK 2011 \u2013 Informatik schafft\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Parameter \u00fcbergeben - Englisch-\u00dcbersetzung \u2013 Linguee ...www.linguee.de \u203a deutsch-englisch \u203a uebersetzung \u203a pa...",
+    "link": "https://www.linguee.de/deutsch-englisch/uebersetzung/parameter+%C3%BCbergeben.html",
+    "description": "[...] array, is to be passed to a sub program as a parameter, the use of a variable parameter will save both time and storage [.",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Funktionenkuepper.userweb.mwn.de \u203a info2-k6-funktionen",
+    "link": "https://kuepper.userweb.mwn.de/informatik/info2-k6-funktionen.pdf",
+    "description": "wird Speicherplatz f\u00fcr die Parameter reserviert. \u2022 Parameter d\u00fcrfen nur innerhalb der Funktion verwendet werden. (sog. lokale Variablen). \u2022 void (\u201enichts, leer\u201c)\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "\u00dcbung Parameter-\u00dcbergabe im GK Informatik der Stufe 11www.ziemke-koeln.de \u203a informatik \u203a aufg_parameter",
+    "link": "https://www.ziemke-koeln.de/unterricht/informatik/gk11/aufg_parameter.htm",
+    "description": "Drei Prozeduren zur Summenbildung stehen zur Verf\u00fcgung, sie \u00fcbernehmen die Parameter teils als Wert, teils als Referenz: procedure plus_v1 (VAR z1:Integer;\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "1.5 Parameter\u00fcbergabemoodle.oncampus.de \u203a modules \u203a demo \u203a paramet",
+    "link": "https://moodle.oncampus.de/modules/demo/ir018/P1DMET/01methoden/paramet.shtml",
+    "description": "1.5 Parameter\u00fcbergabe. In Java werden Parameter grunds\u00e4tzlich als Wert \u00fcbergeben, d.h. die Methode erh\u00e4lt lediglich den Wert, den der Aufrufer bereitstellt.",
+    "googleLink": null,
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Argument (Informatik) - Synonyme bei OpenThesauruswww.openthesaurus.de \u203a synonyme \u203a Argument+(Infor...",
+    "link": "https://www.openthesaurus.de/synonyme/Argument+(Informatik)",
+    "description": "Teilwort-Treffer und \u00e4hnlich geschriebene W\u00f6rter. Kein Teilwort-Treffer. Keine \u00e4hnlichen Treffer. Nicht das Richtige dabei? Add icon \u00b7 'Argument (Informatik)' und\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "C++: Unterschied zwischen Parameter und Argument ...www.informatik-pc.de \u203a blog \u203a c-unterschied-zwischen...",
+    "link": "https://www.informatik-pc.de/blog/c-unterschied-zwischen-parameter-und-argument/",
+    "description": "28.02.2013 \u2014 Den Unterschied zwischen einem Parameter und einem Argument, wird folgendes Beispiel erkl\u00e4ren: void foo(int a, bool b) { // do sth. }\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Institut f\u00fcr Softwaretechnik und Theoretische Informatik: pypet ...www.ni.tu-berlin.de \u203a menue \u203a py...",
+    "link": "https://www.ni.tu-berlin.de/menue/software_and_data/pypet_the_python_parameter_exploration_toolkit/",
+    "description": "26.09.2015 \u2014 The new python parameter exploration toolkit: pypet manages exploration of the parameter space of any numerical simulation in python,\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Parameter (Informatik) - Geb\u00e4rden - GESTU ...fachgebaerden.tsc.tuwien.ac.at \u203a gebaerden \u203a parameter",
+    "link": "https://fachgebaerden.tsc.tuwien.ac.at/gebaerden/parameter/",
+    "description": "Parameter (Informatik). 1. allgemein; Hilfsgr\u00f6\u00dfe, Richtgr\u00f6\u00dfe, Steuerwert, Argument 2. beim Programmieren; \"Eingabewert\" in eine Funktion, also der Wert, der\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 9
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "name": "LED Matrix Display ansteuern \u2022 Wolles Elektronikkistewolles-elektronikkiste.de \u203a led-matrix-display-ansteuern",
+    "link": "https://wolles-elektronikkiste.de/led-matrix-display-ansteuern",
+    "description": "13.04.2020 \u00b7 Was ist ein LED Matrix Display und wie funktioniert es? Direkte Ansteuerung mit einem Arduino; Ansteuerung \u00fcber den MAX7219 / MAX7221 (mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wolles-elektronikkiste.de/led-matrix-display-ansteuern&sa=U&ved=2ahUKEwip1dzT5aXvAhVEq1kKHeD0A7wQFjAAegQICRAB&usg=AOvVaw3gEAliKB4mQLPMjJTiT4wL",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "LED-Matrix \u2013 Mikrocontroller.netwww.mikrocontroller.net \u203a articles \u203a LED-Matrix",
+    "link": "https://www.mikrocontroller.net/articles/LED-Matrix",
+    "description": "Die Ansteuerung erfolgt dabei im sogenannten Multiplexbetrieb. Prinzipiell kann man sowohl die Zeilen als auch die Spalten multiplexen. Die nachfolgende\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mikrocontroller.net/articles/LED-Matrix&sa=U&ved=2ahUKEwip1dzT5aXvAhVEq1kKHeD0A7wQFjABegQICBAB&usg=AOvVaw1V1Fv16N3aDqAnwCNjnwSy",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Led Matrix ansteuern - Mikrocontroller.netwww.mikrocontroller.net \u203a topic",
+    "link": "https://www.mikrocontroller.net/topic/478514",
+    "description": "k\u00f6nnte mir jemand kurz erkl\u00e4ren wie man diese 8x8 Led Matrix ansteuert? z.B. mit einem MAX7219, und der macht das mit Multiplexing.",
+    "googleLink": "http://www.google.com/url?q=https://www.mikrocontroller.net/topic/478514&sa=U&ved=2ahUKEwip1dzT5aXvAhVEq1kKHeD0A7wQFjACegQICxAB&usg=AOvVaw3ML3PTeDP6zlw02uuiTVmH",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "8\u00d78 LED-Matrix ansteuern | Arduinoobwww.arduinoob.de \u203a led-matrix-ansteuern",
+    "link": "https://www.arduinoob.de/led-matrix-ansteuern/",
+    "description": "Die meisten 8\u00d78 LED-Matrix-Module sind bereits mit einem MAX7219-Chip ausger\u00fcstet, sodass die Ansteuerung des Displays recht leicht \u00fcber 3 Pins erfolgt\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://www.arduinoob.de/led-matrix-ansteuern/&sa=U&ved=2ahUKEwip1dzT5aXvAhVEq1kKHeD0A7wQFjADegQIBBAB&usg=AOvVaw1-13g4nTPLLcawmxw6ZxxT",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "LED Punktmatrix Display ansteuern - ne555.atwww.ne555.at \u203a index.php \u203a atmel-avr-mikrocontrollertechnik \u203a 405-led-p...",
+    "link": "http://www.ne555.at/2014/index.php/atmel-avr-mikrocontrollertechnik/405-led-punktmatrix-display-ansteuern",
+    "description": "Atmel AVR Mikrocontroller. Multiplexverfahren. LED Punktmatrix Display ansteuern. Ein LED Punktmatrix Display besteht aus einer Matrix von LEDs, welche in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.ne555.at/2014/index.php/atmel-avr-mikrocontrollertechnik/405-led-punktmatrix-display-ansteuern&sa=U&ved=2ahUKEwip1dzT5aXvAhVEq1kKHeD0A7wQFjAKegQIBxAB&usg=AOvVaw2ByOiWnG-nuaaRGjUG7n92",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Matrix ansteuern - Arduino Forumforum.arduino.cc \u203a ...",
+    "link": "https://forum.arduino.cc/index.php?topic=633271.0",
+    "description": "Sowie einen anklickbaren Link auf die RGBmatrixPanel Library. how to react on postings: - post helped: provide your final sketch, say\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://forum.arduino.cc/index.php%3Ftopic%3D633271.0&sa=U&ved=2ahUKEwip1dzT5aXvAhVEq1kKHeD0A7wQFjALegQIBhAB&usg=AOvVaw3o7DpUPiiDOx2vWl9ju68v",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Matrixanzeige \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Matrixanzeige",
+    "link": "https://de.wikipedia.org/wiki/Matrixanzeige",
+    "description": "Veranschaulichung einer Ansteuerung mit Zeilen-Multiplexing. Bei letzterem ist die Frequenz so hoch, dass der Inhalt konstant angenommen wird. Eine Matrixanzeige (englisch dot-matrix display) ist eine optische Anzeige, die aus einzelnen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Matrixanzeige&sa=U&ved=2ahUKEwip1dzT5aXvAhVEq1kKHeD0A7wQFjAMegQIAxAB&usg=AOvVaw1gCx4gPcsYxR3QPBkLoJTb",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "LED-Matrix ansteuern - lernen mit Serlo!de.serlo.org \u203a informatik \u203a led-matrix-ansteuern",
+    "link": "https://de.serlo.org/informatik/136574/led-matrix-ansteuern",
+    "description": "LED-Matrix ansteuern. Teilen! Schaltungaufbau. max7219. Programmcode. from adafruit_max7219 import matrices from board import TX, RX, A4 import busio\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/136574/led-matrix-ansteuern&sa=U&ved=2ahUKEwip1dzT5aXvAhVEq1kKHeD0A7wQFjARegQIChAB&usg=AOvVaw3Y-WqgKxZAAA04FFPr2yZ4",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "PixBlock - 8x8 LED Matrix Display von fab4U - Grundlagen - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=6gNUzXAmsJg",
+    "description": "26.01.2016 \u00b7 PixBlock - 8x8 LED Matrix Display von fab4U - Grundlagen. 59,330 views59K views ...Dauer: 9:25\nGepostet: 26.01.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D6gNUzXAmsJg&sa=U&ved=2ahUKEwip1dzT5aXvAhVEq1kKHeD0A7wQtwIwEnoECAUQAQ&usg=AOvVaw3SBpt13_t761u_rb-sQNW9",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "LED Matrix ansteuern - ArduinoForum.dewww.arduinoforum.de \u203a arduino-Thread-LED-Matrix-ansteuern",
+    "link": "https://www.arduinoforum.de/arduino-Thread-LED-Matrix-ansteuern",
+    "description": "LED Matrix ansteuern. Hi zusammen, ich w\u00fcrde gerne so einen \u00e4hnlichen Tisch wie in der Anleitung umsetzen.",
+    "googleLink": "http://www.google.com/url?q=https://www.arduinoforum.de/arduino-Thread-LED-Matrix-ansteuern&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAB6BAgAEAE&usg=AOvVaw2HTWjFbXxVTgvgMhR72CKh",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Arduino / MAX7219 Treiber zur Ansteuerung von 8x8 LED-Matrix ...cool-web.de \u203a arduino \u203a max7219-ansteuerung-8x8-led-matrix-und-8fach-...",
+    "link": "http://cool-web.de/arduino/max7219-ansteuerung-8x8-led-matrix-und-8fach-7segment-display.htm",
+    "description": "MAX7219 Treiber zur Ansteuerung von 8x8 LED-Matrix und 8fach-7Segment-\u200bDisplay verwenden. Um eine 4fach-7Segment-Anzeige direkt anzusteuern,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://cool-web.de/arduino/max7219-ansteuerung-8x8-led-matrix-und-8fach-7segment-display.htm&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAF6BAgIEAE&usg=AOvVaw3k2BBnpWYKQeTW7B-a8lYE",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "5x7 Dot Matrix Anzeige - Schieberegister - D Flipflop - Ansteuerung ...www.rahner-edu.de \u203a grundlagen \u203a signale-richtig-verstehen \u203a 5x7-dot-ma...",
+    "link": "https://www.rahner-edu.de/grundlagen/signale-richtig-verstehen/5x7-dot-matrix-anzeige/",
+    "description": "5x7 Dot Matrix Anzeige, Schieberegister, D Flipflop, Ansteuerung, Unterricht, BASCOM, Lernmaterial, Mikrocontroller, Physik, MINT.",
+    "googleLink": "http://www.google.com/url?q=https://www.rahner-edu.de/grundlagen/signale-richtig-verstehen/5x7-dot-matrix-anzeige/&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAJ6BAgJEAE&usg=AOvVaw2XUyyVhKo9sX34JvJKZ7Li",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "MATRIX-Player, bis zu 1024 WS2812 LEDs einfach ansteuern, 19 ...www.led-genial.de \u203a MATRIX-Player-bis-zu-1024-WS2812-LEDs-einfach...",
+    "link": "https://www.led-genial.de/MATRIX-Player-bis-zu-1024-WS2812-LEDs-einfach-ansteuern",
+    "description": "Komfortabel DigiDots WS2812 ansteuern, das geht mit dem MATRIX-Player ganz einfach \u00fcber USB und Ihrem Windows-Rechner Egal ob es sich dabei um\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.led-genial.de/MATRIX-Player-bis-zu-1024-WS2812-LEDs-einfach-ansteuern&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAN6BAgHEAE&usg=AOvVaw3-rYLE-WtXOPuRdOQeFGmI",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "8x8 LED Matrix anschlie\u00dfen und programmieren - Coding World ...codingworld.io \u203a project \u203a 8x8-led-matrix-anschliessen-und-programmieren",
+    "link": "https://codingworld.io/project/8x8-led-matrix-anschliessen-und-programmieren",
+    "description": "Mit der 8 x 8 LED Matrix und dem max7219 Chip k\u00f6nnen wir insgesamt 64 LEDs ansteuern. Dank dem max7219 Chip auf der Matrix m\u00fcssen wir dabei nicht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://codingworld.io/project/8x8-led-matrix-anschliessen-und-programmieren&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAR6BAgEEAE&usg=AOvVaw1DiH6uzVa7uDaACJcftSve",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "4 Module mit 8x8 LED Dot Matrix 32x8 Rot mit MAX7219 f\u00fcr Display ...www.bastelgarage.ch \u203a Bauteile \u203a Displays \u203a Matrix Display",
+    "link": "https://www.bastelgarage.ch/4-module-mit-8x8-led-dot-matrix-32x8-rot-mit-max7219-fur-display",
+    "description": "Bewertung  5,0  (1)   \u00b7 12,90\u00a0CHF",
+    "googleLink": "http://www.google.com/url?q=https://www.bastelgarage.ch/4-module-mit-8x8-led-dot-matrix-32x8-rot-mit-max7219-fur-display&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAV6BAgFEAE&usg=AOvVaw1z6OCmFFyKRQXk8vymu0zp",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "LED-Matrix - Richis-Labwww.richis-lab.de \u203a matrix",
+    "link": "https://www.richis-lab.de/matrix.htm",
+    "description": "Die Schieberegister bedienen die Spalten der LED-Matrix und \u00fcber drei ... Der Aufbau der Ansteuerung ist nicht besonders effizient, da die Schieberegister nicht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.richis-lab.de/matrix.htm&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAZ6BAgCEAE&usg=AOvVaw3LpLkvjBhg0eyai4dviXCj",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Displayansteuerung - Projektlaborservice.projektlabor.tu-berlin.de \u203a bob \u203a uploads \u203a sites \u203a 2015/01 \u203a S...",
+    "link": "http://service.projektlabor.tu-berlin.de/wordpress/bob/wp-content/uploads/sites/9/2015/01/Spielbrett_Max_Displayansteuerung-Pr%C3%A4sentation.pdf",
+    "description": "Matrix-Displays. \u25cb Dot-Matrix-Display. \u25cb PMLCD. \u25cb AMLCD. Ansteuerung ... Fr\u00fcher: Ansteuerung jedes einzelnen Bildpunkts. Abhilfe: Matrixanzeige.",
+    "googleLink": "http://www.google.com/url?q=http://service.projektlabor.tu-berlin.de/wordpress/bob/wp-content/uploads/sites/9/2015/01/Spielbrett_Max_Displayansteuerung-Pr%25C3%25A4sentation.pdf&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAd6BAgDEAE&usg=AOvVaw1DoCmz4ppHI7xvDCH_WXSB",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "LED-Anzeige mit MAX7219 - Netzmafiawww.netzmafia.de \u203a skripten \u203a hardware \u203a RasPi \u203a Projekt-MAX7219",
+    "link": "http://www.netzmafia.de/skripten/hardware/RasPi/Projekt-MAX7219/index.html",
+    "description": "09.05.2018 \u00b7 Der MAX7219 von Maxim dient der Ansteuerung mehrerer Matrix- oder 7-\u200bSegment-Anzeigen. Er wird \u00fcber eine serielle SPI-Schnittstelle\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.netzmafia.de/skripten/hardware/RasPi/Projekt-MAX7219/index.html&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAh6BAgGEAE&usg=AOvVaw00CZE7RbmSe_M6cOkEdPrk",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "HUB75E Dot-\u200bMatrix Control | DMX4ALLwww.dmx4all.de \u203a hub75e-dot-\u200bmatrix-control",
+    "link": "https://www.dmx4all.de/hub75e-dot-%E2%80%8Bmatrix-control/",
+    "description": "Der HUB75E Dot-Matrix Control ist ein Controller f\u00fcr die Ansteuerung von ... einem HUB75E Dot-Matrix Control lassen sich bis zu 5440 RGB-Pixel ansteuern.",
+    "googleLink": "http://www.google.com/url?q=https://www.dmx4all.de/hub75e-dot-%25E2%2580%258Bmatrix-control/&sa=U&ved=2ahUKEwjenpnU5aXvAhUK01kKHWjFAtA4ChAWMAl6BAgBEAE&usg=AOvVaw0AN1joBIHDtRF2nme3xSUa",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Max7219 mit 8x8 Ledmatrix, Beschreibung der Ansteuerung an ...bascomforum.de \u203a Lexikon",
+    "link": "https://bascomforum.de/lexicon/index.php?entry/91-max7219-mit-8x8-ledmatrix-beschreibung-der-ansteuerung-an-hand-eines-beispiels/",
+    "description": "18.11.2017 \u00b7 'Matrixmodus': Das sind 2 Befehle, die die Ansteuerung der Led-Matrix mit dem Max erm\u00f6glichen, im Gegensatz zur Ansteuerung von 7-\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://bascomforum.de/lexicon/index.php%3Fentry/91-max7219-mit-8x8-ledmatrix-beschreibung-der-ansteuerung-an-hand-eines-beispiels/&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAB6BAgEEAE&usg=AOvVaw2ei0-h19S8Y1eZxQs4h2oY",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Mit dem Raspberry Pi individuelle Texte, Bilder und Videos auf LED ...www.reichelt.de \u203a reichelt-Magazin \u203a How-to",
+    "link": "https://www.reichelt.de/magazin/how-to/mit-dem-raspberry-pi-individuel-auf-led-matrizen-anzeigen/",
+    "description": "Mithilfe dieser Erweiterungsplatine kann man bis zu drei RGB-LED-Matrix-\u200bReihen mit einem g\u00e4ngigen HUB75-Stecker ansteuern. Zudem ist ein 25\u00d725 mm\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.reichelt.de/magazin/how-to/mit-dem-raspberry-pi-individuel-auf-led-matrizen-anzeigen/&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAF6BAgHEAE&usg=AOvVaw1a7VcWDdT4o3Elu5kuwwzm",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "RGB LED Matrix 8x12 Animationsoftware - Control-LEDwww.control-led.de \u203a init \u203a default \u203a show_post \u203a Elektronik-Arduino \u203a R...",
+    "link": "https://www.control-led.de/init/default/show_post/3/Elektronik-Arduino/RGB-LED-Matrix-8x12-Animationsoftware",
+    "description": "01.02.2020 \u00b7 Die Ansteuerung funktioniert mit einem Linux oder Windows PC. Mit dem Programm LED_Matrix (im Anhang) kannst du LEDs samt Farbe\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.control-led.de/init/default/show_post/3/Elektronik-Arduino/RGB-LED-Matrix-8x12-Animationsoftware&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAJ6BAgJEAE&usg=AOvVaw0iLPKBXS60atk7Gb6kpFed",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Raspberry Pi LED MAX7219 Dot Matrix - Projekt\u00fcbersichttutorials-raspberrypi.de \u203a led-max7219-dot-matrix-projekt-uebersicht",
+    "link": "https://tutorials-raspberrypi.de/led-max7219-dot-matrix-projekt-uebersicht/",
+    "description": "Raspberry Pi LED MAX7219 Dot Matrix \u2013 Projekt\u00fcbersicht. Der ein oder andere wird sie kennen: die LED Matrix (oft auch als Dot Matrix bezeichnet). ... Hallo, ich nutze aktuell den Arduino Nano zur Ansteuerung von einer LED Matrix 11\u00d710\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://tutorials-raspberrypi.de/led-max7219-dot-matrix-projekt-uebersicht/&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAN6BAgIEAE&usg=AOvVaw2oKeq-xtYeGKAyoKG6GbeV",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "LED-Matrix (5x7) | hardware-101hw101.tbs1.de \u203a led_matrix",
+    "link": "https://hw101.tbs1.de/led_matrix/",
+    "description": "Damit l\u00e4sst sich Jede LED aus einer Kombination von Spalte und Zeile direkt ansteuern. Insgesamt werden 5+7=12 GPIO f\u00fcr die Ansteuerung ben\u00f6tigt.",
+    "googleLink": "http://www.google.com/url?q=https://hw101.tbs1.de/led_matrix/&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAR6BAgAEAE&usg=AOvVaw3YBZB7stfTYH2mi6XCD6Lb",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Vereinfachte Ansteuerung gedruckter Elektrolumineszenz- Displays ...www.haw-landshut.de \u203a fileadmin \u203a Elektronik-und-Systemintegration",
+    "link": "https://www.haw-landshut.de/fileadmin/Hochschule_Landshut_NEU/Ungeschuetzt/Elektronik-und-Systemintegration/Artikel-5LSM-Ivanov.pdf",
+    "description": "Session A3: Eingebettete Systeme www.symposium-mst.de. 72. Vereinfachte Ansteuerung gedruckter Elektrolumineszenz-. Displays mit passiver Matrix. Ivanov\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.haw-landshut.de/fileadmin/Hochschule_Landshut_NEU/Ungeschuetzt/Elektronik-und-Systemintegration/Artikel-5LSM-Ivanov.pdf&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAV6BAgBEAE&usg=AOvVaw2WpgJ93wcT_f5gCx9ll88J",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "RGB-LED-Matrix WS2812 mit dem RasPi ansteuern - Raspberry Pi ...www.raspberry-pi-geek.de \u203a ausgaben \u203a rpg \u203a 2020/10 \u203a rgb-led-matrix-w...",
+    "link": "https://www.raspberry-pi-geek.de/ausgaben/rpg/2020/10/rgb-led-matrix-ws2812-mit-dem-raspi-ansteuern/",
+    "description": "Kunterbunt. Martin Mohr. Meist nutzen Controller zum Ansteuern programmierbarer LEDs nur einen Bruchteil von deren M\u00f6glichkeiten \u2013 dabei ist ihr Potenzial\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.raspberry-pi-geek.de/ausgaben/rpg/2020/10/rgb-led-matrix-ws2812-mit-dem-raspi-ansteuern/&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAZ6BAgDEAE&usg=AOvVaw3vXVepq9kKYhtL0yZe78dY",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Matrix-Ansteuerung von Leuchtmitteln - LightLife | Gesellschaft f\u00fcr ...www.lightlife.de \u203a downlo \u203a diplomarbeit_andreas_barthelmes_matri...",
+    "link": "https://www.lightlife.de/downlo/diplomarbeit_andreas_barthelmes_matrixansteuerung_von_leuchtmitteln.pdf",
+    "description": "Matrix-Ansteuerung von Leuchtmitteln. Pixelmapping und die wahrnehmungsspezifische Wirkung bei geringer Aufl\u00f6sung. Autor: Andreas Barthelmes. E-Mail:\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lightlife.de/downlo/diplomarbeit_andreas_barthelmes_matrixansteuerung_von_leuchtmitteln.pdf&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAd6BAgCEAE&usg=AOvVaw2VSvwZtBaxJO1h50-Rq12o",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Matrix Per Rasberry Pi 3 Ansteuern? - Steam, PC & Hardware ...reboot.omsi-webdisk.de \u203a ... \u203a Support \u203a Steam, PC & Hardware",
+    "link": "https://reboot.omsi-webdisk.de/community/thread/1772-matrix-per-rasberry-pi-3-ansteuern/",
+    "description": "Moinsen,Ich habe hier einen freien Pi 3 rumliegen,gibt es eine m\u00f6glichkeit damit eine Anzeige anzusteurn?",
+    "googleLink": "http://www.google.com/url?q=https://reboot.omsi-webdisk.de/community/thread/1772-matrix-per-rasberry-pi-3-ansteuern/&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAh6BAgGEAE&usg=AOvVaw3IUpJgAujJAwUFFGTUwdd6",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Projekt 35-Dot Matrixansteuerung mit PIC-Mikrocontrollerninformatik.rostfrank.de \u203a lex09 \u203a pic \u203a projects \u203a 35punkt_matrix",
+    "link": "http://informatik.rostfrank.de/rt/lex09/pic/projects/35punkt_matrix.html",
+    "description": "13.07.2019 \u00b7 Dot-Matrix-Komplettsysteme - aber man kann die Arbeitsweise nicht mehr ... Professionelle LED Matrix-Ansteuerung - hier die Software.",
+    "googleLink": "http://www.google.com/url?q=http://informatik.rostfrank.de/rt/lex09/pic/projects/35punkt_matrix.html&sa=U&ved=2ahUKEwjTuL3U5aXvAhUsqlkKHR4xC044FBAWMAl6BAgFEAE&usg=AOvVaw2qtsavMJU_QgoM0InW7xC7",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Arbeit - Prof. Dr. Christian Baunwww.christianbaun.de \u203a Marko_Mihaljevic_Bachelorarbeit_2016",
+    "link": "https://www.christianbaun.de/Abschlussarbeiten/Marko_Mihaljevic_Bachelorarbeit_2016.pdf",
+    "description": "Die vorliegende Bachelorthesis beschreibt die Ansteuerung sowie die Realisierung einer in Reihe geschalteten LED-Matrix mit jeweils 16x32 LEDs durch den.",
+    "googleLink": "http://www.google.com/url?q=https://www.christianbaun.de/Abschlussarbeiten/Marko_Mihaljevic_Bachelorarbeit_2016.pdf&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAB6BAgBEAE&usg=AOvVaw3yEQPP230mMYIIyg-VyeBc",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Ansteuern einer gemeinsamen Kathode 8x8 RGB LED Matrix mit ...antwortenhier.me \u203a ansteuern-einer-gemeinsamen-kathode-8x8-rgb-led-ma...",
+    "link": "https://antwortenhier.me/q/ansteuern-einer-gemeinsamen-kathode-8x8-rgb-led-matrix-mit-pwm-61114086542",
+    "description": "Wenn nicht, gibt es eine M\u00f6glichkeit, einen stromsenkenden LED-Treiber zum Ansteuern einer gemeinsamen Kathoden-LED-Matrix zu verwenden? Telaclavo.",
+    "googleLink": "http://www.google.com/url?q=https://antwortenhier.me/q/ansteuern-einer-gemeinsamen-kathode-8x8-rgb-led-matrix-mit-pwm-61114086542&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAF6BAgIEAE&usg=AOvVaw387hWxEqrkmQmqtWyFtt9z",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "8x8 LED-Matrix mit Raspberry und Lazarus - Tech+Codetechpluscode.de \u203a Blog",
+    "link": "https://techpluscode.de/8x8-led-matrix-mit-raspberry-und-lazarus/",
+    "description": "18.11.2018 \u00b7 M\u00f6chten Sie eine 8x8 Punkt-Matrix mit einem Raspberry Pi und Lazarus ansteuern? Sie wissen aber nicht wie? Dann finden Sie in diesem\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://techpluscode.de/8x8-led-matrix-mit-raspberry-und-lazarus/&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAJ6BAgHEAE&usg=AOvVaw1IFIfIe5bcY6pA8K9XV39n",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "LED-Displays: Matrixtreiber-Topologien unter der Lupe ...www.elektroniknet.de \u203a automotive \u203a elektromobilitaet \u203a matrixtreiber-top...",
+    "link": "https://www.elektroniknet.de/automotive/elektromobilitaet/matrixtreiber-topologien-unter-der-lupe.96453.html",
+    "description": "10.04.2013 \u00b7 Bei einem 4x4-Panel ist eine direkte Ansteuerung jeder der 16 LEDs noch m\u00f6glich, doch bereits f\u00fcr ein mittelgro\u00dfes Punktmatrix-Display mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.elektroniknet.de/automotive/elektromobilitaet/matrixtreiber-topologien-unter-der-lupe.96453.html&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAN6BAgJEAE&usg=AOvVaw3-z63LgG9jDXJhO-QcXqBT",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Serie XC55 - Matrix P16 - Digitale Anzeigesysteme f\u00fcr die Industrie ...www.siebert-group.com \u203a product-xc55-info",
+    "link": "https://www.siebert-group.com/de/product-xc55-info.php",
+    "description": "LED Matrix Displays f\u00fcr Outdoor-Anwendungen. Die Serie ... Ein Vorteil der objektorientierten Ansteuerung ist die Trennung von Layout und Daten. Auf der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.siebert-group.com/de/product-xc55-info.php&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAR6BAgAEAE&usg=AOvVaw3GdoPBYZ4j0COjoa-bUF5u",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "P5 RGB Matrix mit tpm2.net ansteuern - LED Anf\u00e4nger Forum ...www.ledstyles.de \u203a Entwicklungs Forum \u203a LED Anf\u00e4nger Forum",
+    "link": "https://www.ledstyles.de/index.php?thread/27597-p5-rgb-matrix-mit-tpm2-net-ansteuern/&action=firstNew",
+    "description": "15.12.2020 \u00b7 Hi,ich habe mir zum Basteln zwei P5 RGB Matrizen besorgt und bin auch schon mit der PxMatrix von 2dom am t\u00fcftelnund da geht alles wie\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ledstyles.de/index.php%3Fthread/27597-p5-rgb-matrix-mit-tpm2-net-ansteuern/%26action%3DfirstNew&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAV6BAgFEAE&usg=AOvVaw3__X5-iBUWs81CgIOqEyen",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "LED-Matrix mit EMR - von PSwww.ps-blnkd.de \u203a LED-Matrix",
+    "link": "http://www.ps-blnkd.de/LED-Matrix.htm",
+    "description": "31.12.2020 \u00b7 Also lag eine RGB-Matrix noch in weiter Ferne, aber auch die Ansteuerung von einfarbigen Matrizen mittels EMR (heute w\u00fcrde man dazu MC\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.ps-blnkd.de/LED-Matrix.htm&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAZ6BAgEEAE&usg=AOvVaw1sR7HS37Bw2QAo8tGNJF1j",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Starthilfe bzgl. Hardware zur Ansteuerung von 4x 32x64 RGB LED ...forum-raspberrypi.de \u203a ... \u203a Hardware \u203a Allgemeines",
+    "link": "https://forum-raspberrypi.de/forum/thread/36852-starthilfe-bzgl-hardware-zur-ansteuerung-von-4x-32x64-rgb-led-matrix/",
+    "description": "Es sollen 4x 32x64 RGB LED Matrix angesteuert werden. Jedes der Displays sollen das selbe Anzeigen also im Clone-Modus.Das erste Ziel\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://forum-raspberrypi.de/forum/thread/36852-starthilfe-bzgl-hardware-zur-ansteuerung-von-4x-32x64-rgb-led-matrix/&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAd6BAgGEAE&usg=AOvVaw2OfrKlF81Z9nQmu8rx5_-c",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Matrix-Controller - Joy-ITjoy-it.net \u203a products \u203a RB-MatrixCtrl",
+    "link": "https://joy-it.net/de/products/RB-MatrixCtrl",
+    "description": "... Raspberry Pi kann man bis zu 3 RGB-LED-Matrix Reihen mit der g\u00e4ngigen HUB75 Schnittstelle, z.B. unsere Joy-It RGB-LED-Matrix (LEDMatrix01), ansteuern.",
+    "googleLink": "http://www.google.com/url?q=https://joy-it.net/de/products/RB-MatrixCtrl&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAh6BAgCEAE&usg=AOvVaw3z8GIV-Y_xU3_8L6XNkjYy",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Matrix 8x8 mit Maxim 7219 und Arduino Nano - MEINE SCHALTUNGwww.meine-schaltung.de \u203a schaltung \u203a anzeige \u203a matrix_maxim_und_ardu...",
+    "link": "https://www.meine-schaltung.de/schaltung/el/anzeige/matrix_maxim_und_arduino_nano/",
+    "description": "LED-Matrix 1088AB. M\u00f6chte man eine solche Matrix direkt von Arduino (hier Arduino Nano) ansteuern, m\u00fcsste man f\u00fcr diese Aufgabe ganze 16 Pins opfern.",
+    "googleLink": "http://www.google.com/url?q=https://www.meine-schaltung.de/schaltung/el/anzeige/matrix_maxim_und_arduino_nano/&sa=U&ved=2ahUKEwiQuuPU5aXvAhVCrFkKHRwTAiE4HhAWMAl6BAgDEAE&usg=AOvVaw31PmNsZ0DtPEAsCA2yactr",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Laufschrift Panel - Alfred Schulzealfred-schulze.de \u203a ith-mainz \u203a images \u203a GPA",
+    "link": "https://alfred-schulze.de/ith-mainz/images/GPA/Projektarbeit%20-%20Laufschrift%20Panel%20-%20S.Lintermann.pdf",
+    "description": "Ansteuerung, weil der Diodenstrom kontinuierlich flie\u00dft. Diese Methode bietet sich zum Ansteuern von wenigen ... Schaltplan Treiberansteuerung einer Matrix.",
+    "googleLink": "http://www.google.com/url?q=https://alfred-schulze.de/ith-mainz/images/GPA/Projektarbeit%2520-%2520Laufschrift%2520Panel%2520-%2520S.Lintermann.pdf&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAB6BAgBEAE&usg=AOvVaw2FECZHUNmMINfd8D0xEner",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Matrixanzeigen - LEDs in Reih und Glied - Die Elektronikerseitewww.dieelektronikerseite.de \u203a Lections \u203a Matrixanzeigen - LEDs in Reih u...",
+    "link": "http://www.dieelektronikerseite.de/uC%20Ecke/Lections/Matrixanzeigen%20-%20LEDs%20in%20Reih%20und%20Glied.htm",
+    "description": "Der AVR steuert die Matrix ... Das Ansteuern einzelner Spalten des Displays mag ja schon recht interessant sein aber wirklich sinnvoll ist dies noch nicht.",
+    "googleLink": "http://www.google.com/url?q=http://www.dieelektronikerseite.de/uC%2520Ecke/Lections/Matrixanzeigen%2520-%2520LEDs%2520in%2520Reih%2520und%2520Glied.htm&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAF6BAgJEAE&usg=AOvVaw3Gevsf5cfmeUmvxwXsJZy4",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Matrix direkt \u00fcber Farbkreis ansteuern - DDFs V3 - DMXControl ...forum.dmxcontrol-projects.org \u203a DDFs and DDF-Library \u203a DDFs V3",
+    "link": "https://forum.dmxcontrol-projects.org/index.php?thread/12548-matrix-direkt-%C3%BCber-farbkreis-ansteuern/",
+    "description": "Ich habe konkret ein DDF f\u00fcr die Stairville Show Bar TriLED 18x3W RGB angelegt und als 18x1 Matrix umgesetzt. Die Ansteuerung \u00fcber das\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://forum.dmxcontrol-projects.org/index.php%3Fthread/12548-matrix-direkt-%25C3%25BCber-farbkreis-ansteuern/&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAJ6BAgHEAE&usg=AOvVaw1WcKDUDAGMKh2QbeOy1smQ",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Raspberry Pi LED / Dot Matrix ansteuern? (Elektronik ... - Gutefragewww.gutefrage.net \u203a frage \u203a raspberry-pi-led--dot-matrix-ansteuern",
+    "link": "https://www.gutefrage.net/frage/raspberry-pi-led--dot-matrix-ansteuern",
+    "description": "ist einfach m\u00f6glich Stromversorgung extern l\u00f6sen, weils zu viel saft ziehen K\u00f6nnte. Signal kabel an den SOC. Adafruit hat ne einfache Bibliothek, die solche\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gutefrage.net/frage/raspberry-pi-led--dot-matrix-ansteuern&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAN6BAgIEAE&usg=AOvVaw18zLT7QN_ViBgLgnIFx3Kl",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "LED-Matrix MAX7219 :: Meine Arduino-Projektearduino-projekte.webnode.at \u203a meine-libraries \u203a led-matrix-max7219",
+    "link": "https://arduino-projekte.webnode.at/meine-libraries/led-matrix-max7219/",
+    "description": "Ein Modul ben\u00f6tigt bei Ansteuerung aller 64 LEDs (bei maximaler Leucht-\u200bIntensit\u00e4t) einen Strom von mehr als 0,5 A! Bei vier Modulen entspricht das, wenn man\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arduino-projekte.webnode.at/meine-libraries/led-matrix-max7219/&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAR6BAgCEAE&usg=AOvVaw2nkUXzPg4Mi2uL-FX7AOX2",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "\u21d2 LED Matrix Display ++ RGB Panel ++ Sparangebotled-matrix.bernaunet.eu",
+    "link": "https://led-matrix.bernaunet.eu/",
+    "description": "19.10.2015 \u00b7 Inzwischen kann man eine solche Matrix als Produkt bestellen und folglich mit einem Mikrocontroller ansteuern. RGB LED Matrix Display 16\u00d732.",
+    "googleLink": "http://www.google.com/url?q=https://led-matrix.bernaunet.eu/&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAV6BAgGEAE&usg=AOvVaw1P9fpDfYNPGNFkKco0rnXq",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Kapitel 12: Ansteuerung eines RGB-LED-Matrix-Displays - FPGAs ...www.oreilly.com \u203a library \u203a view \u203a fpgas-fur-maker \u203a xhtml",
+    "link": "https://www.oreilly.com/library/view/fpgas-fur-maker/9781492019312/xhtml/ch12.xhtml",
+    "description": "12 Ansteuerung eines RGB-LED-Matrix-Displays Mit Leuchtdioden aufgebaute Matrix-Displays gibt es schon lange. Sie begegnen uns im t\u00e4glichen Leben, z.B.\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oreilly.com/library/view/fpgas-fur-maker/9781492019312/xhtml/ch12.xhtml&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAZ6BAgDEAE&usg=AOvVaw1Ew4Qk1utfjf_4TzWkatit",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Tremex Matrix-Player f\u00fcr bis zu 1024 LEDs WS2812B: Amazon.de ...www.amazon.de \u203a Tremex-Matrix-Player-1024-LEDs-WS2812B",
+    "link": "https://www.amazon.de/Tremex-Matrix-Player-1024-LEDs-WS2812B/dp/B0196VGT3K",
+    "description": "Bewertung  4,0  (6)",
+    "googleLink": "http://www.google.com/url?q=https://www.amazon.de/Tremex-Matrix-Player-1024-LEDs-WS2812B/dp/B0196VGT3K&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAd6BAgAEAE&usg=AOvVaw3ANfAL4-ggsjPrfUbMqyz6",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "opto devices 5 x 7 LED Dot Matrix Display OM20571BUHR-21-L4.0 ...de.elv.com \u203a ... \u203a Bauteile, aktiv \u203a Dot Matrix Displays",
+    "link": "https://de.elv.com/opto-devices-5-x-7-led-dot-matrix-display-om20571buhr-21-l40-rot-5310-mm-129052",
+    "description": "Dot Matrix-Displays (Dot Matrix = Punkt-Raster) vereinen die Vorteile von hellen, bei allen Lichtverh\u00e4ltnissen gut ablesbaren LED-Anzeigen mit der Fl\u2026",
+    "googleLink": "http://www.google.com/url?q=https://de.elv.com/opto-devices-5-x-7-led-dot-matrix-display-om20571buhr-21-l40-rot-5310-mm-129052&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAh6BAgFEAE&usg=AOvVaw1cZ10dIRAZ96mkIDJKmNJi",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "LED Matrix Modul (MAX7219) - Arduino Projektewww.arduino-projekte.de \u203a ...",
+    "link": "https://www.arduino-projekte.de/index.php?n=91",
+    "description": "(MAX7219). LED Matrix Modul. MAX7219 LED. Board. MAX7219 LED. Pinbelegung. PIN, Beschreibung.",
+    "googleLink": "http://www.google.com/url?q=https://www.arduino-projekte.de/index.php%3Fn%3D91&sa=U&ved=2ahUKEwi92orV5aXvAhUKjVkKHbDlDRw4KBAWMAl6BAgEEAE&usg=AOvVaw2GJ4n-jySwM0gAhnXl5KOW",
+    "page": 4,
+    "index": 9
+  }
+]

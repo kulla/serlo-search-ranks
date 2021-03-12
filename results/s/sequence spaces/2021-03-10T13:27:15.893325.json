@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Sequence space - Wikipediaen.wikipedia.org \u203a wiki \u203a Sequenc...",
+    "link": "https://en.wikipedia.org/wiki/Sequence_space",
+    "description": "In functional analysis and related areas of mathematics, a sequence space is a vector space whose elements are infinite sequences of real or complex numbers. Equivalently, it is a function space whose elements are functions from the natural numbers to the field K of real or complex numbers.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "sequence space in nLabncatlab.org \u203a nlab \u203a show \u203a sequen...",
+    "link": "https://ncatlab.org/nlab/show/sequence+space",
+    "description": "01.04.2017 \u2014 1. Sequence spaces. A classical sequence space is a vector space of sequences of real numbers, equipped with a p-norm that makes it a normed\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Chapter 7 Sequence Spaces - ScienceDirectwww.sciencedirect.com \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0304020808725581",
+    "description": "This chapter discusses the concept of sequence spaces. It discusses open mapping theorem\u2014that is, a continuous linear map from a Fr\u00e9chet space onto a\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Banach Sequence Spaces - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/82221068.pdf",
+    "description": "von IE LEONARD \u00b7 1976 \u00b7 Zitiert von: 103 \u2014 INTRODUCTION. Let E be a Banach space over the real or complex field, and let w be the set of positive integers, the Banach sequence spaces are defined as\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Some Properties of the Sequence Space - Hindawiwww.hindawi.com \u203a journals \u203a joper",
+    "link": "https://www.hindawi.com/journals/joper/2013/904838/",
+    "description": "von K Raj \u2014 A sequence in an -normed space is said to be Cauchy if If every Cauchy sequence in converges to some , then is said to be complete with respect to the -norm.",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Some -Type New Sequence Spaces and Their Geometric ...www.hindawi.com \u203a journals \u203a aaa",
+    "link": "https://www.hindawi.com/journals/aaa/2009/696971/",
+    "description": "von E Sava\u015f \u00b7 Zitiert von: 29 \u2014 Each linear subspace of is called a sequence space denoted by . We denote by and absolutely and -absolutely convergent series, respectively. A sequence space\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "The Classical Sequence Spaces | SpringerLinklink.springer.com \u203a chapter",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-319-31557-7_2",
+    "description": "von F Albiac \u00b7 2016 \u2014 However, if p \u2260 2, there can still be surprises, and there remain intriguing open questions. Keywords. Classical Sequence Spaces Banach Space\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Expanding functional protein sequence spaces using ... - Naturewww.nature.com \u203a ... \u203a article",
+    "link": "https://www.nature.com/articles/s42256-021-00310-5",
+    "description": "von D Repecka \u00b7 2021 \u00b7 Zitiert von: 12 \u2014 ProteinGAN learns the evolutionary relationships of protein sequences directly from the complex multidimensional amino-acid sequence space\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "ON SYMMETRIC SEQUENCE SPACESacademic.oup.com \u203a plms \u203a article-pdf",
+    "link": "https://academic.oup.com/plms/article-pdf/s3-16/1/85/4485589/s3-16-1-85.pdf",
+    "description": "von DJH Garling \u00b7 1966 \u00b7 Zitiert von: 101 \u2014 In particular, we consider the problem of approximating an element of a symmetric sequence space by sequences with only finitely many non- zero terms, and also\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "TOPOLOGIES ON SEQUENCE SPACES - Project Euclidprojecteuclid.org \u203a download \u203a pdf_1 \u203a euclid.pjm",
+    "link": "https://projecteuclid.org/download/pdf_1/euclid.pjm/1102968025",
+    "description": "The set of all sequences, which will be denoted by \u03c9, is a linear algebra under these operations. A sequence space is a set of sequences which is closed under\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/download/pdf_1/euclid.pjm/1102968025&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAB6BAgDEAE&usg=AOvVaw3QPN82LRhGsuy11glONNa3",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Sequence Spaces: Topics in Modern Summability Theory - 1st ...www.routledge.com \u203a Mursaleen-Basar \u203a book",
+    "link": "https://www.routledge.com/Sequence-Spaces-Topics-in-Modern-Summability-Theory/Mursaleen-Basar/p/book/9780367819170",
+    "description": "10.03.2020 \u00b7 This book is aimed at both experts and non-experts with an interest in getting acquainted with sequence spaces, matrix transformations and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.routledge.com/Sequence-Spaces-Topics-in-Modern-Summability-Theory/Mursaleen-Basar/p/book/9780367819170&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAF6BAgHEAE&usg=AOvVaw3hRzrSuvHM31f1RU3Pm0EO",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "On Zweier I-convergent sequence spaces - SciELO Chilescielo.conicyt.cl \u203a scielo",
+    "link": "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-09172014000300003",
+    "description": "2000 Mathematics Subject Classification : 40C05, 40J05, 46A45. REFERENCES. [1] Altay, B.,Ba\u00a7ar, F. and Mursaleen. On the Euler sequence space which\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://scielo.conicyt.cl/scielo.php%3Fscript%3Dsci_arttext%26pid%3DS0716-09172014000300003&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAJ6BAgIEAE&usg=AOvVaw1MuKfN1A4C8xu9NHdzlUE2",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "On Certain Sequence Spaces | Canadian Mathematical Bulletin ...www.cambridge.org \u203a core \u203a journals \u203a article \u203a on-...",
+    "link": "https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/on-certain-sequence-spaces/70072B258EBCFE15E0E8119E14EA86D6",
+    "description": "On Certain Sequence Spaces. Published online by Cambridge University Press: 20 November 2018. H. Kizmaz.\n\nType: Research Article",
+    "googleLink": "http://www.google.com/url?q=https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/on-certain-sequence-spaces/70072B258EBCFE15E0E8119E14EA86D6&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAN6BAgJEAE&usg=AOvVaw37oVQAVrmX9_Jv8kJImBeP",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Some paranormed Euler sequence spaces of difference sequences ...www.degruyter.com \u203a view \u203a journals \u203a article-p849",
+    "link": "https://www.degruyter.com/view/journals/ms/63/4/article-p849.xml?language=en",
+    "description": "Article Some paranormed Euler sequence spaces of difference sequences of order m. Vatan Karakaya, Ekrem Savas, Harun Polat 2013. MLA; APA; Harvard\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.degruyter.com/view/journals/ms/63/4/article-p849.xml%3Flanguage%3Den&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAR6BAgEEAE&usg=AOvVaw0Du4gwI62ERqB5s2o24QH-",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Adaptive Treatment of Polyreactions in Weighted ... - OPUS 4opus4.kobv.de \u203a frontdoor \u203a index \u203a index \u203a docId",
+    "link": "https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/67",
+    "description": "A theory of countable systems in the associated weighted sequence spaces is developed as well as a theory of the Galerkin method. The Galerkin equations are\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/67&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAV6BAgGEAE&usg=AOvVaw3Vy4Ku09bLEvvjtwKPlHWb",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "A note on the symmetry of sequence spacesarxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/1905.11621",
+    "description": "28.05.2019 \u00b7 Abstract: We give a self-contained treatment of symmetric Banach sequence spaces and some of their natural properties. We are particularly\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1905.11621&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAZ6BAgAEAE&usg=AOvVaw0pOOKtEMN0S3kG9erXC-A2",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "The Sequence Spaces l(pv) and m(pv) - Simons - 1965 ...londmathsoc.onlinelibrary.wiley.com \u203a abs \u203a plms",
+    "link": "https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s3-15.1.422",
+    "description": "Citing Literature. Number of times cited according to CrossRef: 63. P\u0131nar Zengin Alp, A new paranormed sequence space defined by Catalan conservative matrix,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s3-15.1.422&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAd6BAgBEAE&usg=AOvVaw1vSZfZsj4N0n1vxcvVl_EL",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "How much of protein sequence space has been explored by life on ...royalsocietypublishing.org \u203a doi \u203a rsif.2008.0085",
+    "link": "https://royalsocietypublishing.org/doi/10.1098/rsif.2008.0085",
+    "description": "A typical estimate of the size of sequence space is 20100 (approx. 10130) for a protein of 100 amino acids in which any of the normally occurring 20 amino acids\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://royalsocietypublishing.org/doi/10.1098/rsif.2008.0085&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAh6BAgCEAE&usg=AOvVaw2-w52ZvY74xt5NuwIDFtnN",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "On Ces\u00e0ro and Copson sequence spaces with weights | Journal of ...journalofinequalitiesandapplications.springeropen.com \u203a ...",
+    "link": "https://journalofinequalitiesandapplications.springeropen.com/articles/10.1186/s13660-020-02526-2",
+    "description": "04.01.2021 \u00b7 In this paper, we prove some properties of weighted Ces\u00e0ro and Copson sequences spaces by establishing some factorization theorems.",
+    "googleLink": "http://www.google.com/url?q=https://journalofinequalitiesandapplications.springeropen.com/articles/10.1186/s13660-020-02526-2&sa=U&ved=2ahUKEwi9xdbK3KXvAhUywFkKHaCLAZ04ChAWMAl6BAgFEAE&usg=AOvVaw2qiGxFZ3iI6ixqrHJUa6RK",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "On Ces\u00e0ro and Copson sequence spaces with weights ...journalofinequalitiesandapplications.springeropen.com \u203a ...",
+    "link": "https://journalofinequalitiesandapplications.springeropen.com/articles/10.1186/s13660-020-02526-2",
+    "description": "von SH Saker \u00b7 2021 \u2014 In this paper, we prove some properties of weighted Ces\u00e0ro and Copson sequences spaces by establishing some factorization theorems.",
+    "googleLink": null,
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Some properties of generalized Fibonacci sequence spaceswww.tandfonline.com \u203a doi \u203a full",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/03081087.2016.1145626",
+    "description": "von EE Kara \u00b7 2016 \u00b7 Zitiert von: 61 \u2014 Any vector subspace of. is called a sequence space. By. , we denote the spaces of all null, convergent and bounded sequences, respectively, and we define the\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "ON SOME NEW SEQUENCE SPACES OF NON ... - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/24895537",
+    "description": "von M Mursaleen \u00b7 2011 \u00b7 Zitiert von: 94 \u2014 In the present paper, we introduce the sequence space l\u03bb p of non-absolute type and prove that the spaces l\u03bb p and lp are linearly isomorphic for 0 < p \u2264 \u221e.",
+    "googleLink": null,
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Nakano : Modulared sequence spacesdx.doi.org \u203a pja",
+    "link": "http://dx.doi.org/10.3792/pja/1195571225",
+    "description": "von H Nakano \u00b7 1951 \u00b7 Zitiert von: 255 \u2014 Modulared sequence spaces. Proc. Japan Acad. 27 (1951), no. 9, 508--512. doi:10.3792/pja/1195571225. https://projecteuclid.org/euclid.pja/1195571225\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "A COLLECTION OF SEQUENCE SPACES - American ...www.ams.org \u203a tran",
+    "link": "https://www.ams.org/tran/1970-152-01/S0002-9947-1970-0265913-8/S0002-9947-1970-0265913-8.pdf",
+    "description": "von JR Calder \u00b7 1970 \u00b7 Zitiert von: 12 \u2014 This paper concerns a collection of sequence spaces we shall refer to as da spaces. Suppose a = (<\u00ab!, a2,...) is a bounded number sequence and a,^0 for some.",
+    "googleLink": null,
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Sequence Spaces | Taylor & Francis Groupwww.taylorfrancis.com \u203a books \u203a s...",
+    "link": "https://www.taylorfrancis.com/books/sequence-spaces-mohammad-mursaleen-feyzi-ba%C5%9Far/10.1201/9781003015116",
+    "description": "20.03.2020 \u2014 This book is aimed at both experts and non-experts with an interest in getting acquainted with sequence spaces, matrix transformations and\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Some sequence spaces in 2-normed spaces defined ... - EMISwww.emis.de \u203a journals \u203a AUSM \u203a math31-8",
+    "link": "https://www.emis.de/journals/AUSM/C3-1/math31-8.pdf",
+    "description": "von K Raj \u00b7 Zitiert von: 59 \u2014 Recently a lot of activities have started to study sumability, sequence spaces and related topics in these linear spaces see ([4], [10]). Let X be a real vector space of\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "On the Euler sequence spaces which include the spaces lp ...dl.acm.org \u203a abs \u203a j.ins.2005.05.008",
+    "link": "https://dl.acm.org/doi/abs/10.1016/j.ins.2005.05.008",
+    "description": "von B Altay \u00b7 2006 \u00b7 Zitiert von: 191 \u2014 In the present paper, we introduce the Euler sequence space e\"p^r consisting of all sequences whose Euler transforms of order r are in the space @__ __\"p of\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Sequence spaces and L spaces - at NTNUfolk.ntnu.no \u203a hanche \u203a notes \u203a lp-a4",
+    "link": "https://folk.ntnu.no/hanche/notes/lp/lp-a4.pdf",
+    "description": "von H Hanche-Olsen \u2014 We write l\u221e for the space of bounded sequences, equipped with the norm. \u00b7\u221e. 1 Proposition. l\u221e is complete. Proof: Consider a Cauchy sequence (xn)\u221e n=1 in\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "The Classical Sequence Spaces | springerprofessional.dewww.springerprofessional.de \u203a the...",
+    "link": "https://www.springerprofessional.de/en/the-classical-sequence-spaces/10503206",
+    "description": "We now turn to the classical sequence spaces \u2113 p for 1\u2264p<\u221e and c 0 . The techniques developed in the previous chapter will prove very useful in this context.",
+    "googleLink": null,
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "On some new normed sequence spaces - IOPscienceiopscience.iop.org \u203a article \u203a pdf",
+    "link": "http://iopscience.iop.org/article/10.1088/1757-899X/300/1/012073/pdf",
+    "description": "Any linear subspace of \u03c9 is called a sequence space. We shall write c0, c, and l\u200b\u221e for the spaces of all convergent to zero, convergent, and bounded sequences,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://iopscience.iop.org/article/10.1088/1757-899X/300/1/012073/pdf&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAB6BAgCEAE&usg=AOvVaw3pHuHcvxXBLoCXn0XsW2WI",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] ON SOME NEW I-CONVERGENT SEQUENCE SPACES 1 Introductionwww.longdom.org \u203a articles \u203a on-some-new-iconvergent-sequence-sp...",
+    "link": "https://www.longdom.org/articles/on-some-new-iconvergent-sequence-spaces.pdf",
+    "description": "the space of all real or complex sequences. Let l\u221e,c and c0 denote the Banach spaces of bounded,convergent and nul sequences respectively normed by. ||x||\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.longdom.org/articles/on-some-new-iconvergent-sequence-spaces.pdf&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAF6BAgJEAE&usg=AOvVaw2WxXZSO3Amt_U5Zfx_ujwV",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Matrix Transformations between Certain Sequence Spaces over the ...www.ncbi.nlm.nih.gov \u203a articles \u203a PMC4090579",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4090579/",
+    "description": "The theory of sequence spaces is the fundamental of summability. Summability is a wide field of mathematics, mainly in analysis and functional analysis, and has\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4090579/&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAJ6BAgHEAE&usg=AOvVaw3AMBkbLlkcZ0kAwoN5sZ5D",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Some New Sequence Spaceswww.pvamu.edu \u203a uploads \u203a sites \u203a 17_raj-aam-r615-kr-061113",
+    "link": "https://www.pvamu.edu/mathematics/wp-content/uploads/sites/49/17_raj-aam-r615-kr-061113.pdf",
+    "description": "In the present paper we introduce some new sequence spaces defined by a Musielak-Orlicz function on semi normed spaces. We make an effort to study some\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.pvamu.edu/mathematics/wp-content/uploads/sites/49/17_raj-aam-r615-kr-061113.pdf&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAN6BAgIEAE&usg=AOvVaw0Trg3gZFRL3rBnERgTeqYy",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Distinguished subspaces in topological sequence spaces theorywww.aimspress.com \u203a article",
+    "link": "http://www.aimspress.com/article/id/4867",
+    "description": "In addition, we determine a new r(\u03bb) and rb(\u03bb) type duality of a sequence space X containing \u03c6. The paper aims to develop some new subspaces which each one\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.aimspress.com/article/id/4867&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAR6BAgFEAE&usg=AOvVaw16IH6AKYpCBwRXG4j8LW0r",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "nice fonts for the classical sequence spaces? - TeX - LaTeX Stack ...tex.stackexchange.com \u203a questions \u203a nice-fonts-for-t...",
+    "link": "https://tex.stackexchange.com/questions/61974/nice-fonts-for-the-classical-sequence-spaces",
+    "description": "I imagine that you are looking for a free solution, but it seems that getting a nice looking f glyph that matches the traditionally used \\ell , and which is not confused\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://tex.stackexchange.com/questions/61974/nice-fonts-for-the-classical-sequence-spaces&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAV6BAgDEAE&usg=AOvVaw2YFZKcVQ0xerSavKnZFKGr",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "A Study of Bounded Variation Sequence Spaces | IntechOpenwww.intechopen.com \u203a books \u203a applied-mathematics \u203a a-study-of-bounde...",
+    "link": "https://www.intechopen.com/books/applied-mathematics/a-study-of-bounded-variation-sequence-spaces",
+    "description": "Throughout a double sequence is defined by x=(xij) and we denote 2\u03c9 showing the space of all real or complex double sequences. Let X be a nonempty set then\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.intechopen.com/books/applied-mathematics/a-study-of-bounded-variation-sequence-spaces&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAZ6BAgGEAE&usg=AOvVaw0SbsPw2YmttW8Qd89aUr8r",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Triple sequence spaces of intuitionistic rough I-convergence defined ...aip.scitation.org \u203a doi \u203a abs",
+    "link": "https://aip.scitation.org/doi/abs/10.1063/1.5136144",
+    "description": "06.12.2019 \u00b7 Triple sequence spaces of intuitionistic rough I-convergence defined by compact Bernstein operator. AIP Conference Proceedings 2183, 050006\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://aip.scitation.org/doi/abs/10.1063/1.5136144&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAd6BAgAEAE&usg=AOvVaw3DSbhU9uaknEoaDSIdyRF0",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Jorge Losada Variable exponent sequence spaces revisitedwww.um.es \u203a beca \u203a NoLiFA \u203a charlas \u203a talk_Losada_NoLiFA",
+    "link": "https://www.um.es/beca/NoLiFA/charlas/talk_Losada_NoLiFA.pdf",
+    "description": "Definition. Given a Banach Function Space X, it is said that a function f \u2208 X has absolutely continuous norm in X if f\u03c7En. \u2192 0 for every sequence (En)n\u2208N of \u00b5-\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.um.es/beca/NoLiFA/charlas/talk_Losada_NoLiFA.pdf&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAh6BAgBEAE&usg=AOvVaw1d4D93AtCJJ7RaqjHT-jd_",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Binomial difference sequence spaces of order md-nb.info \u203a ...",
+    "link": "https://d-nb.info/1142840654/34",
+    "description": "We write bs, cs and lp for the spaces of all bounded, convergent and p-absolutely summable series, respectively; \u2264 p < \u221e. A Ba- nach sequence space Z is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://d-nb.info/1142840654/34&sa=U&ved=2ahUKEwiP5dLL3KXvAhUvrFkKHZMRCV44HhAWMAl6BAgEEAE&usg=AOvVaw1wAuZ0pURDnrmxm9T3NFOT",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Some $\\lambda $-sequence spaces defined by a modulusdml.cz \u203a handle \u203a 10338.dmlcz",
+    "link": "https://dml.cz/handle/10338.dmlcz/107735",
+    "description": "Summary: The main object of this paper is to introduce and study some sequence spaces which arise from the notation of generalized de la Vall\u00e9e\u2013Poussin\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dml.cz/handle/10338.dmlcz/107735&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAB6BAgEEAE&usg=AOvVaw2RG1AdkxQUIHUzHhBLbpZb",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "A Class of Sequence Spaces Defined by Fractional Difference ...www.kjm-math.org \u203a article_49370",
+    "link": "http://www.kjm-math.org/article_49370.html",
+    "description": "A class of vector-valued sequence spaces is introduced employing the fractional difference operator $Delta^{(alpha)}$, a sequence of modulus functions and a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.kjm-math.org/article_49370.html&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAF6BAgIEAE&usg=AOvVaw0KXJPTJcK-vuhuf5wU0-bf",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Operators Between Sequence Spaces and Applications: Amazon.de ...www.amazon.de \u203a Bruno-Malafosse",
+    "link": "https://www.amazon.de/-/en/Bruno-Malafosse/dp/9811597413",
+    "description": "Operators Between Sequence Spaces and Applications: Amazon.de: de Malafosse, Bruno, Malkowsky, Eberhard, Rako\u010devi\u0107, Vladimir: Fremdsprachige B\u00fccher.",
+    "googleLink": "http://www.google.com/url?q=https://www.amazon.de/-/en/Bruno-Malafosse/dp/9811597413&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAJ6BAgHEAE&usg=AOvVaw0O6RsDvZpH0eMhAmZH8Ys1",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Almost convergent sequence spaces derived by the domain of ...content.sciendo.com \u203a view \u203a aupcsm \u203a article-p155",
+    "link": "https://content.sciendo.com/view/journals/aupcsm/19/1/article-p155.xml?language=en",
+    "description": "31.12.2020 \u00b7 Almost convergent sequence spaces derived by the domain of quadruple band matrix. Mustafa Cemil Bi\u015fgin. 1 Recep Tayyip Erdo\u011fan\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://content.sciendo.com/view/journals/aupcsm/19/1/article-p155.xml%3Flanguage%3Den&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAN6BAgJEAE&usg=AOvVaw2WzjQN8uGW6Lw-s8RV8Boh",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Evolution on sequence space and tensor products of representation ...pub.uni-bielefeld.de \u203a record",
+    "link": "https://pub.uni-bielefeld.de/record/1654268",
+    "description": "Evolution on sequence space and tensor products of representation spaces. Dress A, Rumschitzki DS (1988) Acta Applicandae Mathematica 11(2): 103-115.",
+    "googleLink": "http://www.google.com/url?q=https://pub.uni-bielefeld.de/record/1654268&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAR6BAgCEAE&usg=AOvVaw1Kwsf8xGu9Krf6E-XKSzXI",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Mathematics | Free Full-Text | Fixed Points of Kannan Maps in the ...www.mdpi.com \u203a ...",
+    "link": "https://www.mdpi.com/2227-7390/8/1/76",
+    "description": "14.04.2020 \u00b7 In this work, we look at this problem in the variable exponent sequence spaces \u2113\u200bp(\u00b7) . We prove the modular version of most of the known facts\u00a0...\n\nMathematics: 2020\n8: (1), 76; https://doi.org/10.3390/math8010076",
+    "googleLink": "http://www.google.com/url?q=https://www.mdpi.com/2227-7390/8/1/76&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAV6BAgBEAE&usg=AOvVaw0ZdX2YsNKe3kMkBCybmiTi",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Infinite matrices and sequence spaces - CERN Document Servercds.cern.ch \u203a record",
+    "link": "http://cds.cern.ch/record/1987035?ln=de",
+    "description": "05.02.2015 \u00b7 Book. Title, Infinite matrices and sequence spaces. Author(s), Cooke, Richard G. Publication, Mineola, NY : Dover, 2014. - 683 p. Series, (Dover\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://cds.cern.ch/record/1987035%3Fln%3Dde&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAZ6BAgDEAE&usg=AOvVaw0Ptz5RFH_CDSSCVy_PnHAh",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Sequence Spaces - Almut Eisentr\u00e4gerfiles.almutei.de \u203a SequenceSpaces",
+    "link": "https://files.almutei.de/SequenceSpaces.pdf",
+    "description": "The space of all sequences \u03c9 is an \u221e-dimensional space over K. A normed sequence space \u03bb is a subspace of \u03c9 including the sequence en := (\u03b4j,n)j\u2208N \u2200n \u2208.",
+    "googleLink": "http://www.google.com/url?q=https://files.almutei.de/SequenceSpaces.pdf&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAd6BAgGEAE&usg=AOvVaw2sbCwVImXF5vZHudhigCCY",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Phylogeny and Sequence Space - Archive ouverte HALhal.archives-ouvertes.fr \u203a hal-02262446 \u203a document",
+    "link": "https://hal.archives-ouvertes.fr/hal-02262446/document",
+    "description": "24.09.2020 \u00b7 Phylogeny and Sequence Space: A Combined Approach to Analyze the Evolutionary Trajectories of Homologous. Proteins. The Case Study of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://hal.archives-ouvertes.fr/hal-02262446/document&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAh6BAgAEAE&usg=AOvVaw0-CidUPrc0KP4sZfMuwcDA",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Duality decompositions of some matrix sequence spaces | Asian ...www.worldscientific.com \u203a doi",
+    "link": "https://www.worldscientific.com/doi/10.1142/S1793557119500487",
+    "description": "For each 1\u2264r<\u221e, we define the set \u2112r of sequences of infinite complex matrices and the norm |\u2225\u22c5|\u2225r on \u2112r analogously to the classical sequence space lr\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.worldscientific.com/doi/10.1142/S1793557119500487&sa=U&ved=2ahUKEwiG8vrL3KXvAhXtt1kKHY1QBC84KBAWMAl6BAgFEAE&usg=AOvVaw32BWf5tk-ZwgNtmIeyvEyZ",
+    "page": 4,
+    "index": 9
+  }
+]

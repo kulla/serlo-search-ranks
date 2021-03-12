@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Inverse functions and differentiation - Wikipediaen.wikipedia.org \u203a wiki \u203a Inverse_...",
+    "link": "https://en.wikipedia.org/wiki/Inverse_functions_and_differentiation",
+    "description": "In mathematics, the inverse of a function y = f ( x ) {\\displaystyle y=f(x)} y=f(x) is a function that, in some fashion, \"undoes\" the effect of f {\\displaystyle f} f The\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "3.7: Derivatives of Inverse Functions - Mathematics LibreTextsmath.libretexts.org \u203a 03:_Derivatives",
+    "link": "https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/03%3A_Derivatives/3.7%3A_Derivatives_of_Inverse_Functions",
+    "description": "20.12.2020 \u2014 g\u2032(x)=1f\u2032(g(x)). Use the inverse function theorem to find the derivative of g(x)=x+2x. Compare the resulting derivative to that obtained by differentiating the function directly. The inverse of g(x)=x+2x is f(x)=2x\u22121.",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Derivatives of Inverse Functions - Oregon State Universityoregonstate.edu \u203a inverseDeriv",
+    "link": "https://oregonstate.edu/instruct/mth251/cq/Stage6/Lesson/inverseDeriv.html",
+    "description": "DERIVATIVES OF INVERSE FUNCTIONS Linear Inverse Functions \u00b7 reflect The point (y,x) is on the graph of f, which means that f(y)=x. \u00b7 slope of M = f '(y) = f '(f -1(x)).",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Derivatives of inverse functions - xaktly.comxaktly.com \u203a DerivativeOfInverseF...",
+    "link": "https://xaktly.com/DerivativeOfInverseFunction.html",
+    "description": "The derivative of an inverse function, f-1(x) can be found without directly taking the derivative, if we know the function, f(x), and its derivative.",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Derivative Of Inverse Functions (How To w/ Examples!)calcworkshop.com \u203a Derivatives",
+    "link": "https://calcworkshop.com/derivatives/derivative-of-inverse-function/",
+    "description": "23.02.2021 \u2014 ... Certified Teacher). There's a simple trick to finding the derivative of an inverse function! But first, let's talk about inverse functions in general.",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Derivative of Inverse Functions: Theory and Applications ...mathvault.ca \u203a The Vault \u203a Calculus",
+    "link": "https://mathvault.ca/derivative-inverse-functions/",
+    "description": "The derivative of an inverse function at a point, is equal to the reciprocal of the derivative of the original function \u2014 at its correlate. Or in Leibniz's notation:",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Derivatives of Inverse Functionswww.sfu.ca \u203a math-coursenotes \u203a s...",
+    "link": "https://www.sfu.ca/math-coursenotes/Math%20157%20Course%20Notes/sec_DerivativesofInverse.html",
+    "description": "Suppose we wanted to find the derivative of the inverse, but do not have an actual formula for the inverse function? Then we can use the following derivative\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Derivative of the Inverse of a Function - MIT OpenCourseWareocw.mit.edu \u203a courses \u203a mathematics \u203a 1.-differentiation",
+    "link": "https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/MIT18_01SCF10_Ses15a.pdf",
+    "description": "One very important application of implicit differentiation is to finding deriva tives of inverse functions. We start with a simple example. We might simplify the\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Derivative of the Inverse of a Function - MIT OpenCourseWareocw.mit.edu \u203a session-15-implicit-differentiation-and-inverse-functions",
+    "link": "https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/MIT18_01SCF10_Ses15a.pdf",
+    "description": "One very important application of implicit differentiation is to finding deriva tives of inverse functions. We start with a simple example. We might simplify the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/MIT18_01SCF10_Ses15a.pdf&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAB6BAgFEAE&usg=AOvVaw259EePAmEFCC-q2DPnAK-s",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "8.2 Differentiating Inverse Functions - MIT Mathwww-math.mit.edu \u203a ~djk \u203a chapter08 \u203a section02",
+    "link": "http://www-math.mit.edu/~djk/calculus_beginners/chapter08/section02.html",
+    "description": "This means that the derivative of the inverse function is the reciprocal of the ... Can you use this rule to actually find derivatives of inverses without going nuts?",
+    "googleLink": "http://www.google.com/url?q=http://www-math.mit.edu/~djk/calculus_beginners/chapter08/section02.html&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAF6BAgJEAE&usg=AOvVaw2MkUbR6Wfkfs7boOyK-3lC",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Inverse of derivative - Mathematics Stack Exchangemath.stackexchange.com \u203a questions \u203a inverse-of-de...",
+    "link": "https://math.stackexchange.com/questions/2320532/inverse-of-derivative",
+    "description": "You actually are talking about the inverse function theorem in one-dimension. The theorem is correctly stated as: Let f:R\u2192R be of class C1 with nonzero\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/2320532/inverse-of-derivative&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAJ6BAgIEAE&usg=AOvVaw3ZZfa-mF2oJCYqg4_08Jjm",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "3.7 Derivatives of Inverse Functions \u2013 Calculus Volume 1opentextbc.ca \u203a chapter \u203a derivatives-of-inverse-fun...",
+    "link": "https://opentextbc.ca/calculusv1openstax/chapter/derivatives-of-inverse-functions/",
+    "description": "The Derivative of an Inverse Function. We begin by considering a function and its inverse. If f(x) is both invertible and differentiable, it seems reasonable that the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://opentextbc.ca/calculusv1openstax/chapter/derivatives-of-inverse-functions/&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAN6BAgHEAE&usg=AOvVaw1oIf-jsl5cDCbxlF_-7xPQ",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Inverse Functions: differentiationwww.mathsmutt.co.uk \u203a files \u203a din",
+    "link": "http://www.mathsmutt.co.uk/files/din.htm",
+    "description": "Differentiating Inverse functions. Steps. Find the inverse of the function; Differentiate the function; Plug data into following equation:- 1. Example. Given f(\u200bx) = x6,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathsmutt.co.uk/files/din.htm&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAR6BAgCEAE&usg=AOvVaw2tvFB7-T36Yap3xoNE0al9",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "AC Derivatives of Inverse Functionsactivecalculus.org \u203a single \u203a sec-2-6-inverse",
+    "link": "https://activecalculus.org/single/sec-2-6-inverse.html",
+    "description": "What is the derivative of the natural logarithm function? What are the derivatives of the inverse trigonometric functions arcsin(\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://activecalculus.org/single/sec-2-6-inverse.html&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAV6BAgAEAE&usg=AOvVaw2FEBGzt7QzcwCHJuLLsLaQ",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Derivatives of Inverse Functions - Math24www.math24.net \u203a derivatives-inverse-functions",
+    "link": "https://www.math24.net/derivatives-inverse-functions",
+    "description": "Derivatives of Inverse Functions. Inverse functions are functions that \u201creverse\u201d each other. We consider a function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math24.net/derivatives-inverse-functions&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAZ6BAgGEAE&usg=AOvVaw0Sjly2tuY1-YHu7s4rd5Kd",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Calculus I - Derivatives of Inverse Trig Functionstutorial.math.lamar.edu \u203a calci \u203a diffinvtrigfcns",
+    "link": "https://tutorial.math.lamar.edu/classes/calci/diffinvtrigfcns.aspx",
+    "description": "30.05.2018 \u00b7 In this section we give the derivatives of all six inverse trig functions. We show the derivation of the formulas for inverse sine, inverse cosine and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://tutorial.math.lamar.edu/classes/calci/diffinvtrigfcns.aspx&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAd6BAgBEAE&usg=AOvVaw21cSRgkc3YjfLfpFluvNMS",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Second derivative rule for inverse function - Calculuscalculus.subwiki.org \u203a wiki \u203a Second_derivative_rul...",
+    "link": "https://calculus.subwiki.org/wiki/Second_derivative_rule_for_inverse_function",
+    "description": "Second derivative rule for inverse function. This article is about a differentiation rule, i.e., a rule for differentiating a function expressed in terms of other functions\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://calculus.subwiki.org/wiki/Second_derivative_rule_for_inverse_function&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAh6BAgEEAE&usg=AOvVaw1aH0rRDGuVgjRZ91XmTjVS",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Derivative of an inverse function \u2013 GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/yjd4u7nX",
+    "description": "A worksheet intended to introduce students to the concept of the derivative of an inverse function.",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/yjd4u7nX&sa=U&ved=2ahUKEwih7Pb846XvAhXdQTABHfnNDAc4ChAWMAl6BAgDEAE&usg=AOvVaw1aCM4N1bqHsbL9nHAV5GdL",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Differentiation of Inverse Trigonometric Functions - CliffsNoteswww.cliffsnotes.com \u203a calculus \u203a the-derivative \u203a di...",
+    "link": "https://www.cliffsnotes.com/study-guides/calculus/calculus/the-derivative/differentiation-of-inverse-trigonometric-functions",
+    "description": "Each of the six basic trigonometric functions have corresponding inverse functions when appropriate restrictions are placed on the domain of the original functi.",
+    "googleLink": "http://www.google.com/url?q=https://www.cliffsnotes.com/study-guides/calculus/calculus/the-derivative/differentiation-of-inverse-trigonometric-functions&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAB6BAgBEAE&usg=AOvVaw3m7ycqWX7jWpzjewIVPqOO",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "MA2C Implicit Differentiation and Derivatives of Inverse Functionseduc.jmu.edu \u203a ~waltondb \u203a implicit-differentiation",
+    "link": "http://educ.jmu.edu/~waltondb/MA2C/implicit-differentiation.html",
+    "description": "If the graph of f f has a point (a,b) ( a , b ) and a derivative f\u2032(a), f \u2032 ( a ) , then the graph of the inverse function includes the corresponding point (b,a) ( b , a ) and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://educ.jmu.edu/~waltondb/MA2C/implicit-differentiation.html&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAF6BAgJEAE&usg=AOvVaw2_EwOcTE1c6LrzEHC7LDKH",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Derivatives of Inverse Functionswebspace.ship.edu \u203a derivative_inverse_functions",
+    "link": "http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_inverse_functions.html",
+    "description": "Suppose that we know all about a function f and its derivative f \u2032. If f has an inverse, g, can we use our knowledge of f to compute the derivative of g? Yes!",
+    "googleLink": "http://www.google.com/url?q=http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_inverse_functions.html&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAJ6BAgIEAE&usg=AOvVaw2XVt5u7rpQZtiMy_JjgN9H",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Visual Calculus - Inverse Functionsarchives.math.utk.edu \u203a visual.calculus \u203a inverse.1",
+    "link": "http://archives.math.utk.edu/visual.calculus/3/inverse.1/index.html",
+    "description": "Problem: Verify that the following functions have inverses. Find the derivative of the inverse. Find the equation of the tangent line to the inverse at the given point.",
+    "googleLink": "http://www.google.com/url?q=http://archives.math.utk.edu/visual.calculus/3/inverse.1/index.html&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAN6BAgHEAE&usg=AOvVaw31WPJmLAY0b2vf2ZifAxYO",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Content - Differentiation of inversesamsi.org.au \u203a ESA_Senior_Years \u203a SeniorTopic3",
+    "link": "https://amsi.org.au/ESA_Senior_Years/SeniorTopic3/3b/3b_2content_11.html",
+    "description": "The inverse function of the cube-root function is the cube function: if y=3\u221ax, then x=y3. We know the derivative of the cube function, dx\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://amsi.org.au/ESA_Senior_Years/SeniorTopic3/3b/3b_2content_11.html&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAR6BAgFEAE&usg=AOvVaw1IloCI91oV8S5t6IaTbHE_",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Derivatives of Inverse Functions - Free Math Helpwww.freemathhelp.com \u203a derivative-inverse",
+    "link": "https://www.freemathhelp.com/derivative-inverse.html",
+    "description": "Differentiating Inverse Functions. Inverse Function Review. One application of the chain rule is to compute the derivative of an inverse function. First, let's review\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.freemathhelp.com/derivative-inverse.html&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAV6BAgAEAE&usg=AOvVaw2jc4acg66EoKcvoCmBNv4Y",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Derivatives of inverse function \u2013 PROBLEMS and ... - Uplift Educationwww.uplifteducation.org \u203a cms \u203a lib01 \u203a Centricity \u203a Domain",
+    "link": "https://www.uplifteducation.org/cms/lib01/TX01001293/Centricity/Domain/273/ALL%20PROB%20and%20SOL.pdf",
+    "description": "Derivative of the inverse function at a point is the reciprocal of the derivative of the function at the corresponding point. Slope of the line tangent to    at\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uplifteducation.org/cms/lib01/TX01001293/Centricity/Domain/273/ALL%2520PROB%2520and%2520SOL.pdf&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAZ6BAgDEAE&usg=AOvVaw3pU8RdeufOW7GLlYcp69Yr",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Section 2.7 - Derivatives of Inverse Functionswww.cs.uleth.ca \u203a sec_deriv_inverse_function",
+    "link": "https://www.cs.uleth.ca/~fitzpat/apex-calculus/sec_deriv_inverse_function.html",
+    "description": "Example 2.7.10. Finding the derivative of an inverse trigonometric function. Let y\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cs.uleth.ca/~fitzpat/apex-calculus/sec_deriv_inverse_function.html&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAd6BAgEEAE&usg=AOvVaw1vrtCdaO5hxHzoGdtYHYKw",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "The derivative of an inverse function - Math Insightmathinsight.org \u203a derivative_inverse_function",
+    "link": "https://mathinsight.org/derivative_inverse_function",
+    "description": "How to write the derivative of an inverse function in terms of the derivative of the original function.",
+    "googleLink": "http://www.google.com/url?q=https://mathinsight.org/derivative_inverse_function&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAh6BAgCEAE&usg=AOvVaw3RW6dSZXEC00gVyFuhvpwx",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 22 Derivative of inverse functionweb.auburn.edu \u203a holmerr \u203a Textbook \u203a derivinverse-print",
+    "link": "https://web.auburn.edu/holmerr/1617/Textbook/derivinverse-print.pdf",
+    "description": "f (x) = d dx. [ln(sin x)] = 1 sin x. \u00b7 cos x = cot x. 22.3 Derivatives of inverse sine and inverse cosine func- tions. The formula for the derivative of an inverse function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://web.auburn.edu/holmerr/1617/Textbook/derivinverse-print.pdf&sa=U&ved=2ahUKEwjKhpz946XvAhVIRDABHTayCA44FBAWMAl6BAgGEAE&usg=AOvVaw02yS5z7SAJnvMiyBigDzjg",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 3.6 Derivatives of Inverse Functionswl.apsva.us \u203a wp-content \u203a uploads \u203a sites \u203a 2016/11 \u203a 3.6-Notes.pdf",
+    "link": "https://wl.apsva.us/wp-content/uploads/sites/38/2016/11/3.6-Notes.pdf",
+    "description": "1. 3.6 Derivatives of Inverse Functions. Derivative of an Inverse Function. Let be a function that is differentiable on an interval . If has an inverse function , then is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wl.apsva.us/wp-content/uploads/sites/38/2016/11/3.6-Notes.pdf&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAB6BAgGEAE&usg=AOvVaw1Hst-1uakkiBpcLyNJVgv7",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Derivative of Inverse Functionwww.analyzemath.com \u203a calculus \u203a Differentiation",
+    "link": "https://www.analyzemath.com/calculus/Differentiation/derivative_inverse.html",
+    "description": "Method 1 \u00b7 The first method consists in finding the inverse of function f and differentiate it. To find the inverse of f we first write it as an equation y = (1/2) x - 1 \u00b7 Solve\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.analyzemath.com/calculus/Differentiation/derivative_inverse.html&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAF6BAgHEAE&usg=AOvVaw3PNiNARnIxv6RCSW2Equ6X",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Inverse Functions and Their Derivatives \u2022 Activity Builder by Desmosteacher.desmos.com \u203a activitybuilder \u203a custom",
+    "link": "https://teacher.desmos.com/activitybuilder/custom/564a9bfb810412e010f22641",
+    "description": "For the equation $$ e y = y 2+ x 2 , find the equation of the tangent line at $$ 1,0 . First, write the equation you get when you take the derivative of each term.",
+    "googleLink": "http://www.google.com/url?q=https://teacher.desmos.com/activitybuilder/custom/564a9bfb810412e010f22641&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAJ6BAgIEAE&usg=AOvVaw1OkT3iTWKQw7NPx0rWNPO1",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Derivative of Inverse Function - ProofWikiproofwiki.org \u203a wiki \u203a Derivative_of_Inverse_Funct...",
+    "link": "https://proofwiki.org/wiki/Derivative_of_Inverse_Function",
+    "description": "03.03.2020 \u00b7 Proof. From Derivative of Monotone Function, it follows that f is either: strictly increasing on I (if \u2200x\u2208Io:Df(x)>0). or: strictly decreasing on I (if \u2200x\u2208\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Derivative_of_Inverse_Function&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAN6BAgJEAE&usg=AOvVaw0ldEKQmlXuyBqCoD7LCuJe",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Derivatives of Inverse Functions \u2013 She Loves Mathwww.shelovesmath.com \u203a ... \u203a Differential Calculus",
+    "link": "https://www.shelovesmath.com/calculus/differential-calculus/derivatives-of-inverse-functions/",
+    "description": "Monotonic Functions in an Interval. We can determine if a function is monotonic in an interval (and therefore has an inverse in that interval) if the derivative of that\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.shelovesmath.com/calculus/differential-calculus/derivatives-of-inverse-functions/&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAR6BAgEEAE&usg=AOvVaw2FluPsGvXT67W5ik4dI6qw",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Derivatives of Inverse Functions | Calc Medicwww.calc-medic.com \u203a unit-3-day-7",
+    "link": "https://www.calc-medic.com/unit-3-day-7",
+    "description": "\u200bLearning Objectives\u200b. Calculate derivatives of inverse functions. \u200b. \u200bSuccess Criteria. I can determine when two functions are inverses. I can verbalize the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.calc-medic.com/unit-3-day-7&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAV6BAgDEAE&usg=AOvVaw3WtxmsPDlL3L2Y1f93dWDU",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "The Inverse Function Theorem - Ximeraximera.osu.edu \u203a derivativesOfInverseFunctions \u203a di...",
+    "link": "https://ximera.osu.edu/mooculus/calculus1/derivativesOfInverseFunctions/digInInverseFunctionTheorem",
+    "description": "17.2Derivatives of inverse trigonometric functions. We derive the derivatives of inverse trigonometric functions using implicit differentiation. 17.3The\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ximera.osu.edu/mooculus/calculus1/derivativesOfInverseFunctions/digInInverseFunctionTheorem&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAZ6BAgFEAE&usg=AOvVaw30ruO5gAsD_mx8n3MMblwC",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Derivatives of Inverse Functions (solutions, examples, videos)www.onlinemathlearning.com \u203a derivatives-inverse-...",
+    "link": "https://www.onlinemathlearning.com/derivatives-inverse-functions.html",
+    "description": "Derivative of Inverse Functions Examples & Practice Problems - Calculus This calculus tutorial explains how to find the derivative of an inverse function.",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinemathlearning.com/derivatives-inverse-functions.html&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAd6BAgAEAE&usg=AOvVaw3lV8dAyyuqKs1KsXPz7n6L",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "How do you find the derivative of an inverse function of f(x)=x^5+3x ...socratic.org \u203a ... \u203a Summary of Differentiation Rules",
+    "link": "https://socratic.org/questions/how-do-you-find-the-derivative-of-an-inverse-function-of-f-x-x-5-3x-2",
+    "description": "ddx(f\u22121(x))=15(f\u22121(x))4+3. Explanation: The function f(x) is described by the equation: y=x5+3x\u22122. An equation describing its inverse can be\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://socratic.org/questions/how-do-you-find-the-derivative-of-an-inverse-function-of-f-x-x-5-3x-2&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAh6BAgBEAE&usg=AOvVaw3zkWsePydL2rqAfQbNrglG",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "7.2 Derivatives of Inverse Functions\u2023 Chapter 7 Inverse Functions ...sites.und.edu \u203a apex \u203a web \u203a apex.Ch7.S2.html",
+    "link": "https://sites.und.edu/timothy.prescott/apex/web/apex.Ch7.S2.html",
+    "description": "In this section we will figure out how to differentiate the inverse of a function. To do so, we recall that if f and g are inverses, then f(g(x))=x for all x in the domain of\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://sites.und.edu/timothy.prescott/apex/web/apex.Ch7.S2.html&sa=U&ved=2ahUKEwinpMD946XvAhWPVTABHVQMBws4HhAWMAl6BAgCEAE&usg=AOvVaw1U5-eE-LWmgf4NUlPTeP5y",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "How do you find the derivative of an inverse function of f(x)=x^5+3x ...socratic.org \u203a ... \u203a Summary of Differentiation Rules",
+    "link": "https://socratic.org/questions/how-do-you-find-the-derivative-of-an-inverse-function-of-f-x-x-5-3x-2",
+    "description": "ddx(f\u22121(x))=15(f\u22121(x))4+3. Explanation: The function f(x) is described by the equation: y=x5+3x\u22122. An equation describing its inverse can be\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://socratic.org/questions/how-do-you-find-the-derivative-of-an-inverse-function-of-f-x-x-5-3x-2&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAB6BAgDEAE&usg=AOvVaw21xYy9DI7ID2AybJuzE927",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "7.2 Derivatives of Inverse Functions\u2023 Chapter 7 Inverse Functions ...sites.und.edu \u203a apex \u203a web \u203a apex.Ch7.S2.html",
+    "link": "https://sites.und.edu/timothy.prescott/apex/web/apex.Ch7.S2.html",
+    "description": "In this section we will figure out how to differentiate the inverse of a function. To do so, we recall that if f and g are inverses, then f(g(x))=x for all x in the domain of\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://sites.und.edu/timothy.prescott/apex/web/apex.Ch7.S2.html&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAF6BAgIEAE&usg=AOvVaw3dD-IFxiyF9Ir5v6M81tja",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Inverse Functions Derivatives: AP\u00ae Calculus Crash Course | Albert.iowww.albert.io \u203a blog \u203a derivatives-inverse-functions...",
+    "link": "https://www.albert.io/blog/derivatives-inverse-functions-ap-calculus-crash-course/",
+    "description": "30.06.2020 \u00b7 This article will help you apply your knowledge of derivatives and inverse functions to the process of taking the derivative of inverse functions.",
+    "googleLink": "http://www.google.com/url?q=https://www.albert.io/blog/derivatives-inverse-functions-ap-calculus-crash-course/&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAJ6BAgJEAE&usg=AOvVaw35PXPVs4PFCtBPfjoogZPC",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "2D oplimization plot from derivative inverse function - MATLAB ...de.mathworks.com \u203a matlabcentral \u203a answers \u203a 507...",
+    "link": "https://de.mathworks.com/matlabcentral/answers/507679-2d-oplimization-plot-from-derivative-inverse-function",
+    "description": "Hello, \u00b7 for x=1 i have a formula as shown bellow which is a derivative inverse function: \u00b7 I need to plot an optimization map for Y3 to be bellow 5 for A=1-10 B=1\u200b-10.",
+    "googleLink": "http://www.google.com/url?q=https://de.mathworks.com/matlabcentral/answers/507679-2d-oplimization-plot-from-derivative-inverse-function&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAN6BAgHEAE&usg=AOvVaw2mKSnrvVfRVKfvke4s6qzo",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 8 Inverse Functions and the - Caltech Authorsauthors.library.caltech.edu \u203a CalcUch8-invfunc-chainrule",
+    "link": "https://authors.library.caltech.edu/25054/10/CalcUch8-invfunc-chainrule.pdf",
+    "description": "Formulas for the derivatives of inverse and composite functions are two of the most useful tools of differential calculus. As usual, standard calculus texts should be\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://authors.library.caltech.edu/25054/10/CalcUch8-invfunc-chainrule.pdf&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAR6BAgAEAE&usg=AOvVaw3Pl8NSnuNaPRQAK3Il77TK",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Derivatives of hyperbolic functions, Derivative of inverse functionwww.nabla.hr \u203a CL-DerivativeB3",
+    "link": "http://www.nabla.hr/CL-DerivativeB3.htm",
+    "description": "Derivatives of the inverse trigonometric functions. Derivatives of the hyperbolic functions. We use the derivative of the exponential function and the chain rule to\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.nabla.hr/CL-DerivativeB3.htm&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAV6BAgCEAE&usg=AOvVaw0GDcAwbAdSnL7ia6u1bpMj",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Derivative of f^(-1) (Inverse Functions) - Expiiwww.expii.com \u203a derivative-of-f-inverse-functions-...",
+    "link": "https://www.expii.com/t/derivative-of-f-inverse-functions-151",
+    "description": "Derivative of an Inverse Function. We know how to take lots of derivatives by now\u200b. But we're still missing some fundamental derivatives of inverse functions, like\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.expii.com/t/derivative-of-f-inverse-functions-151&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAZ6BAgBEAE&usg=AOvVaw0rORccCW65bTi6pNBpIAkT",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Differentiating Inverse Functions - SOS Mathwww.sosmath.com \u203a calculus \u203a diff \u203a der08 \u203a der08",
+    "link": "http://www.sosmath.com/calculus/diff/der08/der08.html",
+    "description": "is the antiderivative of $\\displaystyle \\frac{1}{x}$ for x > 0, with $\\ln(1) =0$ . This function has an inverse on $(0,\\infty)$ , known to us as the exponential function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.sosmath.com/calculus/diff/der08/der08.html&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAd6BAgEEAE&usg=AOvVaw0byaMsVav831EF3J8WfyFF",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "inverse d/d - Derivative Calculator - Symbolabwww.symbolab.com \u203a ... \u203a Calculus \u203a Derivatives",
+    "link": "https://www.symbolab.com/solver/derivative-calculator/inverse%20%5Cfrac%7Bd%7D%7Bd%7D",
+    "description": "Free derivative calculator - differentiate functions with all the steps. Type in any function derivative to get the solution, steps and graph.",
+    "googleLink": "http://www.google.com/url?q=https://www.symbolab.com/solver/derivative-calculator/inverse%2520%255Cfrac%257Bd%257D%257Bd%257D&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAh6BAgGEAE&usg=AOvVaw0XDB6CWk0-ghq7EM6OmR73",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] AP Calculus AB \u2013 Worksheet 122 Derivative of Inverse Functions 1 ...www.annapolishighschool.org \u203a ourpages \u203a auto \u203a 2016/12/21 \u203a deri...",
+    "link": "https://www.annapolishighschool.org/ourpages/auto/2016/12/21/47270748/derivatives_of_inverse_functions%20homework.pdf",
+    "description": "21.12.2016 \u00b7 AP Calculus AB \u2013 Worksheet 122. Derivative of Inverse Functions. 1. Let ( ) 3. 2. 5\u200b. 8. f x x x. = -. - and let g be the inverse function of f. (a) Find ( ).",
+    "googleLink": "http://www.google.com/url?q=https://www.annapolishighschool.org/ourpages/auto/2016/12/21/47270748/derivatives_of_inverse_functions%2520homework.pdf&sa=U&ved=2ahUKEwibueb946XvAhVXSTABHTigAA84KBAWMAl6BAgFEAE&usg=AOvVaw2FqkATsJi1ruarRNHS1VW7",
+    "page": 4,
+    "index": 9
+  }
+]

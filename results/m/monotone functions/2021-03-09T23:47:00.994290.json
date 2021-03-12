@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Monotonic Function -- from Wolfram MathWorldmathworld.wolfram.com \u203a MonotonicFunction",
+    "link": "https://mathworld.wolfram.com/MonotonicFunction.html",
+    "description": "A monotonic function is a function which is either entirely nonincreasing or nondecreasing. A function is monotonic if its first derivative (which need not be continuous) does not change sign.",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/MonotonicFunction.html&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFnoECAcQAg&usg=AOvVaw2jRd9jbnCK3w2r6mYru98h",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Monotonic function - Wikipediaen.wikipedia.org \u203a wiki \u203a Monotonic_function",
+    "link": "https://en.wikipedia.org/wiki/Monotonic_function",
+    "description": "In mathematics, a monotonic function (or monotone function) is a function between ordered sets that preserves or reverses the given order. This concept first\u00a0...\nMonotonicity in calculus ... \u00b7 Monotonicity in functional ... \u00b7 Boolean functions",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Monotonic_function&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFjACegQIBBAB&usg=AOvVaw06UC0psjwIOBEfwe9jA0pb",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Monotone function - Encyclopedia of Mathematicsencyclopediaofmath.org \u203a wiki \u203a Monotone_function",
+    "link": "https://encyclopediaofmath.org/wiki/Monotone_function",
+    "description": "06.06.2020 \u00b7 The idea of a monotone function can be generalized to functions of various classes. For example, a function f(x1\u2026x\u00a0...\n\n\u0394f(x)\u22650: Increasing (non-decreasing)\n\u0394f(x)\u22640: Decreasing (non-increasing)\n\u0394f(x)>0: Strictly increasing\n\u0394f(x)<0: Strictly decreasing",
+    "googleLink": "http://www.google.com/url?q=https://encyclopediaofmath.org/wiki/Monotone_function&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFjAVegQIDhAB&usg=AOvVaw0dg2FTGOgOJN3SMdvQ0RvA",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Monotone Functionslink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-1-4613-8474-8_2.pdf",
+    "description": "monotone (or monotonic). We observe that if I is a decreasing function, then -lis an increasing function. Thus, theorems analogous to those derived\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-1-4613-8474-8_2.pdf&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFjAWegQIBRAB&usg=AOvVaw3r8xII1ryMqnaFBNTR_JBV",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "monotone function - Wiktionaryen.wiktionary.org \u203a wiki \u203a monotone_function",
+    "link": "https://en.wiktionary.org/wiki/monotone_function",
+    "description": "(order theory, mathematical analysis) A function f : X\u2192Y (where X and Y are posets with partial order \"\u2264\") with either: (1) the property that x \u2264 y implies f(x)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wiktionary.org/wiki/monotone_function&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFjAbegQIDBAB&usg=AOvVaw23tqJmwavI7OjACGPhZKBn",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "DEFINITIONS AND PROPERTIES OF MONOTONE ... - Project Euclidprojecteuclid.org \u203a download \u203a pdf_1 \u203a euclid.bams",
+    "link": "https://projecteuclid.org/download/pdf_1/euclid.bams/1183502423",
+    "description": "1. Introduction. We shall consider functions which are monotone in the following sense: x{t) is monotone if and only if x(i)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/download/pdf_1/euclid.bams/1183502423&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFjAcegQIAhAB&usg=AOvVaw2xLxf9LXdLWgy5VHfjh39h",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "monotone function in nLabncatlab.org \u203a nlab \u203a show \u203a monotone+function",
+    "link": "https://ncatlab.org/nlab/show/monotone+function",
+    "description": "25.10.2019 \u00b7 As a preordered set is the same thing as a category in which any two parallel morphisms are equal, so a monotone function is simply a functor\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ncatlab.org/nlab/show/monotone%2Bfunction&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFjAdegQIAxAB&usg=AOvVaw3_s0ijMcPa15yDxZkFkI-A",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] On the Covariance of Monotone Functions of a Random Variablewww.math.tu-dresden.de \u203a sto \u203a schmidt \u203a dsvm \u203a dsvm2003-4",
+    "link": "https://www.math.tu-dresden.de/sto/schmidt/dsvm/dsvm2003-4.pdf",
+    "description": "should hold for any two increasing functions f,g : J \u2192 R. The inequality holds indeed, but a proof is difficult to find in the literature; an exception is the book by\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tu-dresden.de/sto/schmidt/dsvm/dsvm2003-4.pdf&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFjAeegQIBhAB&usg=AOvVaw1KnHbd57SJ7zax2m39KJEV",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Uniformly monotone functions - definition, properties, characterizationsedoc.hu-berlin.de \u203a bitstream \u203a handle \u203a 1.pdf",
+    "link": "https://edoc.hu-berlin.de/bitstream/handle/18452/9104/1.pdf?sequence=1&isAllowed=y",
+    "description": "21.11.2015 \u00b7 Then F is uniformly monotone iff there is a totally ordered space X, a function \u03c8 : E \u2192 X and nondecreasing functions \u03d5f : X \u2192Q, f \u2208 F such that\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://edoc.hu-berlin.de/bitstream/handle/18452/9104/1.pdf%3Fsequence%3D1%26isAllowed%3Dy&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFjAfegQICxAB&usg=AOvVaw3EYqRL02Mo_HWjtgBChJWn",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "New characterizations of completely monotone functions and ...www.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1319516618300288",
+    "description": "a Bernstein function) if we know that the sequence f ( k ) k is completely monotone (resp. alternating)? This approach constitutes a kind of converse to Hausdorff's\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S1319516618300288&sa=U&ved=2ahUKEwjL6YSdpaTvAhWxzTgGHackBuUQFjAgegQICRAB&usg=AOvVaw3E69Actb9h0N-cyQFw7gBe",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "On some classes of directionally monotone functions - ScienceDirectwww.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0165011418303385",
+    "description": "01.05.2020 \u00b7 On some classes of directionally monotone functions \u00b7 A triangular norm (t-norm) is an aggregation function \u00b7 A conjunctor is an aggregation\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S0165011418303385&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAB6BAgDEAE&usg=AOvVaw1lPZeOJXJHZ9QsJuI1-n3Q",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Monotonicity of the sum/product/max of two monotone functions ...math.stackexchange.com \u203a questions \u203a monotonicity...",
+    "link": "https://math.stackexchange.com/questions/1636117/monotonicity-of-the-sum-product-max-of-two-monotone-functions",
+    "description": "Let f,g bi monotonuous increasing functions on the domain D. Then for all x,y\u2208D with x\u2264y we know that f(x)\u2264f(y) and g(x)\u2264g(x). If we add those inequalities, we\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/1636117/monotonicity-of-the-sum-product-max-of-two-monotone-functions&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAF6BAgJEAE&usg=AOvVaw1Tbcl_MYBBDFfmlVjdZGQ8",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Metric Spaces and Completely Monotone Functions - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/1968466",
+    "description": "long been in use, for it is well known that if S is metric, also the space with the new distance function d(P, P') = PP'/(1 + PP') is metric. Moreover, these two metrics\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/1968466&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAJ6BAgIEAE&usg=AOvVaw31AHd8Ns-E9uRM6SZdZkyS",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "The Structure of Monotone Functions - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2371350",
+    "description": "of these functions, these notions being meant in the sense of Lebesgue. It is clear that ... 0? y < 1, is the continuous, monotone, inverse function of y f (x). 0? x ? 1.",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2371350&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAN6BAgHEAE&usg=AOvVaw26atbBP-g9I8eY3_MdcrAB",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Optimizing Monotone Functions Can Be Difficultarxiv.org \u203a cs",
+    "link": "https://arxiv.org/abs/1010.1429",
+    "description": "07.10.2010 \u00b7 However, for c > 33, we present a strictly monotone function such that the (1+1) evolutionary algorithm with overwhelming probability does not\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1010.1429&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAR6BAgGEAE&usg=AOvVaw2hlWiHEGhQSlHmFZ44wfD3",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] SOME CLASSES OF COMPLETELY MONOTONIC FUNCTIONSwww.emis.de \u203a journals \u203a AASF \u203a Vol27 \u203a alzer",
+    "link": "https://www.emis.de/journals/AASF/Vol27/alzer.pdf",
+    "description": "MONOTONIC FUNCTIONS. Horst Alzer and Christian Berg. Morsbacher Str. 10, D-51545 Waldbr\u00f6l, Germany alzer@wmax03.mathematik.uni-wuerzburg.de.",
+    "googleLink": "http://www.google.com/url?q=https://www.emis.de/journals/AASF/Vol27/alzer.pdf&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAV6BAgAEAE&usg=AOvVaw1jHimdhMrtmuN1xRKY8xgm",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Estimating smooth monotone functions - Royal Statistical Societyrss.onlinelibrary.wiley.com \u203a doi \u203a pdfdirect",
+    "link": "https://rss.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-9868.00130",
+    "description": "Monotonicity can be a useful way of regularizing or stabilizing estimated functions, since the imposition of monotonicity can remove the small scale wiggles that are\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://rss.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-9868.00130&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAZ6BAgFEAE&usg=AOvVaw3tWmV6gHVVtAzDVYCDcwLI",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "(PDF) Monotone functions and maps - ResearchGatewww.researchgate.net \u203a publication \u203a 51969320_Monotone_functions_and...",
+    "link": "https://www.researchgate.net/publication/51969320_Monotone_functions_and_maps",
+    "description": "17.11.2020 \u00b7 We prove several equivalent conditions for a bounded continuous definable function or map to be monotone. We show that the class of graphs of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/51969320_Monotone_functions_and_maps&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAd6BAgCEAE&usg=AOvVaw18K9A3fdrbvaARWV5T5pLv",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Mathematics | Free Full-Text | Characterizations of Positive Operator ...www.mdpi.com \u203a ...",
+    "link": "https://www.mdpi.com/2227-7390/7/12/1162",
+    "description": "We show that there is a one-to-one correspondence between positive operator-\u200bmonotone functions on the positive reals, monotone Riemannian metrics, and\u00a0...\n\nMathematics: 2019\n7: (12), 1162; https://doi.org/10.3390/math7121162",
+    "googleLink": "http://www.google.com/url?q=https://www.mdpi.com/2227-7390/7/12/1162&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAh6BAgBEAE&usg=AOvVaw3mCmiy9rqmAZCAkr23XoCc",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] MONOTONE FUNCTIONS AND MAPS Introduction ... - Purdue Mathwww.math.purdue.edu \u203a ~gabriea \u203a monotone",
+    "link": "https://www.math.purdue.edu/~gabriea/monotone.pdf",
+    "description": "We prove several equivalent conditions for a bounded continuous definable function or map to be monotone. We show that the class of graphs of monotone maps\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.purdue.edu/~gabriea/monotone.pdf&sa=U&ved=2ahUKEwiVosGdpaTvAhWowjgGHf0VBh04ChAWMAl6BAgEEAE&usg=AOvVaw3RXJ4CogWmRxCy04Eir0hE",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Positive Definite and Completely Monotone Functionswww.math.iit.edu \u203a ~fass",
+    "link": "http://www.math.iit.edu/~fass/603_ch2.pdf",
+    "description": "inite and strictly completely/multiply monotone functions. Integral characterizations are an essential ingredient in the theoretical analysis of radial basis functions.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.iit.edu/~fass/603_ch2.pdf&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAB6BAgCEAE&usg=AOvVaw3zt6xLNz6vTVzsFet2-RP5",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] DIFFERENTIATION OF MONOTONE FUNCTIONS 1. Dini derivates ...people.math.sc.edu \u203a schep \u203a diffmonotone",
+    "link": "https://people.math.sc.edu/schep/diffmonotone.pdf",
+    "description": "DIFFERENTIATION OF MONOTONE FUNCTIONS. ANTON R. SCHEP. 1. Dini derivates. To define the Dini derivates (or Dini derivatives as Tao calls them) of a\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://people.math.sc.edu/schep/diffmonotone.pdf&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAF6BAgJEAE&usg=AOvVaw0kcJed55xjQYWs4-oAMt36",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Completely monotone functions and some classes of fractional ...www.tandfonline.com \u203a ... \u203a Volume 26, Issue 9",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/10652469.2015.1039224",
+    "description": "A. C \u221e function. f : ( 0 , \u221e ) \u2192 R is called a Bernstein function if it is nonnegative and its first derivative. f \u2032 ( t ) is a completely monotone function.",
+    "googleLink": "http://www.google.com/url?q=https://www.tandfonline.com/doi/full/10.1080/10652469.2015.1039224&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAJ6BAgIEAE&usg=AOvVaw0YJWnOlD2DKzMXmQNwieN_",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Operator monotone functions and L\u00f6wner functions of several ...annals.math.princeton.edu \u203a ...",
+    "link": "https://annals.math.princeton.edu/2012/176-3/p07",
+    "description": "We prove generalizations of L\u00f6wner's results on matrix monotone functions to several variables. We give a characterization of when a function of d variables is\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://annals.math.princeton.edu/2012/176-3/p07&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAN6BAgHEAE&usg=AOvVaw3GZxKXYU3xEa3pmrwCa-oh",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Completely monotone function - Mwikiwww.ma.utexas.edu \u203a mediawiki \u203a index.php \u203a Co...",
+    "link": "http://www.ma.utexas.edu/mediawiki/index.php/Completely_monotone_function",
+    "description": "20.07.2012 \u00b7 By Bernstein's theorem, a function $f$ is completely monotone if and only if it is the Laplace transform of a nonnegative measure, f(z) = \\int_{[0,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.ma.utexas.edu/mediawiki/index.php/Completely_monotone_function&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAR6BAgAEAE&usg=AOvVaw1DEBJUOhxsOTZFneHl_8QW",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "SOME HELLY THEOREMS FOR MONOTONE FUNCTIONS ai \u042b pi ...www.ams.org \u203a proc",
+    "link": "https://www.ams.org/proc/1956-007-05/S0002-9939-1956-0082534-9/S0002-9939-1956-0082534-9.pdf",
+    "description": "To prove the Helly theorems we first find (Theorem 1) limitations on the set of discontinuities of monotone functions. This theorem in the case n = 2 is due to W. H.\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ams.org/proc/1956-007-05/S0002-9939-1956-0082534-9/S0002-9939-1956-0082534-9.pdf&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAV6BAgGEAE&usg=AOvVaw3_q8BrjI068VKZ6pX1x2Th",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Operator Monotonicity and Convexitywww-m5.ma.tum.de \u203a foswiki \u203a pub \u203a Allgemeines",
+    "link": "https://www-m5.ma.tum.de/foswiki/pub/M5/Allgemeines/OS_MAQT_2018W/h5.pdf",
+    "description": "20.05.2018 \u00b7 is matrix monotone for any ti and positive ci \u2208 R. By the fact that the integral is the limit of such functions we have that our function is matrix\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www-m5.ma.tum.de/foswiki/pub/M5/Allgemeines/OS_MAQT_2018W/h5.pdf&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAZ6BAgBEAE&usg=AOvVaw3zTvrTjaMuhHs-LY8v0HXD",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Models of dielectric relaxation based on completely monotone ...www.degruyter.com \u203a document \u203a doi \u203a fca-2016-0060 \u203a html",
+    "link": "https://www.degruyter.com/document/doi/10.1515/fca-2016-0060/html",
+    "description": "Models of dielectric relaxation based on completely monotone functions. De Gruyter | 2016. DOI: https://doi.org/10.1515/\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.degruyter.com/document/doi/10.1515/fca-2016-0060/html&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAd6BAgDEAE&usg=AOvVaw2w4pZRu5Hzkh7pVzoK_zcy",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "ARPM Lab | Monotone functionswww.arpm.co \u203a lab \u203a sec-monotonicity",
+    "link": "https://www.arpm.co/lab/sec-monotonicity.html",
+    "description": "Monotone functions. 28.5 Monotone functions Key points A univariate function (\u200b28.1) is monotonic if it is either increasing (28.164) or decreasing (28.166) on its\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.arpm.co/lab/sec-monotonicity.html&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAh6BAgEEAE&usg=AOvVaw1sL4Tl29u8NtuEs_Mlb_1S",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Iterations on Monotone Functions - Cut the Knotwww.cut-the-knot.org \u203a arithmetic \u203a algebra \u203a Iterat...",
+    "link": "https://www.cut-the-knot.org/arithmetic/algebra/IterationsOnMonotoneFunctions.shtml",
+    "description": "Iterations on monotone functions may not have finite cycles. ... For a given real-\u200bvalued function f we consider iterations x_{n+1}=f(x_{n}), n=0,1,\\ldots and an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cut-the-knot.org/arithmetic/algebra/IterationsOnMonotoneFunctions.shtml&sa=U&ved=2ahUKEwiUj_edpaTvAhW-yzgGHS7jD3E4FBAWMAl6BAgFEAE&usg=AOvVaw17IUzLddog_QdR_CbKWEjg",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Topics In Analysis (Lecture 3): Continuity and Monotone Functions ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=X-t1y-UnSOQ",
+    "description": "07.02.2017 \u00b7 Monotone real-valued functions are fairly well behaved. They are continuous at almost every ...Dauer: 1:13:35\nGepostet: 07.02.2017",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DX-t1y-UnSOQ&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhC3AjAAegQICRAB&usg=AOvVaw1GCYrckdC_aiAP8_oMzZfz",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Math eBook: Monotonic Functions - eCourseswww.ecourses.ou.edu \u203a cgi-bin \u203a eBook",
+    "link": "https://www.ecourses.ou.edu/cgi-bin/eBook.cgi?doc=session_blank&topic=ma&chap_sec=04.4&page=theory",
+    "description": "That is if x1 > x2, then f(x1) > f(x2). On the other hand, a function is called decreasing on an interval if the function value decreases as the independent value\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ecourses.ou.edu/cgi-bin/eBook.cgi%3Fdoc%3Dsession_blank%26topic%3Dma%26chap_sec%3D04.4%26page%3Dtheory&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhAWMAF6BAgAEAE&usg=AOvVaw3yBqVCXrq9vHVN39X2OfpH",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "5.3 Monotonic Functionspeople.reed.edu \u203a math111.html \u203a header \u203a node26",
+    "link": "http://people.reed.edu/~mayer/math111.html/header/node26.html",
+    "description": ", or explain why no such partition exists. 5.31 Definition (Monotonic function.) Let $J$ be an interval in $\\mbox{{\\bf R}\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://people.reed.edu/~mayer/math111.html/header/node26.html&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhAWMAJ6BAgIEAE&usg=AOvVaw35XIK3iyUDhNFKsW9ZL4Kf",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Concrete examples of operator monotone functions ... - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/82818152.pdf",
+    "description": "Theorem LH (L\u00f6wner\u2013Heinz inequality). (LH) t\u03b1 is an operator monotone function for any \u03b1 \u2208 [0, 1]. Let \u03b1j ,\u03b2j ,\u03b3j ,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://core.ac.uk/download/pdf/82818152.pdf&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhAWMAN6BAgEEAE&usg=AOvVaw3jhZr6DJoi-Pk0ziVWkbBH",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Continuity of monotone functions - MSPmsp.org \u203a pjm \u203a pjm-v99-n2-p13-s",
+    "link": "https://msp.org/pjm/1982/99-2/pjm-v99-n2-p13-s.pdf",
+    "description": "Any monotone pointwise continuous function is uniformly continuous. Continuous inverse functions are also obtained. The methods used are in accord with the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://msp.org/pjm/1982/99-2/pjm-v99-n2-p13-s.pdf&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhAWMAR6BAgFEAE&usg=AOvVaw3U2-KC41Vb-_h1lVOf_Dm5",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "APPROXIMATION OF AND BY COMPLETELY MONOTONE ...www.cambridge.org \u203a core \u203a anziam-journal \u203a article",
+    "link": "https://www.cambridge.org/core/journals/anziam-journal/article/approximation-of-and-by-completely-monotone-functions/980C8FD22BFA3CC721824347C5D7538E",
+    "description": "06.03.2020 \u00b7 We investigate convergence in the cone of completely monotone functions. Particular attention is paid to the approximation of and by\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cambridge.org/core/journals/anziam-journal/article/approximation-of-and-by-completely-monotone-functions/980C8FD22BFA3CC721824347C5D7538E&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhAWMAV6BAgBEAE&usg=AOvVaw0X2du9ovUCq4bYjtRl8kGp",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "A general purpose fuzzy controller for monotone functions - IEEE ...ieeexplore.ieee.org \u203a document",
+    "link": "https://ieeexplore.ieee.org/document/537323",
+    "description": "Abstract: In this work, a general purpose fuzzy controller is proposed to handle the class of monotonic functions. A set of rules on the selection of fuzzy subsets\u00a0...\n\nDOI: 10.1109/3477.537323",
+    "googleLink": "http://www.google.com/url?q=https://ieeexplore.ieee.org/document/537323&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhAWMAZ6BAgDEAE&usg=AOvVaw2G8nxOt-s2tidlqmqCx1dc",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "APPROXIMATION OF MONOTONE FUNCTIONS BY ... - IOPscienceiopscience.iop.org \u203a pdf \u203a MSB_76_1_A04",
+    "link": "http://iopscience.iop.org/1468-4802/76/1/A04/pdf/MSB_76_1_A04.pdf",
+    "description": "Sbornik Mathematics. APPROXIMATION OF MONOTONE FUNCTIONS. BY MONOTONE POLYNOMIALS. To cite this article: I A Shevchuk 1993 Sb. Math. 76 51.",
+    "googleLink": "http://www.google.com/url?q=http://iopscience.iop.org/1468-4802/76/1/A04/pdf/MSB_76_1_A04.pdf&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhAWMAd6BAgHEAE&usg=AOvVaw1RvZgyiA8VbJH1PoRaAsR-",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Lebesgue's theorem on differentiability a.e. of monotone functionswww.math.utk.edu \u203a ~freire \u203a teaching \u203a LebesgueTheoremMonoton...",
+    "link": "http://www.math.utk.edu/~freire/teaching/m448s18/LebesgueTheoremMonotoneFunctions.pdf",
+    "description": "A.E. DIFFERENTIABILITY OF MONOTONE FUNCTIONS. 1. The problem of measure. Recall we define the outer measure of a set A \u2282 R by: m. \u2217. (A) = inf{. \u2211.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.utk.edu/~freire/teaching/m448s18/LebesgueTheoremMonotoneFunctions.pdf&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhAWMAh6BAgGEAE&usg=AOvVaw2r0FC7vtlrjt-lyrYl0DY6",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Limitations of Local Filters of Lipschitz and Monotone Functions ...www.springerprofessional.de \u203a limitations-of-local-filters-of-lipschitz-and-...",
+    "link": "https://www.springerprofessional.de/limitations-of-local-filters-of-lipschitz-and-monotone-functions/3950110",
+    "description": "We study local filters for two properties of functions f:{0,1} d \u2192 \u211d: the Lipschitz property and monotonicity. A.",
+    "googleLink": "http://www.google.com/url?q=https://www.springerprofessional.de/limitations-of-local-filters-of-lipschitz-and-monotone-functions/3950110&sa=U&ved=2ahUKEwil4qiepaTvAhUozTgGHYLACGM4HhAWMAl6BAgCEAE&usg=AOvVaw3OCndNjESxpwgMspg_T19Q",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Limitations of Local Filters of Lipschitz and Monotone Functions ...  dl.acm.org \u203a doi",
+    "link": "https://dl.acm.org/doi/10.1145/2692372.2692373",
+    "description": "Limitations of Local Filters of Lipschitz and Monotone Functions ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://dl.acm.org/doi/10.1145/2692372.2692373&ved=2ahUKEwiypLagpaTvAhWJ4nMBHSeyAOQ4KBAWMAF6BAgJEAE&usg=AOvVaw3dIdMyRE4thTS7A-rxZPGE",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Cone Monotone Functions  sites.math.washington.edu \u203a ~burke \u203a papers \u203a cone...",
+    "link": "https://sites.math.washington.edu/~burke/papers/cone-monotone",
+    "description": "Cone Monotone Functions",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://sites.math.washington.edu/~burke/papers/cone-monotone&ved=2ahUKEwiypLagpaTvAhWJ4nMBHSeyAOQ4KBAWMAJ6BAgIEAE&usg=AOvVaw0I6iosOinT3yZgP9aYKrvp",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Monotonic functions - Functions - OpenStax CNX  cnx.org \u203a contents \u203a Monotonic-functions",
+    "link": "https://cnx.org/contents/ysm8oGY0@64.4:PUrDV6Nv/Monotonic-functions",
+    "description": "Monotonic functions - Functions - OpenStax CNX",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://cnx.org/contents/ysm8oGY0%4064.4:PUrDV6Nv/Monotonic-functions&ved=2ahUKEwiypLagpaTvAhWJ4nMBHSeyAOQ4KBAWMAN6BAgKEAE&usg=AOvVaw1HoWi8tDNMBGwo3lOaty-G",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Goodness-of-fit test for monotone functions - Universit\u00e9 Paris Nanterre  www.parisnanterre.fr \u203a durot-reboul-485645",
+    "link": "https://www.parisnanterre.fr/durot-reboul-485645.kjsp?RH=FR",
+    "description": "[PDF] Goodness-of-fit test for monotone functions - Universit\u00e9 Paris Nanterre",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.parisnanterre.fr/durot-reboul-485645.kjsp%3FRH%3DFR&ved=2ahUKEwiypLagpaTvAhWJ4nMBHSeyAOQ4KBAWMAR6BAgHEAE&usg=AOvVaw2_xyCpwvyw3TZ6v0HSQHjr",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Section 6.2. Differentiability of Monotone Functions  faculty.etsu.edu \u203a gardnerr \u203a notes",
+    "link": "https://faculty.etsu.edu/gardnerr/5210/notes/6-2.pdf",
+    "description": "[PDF] Section 6.2. Differentiability of Monotone Functions",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://faculty.etsu.edu/gardnerr/5210/notes/6-2.pdf&ved=2ahUKEwiypLagpaTvAhWJ4nMBHSeyAOQ4KBAWMAV6BAgCEAE&usg=AOvVaw3R7T_656WslHP-5o5y7wXl",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "ProvingInequalities  www.cs.yale.edu \u203a homes \u203a aspnes \u203a pinewiki \u203a Pro...",
+    "link": "https://www.cs.yale.edu/homes/aspnes/pinewiki/ProvingInequalities.html",
+    "description": "ProvingInequalities",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.cs.yale.edu/homes/aspnes/pinewiki/ProvingInequalities.html&ved=2ahUKEwiypLagpaTvAhWJ4nMBHSeyAOQ4KBAWMAZ6BAgDEAE&usg=AOvVaw1XAOneBokioqOcyIjfjXEV",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "A Survey on Operator Monotonicity, Operator Convexity, and ...  www.hindawi.com \u203a journals \u203a ijanal",
+    "link": "https://www.hindawi.com/journals/ijanal/2015/649839/",
+    "description": "A Survey on Operator Monotonicity, Operator Convexity, and ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.hindawi.com/journals/ijanal/2015/649839/&ved=2ahUKEwiypLagpaTvAhWJ4nMBHSeyAOQ4KBAWMAd6BAgFEAE&usg=AOvVaw2GDALKXi6uH5segHeJOFpR",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] When is a Monotone Function Cyclically Monotone? - Theoretical ...  econtheory.org \u203a ...",
+    "link": "https://econtheory.org/?f=4305",
+    "description": "[PDF] When is a Monotone Function Cyclically Monotone? - Theoretical ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://econtheory.org/%3Ff%3D4305&ved=2ahUKEwiypLagpaTvAhWJ4nMBHSeyAOQ4KBAWMAh6BAgGEAE&usg=AOvVaw3EZKKwLusSpRAgEXiwCmZO",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "5.2: Monotonic Functions - Mathematics LibreTexts  math.libretexts.org \u203a ... \u203a 5: Limits and Continuity",
+    "link": "https://math.libretexts.org/Bookshelves/Analysis/Book%3A_A_Primer_of_Real_Analysis_(Sloughter)/05%3A_Limits_and_Continuity/5.02%3A_Monotonic_Functions",
+    "description": "5.2: Monotonic Functions - Mathematics LibreTexts",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://math.libretexts.org/Bookshelves/Analysis/Book%253A_A_Primer_of_Real_Analysis_(Sloughter)/05%253A_Limits_and_Continuity/5.02%253A_Monotonic_Functions&ved=2ahUKEwiypLagpaTvAhWJ4nMBHSeyAOQ4KBAWMAl6BAgEEAE&usg=AOvVaw2SwcVjKlSjS_xxk9JgXO14",
+    "page": 4,
+    "index": 8
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Mathematical induction - Wikipediaen.wikipedia.org \u203a wiki \u203a Mathematical_induction",
+    "link": "https://en.wikipedia.org/wiki/Mathematical_induction",
+    "description": "Mathematical induction is a mathematical proof technique. It is essentially used to prove that a statement P(n) holds for every natural number n = 0, 1, 2, 3, . . . ; that is, the overall statement is a sequence of infinitely many cases P(0), P(1), P(2), P(3), . . . .\nHistory \u00b7 Description \u00b7 Examples \u00b7 Variants",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Mathematical_induction&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QFjAAegQIChAB&usg=AOvVaw0Ps0E9vZRxRGpmYF6cOA4F",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Mathematical Induction - Math is Funwww.mathsisfun.com \u203a algebra \u203a mathematical-indu...",
+    "link": "https://www.mathsisfun.com/algebra/mathematical-induction.html",
+    "description": "Mathematical Induction. Mathematical Induction is a special way of proving things\u200b. It has only 2 steps: Step 1. Show it is true for the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathsisfun.com/algebra/mathematical-induction.html&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QFjAUegQIBhAB&usg=AOvVaw1OelLXw1JLNVy1amCoMb0Y",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Mathematical Induction - Tutorialspointwww.tutorialspoint.com \u203a discrete_mathematics \u203a di...",
+    "link": "https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematical_induction.htm",
+    "description": "Mathematical Induction is a mathematical technique which is used to prove a statement, a formula or a theorem is true for every natural number. The technique involves two steps to prove a statement, as stated below \u2212 Step 1(Base step) \u2212 It proves that a statement is true for the initial value.",
+    "googleLink": "http://www.google.com/url?q=https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematical_induction.htm&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QFjAVegQICRAB&usg=AOvVaw3xsVTC42zt4jdKq0nLe19I",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Proof by Mathematical Induction - How to do a Mathematical ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=dMn5w4_ztSw",
+    "description": "22.01.2013 \u00b7 In this tutorial I show how to do a proof by mathematical induction.Learn Math Tutorials ...Dauer: 7:32\nGepostet: 22.01.2013",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DdMn5w4_ztSw&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QtwIwFnoECAMQAQ&usg=AOvVaw1SvravYuHu1IUowQMJeeJR",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Mathematical induction - Topics in precalculus - The Math Pagethemathpage.com \u203a aPreCalc \u203a mathematical-inducti...",
+    "link": "https://themathpage.com/aPreCalc/mathematical-induction.htm",
+    "description": "MATHEMATICAL INDUCTION. The principle of mathematical induction. THE NATURAL NUMBERS are the counting numbers: 1, 2, 3, 4, etc.",
+    "googleLink": "http://www.google.com/url?q=https://themathpage.com/aPreCalc/mathematical-induction.htm&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QFjAbegQIBRAB&usg=AOvVaw1Ie_0jXfHoOo0sV0V2lbc7",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Mathematical Induction - Cut the Knotwww.cut-the-knot.org \u203a induction",
+    "link": "https://www.cut-the-knot.org/induction.shtml",
+    "description": "Mathematical Induction. Mathematical Induction (MI) is an extremely important tool in Mathematics. First of all you should never confuse MI with Inductive Attitude\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cut-the-knot.org/induction.shtml&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QFjAcegQIABAB&usg=AOvVaw1Xrbky4sbnsmEUuegNmkcq",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "3.4: Mathematical Induction - An Introduction - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 3: Proof Techniques",
+    "link": "https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Book%3A_A_Spiral_Workbook_for_Discrete_Mathematics_(Kwong)/03%3A_Proof_Techniques/3.04%3A_Mathematical_Induction_-_An_Introduction",
+    "description": "20.12.2020 \u00b7 Mathematical induction can be used to prove that an identity is valid for all integers n\u22651. Here is a typical example of such an identity: 1+2+\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Book%253A_A_Spiral_Workbook_for_Discrete_Mathematics_(Kwong)/03%253A_Proof_Techniques/3.04%253A_Mathematical_Induction_-_An_Introduction&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QFjAdegQICxAB&usg=AOvVaw0SuyI4XxkKIJPZmwUBVS4M",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Proof of finite arithmetic series formula by induction (video) | Khan ...www.khanacademy.org \u203a ... \u203a Induction",
+    "link": "https://www.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction/v/proof-by-induction",
+    "description": "06.09.2011 \u00b7 Mathematical induction is a method of mathematical proof typically used to establish a given ...Dauer: 9:23\nGepostet: 06.09.2011",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction/v/proof-by-induction&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QtwIwHnoECAQQAQ&usg=AOvVaw0-K1V5W2lLmkNTzDRazONe",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Mathematical induction - Encyclopedia of Mathematicsencyclopediaofmath.org \u203a wiki \u203a Mathematical_ind...",
+    "link": "https://encyclopediaofmath.org/wiki/Mathematical_induction",
+    "description": "15.01.2021 \u00b7 Mathematical induction. From Encyclopedia of Mathematics. Jump to: navigation, search. A method of proving mathematical results based on the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://encyclopediaofmath.org/wiki/Mathematical_induction&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QFjAfegQICBAB&usg=AOvVaw21PiXchzfj0A_0hSemmPdk",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Sequences and Mathematical Induction: In Mathematical Olympiad ...www.amazon.de \u203a Sequences-Mathematical-Induction-Olympiad-Competiti...",
+    "link": "https://www.amazon.de/Sequences-Mathematical-Induction-Olympiad-Competitions/dp/9811211035",
+    "description": "Sequences and Mathematical Induction: In Mathematical Olympiad and Competitions (Second Edition) | Zhigang Feng | ISBN: 9789811211034 | Kostenloser\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.amazon.de/Sequences-Mathematical-Induction-Olympiad-Competitions/dp/9811211035&sa=U&ved=2ahUKEwiH8MH5yqTvAhUkolwKHbzUAW8QFjAgegQIBxAB&usg=AOvVaw1mJLN3eFkbqTBLBSsOR0Ax",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Mathematical Induction - javatpointwww.javatpoint.com \u203a mathematical-induction",
+    "link": "https://www.javatpoint.com/mathematical-induction",
+    "description": "The process to establish the validity of an ordinary result involving natural numbers is the principle of mathematical induction. Working Rule. Let n0 be a fixed\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.javatpoint.com/mathematical-induction&sa=U&ved=2ahUKEwjAsfn5yqTvAhUIQkEAHW7YDEk4ChAWMAB6BAgJEAE&usg=AOvVaw04z67ibnjbKXq2AiW1d9rq",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Mathematical Proof/Methods of Proof/Proof by Induction - Wikibooks ...en.wikibooks.org \u203a wiki \u203a Proof_by_Induction",
+    "link": "https://en.wikibooks.org/wiki/Mathematical_Proof/Methods_of_Proof/Proof_by_Induction",
+    "description": "Mathematical Proof/Methods of Proof/Proof by Induction ... Induction is analogous to an infinite row of dominoes with each domino standing on its end.",
+    "googleLink": "http://www.google.com/url?q=https://en.wikibooks.org/wiki/Mathematical_Proof/Methods_of_Proof/Proof_by_Induction&sa=U&ved=2ahUKEwjAsfn5yqTvAhUIQkEAHW7YDEk4ChAWMAF6BAgIEAE&usg=AOvVaw27c518NyMtIzNmVBcrVgvB",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Mathematical induction \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Mathematical_induction",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Mathematical_induction",
+    "description": "Mathematical induction \u2013 Serlo. Sprache; Beobachten \u00b7 Bearbeiten. The principle of induction is an important method of proof that you will encounter again and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Mathematical_induction&sa=U&ved=2ahUKEwjAsfn5yqTvAhUIQkEAHW7YDEk4ChAWMAJ6BAgHEAE&usg=AOvVaw0FUsTlMKNT8IyBmcUQlRJw",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Induction | Brilliant Math & Science Wikibrilliant.org \u203a wiki \u203a induction",
+    "link": "https://brilliant.org/wiki/induction/",
+    "description": "Induction. The principle of mathematical induction (often referred to as induction, sometimes referred to as PMI in books) is a fundamental proof technique.",
+    "googleLink": "http://www.google.com/url?q=https://brilliant.org/wiki/induction/&sa=U&ved=2ahUKEwjAsfn5yqTvAhUIQkEAHW7YDEk4ChAWMAN6BAgAEAE&usg=AOvVaw2TSEYMMYW102nLMhPrOhSQ",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Mathematical Inductionzimmer.csufresno.edu \u203a proofs.mathinduction.html",
+    "link": "http://zimmer.csufresno.edu/~larryc/proofs/proofs.mathinduction.html",
+    "description": "Proof. (Proof by Mathematical Induction) Let's let P(n) be the statement \"1 + 2 + ... + n = (n (n\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://zimmer.csufresno.edu/~larryc/proofs/proofs.mathinduction.html&sa=U&ved=2ahUKEwjAsfn5yqTvAhUIQkEAHW7YDEk4ChAWMAR6BAgCEAE&usg=AOvVaw1Os2Agf7ppQIMBY7_3KVKp",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "mathematical induction | Definition, Principle, & Proof | Britannicawww.britannica.com \u203a Science \u203a Mathematics",
+    "link": "https://www.britannica.com/science/mathematical-induction",
+    "description": "Mathematical induction, one of various methods of proof of mathematical propositions. The principle of mathematical induction states that if the integer 0 belongs\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.britannica.com/science/mathematical-induction&sa=U&ved=2ahUKEwjAsfn5yqTvAhUIQkEAHW7YDEk4ChAWMAV6BAgDEAE&usg=AOvVaw08ntpFoetPSqmO174EGdXk",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Mathematical Induction: The Domino Effect in Natural Numbers | by ...medium.com \u203a cantors-paradise \u203a mathematical-ind...",
+    "link": "https://medium.com/cantors-paradise/mathematical-induction-the-domino-effect-in-natural-numbers-61e6754b40f3",
+    "description": "20.04.2020 \u00b7 Most of you have probably already run into the concept of mathematical induction\u200b, which states that if you want to prove that a property holds for\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://medium.com/cantors-paradise/mathematical-induction-the-domino-effect-in-natural-numbers-61e6754b40f3&sa=U&ved=2ahUKEwjAsfn5yqTvAhUIQkEAHW7YDEk4ChAWMAZ6BAgEEAE&usg=AOvVaw0te7_wYBTULBW4tFkaVzZH",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "An Introduction to Mathematical Inductionnrich.maths.org \u203a ...",
+    "link": "https://nrich.maths.org/4718",
+    "description": "You can think of proof by induction as the mathematical equivalent (although it does involve infinitely many dominoes!). Suppose that we have a statement P(n),\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://nrich.maths.org/4718&sa=U&ved=2ahUKEwjAsfn5yqTvAhUIQkEAHW7YDEk4ChAWMA16BAgBEAE&usg=AOvVaw1J3wcjc048BKeotXjTFA1h",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Principle of Mathematical Induction - GeeksforGeekswww.geeksforgeeks.org \u203a principle-of-mathematical...",
+    "link": "https://www.geeksforgeeks.org/principle-of-mathematical-induction/",
+    "description": "31.10.2020 \u00b7 Mathematical Induction is a mathematical proof method that is used to prove a given statement about any well-organized set. Generally, it is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geeksforgeeks.org/principle-of-mathematical-induction/&sa=U&ved=2ahUKEwjAsfn5yqTvAhUIQkEAHW7YDEk4ChAWMA56BAgFEAE&usg=AOvVaw2igrJtchGdsD-rmrfqXjha",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Proof by Inductioncomet.lehman.cuny.edu \u203a sormani \u203a teaching \u203a indu...",
+    "link": "http://comet.lehman.cuny.edu/sormani/teaching/induction.html",
+    "description": "Proofs by Induction. A proof by induction is just like an ordinary proof in which every step must be justified. However it employs a neat trick which allows you to\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://comet.lehman.cuny.edu/sormani/teaching/induction.html&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAB6BAgEEAE&usg=AOvVaw24VoI3yGjArLRK1EG8Yncb",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Mathematical Inductions | Boundless Algebra - Lumen Learningcourses.lumenlearning.com \u203a chapter \u203a mathematica...",
+    "link": "https://courses.lumenlearning.com/boundless-algebra/chapter/mathematical-inductions/",
+    "description": "Mathematical induction is a method of mathematical proof typically used to establish that a given statement is true for all natural numbers (non-negative integers )\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://courses.lumenlearning.com/boundless-algebra/chapter/mathematical-inductions/&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAF6BAgHEAE&usg=AOvVaw1q1OOxZzxTLhDBUjma8-8X",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "No Need to Know the End: Recursive Algorithm and Mathematical ...towardsdatascience.com \u203a no-need-to-know-the-end...",
+    "link": "https://towardsdatascience.com/no-need-to-know-the-end-recursion-algorithm-and-mathematical-induction-5a9e4c747c3c",
+    "description": "Mathematical induction is a technique to prove mathematical properties or formulations that are held for every natural number (0 and positive integers) or every\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://towardsdatascience.com/no-need-to-know-the-end-recursion-algorithm-and-mathematical-induction-5a9e4c747c3c&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAJ6BAgJEAE&usg=AOvVaw0BKqVRBv-y1kFDy6XOCH-h",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Mathematical Induction - Problems With Solutionswww.analyzemath.com \u203a math_induction \u203a mathem...",
+    "link": "https://www.analyzemath.com/math_induction/mathematical_induction.html",
+    "description": "The principle of mathematical induction is used to prove that a given proposition (\u200bformula, equality, inequality\u2026) is true for all positive integer numbers greater than\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.analyzemath.com/math_induction/mathematical_induction.html&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAN6BAgIEAE&usg=AOvVaw2Tl-l3uxZybLGIh3yPfJPZ",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Conditions for proving by mathematical induction to be explanatory ...www.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0732312316300098",
+    "description": "Formal mathematical induction arguments are not typically considered as important to the school mathematics curriculum as they are to the university\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S0732312316300098&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAR6BAgBEAE&usg=AOvVaw0D-siMpp-yrrJJFzuxKPZB",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Maurolycus, the first discoverer of the principle of mathematical ...projecteuclid.org \u203a volume-16 \u203a issue-2 \u203a bams",
+    "link": "https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-16/issue-2/Maurolycus-the-first-discoverer-of-the-principle-of-mathematical-induction/bams/1183420503.short",
+    "description": "November 1909 Maurolycus, the first discoverer of the principle of mathematical induction. G. Vacca. Bull. Amer. Math. Soc. 16(2): 70-73 (November 1909).",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-16/issue-2/Maurolycus-the-first-discoverer-of-the-principle-of-mathematical-induction/bams/1183420503.short&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAV6BAgFEAE&usg=AOvVaw3oa5bclSHfR0HJv5H4eC2i",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "The Origin of Mathematical Induction - JStorwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2974308",
+    "description": "200 THB ORIGIN OF MATHEMATICAL INDUCTION. applications in widely differing branches of mathematics, in algebra, trigonom- etry, calculus, theory of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2974308&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAZ6BAgCEAE&usg=AOvVaw10nn5UntSITCnv-aeecBAD",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Making Mathematics: Mathematics Tools: Mathematical Inductionwww2.edc.org \u203a Home \u203a Mathematics Tools",
+    "link": "http://www2.edc.org/makingmath/mathtools/induction/induction.asp",
+    "description": "Mathematical Induction \u00b7 You have a conjecture that you think is true for every integer greater than 1. Show (by calculation or some other method) that your\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www2.edc.org/makingmath/mathtools/induction/induction.asp&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAd6BAgGEAE&usg=AOvVaw1amn0I855RPmgQd-SOppmx",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Mathematical Induction - ChiliMathwww.chilimath.com \u203a Lessons \u203a Basic Math Proofs",
+    "link": "https://www.chilimath.com/lessons/basic-math-proofs/mathematical-induction/",
+    "description": "Examples of Proving Summation Statements by Mathematical Induction. Example 1: Use the mathematical to prove that the formula is true for all natural numbers\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.chilimath.com/lessons/basic-math-proofs/mathematical-induction/&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAh6BAgAEAE&usg=AOvVaw1WendbrB4mUlGCk0eVoAkt",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Principle of Mathematical Induction | Introduction, Steps and Examplesbyjus.com \u203a Maths \u203a Math Article",
+    "link": "https://byjus.com/maths/principle-of-mathematical-induction-learn-examples/",
+    "description": "Mathematical Induction is a technique of proving a statement, theorem or formula which is thought to be true, for each and every natural number n.",
+    "googleLink": "http://www.google.com/url?q=https://byjus.com/maths/principle-of-mathematical-induction-learn-examples/&sa=U&ved=2ahUKEwjes6b6yqTvAhVFUMAKHWjYD5I4FBAWMAl6BAgDEAE&usg=AOvVaw1-8HDBOCtaAWFu79yUd3E-",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Induction Examples Question 1. Prove using mathematical induction ...home.cc.umanitoba.ca \u203a ~thomas \u203a Courses \u203a InductionExamples-Sol...",
+    "link": "http://home.cc.umanitoba.ca/~thomas/Courses/InductionExamples-Solutions.pdf",
+    "description": "Use the Principle of Mathematical Induction to show that xn < 4 for all n \u2265 1. Solution. For any n \u2265 1, let Pn be the statement that xn < 4. Base Case. The statement\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://home.cc.umanitoba.ca/~thomas/Courses/InductionExamples-Solutions.pdf&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAB6BAgBEAE&usg=AOvVaw2Fj0AQ8V634bYMzSyTznZN",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Sequences & Series - Mathematical Induction - Cool Mathwww.coolmath.com \u203a algebra \u203a 09-mathematical-in...",
+    "link": "https://www.coolmath.com/algebra/19-sequences-series/09-mathematical-induction-01",
+    "description": "In the Algebra world, mathematical induction is the first one you usually learn because it's just a set list of steps you work through. This makes it easier than the\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.coolmath.com/algebra/19-sequences-series/09-mathematical-induction-01&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAF6BAgIEAE&usg=AOvVaw0E6Oz4sROLGIJLPRpm6L96",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Proof by Induction - Advanced Higher Mathswww.advancedhighermaths.co.uk \u203a proof-by-induct...",
+    "link": "https://www.advancedhighermaths.co.uk/proof-by-induction/",
+    "description": "If you would like more help understanding Proof by Induction there are full, easy to follow, step-by-step worked solutions to dozens of AH Maths Past & Practice\u00a0...\n\nAH Maths Exam Questions: Methods of Proof (Number Theory) Exam Questions\nTheory Guide 2: Methods of Proof Theory Guide 2\nWorksheet/Theory Guides ___________________________: Resource Link; _______________________________________...\nTheory Guide 1: Methods of Proof Theory Guide 1",
+    "googleLink": "http://www.google.com/url?q=https://www.advancedhighermaths.co.uk/proof-by-induction/&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAJ6BAgJEAE&usg=AOvVaw1mUvzLobcr-0wjIc19HR4J",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Mathematical Induction Tutorialalgebra.nipissingu.ca \u203a tutorials \u203a induction",
+    "link": "https://algebra.nipissingu.ca/tutorials/induction.html",
+    "description": "Mathematical induction is a powerful, yet straight-forward method of proving statements whose \"domain\" is a subset of the set of integers. Usually, a statement that\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://algebra.nipissingu.ca/tutorials/induction.html&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAN6BAgHEAE&usg=AOvVaw0xKZXhuFCL0Qd1Eh-k46bc",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Mathematical induction | Math Wiki | Fandommath.wikia.org \u203a wiki \u203a Mathematical_induction",
+    "link": "https://math.wikia.org/wiki/Mathematical_induction",
+    "description": "Mathematical induction is a method of proof by which a statement about a variable can be demonstrated to be true for all integer values of that variable greater\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.wikia.org/wiki/Mathematical_induction&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAR6BAgFEAE&usg=AOvVaw3E5rr4nsHaz1tRn8ZfEBUB",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Induction Proof | Mathematical Induction | Examples on Math ...www.math-only-math.com \u203a induction-proof",
+    "link": "https://www.math-only-math.com/induction-proof.html",
+    "description": "Induction proof is a mathematical method of proving a set of formula or theory or series of natural numbers. Induction proof is used from the theory of mathematical\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math-only-math.com/induction-proof.html&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAV6BAgEEAE&usg=AOvVaw2XxtTw5B2cJYZwWH4x2EAr",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Preservice teachers' knowledge of proof by mathematical induction ...link.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1007/s10857-007-9034-z",
+    "description": "16.06.2007 \u00b7 There is a growing effort to make proof central to all students' mathematical experiences across all grades. Success in this goal depends highly\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/article/10.1007/s10857-007-9034-z&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAZ6BAgCEAE&usg=AOvVaw3n3llbEMuPbRYjK6kllnra",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "the concept of Mathematical Induction - Mathematics Stack Exchangemath.stackexchange.com \u203a questions \u203a the-concept-...",
+    "link": "https://math.stackexchange.com/questions/581127/the-concept-of-mathematical-induction",
+    "description": "What is induction? At its core, induction is this statement: Take a set S. If 1\u2208S, and k\u2208S implies that k+1\u2208S, then all natural numbers are in S. Intuitively, this is\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/581127/the-concept-of-mathematical-induction&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAd6BAgAEAE&usg=AOvVaw2zdukhGpzVwt8xdPskhbK8",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Handbook of Mathematical Induction: Theory and Applications ...www.amazon.com \u203a Handbook-Mathematical-Induc...",
+    "link": "https://www.amazon.com/Handbook-Mathematical-Induction-Applications-Mathematics/dp/1420093649",
+    "description": "Handbook of Mathematical Induction: Theory and Applications (Discrete Mathematics and Its Applications) [Gunderson, David S.] on Amazon.com. *FREE\u200b*\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.amazon.com/Handbook-Mathematical-Induction-Applications-Mathematics/dp/1420093649&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAh6BAgGEAE&usg=AOvVaw1A0FckHmEcVALGZdfdtuwg",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "definition of mathematical induction by The Free Dictionarywww.thefreedictionary.com \u203a mathematical+induction",
+    "link": "https://www.thefreedictionary.com/mathematical+induction",
+    "description": "mathematical induction. n. Induction. American Heritage\u00ae Dictionary of the English Language, Fifth Edition. Copyright \u00a9 2016 by Houghton Mifflin\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.thefreedictionary.com/mathematical%2Binduction&sa=U&ved=2ahUKEwjAjdf6yqTvAhWQTcAKHQcPBLQ4HhAWMAl6BAgDEAE&usg=AOvVaw18E0w7UVphK60A6SO6_SAa",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "definition of mathematical induction by The Free Dictionarywww.thefreedictionary.com \u203a math...",
+    "link": "https://www.thefreedictionary.com/mathematical+induction",
+    "description": "mathematical induction. n. Induction. American Heritage\u00ae Dictionary of the English Language, Fifth Edition. Copyright \u00a9 2016 by Houghton Mifflin\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Peter Suber, \"Mathematical Induction\" - Earlham Collegelegacy.earlham.edu \u203a math-ind",
+    "link": "https://legacy.earlham.edu/~peters/courses/logsys/math-ind.htm",
+    "description": "(Or: The next coffee shop burger will be greasy.) Strong inductions differ from valid deductions in one important way: in the induction, the conclusion contains\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Mathematical induction - The University of Sydneywww.sydney.edu.au \u203a mathematics-learning-centre",
+    "link": "https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/mathematical-induction.pdf",
+    "description": "von M Barnes \u00b7 Zitiert von: 2 \u2014 The trick used in mathematical induction is to prove the first statement in the sequence, and then prove that if any particular statement is true, then the one after it is.",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Mathematical Induction - SIUEwww.siue.edu \u203a sec-induction",
+    "link": "https://www.siue.edu/~jloreau/courses/math-223/notes/sec-induction.html",
+    "description": "\u201cWait, induction? I thought math was deductive?\u201d Well, yes, math is deductive and, in fact, mathematical induction is actually a deductive form of reasoning; if that\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "(PDF) Mathematical Induction: A Pedagogical Discussionwww.researchgate.net \u203a publication",
+    "link": "https://www.researchgate.net/publication/227223670_Mathematical_Induction_A_Pedagogical_Discussion",
+    "description": "01.12.2020 \u2014 PDF | It is observed that many students have difficulty in producing correct proofs by the method of mathematical induction. The notion of a\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Mathematical Inductionpeople.math.sc.edu \u203a numbertheory",
+    "link": "https://people.math.sc.edu/sumner/numbertheory/induction/Induction.html",
+    "description": "The Technique of Proof by Induction. Suppose that having just learned the product rule for derivatives [i.e. (fg)' = f'g + fg'] you wanted to prove to someone that for\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Handbook of Mathematical Induction: Theory and Applications ...www.routledge.com \u203a book",
+    "link": "https://www.routledge.com/Handbook-of-Mathematical-Induction-Theory-and-Applications/Gunderson/p/book/9781138199019",
+    "description": "Handbook of Mathematical Induction: Theory and Applications shows how to find and write proofs via mathematical induction. This comprehensive book covers\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Mathematical induction - Oxford Referencewww.oxfordreference.com \u203a view",
+    "link": "https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100139949",
+    "description": "The method of proof 'by mathematical induction' is based on the following principle:Principle of mathematical inductionLet there be associated, with each\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Mathematical Induction | springerprofessional.dewww.springerprofessional.de \u203a mathematical-induction",
+    "link": "https://www.springerprofessional.de/mathematical-induction/1840972",
+    "description": "Proof by mathematical induction is a special method of proof that is often used to establish that certain statements are true for every natural.",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "MATHEMATICAL INDUCTION - Deutsch-\u00dcbersetzung - bab.la ...de.bab.la \u203a woerterbuch \u203a englisch-deutsch \u203a mathemat...",
+    "link": "https://de.bab.la/woerterbuch/englisch-deutsch/mathematical-induction",
+    "description": "\u00dcbersetzung f\u00fcr 'mathematical induction' im kostenlosen Englisch-Deutsch W\u00f6rterbuch und viele weitere Deutsch-\u00dcbersetzungen.",
+    "googleLink": null,
+    "page": 4,
+    "index": 9
+  }
+]

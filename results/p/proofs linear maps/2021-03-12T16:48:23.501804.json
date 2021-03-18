@@ -1,0 +1,386 @@
+[
+  {
+    "name": "How to prove if something is a linear transformation? - Mathematics ...math.stackexchange.com \u203a questions \u203a how-to-prov...",
+    "link": "https://math.stackexchange.com/questions/1505920/how-to-prove-if-something-is-a-linear-transformation",
+    "description": "This is almost right, but that third condition shouldn't be there (in fact, I don't know what it means in general--what is \"A\"?). That is, a map L between two vector\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/1505920/how-to-prove-if-something-is-a-linear-transformation&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQFjAAegQICBAB&usg=AOvVaw196hNG1BNmilxWL7wA8V0g",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Linear map - Wikipediaen.wikipedia.org \u203a wiki \u203a Linear_map",
+    "link": "https://en.wikipedia.org/wiki/Linear_map",
+    "description": "In mathematics, a linear map is a mapping V \u2192 W {\\displaystyle V\\rightarrow W} {\\\u200bdisplaystyle V\\rightarrow W} between two vector spaces that preserves the\u00a0...\nModule (mathematics) \u00b7 Endomorphism \u00b7 Antilinear map",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Linear_map&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQFjAJegQICRAB&usg=AOvVaw0MtlW2anZK4JizqwzQTC7x",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Linear Maps - UC Davis Mathematicswww.math.ucdavis.edu \u203a ~anne \u203a mat67-Lh-Linear_Maps",
+    "link": "https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Lh-Linear_Maps.pdf",
+    "description": "05.02.2007 \u00b7 A linear map T \u2208 L(V,W) is invertible if and only if T is injective and surjective. Proof. \u201d=\u21d2\u201d Suppose T is invertible. To show that T is injective, suppose that u, v \u2208 V are such that Tu = Tv.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Lh-Linear_Maps.pdf&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQFjAKegQIBRAB&usg=AOvVaw0Gt8RFboEeaG28QPM0qoZU",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[Linear Algebra] Vector Space Linear Mapping Proof Examples ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=U5Se4dixU1k",
+    "description": "04.06.2016 \u00b7 We show that a certain transformation from M2x2 to M2x2 is a linear transformation in this ...Dauer: 5:04\nGepostet: 04.06.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DU5Se4dixU1k&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQtwIwC3oECAQQAQ&usg=AOvVaw3xEZ0u_CFJA0qu8vIHNBs1",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 8. Linear Maps - Brandeispeople.brandeis.edu \u203a ~lian \u203a TsinghuaMathcamp2014 \u203a Chapters8-11",
+    "link": "http://people.brandeis.edu/~lian/TsinghuaMathcamp2014/Chapters8-11.pdf",
+    "description": "Proof: All three follows from the dimension relation immediately. Corollary 8.10. Let L : U \u2192 V be a linear map of finite dimensional vector spaces with dim(U)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://people.brandeis.edu/~lian/TsinghuaMathcamp2014/Chapters8-11.pdf&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQFjAMegQIBhAB&usg=AOvVaw0YmQO1MJyZJqeYNVch0XVm",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Linear Maps Defined by Bases - Mathonlinemathonline.wikidot.com \u203a linear-maps-defined-by-b...",
+    "link": "http://mathonline.wikidot.com/linear-maps-defined-by-bases",
+    "description": "Then there exists a unique linear map $T : V \\to W$ defined by $T(v_j) = w_j$ for each $j = 1, 2 , ..., n$. Proof: We will first prove the existence of such a linear map.",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/linear-maps-defined-by-bases&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQFjANegQIChAB&usg=AOvVaw2JX-8tc9trAj8p5naUZTpP",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Linear Mappings and Bases - Ximeraximera.osu.edu \u203a laode \u203a linearAlgebra \u203a linearMap...",
+    "link": "https://ximera.osu.edu/laode/linearAlgebra/linearMapsAndChangesOfCoordinates/linearMappingsAndBases",
+    "description": "11.6Proof of Jordan Normal Form \u00b7 Examples of Linear Mappings \u00b7 Constructing Linear Mappings from Bases \u00b7 Finding the Matrix of a Linear Map from Given by\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ximera.osu.edu/laode/linearAlgebra/linearMapsAndChangesOfCoordinates/linearMappingsAndBases&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQFjASegQIARAB&usg=AOvVaw2w1YJ9-qAhbqc5fxsCQcUb",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Showing a transformation is linear using the definition ...www.mathbootcamps.com \u203a showing-a-transformati...",
+    "link": "https://www.mathbootcamps.com/showing-a-transformation-is-linear-using-the-definition/",
+    "description": "Let's use an example to see how you would use this definition to prove a given transformation is linear. Example. Show that T([x\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathbootcamps.com/showing-a-transformation-is-linear-using-the-definition/&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQFjATegQIABAB&usg=AOvVaw1aiVcy7uLhSusBXa3pOKrc",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Linear Mappingslink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-1-4757-1949-9_3.pdf",
+    "description": "Proof. We shall prove that a linear map T satisfying the required conditions exists. Let V be an element of V, and let Xl' ... 'Xn be the unique numbers such that V\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-1-4757-1949-9_3.pdf&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQFjAUegQIBxAB&usg=AOvVaw1kUT_uFmdN_kyRcsoLFlub",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Linear Mappingslink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-1-4684-9446-4_3.pdf",
+    "description": "Then Ij; can be factored over <p; that is, there exists a linear mapping. X:F-tG such that. Xo<p=Ij;. Proof' Since Ij; maps ker <p into 0 it induces a linear mapping ifi\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-1-4684-9446-4_3.pdf&sa=U&ved=2ahUKEwjWr7KdjavvAhVdGjQIHWTiCaIQFjAVegQICxAB&usg=AOvVaw1gZNLcBiU_PXszvBA3IAQZ",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "[PDF] A GUIDE TO PROOFS IN LINEAR ALGEBRAwww.vcccd.edu \u203a files \u203a departments \u203a human-resources \u203a sabbaticals",
+    "link": "https://www.vcccd.edu/sites/default/files/departments/human-resources/sabbaticals/2017-2018/paulcurtis-sabbaticalfinalrpt-fall2017-proofsinlinearalgebra.pdf",
+    "description": "A proof is a sequence of statements justified by axioms, theorems, definitions, and ... linear transformations is a linear transformation, it is not possible to list out\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.vcccd.edu/sites/default/files/departments/human-resources/sabbaticals/2017-2018/paulcurtis-sabbaticalfinalrpt-fall2017-proofsinlinearalgebra.pdf&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAB6BAgBEAE&usg=AOvVaw1dHz2uvwKHyk2CZSeXcck9",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Definition:Linear Transformation - ProofWikiproofwiki.org \u203a wiki \u203a Definition:Linear_Transform...",
+    "link": "https://proofwiki.org/wiki/Definition:Linear_Transformation",
+    "description": "vor 7 Tagen \u00b7 Definition:Linear Transformation. From ProofWiki. Jump to navigation Jump to search. Contents.",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Definition:Linear_Transformation&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAF6BAgJEAE&usg=AOvVaw2K49l0KH7mUSwRyKIvCFi6",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Category:Linear Transformations - ProofWikiproofwiki.org \u203a wiki \u203a Category:Linear_Transforma...",
+    "link": "https://proofwiki.org/wiki/Category:Linear_Transformations",
+    "description": "13.07.2017 \u00b7 Category:Linear Transformations. From ProofWiki. Jump to navigation Jump to search. This category contains results about Linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Category:Linear_Transformations&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAJ6BAgIEAE&usg=AOvVaw09KqPmDUM6cit1VcY0W43v",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Chapter 4 Linear mapswww.math.nagoya-u.ac.jp \u203a ~richard \u203a teaching \u203a Chapter_4",
+    "link": "http://www.math.nagoya-u.ac.jp/~richard/teaching/f2014/Chapter_4.pdf",
+    "description": "Proof. The proof consists in checking all conditions of Definition 3.1.3. For that purpose, consider T,T1,T2,T3 be linear maps\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.nagoya-u.ac.jp/~richard/teaching/f2014/Chapter_4.pdf&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAN6BAgHEAE&usg=AOvVaw00ieWe_X8s7jP9vinE4Q4z",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Section LT Linear Transformations - A First Course in Linear Algebralinear.ups.edu \u203a ... \u203a Linear Transformations",
+    "link": "http://linear.ups.edu/html/section-LT.html",
+    "description": "Proof. So if we were to restrict our study of linear transformations to those where the domain and codomain are both vector spaces of column vectors (Definition\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://linear.ups.edu/html/section-LT.html&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAR6BAgFEAE&usg=AOvVaw1Hfgt-WRpjE97sajf-UeLg",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Linear Maps - Cs Princeton - Princeton Universitywww.cs.princeton.edu \u203a ~dpw \u203a papers \u203a linear-maps-tr",
+    "link": "https://www.cs.princeton.edu/~dpw/papers/linear-maps-tr.pdf",
+    "description": "amples, prove that our verification rules are sound, and show that operations on linear maps may be erased and replaced by equivalent operations on a single,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cs.princeton.edu/~dpw/papers/linear-maps-tr.pdf&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAV6BAgGEAE&usg=AOvVaw1oipZ0BYjp6JyzmkUl-MaX",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Proof of the theorem about linear transformations from R<sup>n ...math.vanderbilt.edu \u203a sapirmv \u203a msapir \u203a prchar",
+    "link": "https://math.vanderbilt.edu/sapirmv/msapir/prchar.html",
+    "description": "For every two vectors A and B in R f(A+B)=f(A)+f(B); \u00b7 For every vector A in Rn and every number k f(kA)=kf(A).",
+    "googleLink": "http://www.google.com/url?q=https://math.vanderbilt.edu/sapirmv/msapir/prchar.html&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAZ6BAgDEAE&usg=AOvVaw2m-9yHPAk-Q6SrLc2lOsNw",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Linear Transformations on Rn - LTCC Onlineltcconline.net \u203a courses \u203a Vectors \u203a linearTransRn",
+    "link": "https://ltcconline.net/greenl/courses/203/Vectors/linearTransRn.htm",
+    "description": "Show that L is a linear transformation. Solution. First, we prove the first property. Suppose that. u = (u1,u2) and v = (v1,v2). then. L(u + v) = L(u1 + v1, u2 + v2).",
+    "googleLink": "http://www.google.com/url?q=https://ltcconline.net/greenl/courses/203/Vectors/linearTransRn.htm&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAd6BAgCEAE&usg=AOvVaw2soVyY1Mp8L2qF29ot0hi-",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Algebra Examples | Linear Transformations | Proving a ... - Mathwaywww.mathway.com \u203a algebra \u203a linear-transformations",
+    "link": "https://www.mathway.com/examples/algebra/linear-transformations/proving-a-transformation-is-linear",
+    "description": "The transformation defines a map from R3 \u211d 3 to R3 \u211d 3 . To prove the transformation is linear, the transformation must preserve scalar multiplication, addition,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathway.com/examples/algebra/linear-transformations/proving-a-transformation-is-linear&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAh6BAgAEAE&usg=AOvVaw1z_x75452_jSyVCpTrx94i",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Linear Transformations - UBC Mathwww.math.ubc.ca \u203a ~carrell \u203a 307_chap6",
+    "link": "http://www.math.ubc.ca/~carrell/307_chap6.pdf",
+    "description": "In this Chapter, we will define the notion of a linear transformation between two vector spaces V and W which are defined over the same field and prove the most\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.ubc.ca/~carrell/307_chap6.pdf&sa=U&ved=2ahUKEwjPyauejavvAhVgITQIHXoFC7g4ChAWMAl6BAgEEAE&usg=AOvVaw3WxcqgOVVqbNeCu1XiGFyP",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Completely Positive Linear Maps on Complex Matrices - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/82789302.pdf",
+    "description": "Proof. The 'if' part is obvious, We proceed to prove the converse. Each. 1 x nm matrix v can be regarded as a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://core.ac.uk/download/pdf/82789302.pdf&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAB6BAgGEAE&usg=AOvVaw34okvUAF7nSUEVBjZZ5lA5",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] 12. Linear transformations Definition 12.1. Let \u03c6: V \u2212\u2192 W be a ...math.mit.edu \u203a ~mckernan \u203a Teaching \u203a Autumn",
+    "link": "http://math.mit.edu/~mckernan/Teaching/08-09/Autumn/18.700/l_12.pdf",
+    "description": "Proof. Let A be the matrix whose ith column is \u03c6(ei). Suppose that v \u2208 V . If v = (r1\u200b,r2,...,rn) \u2208 Fn then v = \u2211riei. In this case \u03c6(v) = \u03c6(r1e1 + r2e2 + \u00b7\u00b7\u00b7 + rnen).",
+    "googleLink": "http://www.google.com/url?q=http://math.mit.edu/~mckernan/Teaching/08-09/Autumn/18.700/l_12.pdf&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAF6BAgJEAE&usg=AOvVaw2ArdvdVpIZNa7fCopSQw6D",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Vector spaces and linear maps - Stanford Universityweb.stanford.edu \u203a class \u203a vectorspaces",
+    "link": "https://web.stanford.edu/class/math61cm/vectorspaces.pdf",
+    "description": "Another example of what one can prove in a vector space: ... Proof: Since T0 = 0 for any linear map, if T is one-to-one, the only element of V it may map to 0 is.",
+    "googleLink": "http://www.google.com/url?q=https://web.stanford.edu/class/math61cm/vectorspaces.pdf&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAJ6BAgHEAE&usg=AOvVaw2XFwB6HVVr1Kd_MDodVyro",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] MATH 423 Linear Algebra II Lecture 8: Subspaces and ... - TAMU Mathwww.math.tamu.edu \u203a ~yvorobet",
+    "link": "https://www.math.tamu.edu/~yvorobet/MATH423-2012A/Lect1-08web.pdf",
+    "description": "Lecture 8: Subspaces and linear transformations. ... field F, a mapping L : V1 \u2192 V2 is linear if. L(x + y) ... Proof: Let 01 be the zero vector in V1 and 02 be the zero.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tamu.edu/~yvorobet/MATH423-2012A/Lect1-08web.pdf&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAN6BAgIEAE&usg=AOvVaw27Id3uY1UL6UlX1-Si1Rqr",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Linear Algebra - Stony Brook Mathematicswww.math.stonybrook.edu \u203a ~oleg \u203a mat310-spr18",
+    "link": "https://www.math.stonybrook.edu/~oleg/mat310-spr18/L8.pdf",
+    "description": "20.02.2018 \u00b7 a unique linear map T : V \u2192 W such that Tvj = wj for j = 1,...,n. Proof. Existense. Consider linear maps Tv : Fn \u2192 V and Tw : Fn \u2192 W , where v\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.stonybrook.edu/~oleg/mat310-spr18/L8.pdf&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAR6BAgBEAE&usg=AOvVaw01OwrBHqFsCsv7KzxDrxPW",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Linear Maps Preserving the Isomorphism Class of Lattices ... - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/118970",
+    "description": "gebra of all linear transformations on V. We prove that every linear map on. L(V), which ... Some of the proofs of the infinite-dimensional results do not work in the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/118970&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAV6BAgCEAE&usg=AOvVaw39W9Ihg0UR-xvU4cRaWgaq",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Invertibility Preserving Linear Maps on L(X) - JStorwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2155161",
+    "description": "A linear map o from an algebra A to an algebra B is called unital if o(1) = 1 ... Proof. First, we show that o(1) = 1'. By assumption, 1' = 0(u) for some u E R, and so.",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2155161&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAZ6BAgDEAE&usg=AOvVaw2Sw1-6J-sZl1Z7Axq0Niz9",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "INVERTIBILITY PRESERVING LINEAR MAPS ON L(X) - American ...www.ams.org \u203a tran",
+    "link": "https://www.ams.org/tran/1996-348-01/S0002-9947-96-01428-6/S0002-9947-96-01428-6.pdf",
+    "description": "If \u03c6: L(X) \u2192 L(Y ) is a surjective invertibility preserving linear map, then it is norm continuous. Proof. By the closed graph theorem, it suffices to prove that if Tn \u2208 L(\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ams.org/tran/1996-348-01/S0002-9947-96-01428-6/S0002-9947-96-01428-6.pdf&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAd6BAgAEAE&usg=AOvVaw2qqiPwIB3XikDLqwfr3kBd",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Linear Transformations and Matrices - UCSD CSEcseweb.ucsd.edu \u203a ~gill \u203a CILASite \u203a Resources",
+    "link": "https://cseweb.ucsd.edu/~gill/CILASite/Resources/09Chap5.pdf",
+    "description": "What is the matrix representation of the operation T(x)?. 3. Show that cf is a linear transformation in the proof of Theorem 5.2. 4. Prove Theorem 5.3. 5.",
+    "googleLink": "http://www.google.com/url?q=https://cseweb.ucsd.edu/~gill/CILASite/Resources/09Chap5.pdf&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAh6BAgFEAE&usg=AOvVaw3sWq4lGKwd5BXRHSMX3yCC",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Compositions of Linear Transformationswww.math.lsa.umich.edu \u203a ~kesmith",
+    "link": "http://www.math.lsa.umich.edu/~kesmith/217worksheet2-3ALT1.pdf",
+    "description": "\u2212\u2192 R2 be two linear transformations. 1. Prove that the composition S \u25e6 T is a linear transformation (using the definition!). What is its source vector space?",
+    "googleLink": "http://www.google.com/url?q=http://www.math.lsa.umich.edu/~kesmith/217worksheet2-3ALT1.pdf&sa=U&ved=2ahUKEwjjwdGfjavvAhXCoFsKHdp5C6w4FBAWMAl6BAgEEAE&usg=AOvVaw13fCvBrNwnJuIS7jj4MavG",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "A Linear Transformation Maps the Zero Vector to the Zero Vector ...  yutsumura.com \u203a a-linear-transformation-maps-the-...",
+    "link": "https://yutsumura.com/a-linear-transformation-maps-the-zero-vector-to-the-zero-vector/",
+    "description": "A Linear Transformation Maps the Zero Vector to the Zero Vector ...",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://yutsumura.com/a-linear-transformation-maps-the-zero-vector-to-the-zero-vector/&ved=2ahUKEwiqk-ehjavvAhUEPH0KHfRGDFc4HhAWMAF6BAgKEAE&usg=AOvVaw3KyWtyEIoSJSPX59-goIIS",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Linear Transformations  sites.millersville.edu \u203a bikenaga \u203a lintrans \u203a lintrans",
+    "link": "https://sites.millersville.edu/bikenaga/linear-algebra/lintrans/lintrans.html",
+    "description": "Linear Transformations",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://sites.millersville.edu/bikenaga/linear-algebra/lintrans/lintrans.html&ved=2ahUKEwiqk-ehjavvAhUEPH0KHfRGDFc4HhAWMAJ6BAgJEAE&usg=AOvVaw1OJBoWecLYI-jF9RV6KdF3",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] 12 Linear Transformations  personalpages.manchester.ac.uk \u203a staff \u203a Charles.Eaton \u203a Section12",
+    "link": "https://personalpages.manchester.ac.uk/staff/Charles.Eaton/Section12.pdf",
+    "description": "[PDF] 12 Linear Transformations",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://personalpages.manchester.ac.uk/staff/Charles.Eaton/Section12.pdf&ved=2ahUKEwiqk-ehjavvAhUEPH0KHfRGDFc4HhAWMAN6BAgIEAE&usg=AOvVaw0sTSIoqsLF37SBrGnp1bbV",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 1. Suppose that S and T are invertible linear maps. Prove that: (i) S-1 ...  www.math.colostate.edu \u203a ~aristoff \u203a 560_hw3_solutions",
+    "link": "http://www.math.colostate.edu/~aristoff/560_hw3_solutions.pdf",
+    "description": "[PDF] 1. Suppose that S and T are invertible linear maps. Prove that: (i) S-1 ...",
+    "googleLink": null,
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Linear Transformations  math.okstate.edu \u203a people \u203a binegar",
+    "link": "https://math.okstate.edu/people/binegar/4063-5023/4063-5023-l10.pdf",
+    "description": "[PDF] Linear Transformations",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://math.okstate.edu/people/binegar/4063-5023/4063-5023-l10.pdf&ved=2ahUKEwiqk-ehjavvAhUEPH0KHfRGDFc4HhAWMAV6BAgEEAE&usg=AOvVaw2_RBrD_oJXCM7o8_XfNxxJ",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "[PDF] 10 Linear transformations  www.ndsu.edu \u203a pubweb \u203a ~novozhil \u203a Teaching",
+    "link": "https://www.ndsu.edu/pubweb/~novozhil/Teaching/329%20Data/10.pdf",
+    "description": "[PDF] 10 Linear transformations",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.ndsu.edu/pubweb/~novozhil/Teaching/329%2520Data/10.pdf&ved=2ahUKEwiqk-ehjavvAhUEPH0KHfRGDFc4HhAWMAZ6BAgCEAE&usg=AOvVaw0X_7Iam24JAA_4095v8gw4",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Chapter 5 Linear Transformations and Operators - Henry D. Pfister  pfister.ee.duke.edu \u203a courses \u203a ecen601 \u203a notes_ch5",
+    "link": "http://pfister.ee.duke.edu/courses/ecen601/notes_ch5.pdf",
+    "description": "[PDF] Chapter 5 Linear Transformations and Operators - Henry D. Pfister",
+    "googleLink": null,
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Linear Maps, the Total Derivative, and the - Columbia Mathematics ...  www.math.columbia.edu \u203a lipshitz \u203a teaching \u203a Linearization",
+    "link": "http://www.math.columbia.edu/department/lipshitz/teaching/Linearization.pdf",
+    "description": "[PDF] Linear Maps, the Total Derivative, and the - Columbia Mathematics ...",
+    "googleLink": null,
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] MTH6140 Linear Algebra II 3 Linear maps between vector spaces  www.maths.qmul.ac.uk \u203a ~twm \u203a MTH6140",
+    "link": "http://www.maths.qmul.ac.uk/~twm/MTH6140/la23.pdf",
+    "description": "[PDF] MTH6140 Linear Algebra II 3 Linear maps between vector spaces",
+    "googleLink": null,
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "How to prove a linear transformation is unique - Quora  www.quora.com \u203a How-do-you-prove-a-linear-trans...",
+    "link": "https://www.quora.com/How-do-you-prove-a-linear-transformation-is-unique",
+    "description": "How to prove a linear transformation is unique - Quora",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.quora.com/How-do-you-prove-a-linear-transformation-is-unique&ved=2ahUKEwj4jaGjjavvAhU2JzQIHYwQD4I4KBAWMAF6BAgJEAE&usg=AOvVaw0vX-iKTQtVfgXKMNxLUg8H",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Linear Maps and Matrices Maps Suppose that V and W are sets. A ...  faculty.missouri.edu \u203a ~cutkoskys \u203a LAhand7",
+    "link": "http://faculty.missouri.edu/~cutkoskys/LAhand7.pdf",
+    "description": "[PDF] Linear Maps and Matrices Maps Suppose that V and W are sets. A ...",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Linear algebra - Harvard Mathematics Department  people.math.harvard.edu \u203a ~campbell \u203a linalg",
+    "link": "http://people.math.harvard.edu/~campbell/linalg.pdf",
+    "description": "[PDF] Linear algebra - Harvard Mathematics Department",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Linear Transformations and Operators - IMOmath  www.imomath.com \u203a ...",
+    "link": "https://www.imomath.com/index.php?options=782&lmm=0",
+    "description": "Linear Transformations and Operators - IMOmath",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.imomath.com/index.php%3Foptions%3D782%26lmm%3D0&ved=2ahUKEwj4jaGjjavvAhU2JzQIHYwQD4I4KBAWMAR6BAgIEAE&usg=AOvVaw3uvWUzLshHNS8ELWbtMlQw",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Linear Transformations  textbooks.math.gatech.edu \u203a ila \u203a linear-transformati...",
+    "link": "https://textbooks.math.gatech.edu/ila/linear-transformations.html",
+    "description": "Linear Transformations",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://textbooks.math.gatech.edu/ila/linear-transformations.html&ved=2ahUKEwj4jaGjjavvAhU2JzQIHYwQD4I4KBAWMAV6BAgBEAE&usg=AOvVaw2l26IVL376O-N-O45_bqis",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Chapter 2 Linear Maps - University of South Alabama  www.southalabama.edu \u203a jbarnard-archive \u203a teaching \u203a packet1",
+    "link": "https://www.southalabama.edu/mathstat/personal_pages/jbarnard-archive/teaching/Sm12-237/packet1.pdf",
+    "description": "[PDF] Chapter 2 Linear Maps - University of South Alabama",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.southalabama.edu/mathstat/personal_pages/jbarnard-archive/teaching/Sm12-237/packet1.pdf&ved=2ahUKEwj4jaGjjavvAhU2JzQIHYwQD4I4KBAWMAZ6BAgEEAE&usg=AOvVaw0Gc0U9muZwwOmGyJLrRQTG",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 1 Linear transformations; the basics - Math FAU  math.fau.edu \u203a schonbek \u203a LinearAlgebra \u203a lafa13Lineartransformati...",
+    "link": "http://math.fau.edu/schonbek/LinearAlgebra/lafa13Lineartransformations.pdf",
+    "description": "[PDF] 1 Linear transformations; the basics - Math FAU",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Linear Algebra Proofs  www.math.ucdenver.edu \u203a ~esulliva \u203a LinearAlgebra \u203a Proofs",
+    "link": "http://www.math.ucdenver.edu/~esulliva/LinearAlgebra/Proofs.pdf",
+    "description": "[PDF] Linear Algebra Proofs",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 5 Linear Transformations - IITB Math  www.math.iitb.ac.in \u203a ~ars \u203a week5",
+    "link": "http://www.math.iitb.ac.in/~ars/MA106/week5.pdf",
+    "description": "[PDF] 5 Linear Transformations - IITB Math",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  }
+]

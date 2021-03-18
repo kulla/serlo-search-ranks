@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Punktnotation - lernen mit Serlo!de.serlo.org \u203a informatik \u203a punktnotation",
+    "link": "https://de.serlo.org/informatik/65737/punktnotation",
+    "description": "Die Punktnotation (auch Kurznotation oder Punktschreibweise) ist eine kurze, einheitliche Schreibweise, um einzelne Attribute eines Objekts \u2026",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Aufgaben zur Punktnotation - lernen mit Serlo!de.serlo.org \u203a informatik \u203a aufgaben-zur-punktnotation",
+    "link": "https://de.serlo.org/informatik/176647/aufgaben-zur-punktnotation",
+    "description": "Beantworte mit Punktnotation. a. Welche Notation ist die richtige? Die Figur f1 bewegt sich 4 Felder weit. f1.Bewegen(Schrittzahl=4). Bewegen(Schrittzahl=4). f1.",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Grundwissen Informatik - Punktnotation - Tobias Stork, Klavierwww.tobias-stork.de \u203a gymnasium \u203a Punktnotation",
+    "link": "http://www.tobias-stork.de/gymnasium/informatik/grundwissen/Punktnotation.html",
+    "description": "Die Punktnotation ist eine Kurzschreibweise, mit der man Informationen \u00fcber ein Objekt kurz und eindeutig aufschreiben kann. Art der Information, Beispiel",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Punktnotation - Gailer-Netwww.gailer-net.de \u203a tutorials \u203a java \u203a Notes \u203a chap25",
+    "link": "http://www.gailer-net.de/tutorials/java/Notes/chap25/ch25_15.html",
+    "description": "Punktnotation. Nachdem ein Objekt konstruiert wurde, kann es (gew\u00f6hnlich) durch seine eigenen Methoden ge\u00e4ndert werden (nicht durch seine Konstruktoren).",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Punktnotationwww.heinrichgailer.de \u203a tutorials \u203a java \u203a Notes",
+    "link": "http://www.heinrichgailer.de/tutorials/java/Notes/chap09C/ch09C_9.html",
+    "description": "... Methoden \u2014 werden Elemente von diesem Objekt genannt. Auf die Elemente eines Objekts wird \u00fcber die Punktnotation zugegriffen, was wie folgt aussieht:",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "2017 7 Markus hat seine Informatik-Dateien auf seinem USB ...www.fkg-wuerzburg.de \u203a downloads \u203a dokumente",
+    "link": "http://www.fkg-wuerzburg.de/inhalte/downloads/dokumente/Informatik/Lernstandserhebung.Jgst%206.L%C3%B6sungen.pdf",
+    "description": "In der Punktnotation muss vor dem Punkt der Objektbezeichner stehen. Das Objekt, dessen Schriftgr\u00f6\u00dfe ge\u00e4ndert werden soll, hat den Bezeichner Z1. (\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Java-Punktnotation - Javablogmein-javablog.de \u203a java-klassen-felder \u203a java-punktnot...",
+    "link": "https://mein-javablog.de/java-klassen-felder/java-punktnotation/",
+    "description": "Java-Punktnotation. Java-Punktnotation. Der Java Kurs und das Tutorial bleiben kostenlos. So geht es weiter im Java-Kurs. Hier Klicken. Letzten Beitr\u00e4ge.",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "7.2.1 Referenzvariablen 7.2.2 Zugriff auf Attribute und ...page.mi.fu-berlin.de \u203a JavaBlockKurs \u203a Vorlesung5",
+    "link": "http://page.mi.fu-berlin.de/block/JavaBlockKurs/Vorlesung5/Skript_Teil_5a.pdf",
+    "description": "7.2.2 Zugriff auf Attribute und Methoden durch Punktnotation. Wir haben diese Syntax bereits schon mehrfach verwendet, aber nun werden wir es konkretisieren.",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Einfache Frage zur Punktnotation objektname.methode(wert ...www.java-forum.org \u203a thema \u203a einfache-frage-zur-pun...",
+    "link": "https://www.java-forum.org/thema/einfache-frage-zur-punktnotation-objektname-methode-wert.185191/",
+    "description": "17.06.2019 \u2014 Sagen wir mal ich habe ein Objekt erzeugt mithilfe Klassenname objektname = new Klassenname: Wenn ich nun folgende Punktnotation nutze\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Grundwissen 6. Klasse \u2014 SGM - Staffelsee-Gymnasium Murnausgm.tcs.ifi.lmu.de \u203a faecher \u203a informatik \u203a grundwissen-6.-klasse",
+    "link": "http://sgm.tcs.ifi.lmu.de/faecher/informatik/grundwissen-6.-klasse",
+    "description": "gleichen Attributwerte! Klassenkarte: Klassendiagramm. Objektkarte: Objektdiagramm. Punktnotation (in eos): Setzen eines Attributwertes: Objektname\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sgm.tcs.ifi.lmu.de/faecher/informatik/grundwissen-6.-klasse&sa=U&ved=2ahUKEwioj-qKuqvvAhXUdCsKHcTeCcY4ChAWMAB6BAgAEAE&usg=AOvVaw3CQa1-kpALYxE-dWmfYtyR",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Die Objektkarte schaut wie folgt aus - Oberschule Colditzwww.oberschule-colditz.net \u203a wp-content \u203a uploads \u203a 2020/05",
+    "link": "http://www.oberschule-colditz.net/wp-content/uploads/2020/05/Info_Kl_7a_Woche_7.pdf",
+    "description": "Gib f\u00fcr die folgenden 4 Objekte je zwei Attribute in Punktnotation an. Auge 2. K\u00f6rper. Arm 1. Knopf 2. 2. Zeichne eine Objektkarte f\u00fcr das Objekt Hut mit 3 Attributen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.oberschule-colditz.net/wp-content/uploads/2020/05/Info_Kl_7a_Woche_7.pdf&sa=U&ved=2ahUKEwioj-qKuqvvAhXUdCsKHcTeCcY4ChAWMAF6BAgCEAE&usg=AOvVaw1vqPzAt86fw4mwBZvLzd4k",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Informatik \u2013 Grundwissen Klasse 6/7 - Informatische Grundbildungwww.informatische-grundbildung.com \u203a app \u203a download \u203a 2009-bay...",
+    "link": "https://www.informatische-grundbildung.com/app/download/5764718164/2009-bayern-grundwissen-Informatik.pdf?t=1494773954",
+    "description": "Die Informatik besch\u00e4ftigt sich u. a. mit den Fragen: Wie kann man Informationen f\u00fcr eine Maschine eindeutig darstellen? Wie kann man Informationen.",
+    "googleLink": "http://www.google.com/url?q=https://www.informatische-grundbildung.com/app/download/5764718164/2009-bayern-grundwissen-Informatik.pdf%3Ft%3D1494773954&sa=U&ved=2ahUKEwioj-qKuqvvAhXUdCsKHcTeCcY4ChAWMAJ6BAgHEAE&usg=AOvVaw1kL8sRtnay2XRJW3IS3ATY",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Darstellung von Klassen und Objektenwww.sachsen.schule \u203a ~fischer \u203a gw_neu",
+    "link": "https://www.sachsen.schule/~fischer/gw_neu/index.php?auswahl=darstellung",
+    "description": "Darstellung mithilfe der Punktnotation (nur f\u00fcr Objekte). Darstellungsform. Einsatzm\u00f6glichkeiten. Text. Die Darstellung als beschreibender Text ist besonders f\u00fcr\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sachsen.schule/~fischer/gw_neu/index.php%3Fauswahl%3Ddarstellung&sa=U&ved=2ahUKEwioj-qKuqvvAhXUdCsKHcTeCcY4ChAWMAN6BAgDEAE&usg=AOvVaw0cl2YXO3EfDhC03mA5mLlu",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Informatik EF Punktnotation \u2192 Sequenzdiagramm Arbeitsblatt ...ddi.uni-wuppertal.de \u203a material \u203a oberstufe \u203a oom \u203a musikcenter",
+    "link": "https://ddi.uni-wuppertal.de/www-madin/material/materialsammlung/oberstufe/oom/musikcenter/quellcode2sequenzdiagramm.pdf",
+    "description": "Aufgabe. In der folgenden Darstellung ist Quellcode in Form der Punktnotation dargestellt. Ihre erste. Aufgabe besteht darin, die Objekte mit ihren Methoden zu\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ddi.uni-wuppertal.de/www-madin/material/materialsammlung/oberstufe/oom/musikcenter/quellcode2sequenzdiagramm.pdf&sa=U&ved=2ahUKEwioj-qKuqvvAhXUdCsKHcTeCcY4ChAWMAR6BAgBEAE&usg=AOvVaw3gTfst0iHSEWiVHQ8yHUiW",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Informatik Wiki - Punktnotation - SchulCommSywiki.schulcommsy.de \u203a wikis \u203a n=PmWikiDe.Punktnotation",
+    "link": "http://wiki.schulcommsy.de/wikis/276082/1254189/index.php?n=PmWikiDe.Punktnotation",
+    "description": "02.11.2008 \u00b7 Punktnotation. Die Punktnotation ist eine Schreibweise, mit derer man auf die Methoden eines Objektes zugreifen kann. Beispiel: Objektname.",
+    "googleLink": "http://www.google.com/url?q=http://wiki.schulcommsy.de/wikis/276082/1254189/index.php%3Fn%3DPmWikiDe.Punktnotation&sa=U&ved=2ahUKEwioj-qKuqvvAhXUdCsKHcTeCcY4ChAWMAV6BAgFEAE&usg=AOvVaw3zQjH7IKfCBS7OQ7Wixq31",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Punktnotation \u2013 Videokurs: Windows PowerShell Grundkurs ...de.linkedin.com \u203a learning \u203a punktnotation",
+    "link": "https://de.linkedin.com/learning/windows-powershell-grundkurs/punktnotation",
+    "description": "Der direkte Zugriff auf den Wert einer Objekteigenschaft sowie der Aufruf einer Objektmethode erfolgen in der Windows PowerShell mit Hilfe der Punktnotation.",
+    "googleLink": "http://www.google.com/url?q=https://de.linkedin.com/learning/windows-powershell-grundkurs/punktnotation&sa=U&ved=2ahUKEwioj-qKuqvvAhXUdCsKHcTeCcY4ChAWMAZ6BAgEEAE&usg=AOvVaw1BSCwQ4uyeF-vGJde5qS5P",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Punktnotation | Elaha - Elaha | Informatik - WordPress.comelahaoberstufe.wordpress.com \u203a 2014/09/29 \u203a punktnotation",
+    "link": "https://elahaoberstufe.wordpress.com/2014/09/29/punktnotation/",
+    "description": "29.09.2014 \u00b7 Die Punktnotation ist eine Vereinfachung f\u00fcr den Programmierer. Durch die Punktnotation ersetzt man den Rechtsklick, den man sonst bei\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://elahaoberstufe.wordpress.com/2014/09/29/punktnotation/&sa=U&ved=2ahUKEwioj-qKuqvvAhXUdCsKHcTeCcY4ChAWMAd6BAgIEAE&usg=AOvVaw3BR7koHqvxb3liVBYKk9ir",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Eigenschaftszugriff - JavaScript | MDNdeveloper.mozilla.org \u203a ... \u203a JavaScript-Referenz \u203a Ausdr\u00fccke und Operatoren",
+    "link": "https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Operators/Property_Accessors",
+    "description": "15.10.2020 \u00b7 Eigenschaftszugriffe erlauben den Zugriff auf Eigenschaften eines Objekts, indem die Punktnotation oder Klammernotation benutzt wird.",
+    "googleLink": "http://www.google.com/url?q=https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Operators/Property_Accessors&sa=U&ved=2ahUKEwioj-qKuqvvAhXUdCsKHcTeCcY4ChAWMAh6BAgGEAE&usg=AOvVaw2PFYmOLes9E3xW7EcPSUWe",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "verwenden. Bei der Punktnotation - Englisch \u00dcbersetzung - Deutsch ...context.reverso.net \u203a \u00fcbersetzung \u203a verwenden.+Bei+der+Punktnotation",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/verwenden.+Bei+der+Punktnotation",
+    "description": "\u00dcbersetzung im Kontext von \u201everwenden. Bei der Punktnotation\u201c in Deutsch-\u200bEnglisch von Reverso Context: Um mathematische Eigenschaften anzugeben,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://context.reverso.net/%25C3%25BCbersetzung/deutsch-englisch/verwenden.%2BBei%2Bder%2BPunktnotation&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAB6BAgGEAE&usg=AOvVaw1nr9Bk7CRmcOHZEAruwEQ6",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Punktnotation | \u00dcbersetzung Englisch-Deutsch - dict.ccwww.dict.cc \u203a s=Punktnotation",
+    "link": "https://www.dict.cc/?s=Punktnotation",
+    "description": "dict.cc | \u00dcbersetzungen f\u00fcr 'Punktnotation' im Englisch-Deutsch-W\u00f6rterbuch, mit echten Sprachaufnahmen, Illustrationen, Beugungsformen, ...",
+    "googleLink": "http://www.google.com/url?q=https://www.dict.cc/%3Fs%3DPunktnotation&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAF6BAgHEAE&usg=AOvVaw053hiSqDDcrD9407TKFrtk",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "sql \u2014 SQL-Punktnotation - Deutschwww.it-swarm.com.de \u203a deutsch \u203a sql",
+    "link": "https://www.it-swarm.com.de/de/sql/sql-punktnotation/1043502711/",
+    "description": "Kann mir jemand bitte erkl\u00e4ren, wie SQL Server die Punktnotation zur Identifizierung verwendet die Position eines Tisches? Ich dachte immer, dass der Ort\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.it-swarm.com.de/de/sql/sql-punktnotation/1043502711/&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAJ6BAgIEAE&usg=AOvVaw0cmZ_xxyVSM_sa3QZfwC2q",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Punktnotation - Rudolf Fischerrudolf-fischer.de \u203a informatik \u203a punktnotation",
+    "link": "http://rudolf-fischer.de/informatik/09/punktnotation.pdf",
+    "description": "Als formalisierte Darstellung von Objekten verwendet man die sog. Punktnotation\u200b: Objektname. Attribut=Attributwert. Bsp.: Schornstein. F\u00fcllfarbe=pink. Fenster2.",
+    "googleLink": "http://www.google.com/url?q=http://rudolf-fischer.de/informatik/09/punktnotation.pdf&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAN6BAgJEAE&usg=AOvVaw3_Hh6muBtGHe50GW6KGY2d",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Namensraum \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Namensraum",
+    "link": "https://de.wikipedia.org/wiki/Namensraum",
+    "description": "Der Namensraum (englisch namespace) ist ein Begriff aus der Programmierung. Dabei werden ... Neben der Punktnotation sind aber auch andere Zeichen gebr\u00e4uchlich, so wie z. B. bei Dateinamen mit Schr\u00e4gstrichen (\u201e / \u201c) oder umgekehrten\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Namensraum&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAR6BAgFEAE&usg=AOvVaw3Lahcq9Cem-qZqF0qJVgZ6",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "punktnotation: Informationen zum Wort 'punktnotation'www.wordgamehelper.com \u203a wort \u203a punktnotation",
+    "link": "https://www.wordgamehelper.com/de/wort/punktnotation",
+    "description": "Mit Verwendung des Wortes 'punktnotation' in Scrabble du wirst erhalten 19 Punkte, w\u00e4hrend du es in Wortspa\u00df mit Freunden verwendest, du wirst erhalten 24\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wordgamehelper.com/de/wort/punktnotation&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAV6BAgCEAE&usg=AOvVaw1O3iD5NrSf-hjJfnKSIFSX",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 6.1 Was bedeutet der Begriff Informatik? 6.2 Was ist ein Objekt? Was ...avhsw.de \u203a stories \u203a downloads \u203a grundwissen \u203a grundwissen_nut_info",
+    "link": "https://avhsw.de/images/stories/downloads/grundwissen/grundwissen_nut_info.pdf",
+    "description": "Schulhaus:RECHTECK. (Das Objekt Schulhaus ist von der Klasse RECHTECK). Allgemeine Formulierung in der Punktnotation: Objektname:KLASSE. Tisch2:\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://avhsw.de/images/stories/downloads/grundwissen/grundwissen_nut_info.pdf&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAZ6BAgAEAE&usg=AOvVaw1XnyfYlBlLhmocMW2omXr3",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Einf\u00fchrung in die Mengenlehre | Die Punktnotation \u2013 Oliver Deiser ...www.aleph1.info \u203a ... \u203a 2. Die Sprache der Mengenlehre",
+    "link": "https://www.aleph1.info/?call=Puc&permalink=mengenlehre1_3_2_Z6",
+    "description": "Sehr viele Klammern kann man sich durch die Punktnotation sparen: Ein Punkt hinter einem Quantor bedeutet, dass der Wirkungsbereich eines Quantors so\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.aleph1.info/%3Fcall%3DPuc%26permalink%3Dmengenlehre1_3_2_Z6&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAd6BAgBEAE&usg=AOvVaw3oytBsr_feJHQ1U2Oj1ITh",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[DOC] Objekte und Klassewww.gwsg.net \u203a download-center \u203a category \u203a 1-informationen",
+    "link": "https://www.gwsg.net/index.php/elternbriefe-formulare-infos/download-center/category/1-informationen?download=8:zusammenfassung-des-lernstoffs-informatik-6",
+    "description": "Zur Wiedergabe des Attributwertes verwendet man die Punktnotation: Allgemeiner Aufbau: Objektname.Attributname = Attributwert. Beispiel: Moritz.\u200bHaarfarbe=\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gwsg.net/index.php/elternbriefe-formulare-infos/download-center/category/1-informationen%3Fdownload%3D8:zusammenfassung-des-lernstoffs-informatik-6&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAh6BAgEEAE&usg=AOvVaw1wUz63Rwz9jrTfv1GMnK1T",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Punktnotation - Englisch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a deutsch-englisch \u203a uebersetzung \u203a punktnotation",
+    "link": "https://www.linguee.de/deutsch-englisch/uebersetzung/punktnotation.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"Punktnotation\" \u2013 Englisch-Deutsch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von Englisch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/deutsch-englisch/uebersetzung/punktnotation.html&sa=U&ved=2ahUKEwi71K2LuqvvAhUNVH0KHai_CyM4FBAWMAl6BAgDEAE&usg=AOvVaw2HCKbFBTLL66Pn1KEZve7f",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Grundwissen Informatik 6. Jahrgangsstufe - AZSLIDE.COMazslide.com \u203a ...",
+    "link": "https://azslide.com/grundwissen-informatik-6-jahrgangsstufe_59f0651d1723dde8848a2e72.html",
+    "description": "Punktnotation. (Punktschreibweise bzw. Kurzschreibweise). Setzen eines Attributwertes: Objektname.Attributname = Attributwert z. B. maxi.Ort = Bayreuth.",
+    "googleLink": "http://www.google.com/url?q=https://azslide.com/grundwissen-informatik-6-jahrgangsstufe_59f0651d1723dde8848a2e72.html&sa=U&ved=2ahUKEwiHvuCLuqvvAhVKeH0KHb6PDIY4HhAWMAB6BAgHEAE&usg=AOvVaw2dxb-gcsLR6TysfrOsfxH4",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Punktnotation - English translation \u2013 Lingueewww.linguee.com \u203a german-english \u203a translation \u203a punktnotation",
+    "link": "https://www.linguee.com/german-english/translation/punktnotation.html",
+    "description": "Many translated example sentences containing \"Punktnotation\" \u2013 English-\u200bGerman dictionary and search engine for English translations.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.com/german-english/translation/punktnotation.html&sa=U&ved=2ahUKEwiHvuCLuqvvAhVKeH0KHb6PDIY4HhAWMAF6BAgFEAE&usg=AOvVaw324I-wvHWe7-qitaL3O62H",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "OOP - Klassen und Objekte - Frank Kadenfrank-kaden.homepage.t-online.de \u203a homepage \u203a Inter3",
+    "link": "http://frank-kaden.homepage.t-online.de/homepage/Inter3/info3b.html",
+    "description": "Objektekarte (als UML-Diagramm, UML = Unified Modeling Language) oder auch das Modell Punktnotation. Wie auch in anderen Fachbereichen \u00fcblich, ist es\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://frank-kaden.homepage.t-online.de/homepage/Inter3/info3b.html&sa=U&ved=2ahUKEwiHvuCLuqvvAhVKeH0KHb6PDIY4HhAWMAJ6BAgIEAE&usg=AOvVaw3RMsvESlohiLy_INj3CLgt",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Wie sieht die Punktnotation in Java aus oder wie kann ich auf auf ...www.gutefrage.net \u203a frage \u203a wie-sieht-die-punktnotation-in-java-aus-oder-...",
+    "link": "https://www.gutefrage.net/frage/wie-sieht-die-punktnotation-in-java-aus-oder-wie-kann-ich-auf-auf-andere-klassen-zugreifen",
+    "description": "Du kannst die Methode hinzufuegen nur auf einem Objekt der Klasse Telefonbuch benutzen, nicht mit der Klasse Telefonbuch selbst.",
+    "googleLink": "http://www.google.com/url?q=https://www.gutefrage.net/frage/wie-sieht-die-punktnotation-in-java-aus-oder-wie-kann-ich-auf-auf-andere-klassen-zugreifen&sa=U&ved=2ahUKEwiHvuCLuqvvAhVKeH0KHb6PDIY4HhAWMAN6BAgJEAE&usg=AOvVaw0nsLcTeWHXJpzrG9TP_7-3",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Reinheit von Gasen - Punkt-Notation - Top-Gaswww.top-gas.de \u203a web \u203a media \u203a pdf \u203a Reinheit_von_Gasen",
+    "link": "https://www.top-gas.de/web/media/pdf/Reinheit_von_Gasen.pdf",
+    "description": "Reinheit von Gasen - Punkt-Notation. F\u00fcr die Angabe der Reinheit von Gasen hat sich die Verwendung der Punkt-. Notation eingeb\u00fcrgert. Sie dient der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.top-gas.de/web/media/pdf/Reinheit_von_Gasen.pdf&sa=U&ved=2ahUKEwiHvuCLuqvvAhVKeH0KHb6PDIY4HhAWMAR6BAgBEAE&usg=AOvVaw3M83Cwmfl4mPpLa7xDrzKg",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Bestandteile Punktnotation - einfach - LearningApps.orglearningapps.org \u203a ...",
+    "link": "https://learningapps.org/393976",
+    "description": "Wie hei\u00dfen die einzelnen Bestandteile bei der Punktnotation? ... Anmelden. 2019-04-01 (2013-08-21). Bestandteile Punktnotation - einfach\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://learningapps.org/393976&sa=U&ved=2ahUKEwiHvuCLuqvvAhVKeH0KHb6PDIY4HhAWMAV6BAgAEAE&usg=AOvVaw233Imq0z2PFU0MhLB3qgSa",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Notationeinstein.informatik.uni-oldenburg.de \u203a rechnernetze \u203a notation2",
+    "link": "https://einstein.informatik.uni-oldenburg.de/rechnernetze/notation2.htm",
+    "description": "Notation von Internetadressen. Die Internetadressierung wird meist in einer Punktnotation (Dotted Decimal Notation) geschrieben, indem jedes Byte der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://einstein.informatik.uni-oldenburg.de/rechnernetze/notation2.htm&sa=U&ved=2ahUKEwiHvuCLuqvvAhVKeH0KHb6PDIY4HhAWMAZ6BAgEEAE&usg=AOvVaw3KW7hEekd231EhTEuM0QTN",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "MP: Punkt-Notation (Forum Matroids Matheplanet)www.matheplanet.com \u203a matheplanet \u203a nuke \u203a html \u203a viewtopic",
+    "link": "https://www.matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=225801",
+    "description": "22.01.2017 \u00b7 Schulmathematik \u00bb Analytische Geometrie \u00bb Punkt-Notation. Autor. fed-Code \u00fcberall einblenden Universit\u00e4t/Hochschule J Punkt-Notation\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matheplanet.com/matheplanet/nuke/html/viewtopic.php%3Ftopic%3D225801&sa=U&ved=2ahUKEwiHvuCLuqvvAhVKeH0KHb6PDIY4HhAWMAd6BAgDEAE&usg=AOvVaw03FsSRasIfnE4hzUTVlzp0",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Polymorphie - Michael Kippmichaelkipp.de \u203a java",
+    "link": "https://michaelkipp.de/java/19B%20polymorphie.html",
+    "description": "30.04.2020 \u00b7 Bei Punktnotation wertet Processing/Java von links nach rechts aus. Sobald ein Punkt vorkommt, wird die Methode ausgef\u00fchrt und der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://michaelkipp.de/java/19B%2520polymorphie.html&sa=U&ved=2ahUKEwiHvuCLuqvvAhVKeH0KHb6PDIY4HhAWMAh6BAgCEAE&usg=AOvVaw1wawWBbjGa7nRY1_4R_jgN",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Informatik-Grundwissen zu Beginn der 9. Klasse: Klassen, Objekte ...www.gfs-ebs.de \u203a media \u203a unterricht \u203a Informatik_Grundwissen_9",
+    "link": "http://www.gfs-ebs.de/media/unterricht/grundwissen/Informatik_Grundwissen_9.pdf",
+    "description": "Methoden benutzt man die Punktnotation: Objektname.Attributname = Attributwert bzw. Objektname.Methodenname(Parameter). 4. Klassendiagramm.",
+    "googleLink": "http://www.google.com/url?q=http://www.gfs-ebs.de/media/unterricht/grundwissen/Informatik_Grundwissen_9.pdf&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAB6BAgFEAE&usg=AOvVaw3hWBhaZYYu5vwiAcKckIrx",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Einf\u00fchrung in die Objektorientierung (Best. Nr. 4477)www.burgnetz.de \u203a otg \u203a documents \u203a Dokument",
+    "link": "http://www.burgnetz.de/otg/documents/Dokument.pdf",
+    "description": "Um in der Informatik ein Attribut zu modellieren, verwenden wir die sogenannte Punktnotation. Das sind feste Regeln, wie am Computer die Eigenschaft eines\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.burgnetz.de/otg/documents/Dokument.pdf&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAF6BAgHEAE&usg=AOvVaw1b2SMUEiIB0cN9arK61hhq",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Punktnotation - Englisch gesucht: Englisch \u21d4 Deutsch Forum - leo.orgdict.leo.org \u203a forum \u203a viewWrongentry",
+    "link": "https://dict.leo.org/forum/viewWrongentry.php?idThread=1369580&idForum=1&lp=ende&lang=de",
+    "description": "Jahrhundert mit Hilfe der sogenannten Punktnotation - und nach jedem komponierten Punkt beliebig lange innezuhalten, um verschiedene\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dict.leo.org/forum/viewWrongentry.php%3FidThread%3D1369580%26idForum%3D1%26lp%3Dende%26lang%3Dde&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAJ6BAgJEAE&usg=AOvVaw0W3K2VL8Sx_hQr5IG8SGlD",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Extemporale/Stegreifaufgabe Informatik Punktnotation, Klasse ...www.catlux.de \u203a probe \u203a punktnotation-klasse-objekt-attributwert-attribut-...",
+    "link": "https://www.catlux.de/probe/punktnotation-klasse-objekt-attributwert-attribut-punkt-beziehungen-in-einem-klassendiagramm",
+    "description": "Extemporale/Stegreifaufgabe Informatik Punktnotation, Klasse, Objekt, Attributwert, Attribut, Punkt, Beziehungen in einem Klassendiagramm f\u00fcr Gymnasium\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.catlux.de/probe/punktnotation-klasse-objekt-attributwert-attribut-punkt-beziehungen-in-einem-klassendiagramm&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAN6BAgIEAE&usg=AOvVaw1XFIIOlBVseNkOvtyYDG5B",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Informatik 10wvsg.schulen2.regensburg.de \u203a Informatik \u203a 01_Objekte_und_Klassen",
+    "link": "https://wvsg.schulen2.regensburg.de/joomla/images/Faecher/Informatik/Informatik_10_neu/Skripten_und_Programme/01_Objekte_und_Klassen/01_Objekte_und_Klassen.pdf",
+    "description": "e) Notiere die ben\u00f6tigten Methodenaufrufe in. Punktnotation. 18. \u00dcbung 4: Objekte, Klassen, Datentypen. Page 19\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wvsg.schulen2.regensburg.de/joomla/images/Faecher/Informatik/Informatik_10_neu/Skripten_und_Programme/01_Objekte_und_Klassen/01_Objekte_und_Klassen.pdf&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAR6BAgEEAE&usg=AOvVaw3w5WLCyameYh2UznyOF6Vg",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "7 Uli hat mit einem Graphikprogramm ein Auto gezeichnet und die ...docplayer.org \u203a 4878986-7-uli-hat-mit-einem-graphikprogramm-ein-auto-...",
+    "link": "https://docplayer.org/4878986-7-uli-hat-mit-einem-graphikprogramm-ein-auto-gezeichnet-und-die-geometrischen-objekte-wie-folgt-bezeichnet.html",
+    "description": "6.1 \u00dcbersetze in die abk\u00fcrzende Fachschreibweise (Punktnotation)! [3 BE] a) Das Objekt Baumstamm1 hat eine Breite von 1 cm. b) Die F\u00fcllfarbe des Objekts\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/4878986-7-uli-hat-mit-einem-graphikprogramm-ein-auto-gezeichnet-und-die-geometrischen-objekte-wie-folgt-bezeichnet.html&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAV6BAgGEAE&usg=AOvVaw0LtsHoDMXjTP2krKGSVDaU",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Das ATOS-Magazin 3/99: Die Punktnotationwww.stcarchiv.de \u203a atos \u203a online \u203a otob3_05",
+    "link": "https://www.stcarchiv.de/atos/online/9903/otob3_05.htm",
+    "description": "Die Punktnotation. Im letzten Teil wurde angesprochen, da\u00df Speicherobjekte unter Verwendung dynamischer Speicherverwaltungen \u00fcblicherweise stets \u00fcber\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.stcarchiv.de/atos/online/9903/otob3_05.htm&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAZ6BAgDEAE&usg=AOvVaw1EVUogEYP4OxqHcczZ4aRm",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "IP-Adresse (Dezimal) in Punktnotation umwandeln - KNX-User-Forumknx-user-forum.de \u203a forum \u203a supportforen \u203a eibpc \u203a 829984-ip-adresse-de...",
+    "link": "https://knx-user-forum.de/forum/supportforen/eibpc/829984-ip-adresse-dezimal-in-punktnotation-umwandeln",
+    "description": "IP-Adresse (Dezimal) in Punktnotation umwandeln. 28.04.2015, 13:22. ist sicher trivial - aber ich check's net: wie kann man die IP-Adresse die der eibpc\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://knx-user-forum.de/forum/supportforen/eibpc/829984-ip-adresse-dezimal-in-punktnotation-umwandeln&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAd6BAgBEAE&usg=AOvVaw1YoeYkq5yX1UFa8EpgzCQm",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Objekte gruppieren und steuern - Ernst Klett Verlagwww.klett.de \u203a inhalt \u203a sixcms \u203a media.php \u203a SekI_Objekte_gruppier...",
+    "link": "https://www.klett.de/inhalt/sixcms/media.php/145/SekI_Objekte_gruppieren_und_steuern.pdf",
+    "description": "09.02.2018 \u00b7 Die Punktnotation. Neben der Objektkarte gibt es eine zwei- te M\u00f6glichkeit, Objekte zu beschreiben: die. Punktnotation. Sie hat folgenden\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.klett.de/inhalt/sixcms/media.php/145/SekI_Objekte_gruppieren_und_steuern.pdf&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAh6BAgCEAE&usg=AOvVaw1FhElxNOgbZfMTToyAMKxf",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[DOC] Synopse: So passt Sch\u00fclerband 6: Informatik auf den LehrplanPLUS ...www.ccbuchner.de \u203a download-3945 \u203a natur_und_technik_6_synopse",
+    "link": "https://www.ccbuchner.de/titel-825-825/schuelerband_6_informatik-5912/download-3945/natur_und_technik_6_synopse.docx",
+    "description": "www.ccbuchner.de. Fachbegriffe: Attribut, Methode, Klasse, Beziehung, Punktnotation, Objektdiagramm, Klassendiagramm. 3.3 Textdokumente. 3.4 Abs\u00e4tze.",
+    "googleLink": "http://www.google.com/url?q=https://www.ccbuchner.de/titel-825-825/schuelerband_6_informatik-5912/download-3945/natur_und_technik_6_synopse.docx&sa=U&ved=2ahUKEwjazKKMuqvvAhXBeisKHT3nC1A4KBAWMAl6BAgAEAE&usg=AOvVaw03mrYkI6yuKyd3tVY9C7yW",
+    "page": 4,
+    "index": 9
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Beziehungen in Datenbanken | Datenmodellierung Grundlagenwww.datenbanken-verstehen.de \u203a Datenmodellierung",
+    "link": "https://www.datenbanken-verstehen.de/datenmodellierung/beziehungen-datenbanken/",
+    "description": "Bewertung  3,6  (191)",
+    "googleLink": "http://www.google.com/url?q=https://www.datenbanken-verstehen.de/datenmodellierung/beziehungen-datenbanken/&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjAAegQIChAB&usg=AOvVaw0j9waOqv66noZoL-1laDV7",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Beziehungen in Datenbanken.pdfmediencommunity.de \u203a system \u203a files \u203a Beziehungen in Datenbanken",
+    "link": "https://mediencommunity.de/system/files/Beziehungen%20in%20Datenbanken.pdf",
+    "description": "Eine \u201ceins zu viele\u201d-Beziehung relationalen. Datenbanken ist der h\u00e4ufigste Beziehungstyp. In einer 1:n-Beziehung k\u00f6nnen einem. Datensatz in Tabelle A mehrere\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mediencommunity.de/system/files/Beziehungen%2520in%2520Datenbanken.pdf&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjABegQICRAB&usg=AOvVaw0EQdwkDmLQUefrFhQdx-Jc",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Beziehungen zwischen Tabellen - lernen mit Serlo!de.serlo.org \u203a informatik \u203a beziehungen-zwischen-tabellen",
+    "link": "https://de.serlo.org/informatik/69732/beziehungen-zwischen-tabellen",
+    "description": "Genauso wie in der Realit\u00e4t gibt es zwischen Tabellen Beziehungen. ... n:m-\u200bBeziehungen gibt es in Datenbanken nicht; es wird daher eine weitere Tabelle\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/69732/beziehungen-zwischen-tabellen&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjACegQICBAB&usg=AOvVaw157cDWloaj6wZ21zGpqZ_X",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Kardinalit\u00e4t (Datenbankmodellierung) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Kardinalit\u00e4t_(Datenbankmodellierung)",
+    "link": "https://de.wikipedia.org/wiki/Kardinalit%C3%A4t_(Datenbankmodellierung)",
+    "description": "n:m-Beziehungen k\u00f6nnen in den meisten relationalen Datenbanken nicht direkt umgesetzt werden. Zur Realisierung wird eine zus\u00e4tzliche Tabelle erstellt,\u00a0...\nAusf\u00fchrliche Definition \u00b7 Einteilung \u00b7 Beispiele \u00b7 Umsetzung des ER ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Kardinalit%25C3%25A4t_(Datenbankmodellierung)&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjADegQIBRAB&usg=AOvVaw2fvcszX6z5Vn3cD7mJGIa0",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Beziehungen in Datenbanken \u2013 IVmussswiki.idb.edu \u203a Beziehungen_in_Datenbanken",
+    "link": "http://mussswiki.idb.edu/iv/Beziehungen_in_Datenbanken",
+    "description": "01.10.2018 \u00b7 In diesem Lernschritt werden die Beziehungen zwischen Tabellen einer relationalen Datenbank erl\u00e4utert. Dabei darf nicht au\u00dfer Acht gelassen\u00a0...\nBeziehungen zwischen ... \u00b7 1:1-Beziehung",
+    "googleLink": "http://www.google.com/url?q=http://mussswiki.idb.edu/iv/Beziehungen_in_Datenbanken&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjAEegQICxAB&usg=AOvVaw15JecDkvoyyB7s9wjnvBq6",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Beziehungstypen \u2013 GlossarWikiglossar.hs-augsburg.de \u203a Beziehungstypen",
+    "link": "https://glossar.hs-augsburg.de/Beziehungstypen",
+    "description": "Beziehungen (Relationships) bestehen im Bereich Datenbanken zwischen einzelnen Tabellen und Datens\u00e4tzen (Entitymengen). Bei der UML hei\u00dfen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://glossar.hs-augsburg.de/Beziehungstypen&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjAFegQIBxAB&usg=AOvVaw0pHqfo8hjLQWeYZcGKOE3v",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "1:n-Beziehungenfmhelp.filemaker.com \u203a fmp \u203a FMP_Help \u203a one-to-many-relationships",
+    "link": "https://fmhelp.filemaker.com/help/18/fmp/de/FMP_Help/one-to-many-relationships.html",
+    "description": "Da Beziehungen in beide Richtungen gelten, gibt es auch n:1-Beziehungen. Weiterf\u00fchrende Themen. Planen einer relationalen Datenbank \u00b7 Arbeiten mit dem\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://fmhelp.filemaker.com/help/18/fmp/de/FMP_Help/one-to-many-relationships.html&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjAGegQIBBAB&usg=AOvVaw04kE1yuYSTebSkRymhyAq-",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "n:n-Beziehungenfmhelp.filemaker.com \u203a fmp \u203a FMP_Help \u203a many-to-many-relationships",
+    "link": "https://fmhelp.filemaker.com/help/18/fmp/de/FMP_Help/many-to-many-relationships.html",
+    "description": "Relationale Datenbanksysteme erlauben Ihnen gew\u00f6hnlich nicht, eine direkte n-n-Beziehung zwischen zwei Tabellen einzurichten. Betrachten Sie das Beispiel\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://fmhelp.filemaker.com/help/18/fmp/de/FMP_Help/many-to-many-relationships.html&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjALegQIBhAB&usg=AOvVaw0WPCDYzioPRQRzZryKSj5-",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Relationale Datenbanken - Kapitel 5 - HdM Stuttgartwww.hdm-stuttgart.de \u203a ~riekert \u203a lehre \u203a db-kelz \u203a chap5",
+    "link": "https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap5.htm",
+    "description": "5. Weitere wichtige Begriffe. 5.1 Beziehungen zwischen Tabellen. 1:1 Beziehung: Einem Datensatz einer Tabelle ist genau ein Datensatz einer anderen Tabelle\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap5.htm&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjAMegQIARAB&usg=AOvVaw1P9la6nNxHylJC8MCJKizZ",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Datenbanken, Teil 4: Eins-zu-Eins-Beziehungen | Spontan\u2022wild\u2022und ...spontan-wild-und-kuchen.de \u203a archive",
+    "link": "https://spontan-wild-und-kuchen.de/archive/3669",
+    "description": "13.06.2019 \u00b7 1:1-Beziehungen. Eine weitere Beziehungsart zwischen zwei Entit\u00e4tstypen ist die 1:1-Beziehung. Betrachten wir zun\u00e4chst als Beispiel die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://spontan-wild-und-kuchen.de/archive/3669&sa=U&ved=2ahUKEwjZkMO88KrvAhVJMawKHU2_BgsQFjANegQIAhAB&usg=AOvVaw2i0ym7HDFL5ab362bclmuJ",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Datenbanken: Beziehungenmubk.de \u203a lernbereiche \u203a infowirtschaft \u203a datenbanken",
+    "link": "https://mubk.de/lernbereiche/infowirtschaft/wi/datenbanken/db05.htm",
+    "description": "21.10.2002 \u00b7 Beziehungen. Eine Beziehung ist eine Verbindung zwischen zwei Tabellen \u00fcber gemeinsame Felder (Spalten). Durch die Definition derartiger\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mubk.de/lernbereiche/infowirtschaft/wi/datenbanken/db05.htm&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAB6BAgFEAE&usg=AOvVaw2ui4-ZK8PD_XhGtrc9cBZD",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Grundkurs Datenbanken: SQL und das relationale Datenbankmodellentwickler.de \u203a Online \u203a Datenbanken",
+    "link": "https://entwickler.de/online/datenbanken/datenbanken-grundlagen-und-entwurf-115676.html",
+    "description": "23.08.2018 \u00b7 In einem ER-Modell wird die grundlegende Tabellen- und Beziehungsstruktur einer Datenbank entworfen und abgebildet. Die Darstellung im ER\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://entwickler.de/online/datenbanken/datenbanken-grundlagen-und-entwurf-115676.html&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAF6BAgIEAE&usg=AOvVaw08ZBFIJxOIDtSEpKkQmCaD",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Grundlagen des relationalen Datenbankdesigns \u2013 kompakt und klarentwickler.de \u203a Online \u203a PHP",
+    "link": "https://entwickler.de/online/php/grundlagen-relationales-datenbankdesign-579906947.html",
+    "description": "18.09.2019 \u00b7 Die Tabellen einer relationalen Datenbank stehen untereinander in Beziehung. Es existieren folgende Beziehungstypen: (1:1), (1:n) und (n:m).",
+    "googleLink": "http://www.google.com/url?q=https://entwickler.de/online/php/grundlagen-relationales-datenbankdesign-579906947.html&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAJ6BAgJEAE&usg=AOvVaw2aYH4GPnRcVvlrlhU-ocke",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Beziehungen erkennen und einrichten f\u00fcr relationale Datenbanken ...www.grin.com \u203a document",
+    "link": "https://www.grin.com/document/446819",
+    "description": "1.2 Grundlagen Beziehungen in relationalen Datenbanken 1.3 Beziehungen im Fallbeispiel. 2 Beziehungen im semantischen Modell (ERM). 3 Beziehungen im\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.grin.com/document/446819&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAN6BAgHEAE&usg=AOvVaw1vFGz7Dxk-ka9yLduyGCY0",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Microsoft Access - Einf\u00fchrung in relationale Datenbankenwww.luis.uni-hannover.de \u203a access \u203a 06_Access_TabelleRelation",
+    "link": "https://www.luis.uni-hannover.de/fileadmin/kurse/material/access/06_Access_TabelleRelation.pdf",
+    "description": "Beziehungen mit dem Verb \u201eist\u201c oder \u201ehat\u201c bilden eine 1 : 1 \u2013. Beziehung ab. \u25ab Diese Beziehungsart kann in einer Tabelle dargestellt werden. Kunde ist.",
+    "googleLink": "http://www.google.com/url?q=https://www.luis.uni-hannover.de/fileadmin/kurse/material/access/06_Access_TabelleRelation.pdf&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAR6BAgCEAE&usg=AOvVaw0nqK-4VqN6sSOsRI8UjOX4",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Verkn\u00fcpfen von Daten \u00bb Fachkonzept - Beziehungen ... - inf-schulewww.inf-schule.de \u203a gbuch \u203a datenverknuepfen \u203a konzept_fremdschluessel",
+    "link": "https://www.inf-schule.de/information/datenbanksysteme/gbuch/datenverknuepfen/konzept_fremdschluessel",
+    "description": "Dies stellt eine Beziehung zwischen zwei Tabellen dar. Beziehungen sind nach den Tabellen das zweite wichtige Konzept von relationalen Datenbanken.",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/information/datenbanksysteme/gbuch/datenverknuepfen/konzept_fremdschluessel&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAV6BAgDEAE&usg=AOvVaw0Rd4jRrE41gQfB18ElDcvD",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "db:beziehungen [LuoWiki] - Die LuOluo-darmstadt.de \u203a wiki2 \u203a doku \u203a id=db:beziehungen",
+    "link": "https://luo-darmstadt.de/wiki2/doku.php?id=db:beziehungen",
+    "description": "02.05.2019 \u00b7 Max Meier belegt den Kurs Q2 Datenbanken. Beziehungstyp. Ein Beziehungstyp (engl. relationship type) beschreibt den Zusammenhang, der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://luo-darmstadt.de/wiki2/doku.php%3Fid%3Ddb:beziehungen&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAZ6BAgAEAE&usg=AOvVaw1N73ncNKyRwaN5vcFzI9ZX",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Relationale Datenbanken - Landesbildungsserver Baden ...www.schule-bw.de \u203a relationale-datenbanken \u203a db-modellierung",
+    "link": "https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/informatik/material/datenbanken/relationale-datenbanken/db-modellierung.pdf",
+    "description": "In diesem Fall spricht man von einer M : N \u2013 Beziehung. Beziehungen zwischen Entit\u00e4ten werden in relationalen Datenbanken mit Hilfe von Schl\u00fcs- selattributen\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/informatik/material/datenbanken/relationale-datenbanken/db-modellierung.pdf&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAd6BAgBEAE&usg=AOvVaw1LDN2z-xkvV4aS0DStnBQN",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Datenbankmodellierungwww.breitenfellner.info \u203a klassenbereich \u203a downloak \u203a damo",
+    "link": "http://www.breitenfellner.info/klassenbereich/downloak/damo.pdf",
+    "description": "In Microsoft Access haben wir bereits mit Datenbanken gearbeitet. In diesem ... uns au\u00dferdem mit Beziehungen und der Festlegung von Schl\u00fcsselfeldern. 3.",
+    "googleLink": "http://www.google.com/url?q=http://www.breitenfellner.info/klassenbereich/downloak/damo.pdf&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAh6BAgEEAE&usg=AOvVaw3cn98zIQwPxxwFywMwbhnV",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "n:m-Beziehungen - Access-Tutorialwww.access-tutorial.de \u203a tabellen \u203a nmbeziehung",
+    "link": "https://www.access-tutorial.de/tabellen/nmbeziehung.htm",
+    "description": "Wir haben gerade gesehen, wie Beziehungen zwischen zwei Tabellen aussehen\u200b, wenn auf der einen Seite der Beziehung nur ein einziger Datensatz, auf der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.access-tutorial.de/tabellen/nmbeziehung.htm&sa=U&ved=2ahUKEwjMxaK98KrvAhUGVa0KHeJIAJE4ChAWMAl6BAgGEAE&usg=AOvVaw3XXV8mtx775KPLiseuvdjJ",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 3.3 Entit\u00e4tstypen und Beziehungstypen: das ER-Diagrammwww.bertram-hafner.de \u203a Infos \u203a Material \u203a Skript10_Hn_36-45",
+    "link": "https://www.bertram-hafner.de/Infos/Material/Skript10_Hn_36-45.pdf",
+    "description": "auch Beziehungstypen Attribute haben k\u00f6nnen: Die Beziehung \u201eKarl Meier ist in ... Eine Datenbank benutzt als Grundelemente Tabellen und Beziehungen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.bertram-hafner.de/Infos/Material/Skript10_Hn_36-45.pdf&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBAWMAB6BAgIEAE&usg=AOvVaw0Bgy_0gCtPR79NvswjmF18",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Leitfaden f\u00fcr Tabellenbeziehungen - Access - Microsoft Supportsupport.microsoft.com \u203a de-de \u203a office \u203a leitfaden-f\u00fcr-tabellenbeziehungen-...",
+    "link": "https://support.microsoft.com/de-de/office/leitfaden-f%C3%BCr-tabellenbeziehungen-30446197-4fbe-457b-b992-2f6fb812b58f",
+    "description": "Es gibt drei Typen von Tabellenbeziehungen in Access. 1:n-Beziehung. Als Beispiel soll eine Datenbank f\u00fcr die \u00dcberwachung von Bestellungen verwendet\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://support.microsoft.com/de-de/office/leitfaden-f%25C3%25BCr-tabellenbeziehungen-30446197-4fbe-457b-b992-2f6fb812b58f&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBAWMAF6BAgJEAE&usg=AOvVaw2yj7K1mdaxORwwrfkV4lD2",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Microsoft Access: Beziehungen in Datenbanken verstehen - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=KlZLiGyRjDE",
+    "description": "04.03.2016 \u00b7 Microsoft Access: Beziehungen in Datenbanken verstehen. Zwischen einzelnen ...Dauer: 5:18\nGepostet: 04.03.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DKlZLiGyRjDE&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBC3AjACegQIBhAB&usg=AOvVaw3fgxb5DA6rzSuF0Ec8QNKw",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Datenbanken und SQLwww.fb6.info \u203a winf \u203a bernd_bluemel \u203a scriptewi1 \u203a datenbank",
+    "link": "https://www.fb6.info/winf/bernd_bluemel/scriptewi1/datenbank.pdf",
+    "description": "Dies ist erforderlich damit man auch die Beziehung, welche zwei Entit\u00e4tstypen miteinander haben, darstellen kann. 2.9 Darstellung von Beziehungen. ERM\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.fb6.info/winf/bernd_bluemel/scriptewi1/datenbank.pdf&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBAWMAN6BAgHEAE&usg=AOvVaw3iTvr0KziLwYlz_LyeQA6e",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Datenbankenwww4.fh-swf.de \u203a downloads \u203a fbtbw \u203a download_8 \u203a devries_1 \u203a D...",
+    "link": "https://www4.fh-swf.de/media/downloads/fbtbw/download_8/devries_1/Datenbanken.pdf",
+    "description": "21.10.2019 \u00b7 elementare Weise vermittelt, bevor komplexere Konzepte der Beziehungen zwischen Tabellen angegangen werden, immer im Wechselspiel\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www4.fh-swf.de/media/downloads/fbtbw/download_8/devries_1/Datenbanken.pdf&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBAWMAR6BAgEEAE&usg=AOvVaw1bQMQs1rgIz21Cl76sBRUf",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Beziehungen \u2013 Verbindungsarten zwischen den verschiedenen ...www.php-kurs.com \u203a beziehungen-zwischen-tabellen",
+    "link": "https://www.php-kurs.com/beziehungen-zwischen-tabellen.htm",
+    "description": "Im Gegensatz zur realen Welt sind bei Datenbanken Beziehungen sehr eindeutig (und problemlos). Um diese Beziehungen aufzubauen, wird f\u00fcr jede Tabelle\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.php-kurs.com/beziehungen-zwischen-tabellen.htm&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBAWMAV6BAgCEAE&usg=AOvVaw2J3FxrBQtwaJmfFNQi3FWC",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Entity-Relationship-Diagramme Symbole und Notation | Lucidchartwww.lucidchart.com \u203a pages \u203a symbole-er-diagramm",
+    "link": "https://www.lucidchart.com/pages/de/symbole-er-diagramm",
+    "description": "... kennenzulernen, damit Sie schon bald Ihre eigene Datenbank modellieren k\u00f6nnen! ... Innerhalb von Entity-Relationship-Diagrammen werden Beziehungen\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lucidchart.com/pages/de/symbole-er-diagramm&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBAWMAZ6BAgFEAE&usg=AOvVaw0phwrEiJwTUEMSe1gHc86d",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Beziehungen erkennen und einrichten f\u00fcr relationale Datenbankenwww.hausarbeiten.de \u203a document",
+    "link": "https://www.hausarbeiten.de/document/446819",
+    "description": "Inhaltsverzeichnis. Einleitung. 1 Anwendungsbereich und Grundlagen 1.1 Beschreibung Fallbeispiel 1.2 Grundlagen Beziehungen in relationalen Datenbanken",
+    "googleLink": "http://www.google.com/url?q=https://www.hausarbeiten.de/document/446819&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBAWMAd6BAgAEAE&usg=AOvVaw0zlMH8cH4JqkiDoCayWb-7",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Josef L Staud: Ausz\u00fcge aus dem Buch: Relationale Datenbanken ...www.staud.info \u203a dbs \u203a rm_f_6",
+    "link": "http://www.staud.info/dbs/rm_f_6.htm",
+    "description": "Ausz\u00fcge aus dem Buch: Relationale Datenbanken. Grundlagen, Modellierung, Speicherung, Alternativen: 5 Beziehungen erkennen und einrichten\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.staud.info/dbs/rm_f_6.htm&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBAWMAh6BAgDEAE&usg=AOvVaw0h8lht682lrRxOyCL0h9Qe",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Datenbanken - DHBW Stuttgartwwwlehre.dhbw-stuttgart.de \u203a ~kfg",
+    "link": "http://wwwlehre.dhbw-stuttgart.de/~kfg/db/db.pdf",
+    "description": "Zwischen den Entit\u00e4ten gibt es Beziehungen (relationship), die Entit\u00e4ten ... Die DB kann aus mehreren Datenbanken bestehen, die sich u.U. an verschiedenen.",
+    "googleLink": "http://www.google.com/url?q=http://wwwlehre.dhbw-stuttgart.de/~kfg/db/db.pdf&sa=U&ved=2ahUKEwj1hPK98KrvAhXQpFkKHWDbD8g4FBAWMAl6BAgBEAE&usg=AOvVaw0RSUGaxbwInSPIHd1wAwvY",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Relationale Datenbankengraf.clubcomputer.at \u203a DB_Normal \u203a normal",
+    "link": "http://graf.clubcomputer.at/DB_Normal/normal.htm",
+    "description": "Relationale Datenbanken bestehen ab einer bestimmten Komplexit\u00e4t in der Regel aus mehreren Tabellen, die \u00fcber Beziehungen (Relationships) miteinander\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://graf.clubcomputer.at/DB_Normal/normal.htm&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAB6BAgDEAE&usg=AOvVaw0Xwc42VSh3x66X55eMUTHo",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Beziehungen/Relationships - Datenbank Grundlagenwww.datenbank-grundlagen.de \u203a beziehungen-datenbanken",
+    "link": "https://www.datenbank-grundlagen.de/beziehungen-datenbanken.html",
+    "description": "... verschiedene Beziehungsarten bei Datenbanken. So unterscheidet man beispielsweise zwischen Identifying und Non-Identifying Relationships/\u200bBeziehungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.datenbank-grundlagen.de/beziehungen-datenbanken.html&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAF6BAgIEAE&usg=AOvVaw0nG4c8-dI8gkeaOxtr9fz7",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] schwache Entit\u00e4t - Datenbanken und SQLbike.oth-regensburg.de \u203a data",
+    "link": "http://bike.oth-regensburg.de/data/Foliensatz-Kap03b.pdf",
+    "description": "Edwin Schicker: Datenbanken und SQL. 2. \u25bb Entity-Relationship-Modell ERM. \u25bb Entit\u00e4ten und ihre Eigenschaften. \u25bb Beziehungen zwischen den Entit\u00e4ten.",
+    "googleLink": "http://www.google.com/url?q=http://bike.oth-regensburg.de/data/Foliensatz-Kap03b.pdf&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAJ6BAgHEAE&usg=AOvVaw0bvSklfEWc7obVLyIiBEjA",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Die Macht von Beziehungen zwischen Daten - JAXenterjaxenter.de \u203a datenbanken \u203a amazon-neptune-93202",
+    "link": "https://jaxenter.de/datenbanken/amazon-neptune-93202",
+    "description": "24.03.2020 \u00b7 Daten sind das neue Gold - dieser Spruch ist mittlerweile Allgemeingut geworden. Mit welchen Datenbank-Technologien Amazon aufwartet\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://jaxenter.de/datenbanken/amazon-neptune-93202&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAN6BAgJEAE&usg=AOvVaw0x7RVa5fwDQmHVUqgqXx_b",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Access-Beziehungenwww.nilsinfo.de \u203a details \u203a beziehungen",
+    "link": "http://www.nilsinfo.de/details/beziehungen.html",
+    "description": "Mit den Begriffen Beziehungen und Relationen (daher auch der Name relationale Datenbank) sind ebenfalls Verkn\u00fcpfungsarten gemeint. Man unterscheidet\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.nilsinfo.de/details/beziehungen.html&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAR6BAgBEAE&usg=AOvVaw34_ZGH6oLxQ-HrAFdSM-8T",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Datenbanken 1 - Database Research Group - Universit\u00e4t Salzburgdbresearch.uni-salzburg.at \u203a teaching",
+    "link": "https://dbresearch.uni-salzburg.at/teaching/2016ss/db1/db1_02-handout-1x1.pdf",
+    "description": "1 Datenbankentwurf und ER-Modell. 2 Entit\u00e4ten und Attribute. 3 Beziehungen. Was sind Beziehungen? Funktionalit\u00e4ten. Rollen und Attribute. 4 Generalisierung.",
+    "googleLink": "http://www.google.com/url?q=https://dbresearch.uni-salzburg.at/teaching/2016ss/db1/db1_02-handout-1x1.pdf&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAV6BAgAEAE&usg=AOvVaw3hiwN0uLs_Y2jiLkkjmuLJ",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 1. \u00dcbungsblatt: ER-Modell und Relationales Modell - DBISwww.dbis.informatik.uni-goettingen.de \u203a teaching \u203a DB-WS1213",
+    "link": "http://www.dbis.informatik.uni-goettingen.de/teaching/DB-WS1213/DBBlatt1ML.pdf",
+    "description": "AG Datenbanken und Informationssysteme ... dass die 1:n-Beziehung zwischen Film und Studio dazu f\u00fchrt, dass der Schl\u00fcssel von Production nur (title,year) ist.",
+    "googleLink": "http://www.google.com/url?q=http://www.dbis.informatik.uni-goettingen.de/teaching/DB-WS1213/DBBlatt1ML.pdf&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAZ6BAgCEAE&usg=AOvVaw3HAJ1VhVKcoytTwJMQhz2z",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Excel 2010: Relationale Datenbanken erstellen - so geht's - PC ...www.pc-magazin.de \u203a Business & IT \u203a IT-Praxis",
+    "link": "https://www.pc-magazin.de/business-it/excel-2010-relationale-datenbank-beziehungen-office-tipp-3199610.html",
+    "description": "04.07.2018 \u00b7 Sobald Sie eine Beziehung zwischen mehreren Tabellen ben\u00f6tigen, bietet Ihnen Excel mit seinem Beziehungsmodell diese M\u00f6glichkeit. Sie\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.pc-magazin.de/business-it/excel-2010-relationale-datenbank-beziehungen-office-tipp-3199610.html&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAd6BAgEEAE&usg=AOvVaw14vjw50I8-kIV_9swIc3WW",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "1.2 Entwurf - kstbbwww.kstbb.de \u203a informatik \u203a rdb \u203a 1_2_Entwurf",
+    "link": "https://www.kstbb.de/informatik/rdb/01/1_2_Entwurf.html",
+    "description": "In einer relationalen Datenbank werden die Daten in Form von Tabellen ... h\u00f6chstens einer Entit\u00e4t des gegen\u00fcberliegenden Typs in Beziehung stehen k\u00f6nnen:.",
+    "googleLink": "http://www.google.com/url?q=https://www.kstbb.de/informatik/rdb/01/1_2_Entwurf.html&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAh6BAgGEAE&usg=AOvVaw0CCMGpjOBWDhLFK7DbY9qF",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Graphdatenbanken \u2013 die Macht der Beziehungen | heise Business ...business-services.heise.de \u203a datenbanken-data-warehousing \u203a beitrag \u203a gra...",
+    "link": "https://business-services.heise.de/software/datenbanken-data-warehousing/beitrag/graphdatenbanken-die-macht-der-beziehungen-3620",
+    "description": "Graphdatenbanken haben besondere St\u00e4rken gegen\u00fcber anderen Datenbank-\u200bAns\u00e4tzen. Mit Ihnen lassen sich Daten visualisieren und Beziehungen zwischen\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://business-services.heise.de/software/datenbanken-data-warehousing/beitrag/graphdatenbanken-die-macht-der-beziehungen-3620&sa=U&ved=2ahUKEwibpp6_8KrvAhVqhq0KHWvUA1c4KBAWMAl6BAgFEAE&usg=AOvVaw00lYJV1SUhhxgzboSmmY3A",
+    "page": 4,
+    "index": 9
+  }
+]

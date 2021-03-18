@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Beweise f\u00fcr lineare Abbildungen f\u00fchren \u2013 Serlo \u201eMathe f\u00fcr Nicht ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Beweise_f\u00fcr_lineare_Ab...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Beweise_f%C3%BCr_lineare_Abbildungen_f%C3%BChren",
+    "description": "Beweise f\u00fcr lineare Abbildungen f\u00fchren \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c ... angeben, die zeigt, wie du immer die Linearit\u00e4t einer Abbildung zeigen kannst.\nAllgemeine ... \u00b7 Wiederholung ... \u00b7 Die Nullabbildung",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Beweise_f%25C3%25BCr_lineare_Abbildungen_f%25C3%25BChren&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQFjAAegQIChAB&usg=AOvVaw2TEhzmJDwvJ0WQcnCqCakI",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Lineare Abbildungen - Beweis oder Gegenbeispiel? - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=6m34Mke0q_8",
+    "description": "30.11.2018 \u00b7 An zwei Beispielen stelle ich das Beweisprinzip und erkl\u00e4re wie man ein passendes ...Dauer: 16:38\nGepostet: 30.11.2018",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D6m34Mke0q_8&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQtwIwAXoECAYQAQ&usg=AOvVaw0FCXEFx8zXgfhvHhISr9Mc",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Lineare Abbildungen - Deutsche Mathematiker-Vereinigungwww.mathematik.de \u203a algebra \u203a 74-erste-hilfe \u203a algebra \u203a matrizen \u203a 2429...",
+    "link": "https://www.mathematik.de/algebra/74-erste-hilfe/algebra/matrizen/2429-lineare-abbildungen",
+    "description": "Im endlichdimensionalen sind lineare Abbildungen eng Matrizen verkn\u00fcpft: Die Anwendung einer Matrix auf einen Vektor ist eine lineare Abbildung und nach\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.de/algebra/74-erste-hilfe/algebra/matrizen/2429-lineare-abbildungen&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQFjACegQICRAB&usg=AOvVaw03dwr1lBYtKjoIlkkwdexI",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[PDF] (Lineare) Abbildungen Angaben: Ist f linear? Beweis oder ...www.mathe-online.at \u203a martin.glatz \u203a files \u203a EinfidlinAlg \u203a Aufg4-2",
+    "link": "https://www.mathe-online.at/materialien/martin.glatz/files/EinfidlinAlg/4linabb/Aufg4-2.pdf",
+    "description": "(Lineare) Abbildungen. Angaben: Ist f linear? Beweis oder Gegenbeweis! 1. f : R2 \u2192 R3, x = ( x1 x2. ) \u21a6\u2192... 2x2. 1 + x2. 2. \u2212x2 x1.. . 2. f : R4 \u2192 R2,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-online.at/materialien/martin.glatz/files/EinfidlinAlg/4linabb/Aufg4-2.pdf&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQFjADegQICBAB&usg=AOvVaw2m-kiQWJ93gujrHoRV_8KV",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 34 Lineare Abbildungenresources.mpi-inf.mpg.de \u203a departments \u203a teaching \u203a MFI2 \u203a kap34",
+    "link": "https://resources.mpi-inf.mpg.de/departments/d1/teaching/ss10/MFI2/kap34.pdf",
+    "description": "U und V hei\u00dfen isomorph, wenn es eine bijektive lineare Abbildung f : U \u2192 V gibt\u200b. ... Beweis: Die Existenz der Darstellung ist klar wegen V = span(B). Zu zeigen.",
+    "googleLink": "http://www.google.com/url?q=https://resources.mpi-inf.mpg.de/departments/d1/teaching/ss10/MFI2/kap34.pdf&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQFjAEegQIBxAB&usg=AOvVaw3mHJ2K3KYpXZv7VEYznBkg",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Lineare Abbildungenwww.minet.uni-jena.de \u203a ~matveev \u203a Lehre \u203a vorlesung7_handout",
+    "link": "http://www.minet.uni-jena.de/~matveev/Lehre/LA14-15/vorlesung7_handout.pdf",
+    "description": "Bsp. Ist die Abbildung f : V1 \u2192 V2, f (v) := 0 eine lineare Abbildung? Ja! ... Dann gilt: die Abbildung C ist linear. Beweis. Z.z.: F\u00fcr beliebigen Vektoren u, w \u2208 V mit\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.minet.uni-jena.de/~matveev/Lehre/LA14-15/vorlesung7_handout.pdf&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQFjAFegQIAxAB&usg=AOvVaw0g30goQ-VaPGCqoo0Cl1gr",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Lineare Abbildungenwww.mathe.tu-freiberg.de \u203a ~bernstei \u203a Kapitel \u203a HM2-1-LinAbb-2018",
+    "link": "http://www.mathe.tu-freiberg.de/~bernstei/Vorlesung-html/Kapitel/HM2-1-LinAbb-2018.pdf",
+    "description": "cx, c \u2208 R. Beweis: F\u00fcr die Ableitung einer linearen Funktion gilt: f (x) = lim h\u2192\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathe.tu-freiberg.de/~bernstei/Vorlesung-html/Kapitel/HM2-1-LinAbb-2018.pdf&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQFjAGegQIBRAB&usg=AOvVaw1yX6s77ewHt3BTja7T5-jk",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Lineare Abbildungen - II - Mathematics TU Grazwww.math.tugraz.at \u203a ~ganster \u203a lv_lineare_algebra \u203a 08_lineare_abb...",
+    "link": "https://www.math.tugraz.at/~ganster/lv_lineare_algebra/08_lineare_abbildungen_II.pdf",
+    "description": "Eine lineare Abbildung F : V \u2192 W wird auch als (Vektorraum-) Homo- morphismus ... Abbildungen. Dann ist auch die Kompostion G \u25e6 F : V \u2192 U linear. Beweis.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tugraz.at/~ganster/lv_lineare_algebra/08_lineare_abbildungen_II.pdf&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQFjAHegQIBBAB&usg=AOvVaw1yIq0v5oQr36xQOuLYlGaY",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "10 Lineare Abbildungen und Matrizenwww.mat.univie.ac.at \u203a ~kriegl \u203a Skripten \u203a node11",
+    "link": "https://www.mat.univie.ac.at/~kriegl/Skripten/Math4Ilak1/node11.html",
+    "description": "zu einer linearen Abbildung machen. Beweis. Damit \\bgroup\\color{demo}$ \\pi$\\\u200begroup eine lineare Abbildung ist, m\u00fcssen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mat.univie.ac.at/~kriegl/Skripten/Math4Ilak1/node11.html&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQFjAIegQIARAB&usg=AOvVaw0qJE336gO6Isv8sUrfi57j",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 1 Lineare Abbildungenwww.math.uni-bielefeld.de \u203a ~mspiess \u203a NWI1 \u203a skript2",
+    "link": "https://www.math.uni-bielefeld.de/~mspiess/NWI1/skript2.pdf",
+    "description": "Denn nach Beispiel 1 ist jede lineare Abbildung R2 \u2192 R2 von der Form. R2 \u2192 R2, ( ... Beweis. Sei r: = dim Kern f \u2264 n: = dimV , und sei (v1,...,vr) eine Basis.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-bielefeld.de/~mspiess/NWI1/skript2.pdf&sa=U&ved=2ahUKEwjmq9DtzavvAhWBXCsKHSdWC-gQFjAJegQIABAB&usg=AOvVaw0stSQ9DipHunOv6C8EgKb7",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Lineare Abbildungen - Beweis oder Gegenbeispiel? - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=6m34Mke0q_8",
+    "description": "An zwei Beispielen stelle ich das Beweisprinzip und erkl\u00e4re wie man ein passendes Gegenbeispiel ...",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Kapitel 3 Lineare Abbildungen - Mathematisches Institutwww.math.uni-leipzig.de \u203a ~schueler \u203a linalg \u203a ka...",
+    "link": "http://www.math.uni-leipzig.de/~schueler/linalg/kapitel3",
+    "description": "Andere Bezeichnungen f\u00fcr eine lineare Abbildung sind linearer Operator oder ... als lineare Abbildungen von \u00c3p \u2192 \u00c3m . Beweis. Es sei x = (x1,...,xp )\u22a4 \u2208 \u00c3p\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "9.10. Lineare Abbildungen - mathprojectwww.mathproject.de \u203a LineareAlgebra",
+    "link": "http://www.mathproject.de/LineareAlgebra/9_10.html",
+    "description": "Beispiel: Die folgenen Abbildungen aus der Analysis sind linear. Der Nachweis ist durch den Beweis der jeweiligen Rechenregel bereits gef\u00fchrt. lim \u2061 : { ( a n )\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Lineare Algebra 2004/05: Lineare Abbildungenwww.math.uni-bielefeld.de \u203a ~sek \u203a linalg \u203a leit \u203a linear",
+    "link": "https://www.math.uni-bielefeld.de/~sek/linalg/leit/linear.htm",
+    "description": "Wir werden weiter unten zeigen, dass derartige lineare Abbildung \"Isomorphismen\" sind. Beweis: Ist f injektiv, so ist Kern(f) = 0, also dim V = dim Bild(f). Aber dim\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Lineare Abbildungen - TU Berlinwww3.math.tu-berlin.de \u203a LinAlg1 \u203a vorlesung23",
+    "link": "https://www3.math.tu-berlin.de/Vorlesungen/SS12/LinAlg1/Materialien/vorlesung23.pdf",
+    "description": "26.06.2012 \u2014 Jede Matrix definiert durch die Multiplikation eine lineare Abbildung von ... Beweis. F\u00fcr jedes v \u2208 V gibt es eindeutig bestimmte Koordinaten.",
+    "googleLink": null,
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Lineare Abbildung \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Lineare_Abbildung",
+    "link": "https://de.wikipedia.org/wiki/Lineare_Abbildung",
+    "description": "Eine lineare Abbildung (auch lineare Transformation oder Vektorraumhomomorphismus genannt) ist in der linearen Algebra ein wichtiger Typ von Abbildung\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Algebra - Lineare Abbildungen - FHNWweb.fhnw.ch \u203a algebra \u203a unterlagen \u203a skript-folie...",
+    "link": "https://web.fhnw.ch/personenseiten/roger.burkhardt/lehre-an-der-fhnw/alte-vorlesungen/algebra/unterlagen/skript-foliensammlung-zu-linearen-abbildungen",
+    "description": "Algebra -. Lineare Abbildungen. Roger Burkhardt ... f\u00fcr Technik. 2. Algebra - Lineare Abbildungen ... Beweis, dass diese Abbildung linear ist: f P. P. : 3. 3. \u2192. ( ).",
+    "googleLink": null,
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "7 Lineare Abbildungenlink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-3-540-48768-5_7.pdf",
+    "description": "ist linear und damit ebenfalls Isomorphismus. Page 3. A. Definition und einfache Eigenschaften. 167. Beweis.",
+    "googleLink": null,
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Kapitel III. Lineare Abbildungen - Uni Regensburgwww.uni-regensburg.de \u203a waldi \u203a kapIII_para1",
+    "link": "https://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Mat4/waldi/skriptlinalg/kapIII_para1.pdf",
+    "description": "\u00a71 Lineare Abbildungen ... (1.1) Satz: Sei F : V \u2192 V eine lineare Abbildung. ... (F(v1),...,F(vn)) ein Erzeugendensystem von F(V ). Beweis: a) F(0) = F(0 \u00b7 0) = 0F(0)\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "\u00dcbungsaufgaben (Lineare Abbildungen) - LPlp.uni-goettingen.de \u203a get \u203a text",
+    "link": "https://lp.uni-goettingen.de/get/text/2381",
+    "description": "-lineare Abbildung von V in einen K -Vektorraum W . Dann ist f eindeutig bestimmt durch die n Vektoren w_1 = f(v_1), \\dots, w_n = f(v_n) aus W . Man beweise\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 8 Lineare Abbildungengcsc.uni-frankfurt.de \u203a lectures-courses \u203a b-mbi-2 \u203a Kap8.1-8.5.pdf",
+    "link": "https://gcsc.uni-frankfurt.de/simulation-and-modelling/lectures-courses/b-mbi-2/Kap8.1-8.5.pdf",
+    "description": "Beweis. Per Definition ist der Rang die Dimension des von den Spalten von A aufge- spannten Raum. Dieser hat nat\u00fcrlich genau die Dimension, wie es linear\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://gcsc.uni-frankfurt.de/simulation-and-modelling/lectures-courses/b-mbi-2/Kap8.1-8.5.pdf&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAB6BAgCEAE&usg=AOvVaw1jLFFRFDQKgz0NJ6rOzELb",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Kapitel 2 Lineare Algebra II 2.1 Lineare Abbildungen und Matrizendmi.unibas.ch \u203a user_upload \u203a dmi \u203a Personen \u203a A_Campo_Annette",
+    "link": "https://dmi.unibas.ch/fileadmin/user_upload/dmi/Personen/A_Campo_Annette/skript3MMII.pdf",
+    "description": "Beweis. Man kann direkt nachrechnen, dass die Multiplikation von Spaltenvektoren mit einer festen Matrix eine lineare Abbildung liefert. Sei jetzt umgekehrt eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dmi.unibas.ch/fileadmin/user_upload/dmi/Personen/A_Campo_Annette/skript3MMII.pdf&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAF6BAgIEAE&usg=AOvVaw1OuLY7N5FvaIOPAMYxXdgv",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Beweisen oder widerlegen Sie: Jede lineare Abbildung wird bei ...www.mathelounge.de \u203a beweisen-widerlegen-lineare-abbildung-geeigneter...",
+    "link": "https://www.mathelounge.de/755377/beweisen-widerlegen-lineare-abbildung-geeigneter-basiswahl",
+    "description": "zu a) falsch! Die Abbildung, die alles auf die 0 abbildet, ist eine. lineare Abbildung und hat bez\u00fcglich jeder Basis die 0-Matrix als.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/755377/beweisen-widerlegen-lineare-abbildung-geeigneter-basiswahl&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAJ6BAgJEAE&usg=AOvVaw3D490McBba9Ew2LpjpQ2_A",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Lineare Algebrahome.mathematik.uni-freiburg.de \u203a ziegler \u203a skripte",
+    "link": "https://home.mathematik.uni-freiburg.de/ziegler/skripte/la.pdf",
+    "description": "Beweis: Ein homogenes Gleichungssystem hat immer die triviale L\u00f6sung ... der linearen Abbildungen ist ein R\u2013Vektorraum unter wertweiser Addition und.",
+    "googleLink": "http://www.google.com/url?q=https://home.mathematik.uni-freiburg.de/ziegler/skripte/la.pdf&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAN6BAgHEAE&usg=AOvVaw3ZYzfPcrCfVSpHCKUmGTm_",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] AQUIVALENZ VON NORMEN 1. Lineare Abbildungen SATZ 1.1. Sei Twww.mi.uni-koeln.de \u203a Normen",
+    "link": "http://www.mi.uni-koeln.de:8929/Normen.pdf",
+    "description": "Sei V = Rn mit der Euklidischen Norm und sei (W,||\u00b7||) ein normierter Vektorraum. Dann ist jede lineare Abbildung T : V \u2192. W stetig. Beweis. Sei e1, ..., en die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mi.uni-koeln.de:8929/Normen.pdf&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAR6BAgEEAE&usg=AOvVaw3stFh2CNKKPFUwiJlSAu2d",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Lineare Abbildung/Kern/Injektivit\u00e4t/Fakt/Beweis \u2013 Wikiversityde.wikiversity.org \u203a wiki \u203a Kern \u203a Injektivit\u00e4t \u203a Fakt \u203a Beweis",
+    "link": "https://de.wikiversity.org/wiki/Lineare_Abbildung/Kern/Injektivit%C3%A4t/Fakt/Beweis",
+    "description": "24.01.2020 \u00b7 Lineare Abbildung/Kern/Injektivit\u00e4t/Fakt/Beweis. Sprache; Beobachten \u00b7 Bearbeiten. < Lineare Abbildung\u200e | Kern/Injektivit\u00e4t/Fakt. Beweis.",
+    "googleLink": "http://www.google.com/url?q=https://de.wikiversity.org/wiki/Lineare_Abbildung/Kern/Injektivit%25C3%25A4t/Fakt/Beweis&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAV6BAgGEAE&usg=AOvVaw0wUWOeaPjoD8AQHFNLEXoF",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 16. Lineare Abbildungen als Matrizenwww.mathematik.uni-kl.de \u203a class \u203a gdm-2019 \u203a gdm-2019-c16",
+    "link": "https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c16.pdf",
+    "description": "der linearen Abbildungen von V nach W selbst wieder ein K-Vektorraum ist. ... Beweis. Der Beweis ergibt sich in allen F\u00e4llen durch einfaches Nachrechnen.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c16.pdf&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAZ6BAgBEAE&usg=AOvVaw1UJ8HZNZrZQT4fih7BlEWN",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Matrizen und lineare Abbildungen Definition Lemma Beweis ...www.math.uni-konstanz.de \u203a teaching \u203a gubisch-tutorial-070105",
+    "link": "http://www.math.uni-konstanz.de/numerik/personen/gubisch/de/teaching/ws0708/gubisch-tutorial-070105.pdf",
+    "description": "m(A) ist ein K-Vektorraum-Isomorphismus. Beweis. (1) Ln m ist surjektiv: Sei f : Kn \u2192 Km eine K-lineare Abbildung. Dann ist f eindeutig bestimmt durch f(e(i)) =.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uni-konstanz.de/numerik/personen/gubisch/de/teaching/ws0708/gubisch-tutorial-070105.pdf&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAd6BAgAEAE&usg=AOvVaw1eNxoHVdxKyQvETghu5z04",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 4 Lineare Abbildungen und Matrizenwww2.mathematik.hu-berlin.de \u203a skript \u203a Skript_Mathe_2_Kap04",
+    "link": "https://www2.mathematik.hu-berlin.de/~loebhard/mathematik_2/skript/Skript_Mathe_2_Kap04.pdf",
+    "description": "der Kern von f. Beispiel 4.7. Satz 4.8. Ist f : V \u2192 W eine lineare Abbildung, so ist Im(f) ein Untervektorraum von W, und Ker(f) ein Untervektorraum von V . Beweis.",
+    "googleLink": "http://www.google.com/url?q=https://www2.mathematik.hu-berlin.de/~loebhard/mathematik_2/skript/Skript_Mathe_2_Kap04.pdf&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAh6BAgFEAE&usg=AOvVaw0TqC-zFuSFqRAEjRZeFFlb",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] L\u00f6sungsskizze zur Hauptklausur Lineare Algebra Iwww2.math.uni-wuppertal.de \u203a files \u203a L\u00f6sungsskizze_LA1_Klausur",
+    "link": "http://www2.math.uni-wuppertal.de/~ruhstorf/files/L%C3%B6sungsskizze_LA1_Klausur.pdf",
+    "description": "d) Beweisen Sie: Ist f : V \u2192 W eine lineare Abbildung, so gilt: f ist genau dann injektiv, wenn Kern(f) = {0V }. L\u00f6sung zu Aufgabe 1 a) Eine Abbildung f : V \u2192 W\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www2.math.uni-wuppertal.de/~ruhstorf/files/L%25C3%25B6sungsskizze_LA1_Klausur.pdf&sa=U&ved=2ahUKEwjE2s7vzavvAhXGb30KHYIqDYA4FBAWMAl6BAgDEAE&usg=AOvVaw3xxLHmgl_2P9Hz26fUB8Bc",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "L\u00f6sungsskizze zur Hauptklausur Lineare Algebra Iwww2.math.uni-wuppertal.de \u203a ~ruhstorf \u203a files",
+    "link": "http://www2.math.uni-wuppertal.de/~ruhstorf/files/L%C3%B6sungsskizze_LA1_Klausur.pdf",
+    "description": "d) Beweisen Sie: Ist f : V \u2192 W eine lineare Abbildung, so gilt: f ist genau dann injektiv, wenn Kern(f) = {0V }. L\u00f6sung zu Aufgabe 1 a) Eine Abbildung f : V \u2192 W\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Lineare Algebraivv5hpp.uni-muenster.de \u203a lehre \u203a Math-f-Ph-2",
+    "link": "https://ivv5hpp.uni-muenster.de/u/raimar/lehre/SS08/Math-f-Phys-II/Math-f-Ph-2.pdf",
+    "description": "und linearen Abbildungen zwischen ihnen bereitgestellt sind. Definition ... Beweis. Sei e \u2208 G eines der neutralen Elemente und a \u2208 G. Zum Inversen a\u22121 \u2208 G.",
+    "googleLink": null,
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "\u00a72 Vektorr\u00e4ume und lineare Abbildungenwww.cip.ifi.lmu.de \u203a ~fritschd \u203a semester_3_assets",
+    "link": "http://www.cip.ifi.lmu.de/~fritschd/semester_3_assets/LA%20Skript.pdf",
+    "description": "(b) F\u00fcr jedes A \u2208 Km\u00d7n ist die Abbildung f : Kn \u2192 Km, f(x) = A \u00b7 x linear. Merke: Die Spalten der darstellenden Matrix sind die Bilder der Einheitsvektoren. Beweis: (\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Lineare Algebra Iwww.mathi.uni-heidelberg.de \u203a lehre \u203a Paderborn",
+    "link": "https://www.mathi.uni-heidelberg.de/~witte/lehre/Paderborn/LA1.pdf",
+    "description": "von M Witte \u2014 Vektorr\u00e4ume und lineare Abbildungen: Definition, Existenz von Basen, Di- ... viele Beweise nachvollziehen d\u00fcrfen und die \u00dcbungsaufgaben sind dazu da, dass.",
+    "googleLink": null,
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Skript zur Vorlesung Lineare Algebra I - WueCampuswuecampus2.uni-wuerzburg.de \u203a resource \u203a view",
+    "link": "https://wuecampus2.uni-wuerzburg.de/moodle/mod/resource/view.php?id=620047",
+    "description": "Beweis: Seien \u03d5 : V \u2192 W und \u03c8 : W \u2192 Z lineare Abbildungen zwischen K-Vektorr\u00e4umen. V , W bzw. Z. Seien \u03bb, \u00b5 \u2208 K und v1,v2 \u2208 V . Dann ist (\u03c8 \u25e6 \u03d5)(\u03bbv1 + \u00b5v2)\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Ausgew\u00e4hlte Musterl\u00f6sungen zur Linearen Algebra 1 \u2013 Blatt 6www.math.uni-bonn.de \u203a UebungenLAWS18",
+    "link": "https://www.math.uni-bonn.de/people/gmartin/UebungenLAWS18/LAUeb6Loes.pdf",
+    "description": "Sei f : V \u2192 W eine lineare Abbildung. Man beweise folgende Aussagen: (i) F\u00fcr jeden Unterraum U \u2282 V gilt f\u22121f(U) = U + Ker(f)\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Lineare Abbildungen und Matrizen - Studimup.dewww.studimup.de \u203a lineare-algebra \u203a lineare-abbildung...",
+    "link": "https://www.studimup.de/lineare-algebra/lineare-abbildungen-und-matrizen/",
+    "description": "Eine lineare Abbildung (genauer: eine K-lineare Abbildung) von V nach W ist ... So zu beweisen: Sei also w \u2208 W. Dann gibt es f(b1),..., f(bn)\u2208 f(B) und \u03bb1,...,\u03bbn\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Reelle Zahlen | Isometrien und lineare Abbildungen \u2013 Oliver ...www.aleph1.info \u203a ... \u203a 4. Euklidische Isometrien",
+    "link": "https://www.aleph1.info/?call=Puc&permalink=reellezahlen_1_4_Z3",
+    "description": "Dann ist f linear. Beweis. Sei x \u2208 \u211dn und sei \u03b1 \u2208 \u211d. Dann gilt:.",
+    "googleLink": null,
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "MP: Beweisen der linearen Abbildung (Ableitung und Integral ...www.matheplanet.com \u203a nuke \u203a html \u203a viewtopic",
+    "link": "https://www.matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=233410",
+    "description": "09.01.2018 \u2014 Beweisen der linearen Abbildung (Ableitung und Integral) ... Wie zeige ich nun, dass F eine lineare Abbildung ist? Ich weiss, dass F(x+y) = F(x)\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "8.\u00a8Ubung zur Linearen Algebra I - L\u00f6sungenpage.mi.fu-berlin.de \u203a lina_blatt8_loesungen",
+    "link": "http://page.mi.fu-berlin.de/klarner/lina_blatt8_loesungen.pdf",
+    "description": "Welche der folgenden Abbildungen sind linear? ... Sei \u03d5 : X \u2192 Y eine lineare Abbildung. (i) Ist das Bild einer ... Zum Beweis zwei einfache Gegenbeispiele. (1.)\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Lineare Algebra I - Fakult\u00e4t f\u00fcr Mathematikwww.mathematik.ur.de \u203a Jannsen \u203a home \u203a UebungSS11 \u203a LinAlg1",
+    "link": "http://www.mathematik.ur.de/Jannsen/home/UebungSS11/LinAlg1.pdf",
+    "description": "lineare Abbildungen, so auch \u03c8 \u25e6 \u03c6 : V \u2192 V. \u2032\u2032 . (b) Ist \u03c6 : V \u2192 V. \u2032 ein Vektorraum-Isomorphismus, so auch die inverse Abbildung \u03c6. \u22121. Beweis: Wir\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.ur.de/Jannsen/home/UebungSS11/LinAlg1.pdf&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAB6BAgEEAE&usg=AOvVaw0AQmvxqGIYjmDTJpgCf2tI",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Lineare Algebra 1 - Uni Ulmwww.uni-ulm.de \u203a mawi.inst.010 \u203a lina.2.ueberarbeiteteVersion.pdf",
+    "link": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.010/lina.2.ueberarbeiteteVersion.pdf",
+    "description": "07.05.2012 \u00b7 Gleichungssysteme und lineare Abbildungen . ... Beweis. Wir f\u00fchren den Beweis f\u00fcr den r\u00e4umlichen Fall. Der andere ergibt sich daraus.",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.010/lina.2.ueberarbeiteteVersion.pdf&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAF6BAgJEAE&usg=AOvVaw35WwE_PzGPvitIYhtkdKPE",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] WS 2018/9 - Physik-Department, TUMwww.ph.tum.de \u203a bsc \u203a break \u203a fk_MA9201_02_exercisesolution",
+    "link": "https://www.ph.tum.de/academics/bsc/break/2018w/fk_MA9201_02_exercisesolution.pdf",
+    "description": "Aufgabe 10 Kern und Bild von linearen Abbildungen. Sei f : V \u2212\u2192 W eine lineare Abbildung. Man beweise: (a) F\u00fcr jeden Unterraum U \u2282 V gilt f\u22121(f(U)) = U +\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ph.tum.de/academics/bsc/break/2018w/fk_MA9201_02_exercisesolution.pdf&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAJ6BAgIEAE&usg=AOvVaw1IDYqyjg84piFQezmmDeo7",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 2.4 Stetige lineare Abbildungenhsrm-mathematik.de \u203a Funktionalanalysis \u203a Funktionalanalysis-6",
+    "link": "http://hsrm-mathematik.de/SS2016/semester8/Funktionalanalysis/Funktionalanalysis-6.pdf",
+    "description": "Statt von linearen Abbildungen spricht man in der Funktionalanalysis oft ... Beweis: Es seien T1,T2 \u2208 Hom (X, Y ), dann gilt f\u00fcr die punktweise Sum- me T1 + T2:.",
+    "googleLink": "http://www.google.com/url?q=http://hsrm-mathematik.de/SS2016/semester8/Funktionalanalysis/Funktionalanalysis-6.pdf&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAN6BAgHEAE&usg=AOvVaw3ZyzreMQrwymY6PfUajUZF",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Lineare Abbildungen und Erhaltung von Linearkombinationen | Wie ...de.serlo.org \u203a lineare-algebra \u203a lineare-abbildungen \u203a kommt-man-beweis",
+    "link": "https://de.serlo.org/mathe/hochschule/lineare-algebra/lineare-abbildungen/lineare-abbildungen-erhaltung-linearkombinationen/kommt-man-beweis",
+    "description": "Wie kommt man auf den Beweis ... Wir wissen aus der Definition der linearen Abbildung, dass f\u00fcr diese die Eigenschaften der Additivit\u00e4t und Homogenit\u00e4t\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/mathe/hochschule/lineare-algebra/lineare-abbildungen/lineare-abbildungen-erhaltung-linearkombinationen/kommt-man-beweis&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAR6BAgGEAE&usg=AOvVaw1ADrBfaZ7OEu13OnrFgIW4",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Lineare Algebra Imath-www.upb.de \u203a ~linalg2 \u203a vorlesung \u203a la1_gesamt",
+    "link": "http://math-www.upb.de/~linalg2/vorlesung/la1_gesamt.pdf",
+    "description": "des Vektorraums und der linearen Abbildung herzuleiten. Die zun\u00e4chst ... Beweis\u200b. Existenz. Wegen des Dimensionsaxioms sind die Vektoren b1,b2,b3, a linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://math-www.upb.de/~linalg2/vorlesung/la1_gesamt.pdf&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAV6BAgCEAE&usg=AOvVaw0eo7gVZ-htG8p2D8RQAO8p",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] L\u00f6sungen von Aufgaben zu Band 2, Kapitel 2 - L\u00f6sungsvorschl\u00e4ge ...www.ruhr-uni-bochum.de \u203a imperia \u203a content \u203a mathematik \u203a storch",
+    "link": "https://www.ruhr-uni-bochum.de/imperia/md/content/mathematik/storch/loesungen_von_aufgaben_zu_band_2_kapitel_2.pdf",
+    "description": "Beweis: (1) \u21d4 (2) Die Inversenbildung x \u21a6\u2192 x\u22121 ist sicher bijektiv mit der ... Man berechne f\u00fcr die folgenden linearen Abbildungen f jeweils Basen f\u00fcr Kern f\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ruhr-uni-bochum.de/imperia/md/content/mathematik/storch/loesungen_von_aufgaben_zu_band_2_kapitel_2.pdf&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAZ6BAgAEAE&usg=AOvVaw3-Fnu-DB_9iIn03CSbn9d5",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Der Rangsatz f\u00fcr lineare Abbildungen - PDF Free Downloaddocplayer.org \u203a 46294132-Der-rangsatz-fuer-lineare-abbildungen",
+    "link": "https://docplayer.org/46294132-Der-rangsatz-fuer-lineare-abbildungen.html",
+    "description": "Der Rangsatz f\u00fcr lineare Abbildungen Satz Sei f : V W eine lineare Abbildung ... 7 Begr\u00fcndung Beweis Seien v 1, v 2,, v n die Spaltenvektoren der Matrix A, also\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/46294132-Der-rangsatz-fuer-lineare-abbildungen.html&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAd6BAgBEAE&usg=AOvVaw2PoxZbWYv2RnJ_-xxpeM9t",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Bild und Kern F\u00fcr eine lineare Abbildung L : V \u2192 W bezeichnet man ...vhm.mathematik.uni-stuttgart.de \u203a Folien_Bild_und_Kern",
+    "link": "http://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Lineare_Algebra/Folien_Bild_und_Kern.pdf",
+    "description": "Beweis. (i) KernL ist Unterraum von V: zu zeigen: Abgeschlossenheit bez\u00fcglich Addition und skalarer. Multiplikation. F\u00fcr u,v \u2208 KernL, s \u2208 K folgt aus der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Lineare_Algebra/Folien_Bild_und_Kern.pdf&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAh6BAgFEAE&usg=AOvVaw0mERQUBvhJQMjZcw1AHs_u",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Lineare Algebra - AGeS - Die Skript-Spezialistenwww.ages-skripte.org \u203a pdf \u203a LinAlg",
+    "link": "https://www.ages-skripte.org/pdf/LinAlg.pdf",
+    "description": "4.3 Lineare Unabh\u00e4ngigkeit, Basis, Dimension . ... 5 Lineare Abbildungen und Matrizen. 27 ... Es gilt (ohne Beweis): ez1 \u00b7 ez2 = ez1+z2 \u2200z1,z2 \u2208 C. (9).",
+    "googleLink": "http://www.google.com/url?q=https://www.ages-skripte.org/pdf/LinAlg.pdf&sa=U&ved=2ahUKEwiJsNHxzavvAhVWSX0KHZqiABM4KBAWMAl6BAgDEAE&usg=AOvVaw3byP2z_dbb_nDCYwTQbJJb",
+    "page": 4,
+    "index": 9
+  }
+]

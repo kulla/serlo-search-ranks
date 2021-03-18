@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Epimorphism - Wikipediaen.wikipedia.org \u203a wiki \u203a Epimorphism",
+    "link": "https://en.wikipedia.org/wiki/Epimorphism",
+    "description": "In category theory, an epimorphism is a morphism f : X \u2192 Y that is right-\u200bcancellative in the sense that, for all objects Z and all morphisms g1, g2: Y \u2192 Z,. g 1 \u2218 f\u00a0...\nExamples \u00b7 Properties \u00b7 Related concepts \u00b7 Terminology",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Epimorphism&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjAAegQICBAB&usg=AOvVaw2otQbcs7iOecMetMcpa577",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "epimorphism in nLabncatlab.org \u203a nlab \u203a show \u203a epimorphism",
+    "link": "https://ncatlab.org/nlab/show/epimorphism",
+    "description": "22.01.2021 \u00b7 1. Idea. In category theory, the concept of epimorphism is a generalization or strengthening of the concept of surjective functions between sets (\u00a0...\nDefinition \u00b7 Examples \u00b7 General \u00b7 Examples of monos that are ...",
+    "googleLink": "http://www.google.com/url?q=https://ncatlab.org/nlab/show/epimorphism&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjAHegQICRAB&usg=AOvVaw2QGyvWinu0upV_HtHc3M7y",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "effective epimorphism in nLabncatlab.org \u203a nlab \u203a show \u203a effective+epimorphism",
+    "link": "https://ncatlab.org/nlab/show/effective+epimorphism",
+    "description": "03.12.2020 \u00b7 An effective epimorphism is a morphism c\u2192d in a category which behaves in the way that a covering is expected to behave, in the sense that \u201cd is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ncatlab.org/nlab/show/effective%2Bepimorphism&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjAIegQIARAB&usg=AOvVaw2dKNxev5hqDHXkdIjf6Cda",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Epimorphism -- from Wolfram MathWorldmathworld.wolfram.com \u203a Epimorphism",
+    "link": "https://mathworld.wolfram.com/Epimorphism.html",
+    "description": "Epimorphism. A morphism f:Y->X in a category is an epimorphism if, for any two morphisms u,v:X->Z , uf=vf implies u=v . In the categories of sets, groups,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/Epimorphism.html&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjAJegQIBhAB&usg=AOvVaw3USEHZLJzekftR0MAH_jbp",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "What do epimorphisms of (commutative) rings look like ...mathoverflow.net \u203a questions \u203a what-do-epimorphis...",
+    "link": "https://mathoverflow.net/questions/109/what-do-epimorphisms-of-commutative-rings-look-like",
+    "description": "No, not every epimorphism of rings is a composition of localizations and surjections. An epimorphism of commutative rings is the same thing as\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/109/what-do-epimorphisms-of-commutative-rings-look-like&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjAKegQIChAB&usg=AOvVaw0-G_GYEc9JykPgSUqpRqWJ",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Epimorphisms and monomorphisms in category theory - John D. Cookwww.johndcook.com \u203a 2018/08/25 \u203a epi-and-mono",
+    "link": "https://www.johndcook.com/blog/2018/08/25/epi-and-mono/",
+    "description": "25.08.2018 \u00b7 Epimorphisms. A morphism f from an object X to an object Y is an epimorphism if for any other object Z, and any pair of morphisms g1 and g2\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.johndcook.com/blog/2018/08/25/epi-and-mono/&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjALegQIAhAB&usg=AOvVaw1jPUJ7cWW6uDxX0xVk_7XJ",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Section 10.107 (04VM): Epimorphisms of rings\u2014The Stacks projectstacks.math.columbia.edu \u203a tag",
+    "link": "https://stacks.math.columbia.edu/tag/04VM",
+    "description": "The composition of two epimorphisms of rings is an epimorphism. Proof. Omitted. Hint: This is true in any category. \\square.",
+    "googleLink": "http://www.google.com/url?q=https://stacks.math.columbia.edu/tag/04VM&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjAMegQIAxAB&usg=AOvVaw234cTOagpdtyDZe-u5lAik",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Epimorphism - Encyclopedia of Mathematicsencyclopediaofmath.org \u203a wiki \u203a Epimorphism",
+    "link": "https://encyclopediaofmath.org/wiki/Epimorphism",
+    "description": "12.01.2017 \u00b7 A concept reflecting the algebraic properties of surjective mappings of sets. A morphism \u03c0:A\u2192B in a category N is called an epimorphism if\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://encyclopediaofmath.org/wiki/Epimorphism&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjARegQIABAB&usg=AOvVaw04J_zw0rXad7VuKRiw-fIL",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "What are the epimorphisms and monomorphisms in the category of ...math.stackexchange.com \u203a questions \u203a what-are-the-...",
+    "link": "https://math.stackexchange.com/questions/2142651/what-are-the-epimorphisms-and-monomorphisms-in-the-category-of-affine-varieties",
+    "description": "I am posting my comment as an answer as requested, with some more concrete references. We start with monomorphisms: Proposition [Borceux, Ex. 1.7.7.d].",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/2142651/what-are-the-epimorphisms-and-monomorphisms-in-the-category-of-affine-varieties&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjASegQICxAB&usg=AOvVaw3qPO0T2G4AQZRXlw6ROLiP",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Monomorphisms, epimorphisms and isomorphisms of groups ...math.stackexchange.com \u203a questions \u203a monomorphi...",
+    "link": "https://math.stackexchange.com/questions/1857874/monomorphisms-epimorphisms-and-isomorphisms-of-groups-category",
+    "description": "It is obvious that injective (respectively, surjective) group homomorphisms are monomorphisms (respectively, epimorphisms). Monomorphisms in the category of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/1857874/monomorphisms-epimorphisms-and-isomorphisms-of-groups-category&sa=U&ved=2ahUKEwiU-Pn3h6vvAhXfJzQIHXGmDocQFjATegQIBxAB&usg=AOvVaw11GF4CUjXjy4cpjJbKsImP",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Epimorphismsuserweb.ucs.louisiana.edu \u203a ~avm1260 \u203a research",
+    "link": "https://userweb.ucs.louisiana.edu/~avm1260/research/epimorphisms.html",
+    "description": "Right-cancellable morphisms have a special name in Category Theory: they are called epimorphisms; they are the dual concept of the monomorphisms,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://userweb.ucs.louisiana.edu/~avm1260/research/epimorphisms.html&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChAWMAB6BAgEEAE&usg=AOvVaw3JZD3RgRuggnvNpDHbwBjc",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Epimorphisms in varieties of subidempotent residuated structures ...link.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1007/s00012-020-00694-2",
+    "description": "04.01.2021 \u00b7 We say that {\\mathsf {K}} has the epimorphism-surjectivity (ES) property if all {\\\u200bmathsf {K}}-epimorphisms are surjective. A subalgebra {\\varvec{D}}\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/article/10.1007/s00012-020-00694-2&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChAWMAF6BAgDEAE&usg=AOvVaw3fQzbTEK4T62oRTvxZvCFz",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Traces of Epimorphism classes (bibtex)www8.cs.fau.de \u203a bibtexbrowser \u203a bibtexbrowser",
+    "link": "https://www8.cs.fau.de/ext/bibtexbrowser/bibtexbrowser.php?key=Schroder01b&bib=lutz.bib",
+    "description": "Classes of morphisms that occur as preimages of the class of all epimorphisms, of all extremal epimorphisms, respectively of all retractions under some faithful\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www8.cs.fau.de/ext/bibtexbrowser/bibtexbrowser.php%3Fkey%3DSchroder01b%26bib%3Dlutz.bib&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChAWMAJ6BAgIEAE&usg=AOvVaw3-zcbg9zml9lE0fJ3Je4At",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Category Theory 2.1: Functions, epimorphisms - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=O2lZkr-aAqk",
+    "description": "01.09.2016 \u00b7 Category Theory 2.1: Functions, epimorphisms. 86,081 views86K views. \u2022 Sep 1, 2016. 1.4K. 10 ...Dauer: 46:14\nGepostet: 01.09.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DO2lZkr-aAqk&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChC3AjADegQICRAB&usg=AOvVaw3R6o7sl7_EVk6WBgZ1ZlAv",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Epimorphisms in varieties of residuated structures - ScienceDirectwww.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0021869317304775",
+    "description": "15.12.2017 \u00b7 On the other hand, it is shown that epimorphisms need not be surjective in a locally finite variety of Heyting or Brouwerian algebras of width 2. It\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S0021869317304775&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChAWMAR6BAgAEAE&usg=AOvVaw3caRQvG7_C0HBv-5ZRnmhm",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Epimorphism - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a epimorphism",
+    "link": "https://www.sciencedirect.com/topics/mathematics/epimorphism",
+    "description": "If R is a local ring, every f.g. module A has a projective cover. Proof. Let us call an epimorphism essential if its kernel is superfluous. We must find a projective P\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/mathematics/epimorphism&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChAWMAV6BAgGEAE&usg=AOvVaw0k2AYusI9IX5R0w_f4UyQz",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "(PDF) Epimorphisms in varieties of residuated structureswww.researchgate.net \u203a publication \u203a 316456108_Epimorphisms_in_variet...",
+    "link": "https://www.researchgate.net/publication/316456108_Epimorphisms_in_varieties_of_residuated_structures",
+    "description": "25.09.2020 \u00b7 \ufb01nite Beth property, con\ufb01rming a conjecture of Blok and Hoogland. 1. Introduction. A morphism hin a category Cis called a (C\u2013) epimorphism\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/316456108_Epimorphisms_in_varieties_of_residuated_structures&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChAWMAZ6BAgFEAE&usg=AOvVaw2_qESEAX92FDw623v1knyN",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Epimorphism - zxc.wikide.zxc.wiki \u203a wiki \u203a Epimorphismus",
+    "link": "https://de.zxc.wiki/wiki/Epimorphismus",
+    "description": "19.08.2020 \u00b7 In category theory, epimorphism is the dual term for monomorphism and generalizes the (set-theoretical) term of surjective mapping . The two\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.zxc.wiki/wiki/Epimorphismus&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChAWMAd6BAgHEAE&usg=AOvVaw0a0xsVSjPNlSVVccX7TSzV",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "epimorphism - Wiktionaryen.wiktionary.org \u203a wiki \u203a epimorphism",
+    "link": "https://en.wiktionary.org/wiki/epimorphism",
+    "description": "epimorphism (plural epimorphisms). (category theory) A morphism p such that for any other pair of morphisms f and g, if f \u2218 p = g \u2218 p {\\displaystyle f\\circ p=g\\circ\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wiktionary.org/wiki/epimorphism&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChAWMAh6BAgBEAE&usg=AOvVaw1RB0Dr9A5TeSj9AweNSGFT",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "From ring epimorphisms to universal localisations in: Forum ...www.degruyter.com \u203a journals \u203a form \u203a article-p1139",
+    "link": "https://www.degruyter.com/view/journals/form/27/2/article-p1139.xml?language=en",
+    "description": "From ring epimorphisms to universal localisations. Frederik Marks and Jorge Vit\u00f3ria. 1 Institute of Algebra and Number Theory, University of Stuttgart,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.degruyter.com/view/journals/form/27/2/article-p1139.xml%3Flanguage%3Den&sa=U&ved=2ahUKEwiw4qv4h6vvAhWTKH0KHYFXDGA4ChAWMAl6BAgCEAE&usg=AOvVaw0P7SCf5_yIVLwGJf-5CcgN",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Monomorphisms and epimorphisms in abstract categories - Numdamwww.numdam.org \u203a article \u203a RSMUP_1969__42__135_0",
+    "link": "http://www.numdam.org/article/RSMUP_1969__42__135_0.pdf",
+    "description": "1.1.1 NOTE. The axioms (MI) and (Mil) are independent. 1.1 *. DEFINITION. Let (\u200b5 be any category. A morphism A -~ A\" is an epimorphism iff: (EI) A - A\" is epic;. (E\u200b,,)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.numdam.org/article/RSMUP_1969__42__135_0.pdf&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAB6BAgGEAE&usg=AOvVaw0T49KIdcKq63N6yB8B3RJD",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Monomorphisms, Epimorphisms, and Pull-Backs - Cambridge ...www.cambridge.org \u203a services \u203a aop-cambridge-core \u203a content \u203a view",
+    "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1446788700005693",
+    "description": "no proper subobject of B. These classes of epimorphisms have been con- sidered by ... For an arbitrary morphism / there is a smallest regular epimorphism r.",
+    "googleLink": "http://www.google.com/url?q=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1446788700005693&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAF6BAgJEAE&usg=AOvVaw19G2xcPCu8NwYxy4jz_cz_",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "EPIMORPHISMS IN THE CATEGORY OF ABELIAN /-GROUPSwww.ams.org \u203a journals \u203a proc",
+    "link": "https://www.ams.org/journals/proc/1975-053-02/S0002-9939-1975-0574094-2/S0002-9939-1975-0574094-2.pdf",
+    "description": "epimorphisms are not onto /-homomorphisms and that this may or may not depend on the orders involved. Example. 1. This is an example of an epimorphism. /ei.",
+    "googleLink": "http://www.google.com/url?q=https://www.ams.org/journals/proc/1975-053-02/S0002-9939-1975-0574094-2/S0002-9939-1975-0574094-2.pdf&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAJ6BAgHEAE&usg=AOvVaw3xUx6cKw_1ufqABPsmHZpH",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Epimorphism surjectivity in varieties of Heyting algebrasarxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/1908.00287",
+    "description": "01.08.2019 \u00b7 It was shown recently that epimorphisms need not be surjective in a variety K of Heyting algebras, but only one counter-example was exhibited in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1908.00287&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAN6BAgIEAE&usg=AOvVaw3kTrUYXUh2Ira7z8ai5kC-",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Flat ring epimorphisms of countable typearxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/1808.00937",
+    "description": "Let R\\to U be an associative ring epimorphism such that U is a flat left R-module. Assume that the related Gabriel topology \\mathbb G of right ideals in R has a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1808.00937&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAR6BAgDEAE&usg=AOvVaw2N-3x-Ghbxsl2ujwlZ4qlk",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Interactions between universal localisations, ring epimorphisms and ...elib.uni-stuttgart.de \u203a bitstream \u203a thesis_FrederikMarks",
+    "link": "http://elib.uni-stuttgart.de/bitstream/11682/5171/1/thesis_FrederikMarks.pdf",
+    "description": "ring epimorphisms are relevant to study certain abelian subcategories of our initial module cate- gory. In fact, it was proven in [GdP] that ring epimorphisms\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://elib.uni-stuttgart.de/bitstream/11682/5171/1/thesis_FrederikMarks.pdf&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAV6BAgEEAE&usg=AOvVaw2uiQMP0hCiVyMGS5MEkvBX",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "About: Epimorphism - DBpediadbpedia.org \u203a page \u203a Epimorphism",
+    "link": "https://dbpedia.org/page/Epimorphism",
+    "description": "In category theory, an epimorphism (also called an epic morphism or, ... g2: Y \u2192 Z, Epimorphisms are categorical analogues of surjective functions (and in the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dbpedia.org/page/Epimorphism&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAZ6BAgBEAE&usg=AOvVaw1ZFvs0c_yJHGDIJ889x10-",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "epimorphism :: English-German translation - dict.cc dictionarywww.dict.cc \u203a english-german \u203a epimorphism",
+    "link": "https://www.dict.cc/english-german/epimorphism.html",
+    "description": "dict.cc English-German Dictionary: Translation for epimorphism.",
+    "googleLink": "http://www.google.com/url?q=https://www.dict.cc/english-german/epimorphism.html&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAd6BAgFEAE&usg=AOvVaw39unoj6vVfY_flgFPtip9r",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Epimorphisms, Closed, and Supersaturated Semigroups ...www.tandfonline.com \u203a ... \u203a Volume 42, Issue 7",
+    "link": "https://www.tandfonline.com/doi/abs/10.1080/00927872.2013.781609",
+    "description": "We show that any almost unitary subsemigroup of a semigroup is closed in the containing semigroup and that the class of all left [right] regular semigroups is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tandfonline.com/doi/abs/10.1080/00927872.2013.781609&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAh6BAgAEAE&usg=AOvVaw2owe5Zr6tHWajlhIW1yq3w",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Non-meridional epimorphisms of knot groups - Project Euclidprojecteuclid.org \u203a euclid.agt",
+    "link": "https://projecteuclid.org/euclid.agt/1510841162",
+    "description": "In the study of knot group epimorphisms, the existence of an epimorphism between two given knot groups is mostly (if not always) shown by giving an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/euclid.agt/1510841162&sa=U&ved=2ahUKEwih1dT4h6vvAhVFIzQIHR7aDkY4FBAWMAl6BAgCEAE&usg=AOvVaw3wdfBda3_pd1rBVHkHksJG",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Epimorphisms and maximal covers in categories of compact ...polipapers.upv.es \u203a article \u203a view",
+    "link": "https://polipapers.upv.es/index.php/AGT/article/view/1616",
+    "description": "von B Banaschewski \u00b7 2013 \u00b7 Zitiert von: 1 \u2014 The main point of this paper is illustration of this in compact Hausdorff spaces with a class of examples, each providing quite strange epimorphisms and maximal\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Epimorphism - definition of Epimorphism by The Free Dictionarywww.thefreedictionary.com \u203a Epi...",
+    "link": "https://www.thefreedictionary.com/Epimorphism",
+    "description": "Define Epimorphism. Epimorphism synonyms, Epimorphism pronunciation, Epimorphism translation, English dictionary definition of Epimorphism. Adj. 1.",
+    "googleLink": null,
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Finite type epimorphisms of rings | Journal of Algebra and Its ...www.worldscientific.com \u203a doi",
+    "link": "https://www.worldscientific.com/doi/10.1142/S0219498820500632",
+    "description": "21.03.2019 \u2014 In this paper, we study the structure of finite type epimorphisms of rings. Communicated by A. Facchini. Keywords: Finite type epimorphism\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Monomorphisms and epimorphisms | Annoying Precisionqchu.wordpress.com \u203a 2012/09/29",
+    "link": "https://qchu.wordpress.com/2012/09/29/monomorphisms-and-epimorphisms/",
+    "description": "29.09.2012 \u2014 Monomorphisms and epimorphisms are supposed to be a categorical generalization of the familiar notion of an injective resp. surjective structure-\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Epimorphisms of compact groups are onto - PUB - Uni Bielefeldpub.uni-bielefeld.de \u203a record",
+    "link": "https://pub.uni-bielefeld.de/record/1775471",
+    "description": "von D Poguntke \u00b7 1970 \u00b7 Zitiert von: 22 \u2014 Epimorphisms of compact groups are onto. Poguntke D (1970) Proceedings of the American Mathematical Society 26(3): 503-504. Zeitschriftenaufsatz\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Epimorphisms and Dominions, III - JStorwww.jstor.org \u203a stable \u203a pdf",
+    "link": "https://www.jstor.org/stable/pdf/2373286.pdf",
+    "description": "von JR Isbell \u00b7 1968 \u00b7 Zitiert von: 31 \u2014 the set of values of f. The notion of an epimorphism, in semigroups, rings, or categories, is not elementary. This means roughly that the variable\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Epimorphisms of 3-manifold groups - Uni Regensburgwww.uni-regensburg.de \u203a friedl \u203a papers \u203a epimo...",
+    "link": "https://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/friedl/papers/epimorphisme-march-16-2017.pdf",
+    "description": "von M BOILEAU \u00b7 Zitiert von: 1 \u2014 EPIMORPHISMS OF 3-MANIFOLD GROUPS. MICHEL BOILEAU AND STEFAN FRIEDL. Abstract. Let f : M \u2192 N be a proper map between two aspherical\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "On Functors Which Are Lax Epimorphisms - tac.mta.cawww.tac.mta.ca \u203a tac \u203a volumes",
+    "link": "http://www.tac.mta.ca/tac/volumes/8/n20/8-20abs.html",
+    "description": "von J Adamek \u00b7 2001 \u00b7 Zitiert von: 20 \u2014 Jiri Adamek, Robert El Bashir, Manuela Sobral, Jiri Velebil. We show that lax epimorphisms in the category Cat are precisely the functors $P : {\\cal E} \\to {\\cal B}$\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Homological epimorphisms, homotopy epimorphisms and ...www.research.lancs.ac.uk \u203a portal",
+    "link": "http://www.research.lancs.ac.uk/portal/en/publications/homological-epimorphisms-homotopy-epimorphisms-and-acyclic-maps(3d635d79-fedd-46e2-9848-e1c66d8dea0e).html",
+    "description": "01.11.2020 \u2014 We show that the notions of homotopy epimorphism and homological epimorphism in the category of differential graded algebras are\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "epimorphism \u2013 Math \u2229 Programmingjeremykun.com \u203a tag \u203a epimorphism",
+    "link": "https://jeremykun.com/tag/epimorphism/",
+    "description": "15.05.2013 \u2014 Isomorphisms, Monomorphisms, and Epimorphisms. Perhaps the most important paradigm shift in category theory is the focus on morphisms as\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "On epimorphisms in some categories of infinite-dimensional ...ui.adsabs.harvard.edu \u203a abstract",
+    "link": "https://ui.adsabs.harvard.edu/abs/2021arXiv210207276P/abstract",
+    "description": "von VG Pestov \u00b7 2021 \u2014 At the same time, in the latter category, epimorphisms between finite ... subgroup, the inclusion $H\\to G$ is not an epimorphism in the category of Hausdorff groups.",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Homological epimorphisms, homotopy epimorphisms and ...www.research.lancs.ac.uk \u203a portal",
+    "link": "http://www.research.lancs.ac.uk/portal/en/publications/homological-epimorphisms-homotopy-epimorphisms-and-acyclic-maps(3d635d79-fedd-46e2-9848-e1c66d8dea0e).html",
+    "description": "01.11.2020 \u2014 We show that the notions of homotopy epimorphism and homological epimorphism in the category of differential graded algebras are\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "What is the point of extremal epimorphisms in category theory ...www.reddit.com \u203a math \u203a comments",
+    "link": "https://www.reddit.com/r/math/comments/19pp5b/what_is_the_point_of_extremal_epimorphisms_in/",
+    "description": "I've been trying to get my head around the various types of epimorphisms you get in category theory, but I can't see why anyone uses \"extremal\" epis \u2026",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Epimorphisms of Generalized Polygons Part 1: Geometrical ...www.uni-giessen.de \u203a prof \u203a koehl \u203a public \u203a Epi",
+    "link": "https://www.uni-giessen.de/fbz/fb07/fachgebiete/mathematik/mathematik/ags/algebra/personen/prof/koehl/public/Epi",
+    "description": "18.06.2007 \u2014 system for epimorphisms of geometries, from the local point of view. ... T heorem 2.1 Any epimorphism between generalized polygons ii and i2\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Definition:Ring Epimorphism - ProofWikiproofwiki.org \u203a wiki \u203a Definition:...",
+    "link": "https://proofwiki.org/wiki/Definition:Ring_Epimorphism",
+    "description": "14.09.2020 \u2014 Linguistic Note. The word epimorphism comes from the Greek morphe (\u03bc\u03bf\u03c1\u03c6\u03ae) meaning form or structure, with the prefix epi- meaning onto. Thus\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Flat ring epimorphisms and universal localizations of ...academic.oup.com \u203a qjmath \u203a article",
+    "link": "https://academic.oup.com/qjmath/article/71/4/1489/5997992",
+    "description": "von lidia Angeleri H\u00fcgel \u00b7 2020 \u00b7 Zitiert von: 3 \u2014 A ring epimorphism A\u27f6B with A noetherian is flat if and only if TorA1(B,B)=0\u2060. Flat ring epimorphisms of commutative noetherian rings are\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Epimorphisms of groups | Lovely little lemmaslovelylittlelemmas.rjprojects.net \u203a e...",
+    "link": "https://lovelylittlelemmas.rjprojects.net/epimorphisms-of-groups/",
+    "description": "22.10.2019 \u2014 is surjective. Proof. We already saw that surjections are epimorphisms. Conversely, let f \\colon H \\to G be an epimorphism of groups. We may\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Epimorphisms of frames - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/82716647.pdf",
+    "description": "von JJ Madden \u00b7 1991 \u00b7 Zitiert von: 18 \u2014 Epimorphism is understood in the category-theoretic sense: right-cancellable mor- phism. It is well known that epimorphisms in algebraic categories may fail to be\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Homological epimorphisms, homotopy ... - City Research Onlineopenaccess.city.ac.uk \u203a eprint",
+    "link": "https://openaccess.city.ac.uk/id/eprint/24827/",
+    "description": "von J Chuang \u00b7 2020 \u00b7 Zitiert von: 1 \u2014 Abstract. We show that the notions of homotopy epimorphism and homological epimorphism in the category of differential graded algebras are\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "The epimorphisms of the category Haus are exactly the image ...hal.archives-ouvertes.fr \u203a document",
+    "link": "https://hal.archives-ouvertes.fr/cel-01885564/document",
+    "description": "von J Lapuyade-Lahorgue \u00b7 2018 \u2014 The definition of epimorphisms and the details about category theory can be found in [1]. 2 Image-dense morphisms of Haus are epimor-.",
+    "googleLink": null,
+    "page": 4,
+    "index": 9
+  }
+]

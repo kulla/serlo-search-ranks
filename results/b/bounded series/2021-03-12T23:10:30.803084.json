@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Relationships between bounded and convergent series ...math.stackexchange.com \u203a questions",
+    "link": "https://math.stackexchange.com/questions/62389/relationships-between-bounded-and-convergent-series",
+    "description": "08.11.2011 \u2014 Whenever we have a series, \u221e\u2211i=1ai,. we \"automatically\" get two sequences out of that series: The sequence of terms, which is a1,a2,a3,\u2026; and; The\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Bounded Sequence | Superprofwww.superprof.co.uk \u203a functions",
+    "link": "https://www.superprof.co.uk/resources/academic/maths/calculus/functions/bounded-sequence.html",
+    "description": "A sequence is bounded if it is bounded above and below, that is to say, if there is a number, k, less than or equal to all the terms of sequence and another\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Bounded function - Wikipediaen.wikipedia.org \u203a wiki \u203a Bounded...",
+    "link": "https://en.wikipedia.org/wiki/Bounded_function",
+    "description": "A real-valued function is bounded if and only if it is bounded from above and below. An important special case is a bounded sequence, where X is taken to be the\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Monotone convergence theorem - Wikipediaen.wikipedia.org \u203a wiki \u203a Monoto...",
+    "link": "https://en.wikipedia.org/wiki/Monotone_convergence_theorem",
+    "description": "Informally, the theorems state that if a sequence is increasing and bounded above by a supremum, then the sequence will converge to the supremum; in the\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "bounded sequence | Beispiels\u00e4tze - Cambridge Dictionarydictionary.cambridge.org \u203a worterbuch \u203a englisch \u203a bo...",
+    "link": "https://dictionary.cambridge.org/de/worterbuch/englisch/bounded-sequence",
+    "description": "17.02.2021 \u2014 The theorem states that if a uniformly bounded sequence of functions converges pointwise, then their integrals on a set of finite measure\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Bounded Sequence - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a bounded...",
+    "link": "https://www.sciencedirect.com/topics/mathematics/bounded-sequence",
+    "description": "THEOREM 1.2 (Banach). Let (fn) be a uniformly bounded sequence of scalar-valued functions defined on a set S. In order\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "What are monotonic and bounded sequences? | StudyPugwww.studypug.com \u203a calculus-help",
+    "link": "https://www.studypug.com/calculus-help/monotonic-and-bounded-sequences",
+    "description": "We will learn that monotonic sequences are sequences which constantly increase or constantly decrease. We also learn that a sequence is bounded above if the\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Calculus II - More on Sequences - Pauls Online Math Notestutorial.math.lamar.edu \u203a calcii",
+    "link": "https://tutorial.math.lamar.edu/classes/calcii/moresequences.aspx",
+    "description": "31.05.2018 \u2014 A sequence is bounded below if we can find any number m m such that m\u2264an m \u2264 a n for every n n . Note however that if we find one number m\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "8.1: Sequences - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 8: Sequences and Series",
+    "link": "https://math.libretexts.org/Courses/Mount_Royal_University/MATH_2200%3A_Calculus_for_Scientists_II/8%3A_Sequences_and_Series/8.1%3A_Sequences",
+    "description": "20.12.2020 \u00b7 A sequence an is a bounded sequence if it is bounded above and bounded below. If a sequence is not bounded, it is an unbounded sequence.",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Courses/Mount_Royal_University/MATH_2200%253A_Calculus_for_Scientists_II/8%253A_Sequences_and_Series/8.1%253A_Sequences&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAB6BAgCEAE&usg=AOvVaw0IVoloJJZ9--6qj0L_DyX_",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Bounded series and convergence \u2013 Serlo \u2013 Wikibooks, Sammlung ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Bounded_series_and_convergence",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Bounded_series_and_convergence",
+    "description": "Bounded series with positive summands convergeBearbeiten. As we learned in the chapter \u201eMonotoniekriterium f\u00fcr Folgen\u201c, monotonicity and boundedness\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Bounded_series_and_convergence&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAF6BAgHEAE&usg=AOvVaw08K2qTWbPye5TzuxG4U-WX",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Bounded Sequence A sequence - UC Davis Mathematicswww.math.ucdavis.edu \u203a lecture_9 \u203a m17_mat25_lecture_9_notes",
+    "link": "https://www.math.ucdavis.edu/~npgallup/m17_mat25/lecture_notes/lecture_9/m17_mat25_lecture_9_notes.pdf",
+    "description": "A sequence (xn) is bounded if there exists a real number M > 0 such that |xn| \u2264 M for all n \u2208 N. ... Recall the definition of a bounded subset of an ordered field (?\u200b?).",
+    "googleLink": "http://www.google.com/url?q=https://www.math.ucdavis.edu/~npgallup/m17_mat25/lecture_notes/lecture_9/m17_mat25_lecture_9_notes.pdf&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAJ6BAgJEAE&usg=AOvVaw07ZvavExtYyyT1A6sCsuEk",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "BOUNDED SERIES AND HAUSDORFF MATRICES ... - Project Euclidprojecteuclid.org \u203a journals \u203a volume-26 \u203a issue-2 \u203a pjm",
+    "link": "https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-26/issue-2/Bounded-series-and-Hausdorff-matrices-for-absolutely-convergent-sequences/pjm/1102985898.pdf",
+    "description": "If A is a complex sequence and \u03a37=oAP is bounded (there is a number B such that if n is a nonnegative integer then \\\u03a3%oAp\\ < B), /is a function from [0,1] to the.",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-26/issue-2/Bounded-series-and-Hausdorff-matrices-for-absolutely-convergent-sequences/pjm/1102985898.pdf&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAN6BAgIEAE&usg=AOvVaw1snM55xNVERMBvkyyMLEx7",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "ALGEBRAS OF BOUNDED SEQUENCES - Project Euclidprojecteuclid.org \u203a issue-4 \u203a Algebras-of-bounded-sequences \u203a pjm",
+    "link": "https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-15/issue-4/Algebras-of-bounded-sequences/pjm/1102995278.pdf",
+    "description": "In 1957, R. C. Buck inquired as to which sequences {zn} in the unit disc of the plane have this property: If {wn} is an arbitrary bounded sequence of complex\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-15/issue-4/Algebras-of-bounded-sequences/pjm/1102995278.pdf&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAR6BAgEEAE&usg=AOvVaw2YxvpWFEvC9lWNpMxB0lOJ",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Criteria for boundedness of power series - MathOverflowmathoverflow.net \u203a questions \u203a criteria-for-bounded...",
+    "link": "https://mathoverflow.net/questions/27100/criteria-for-boundedness-of-power-series",
+    "description": "Thus the linear subspace of all function-bounded sequences is rather \"sparse\" in the vector space of all sequences representing convergent power series.",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/27100/criteria-for-boundedness-of-power-series&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAV6BAgAEAE&usg=AOvVaw2DSd5EWr2Io3Pcjz39-weh",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "The Fourier integrals and Fourier series of functions of bounded ...oparu.uni-ulm.de \u203a xmlui \u203a handle",
+    "link": "https://oparu.uni-ulm.de/xmlui/handle/123456789/21397",
+    "description": "The Fourier integrals and Fourier series of functions of bounded variation. Erstver\u00f6ffentlichung. 2009. Metadata only. Search for full text. Wissenschaftlicher\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://oparu.uni-ulm.de/xmlui/handle/123456789/21397&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAZ6BAgBEAE&usg=AOvVaw3yBH-ZSZeNVZtrL-g4E2P1",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Bounded Sequences of Real Numbers - Mathonlinemathonline.wikidot.com \u203a bounded-sequences-of-re...",
+    "link": "http://mathonline.wikidot.com/bounded-sequences-of-real-numbers",
+    "description": "Bounded Sequences of Real Numbers. Definition: A sequence (a_n) of real numbers is said to be Bounded Above if there exists a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/bounded-sequences-of-real-numbers&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAd6BAgFEAE&usg=AOvVaw34OM-RSBT__aAA3dlMNcRy",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "A note on cosine series with coefficients of generalized bounded ...www.degruyter.com \u203a view \u203a journals \u203a article-p681",
+    "link": "https://www.degruyter.com/view/journals/ms/70/3/article-p681.xml",
+    "description": "A note on cosine series with coefficients of generalized bounded variation. De Gruyter | 2020. DOI: https://doi.org/10.1515/\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.degruyter.com/view/journals/ms/70/3/article-p681.xml&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAh6BAgGEAE&usg=AOvVaw0JjBgmJ940ctns8Nuvo828",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Change Detection in Climate Time Series Based on Bounded ...www.springerprofessional.de \u203a change-detection-in-climate-time-series-bas...",
+    "link": "https://www.springerprofessional.de/change-detection-in-climate-time-series-based-on-bounded-variati/2416790",
+    "description": "Climate time series are generally nonstationary which means that their statistical properties change with time. Analysis of nonstationary time series.",
+    "googleLink": "http://www.google.com/url?q=https://www.springerprofessional.de/change-detection-in-climate-time-series-based-on-bounded-variati/2416790&sa=U&ved=2ahUKEwjMn5zW4qvvAhXbF3IKHQIqAfM4ChAWMAl6BAgDEAE&usg=AOvVaw0cRIILfjSh-LL3ERIfbVZI",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Time-series aggregation to typical periods with bounded error in ...publications.rwth-aachen.de \u203a record \u203a export \u203a print",
+    "link": "https://publications.rwth-aachen.de/record/696125/export/print?ln=en",
+    "description": "|g ECOS 2017 |w USA. 245, _, _, |a Time-series aggregation to typical periods with bounded error in objective function for energy systems synthesis |h print.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://publications.rwth-aachen.de/record/696125/export/print%3Fln%3Den&ved=2ahUKEwiBnPfW4qvvAhUXXn0KHUHXBi04FBAWMAB6BAgFEAE&usg=AOvVaw3jC_tk7iKyaJyvmV1zNacL",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "BoundedSequencewww.cs.cas.cz \u203a MathematicalAnalysis \u203a Sequences",
+    "link": "http://www.cs.cas.cz/portal/AlgoMath/MathematicalAnalysis/InfiniteSeriesAndProducts/Sequences/BoundedSequence.htm",
+    "description": "Bounded sequence. The sequence typeset structure , of a metric space typeset structure is called bounded if for some typeset structure there exists a number\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Riesz projection and bounded mean oscillation for Dirichlet seriesarxiv.org \u203a math",
+    "link": "http://arxiv.org/abs/2005.11951",
+    "description": "25.05.2020 \u00b7 ... use this result to show that the L^\\infty norm of the Nth partial sum of a bounded Dirichlet series over d-smooth numbers is of order \\log\\log N.",
+    "googleLink": null,
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Divergent Sequence may be Bounded - ProofWikiproofwiki.org \u203a wiki \u203a Divergent_Sequence_may_b...",
+    "link": "https://proofwiki.org/wiki/Divergent_Sequence_may_be_Bounded",
+    "description": "06.10.2020 \u00b7 Theorem. While every Convergent Sequence is Bounded, it does not follow that every bounded sequence is convergent. That is, there exist\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://proofwiki.org/wiki/Divergent_Sequence_may_be_Bounded&ved=2ahUKEwiBnPfW4qvvAhUXXn0KHUHXBi04FBAWMAN6BAgJEAE&usg=AOvVaw0cIX6JRe5lHXcVUmCdQwD2",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Kernel of the Voronoi means for a bounded sequence | SpringerLinklink.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1007/BF01092532",
+    "description": "Literature cited. 1. G. Hardy, Divergent Series, Oxford Univ. Press (1949). 2. R. Cooke, Infinite Matrices and Sequence Spaces [Russian translation], Fizmatgiz,\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://link.springer.com/article/10.1007/BF01092532&ved=2ahUKEwiBnPfW4qvvAhUXXn0KHUHXBi04FBAWMAR6BAgAEAE&usg=AOvVaw1RuZaWhYEiE3jKfsegpEIV",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Lecture 2 : Convergence of a Sequence, Monotone sequenceshome.iitk.ac.in \u203a ~psraj \u203a mth101 \u203a lecture_notes \u203a lecture2",
+    "link": "https://home.iitk.ac.in/~psraj/mth101/lecture_notes/lecture2.pdf",
+    "description": "Theorem 2.4: Every convergent sequence is a bounded sequence, that is the set {xn : n \u2208 N} is bounded. ... Remark : The condition given in the previous result is\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://home.iitk.ac.in/~psraj/mth101/lecture_notes/lecture2.pdf&ved=2ahUKEwiBnPfW4qvvAhUXXn0KHUHXBi04FBAWMAV6BAgGEAE&usg=AOvVaw0o8Nb6lhg-9VDjD6UGzG2a",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "7.8 Bounded Monotonic Sequencespeople.reed.edu \u203a math112.html \u203a html2 \u203a node15",
+    "link": "http://people.reed.edu/~mayer/math112.html/html2/node15.html",
+    "description": "7.8 Bounded Monotonic Sequences. 7.87 Theorem. Let $\\{[a_n,b_n]\\}$ be a binary search sequence in $\\mbox{{\\bf R}}$ . Suppose $\\{[a_n,b_n]\\} \\to c$\u00a0...",
+    "googleLink": null,
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 1 Sequence and Series of Real Numbershome.iitm.ac.in \u203a naru \u203a notes \u203a MA1010-Note001",
+    "link": "https://home.iitm.ac.in/naru/ma1010/notes/MA1010-Note001.pdf",
+    "description": "It is a bounded sequence, but not convergent. The above theorem can be used to show that certain sequence is not convergent, as in the following example.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://home.iitm.ac.in/naru/ma1010/notes/MA1010-Note001.pdf&ved=2ahUKEwiBnPfW4qvvAhUXXn0KHUHXBi04FBAWMAd6BAgDEAE&usg=AOvVaw2ZalpjDojDQVHJUAF-kBMG",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Lecture Notes Functional Analysis (2014/15)www.math.kit.edu \u203a iana3 \u203a ~schnaubelt \u203a media \u203a fa14-skript",
+    "link": "https://www.math.kit.edu/iana3/~schnaubelt/media/fa14-skript.pdf",
+    "description": "30.12.2019 \u00b7 b) The vector 0 has the norm 0. c) If (xn) converges, then it is a Cauchy sequence. d) If (xn) converges or is Cauchy, then it is bounded, i.e., sup.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.math.kit.edu/iana3/~schnaubelt/media/fa14-skript.pdf&ved=2ahUKEwiBnPfW4qvvAhUXXn0KHUHXBi04FBAWMAh6BAgEEAE&usg=AOvVaw3EBcxdJW52cbn9wxA2b9NY",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Theorems on boundsweb.mat.bham.ac.uk \u203a seqser \u203a boundedness",
+    "link": "http://web.mat.bham.ac.uk/R.W.Kaye/seqser/boundedness.html",
+    "description": "The first says that a convergent sequence is bounded. This is useful because the definition of boundedness is much simpler than the definition of convergence.",
+    "googleLink": null,
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Bounded sequences - Sangakoowww.sangakoo.com \u203a ... \u203a Sequences",
+    "link": "https://www.sangakoo.com/en/unit/bounded-sequences",
+    "description": "In the case of monotonous sequences, the first term serves us as a bound. If we have an increasing sequence then the first term is a lower bound of the sequence\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://www.sangakoo.com/en/unit/bounded-sequences&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAB6BAgAEAE&usg=AOvVaw1p7neSeYyLGaqQUno_L_y9",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Question Give an example of a sequence that is bounded ... - EdShareedshare.soton.ac.uk \u203a document",
+    "link": "http://edshare.soton.ac.uk/id/document/4671",
+    "description": "convergent but not bounded, or prove that no such sequence exists. Answer. The sequence {an = (\u2212a)n} is bounded below by \u22121 and bounded above.",
+    "googleLink": "http://www.google.com/url?q=http://edshare.soton.ac.uk/id/document/4671&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAF6BAgHEAE&usg=AOvVaw1uXjVlnzW4_nGu6dQjK9bM",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Uniformly Bounded Representations, II. Analytic Continuation ... - JStorwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2372907",
+    "description": "This leads to the 'principal series' of representations; these are the representations which arise in the Plancherel formula for the group. They are constructed as\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2372907&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAJ6BAgIEAE&usg=AOvVaw1HMuRlNUrug2E0jnCAggSq",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Sequences Iwarwick.ac.uk \u203a staff \u203a oleg_zaboronski \u203a analysisi \u203a notes-ma131_ch2",
+    "link": "https://warwick.ac.uk/fac/sci/maths/people/staff/oleg_zaboronski/analysisi/notes-ma131_ch2.pdf",
+    "description": "Definition. A sequence (an) is: bounded above if there exists U such that, for all n, an \u2264 U;. U is an upper bound for (an); bounded below if there exists L such that,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://warwick.ac.uk/fac/sci/maths/people/staff/oleg_zaboronski/analysisi/notes-ma131_ch2.pdf&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAN6BAgJEAE&usg=AOvVaw2nbNr0Tr0QwXl1kuIklmRi",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Convergence of Double Fourier Series with Coefficients of ... - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/82827468.pdf",
+    "description": "bounded variation and prove the almost everywhere pointwise convergence as well as the convergence in the L,( T*)-metric for 0 < r < 1 of double Fourier series\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://core.ac.uk/download/pdf/82827468.pdf&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAR6BAgCEAE&usg=AOvVaw2RluTBGuLSh4cSpkGRjHEN",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "On Fourier series and functions of bounded variation | Proceedings ...royalsocietypublishing.org \u203a doi \u203a rspa.1913.0053",
+    "link": "https://royalsocietypublishing.org/doi/10.1098/rspa.1913.0053",
+    "description": "On the other hand, it is the derived series of the Fourier serious of a function of bounded variation, which is, moreover, odd. We are thus led to ask ourselves\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://royalsocietypublishing.org/doi/10.1098/rspa.1913.0053&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAV6BAgBEAE&usg=AOvVaw3wtkvn-fE9gjfe7HhRSpZA",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Monotonic sequenceswww-groups.mcs.st-andrews.ac.uk \u203a ~john \u203a Lectures",
+    "link": "http://www-groups.mcs.st-andrews.ac.uk/~john/analysis/Lectures/L8.html",
+    "description": "A bounded monotonic increasing sequence is convergent. Proof: We will prove that the sequence converges to its least upper bound (whose existence is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www-groups.mcs.st-andrews.ac.uk/~john/analysis/Lectures/L8.html&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAZ6BAgEEAE&usg=AOvVaw36vwBbwQX7l8J4xfTAp9YB",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Double series representation of bounded signals - IEEE Xploreieeexplore.ieee.org \u203a iel1",
+    "link": "https://ieeexplore.ieee.org/iel1/18/498/00009762.pdf",
+    "description": "Abstract --Series representations of the form j(t) - 2 2 n,,ku(t-n)e*~lkr n=-m k=-m for bounded signals f( t ) are studied, as are conditions on the unit function.",
+    "googleLink": "http://www.google.com/url?q=https://ieeexplore.ieee.org/iel1/18/498/00009762.pdf&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAd6BAgDEAE&usg=AOvVaw3RDVFh2U0jAnfXsN7zo_dR",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Testing for unit roots in bounded time series - EconPaperseconpapers.repec.org \u203a RePEc:eee:econom:v:178:y:...",
+    "link": "https://econpapers.repec.org/RePEc:eee:econom:v:178:y:2014:i:p2:p:259-272",
+    "description": "By Giuseppe Cavaliere and Fang Xu; Abstract: Many key economic and financial series are bounded either by construction or through policy controls.",
+    "googleLink": "http://www.google.com/url?q=https://econpapers.repec.org/RePEc:eee:econom:v:178:y:2014:i:p2:p:259-272&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAh6BAgFEAE&usg=AOvVaw0MUtc6CJf_Bzg2oenvEmPb",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] ON BOUNDED SEQUENCES AND SERIES ... - LIUCwww.biblio.liuc.it \u203a liucpap \u203a pdf",
+    "link": "http://www.biblio.liuc.it/liucpap/pdf/69.pdf",
+    "description": "ON BOUNDED SEQUENCES AND SERIES. CONVERGENCE IN BANACH ABSTRACT. SPACE. Roberto D'Angi\u00f2. 1. Introduction. Theorem 3 gives two proofs\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.biblio.liuc.it/liucpap/pdf/69.pdf&sa=U&ved=2ahUKEwjms7XX4qvvAhVHlEsFHbB6Bzs4HhAWMAl6BAgGEAE&usg=AOvVaw2BsonJpNQBvYrHU82CbpXO",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Double series representation of bounded signals - IEEE Xploreieeexplore.ieee.org \u203a iel1",
+    "link": "https://ieeexplore.ieee.org/iel1/18/498/00009762.pdf",
+    "description": "Abstract --Series representations of the form j(t) - 2 2 n,,ku(t-n)e*~lkr n=-m k=-m for bounded signals f( t ) are studied, as are conditions on the unit function.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://ieeexplore.ieee.org/iel1/18/498/00009762.pdf&ved=2ahUKEwjo6o3Y4qvvAhUTX30KHYOJD2c4KBAWMAB6BAgAEAE&usg=AOvVaw3gh41haeS_f0mK2HnwvUkG",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Bounded sequence of symbol classes of pseudodifferential operatorwww.researchgate.net \u203a ... \u203a Visual Arts \u203a Symbolism",
+    "link": "https://www.researchgate.net/publication/267078443_Bounded_sequence_of_symbol_classes_of_pseudodifferential_operator",
+    "description": "30.09.2020 \u00b7 Download Citation | Bounded sequence of symbol classes of pseudodifferential operator | We investigate the properties of an exotic sequence\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.researchgate.net/publication/267078443_Bounded_sequence_of_symbol_classes_of_pseudodifferential_operator&ved=2ahUKEwjo6o3Y4qvvAhUTX30KHYOJD2c4KBAWMAF6BAgJEAE&usg=AOvVaw3Yco-lCsRAIzqyh49IJpmC",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Testing for unit roots in bounded time series - EconPaperseconpapers.repec.org \u203a RePEc:eee:econom:v:178:y:...",
+    "link": "https://econpapers.repec.org/RePEc:eee:econom:v:178:y:2014:i:p2:p:259-272",
+    "description": "By Giuseppe Cavaliere and Fang Xu; Abstract: Many key economic and financial series are bounded either by construction or through policy controls.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://econpapers.repec.org/RePEc:eee:econom:v:178:y:2014:i:p2:p:259-272&ved=2ahUKEwjo6o3Y4qvvAhUTX30KHYOJD2c4KBAWMAJ6BAgIEAE&usg=AOvVaw3ZpooYmvV1SE1NkORjn62J",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Relative discrete series of line bundles over bounded symmetric ...www.numdam.org \u203a AIF_1996__46_4_1011_0",
+    "link": "http://www.numdam.org/item/AIF_1996__46_4_1011_0/",
+    "description": "Relative discrete series of line bundles over bounded symmetric domains ... Cet article est une \u00e9tude de la s\u00e9rie relative discr\u00e8te de l'espace des sections L 2\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] ON BOUNDED SEQUENCES AND SERIES ... - LIUCwww.biblio.liuc.it \u203a liucpap \u203a pdf",
+    "link": "http://www.biblio.liuc.it/liucpap/pdf/69.pdf",
+    "description": "Theorem 3 gives two proofs of a sufficient condition for sequence convergence and series summability in normed or Banach abstract space. Such a condition\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Theorem 1.0. Every bounded sequence in a real or complex Banach ...www.ams.org \u203a jams",
+    "link": "https://www.ams.org/jams/1994-07-03/S0894-0347-1994-1242455-4/S0894-0347-1994-1242455-4.pdf",
+    "description": "Every bounded sequence in a real or complex Banach space has either a weak-\u200bCauchy subsequence, or a subsequence equivalent to the standard. [I-basis.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.ams.org/jams/1994-07-03/S0894-0347-1994-1242455-4/S0894-0347-1994-1242455-4.pdf&ved=2ahUKEwjo6o3Y4qvvAhUTX30KHYOJD2c4KBAWMAV6BAgBEAE&usg=AOvVaw1N2YAYYHUL_sZHPCbZaNNu",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "A new accuracy measure based on bounded relative error for time ...journals.plos.org \u203a plosone \u203a article \u203a journal.pone....",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174202",
+    "description": "24.03.2017 \u00b7 Many accuracy measures have been proposed in the past for time series forecasting comparisons. However, many of these measures suffer\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0174202&ved=2ahUKEwjo6o3Y4qvvAhUTX30KHYOJD2c4KBAWMAZ6BAgFEAE&usg=AOvVaw3rFJxPr-buNlC3ufn4X3Lh",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Some Additions to the Fuzzy Convergent and Fuzzy Bounded ...www.hindawi.com \u203a journals \u203a aaa",
+    "link": "https://www.hindawi.com/journals/aaa/2011/837584/",
+    "description": "Some properties of the fuzzy convergence and fuzzy boundedness of a sequence of fuzzy numbers were studied in Choi (1996). In this paper, we have consider,\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.hindawi.com/journals/aaa/2011/837584/&ved=2ahUKEwjo6o3Y4qvvAhUTX30KHYOJD2c4KBAWMAd6BAgCEAE&usg=AOvVaw2alo7-xWnqDySGDTWRAaPl",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "A Unit Root in a Bounded Series? | Econbrowsereconbrowser.com \u203a archives \u203a 2016/09 \u203a a-unit-root...",
+    "link": "https://econbrowser.com/archives/2016/09/a-unit-root-in-a-bounded-series",
+    "description": "12.09.2016 \u00b7 The fact that the Palmer Drought Severity Index (PDSI) is bounded tells you something about the nature of the series itself. It's standardized index\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://econbrowser.com/archives/2016/09/a-unit-root-in-a-bounded-series&ved=2ahUKEwjo6o3Y4qvvAhUTX30KHYOJD2c4KBAWMAh6BAgGEAE&usg=AOvVaw3d83HXTTxfKqAWunF8Kazh",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Sequences | McGraw-Hill Education - Access Engineeringwww.accessengineeringlibrary.com \u203a content \u203a book \u203a chapter \u203a chapter2",
+    "link": "https://www.accessengineeringlibrary.com/content/book/9780071623667/chapter/chapter2",
+    "description": "Theorem Every bounded monotonic (increasing or decreasing) sequence has a limit. 2.6. Least Upper Bound and Greatest Lower Bound of a Sequence. A\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.accessengineeringlibrary.com/content/book/9780071623667/chapter/chapter2&ved=2ahUKEwjo6o3Y4qvvAhUTX30KHYOJD2c4KBAWMAl6BAgEEAE&usg=AOvVaw39Fr6Mme1K_DyiBJA-7z-C",
+    "page": 4,
+    "index": 9
+  }
+]

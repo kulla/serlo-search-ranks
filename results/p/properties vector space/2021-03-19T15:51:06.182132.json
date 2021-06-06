@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Section VS Vector Spaces - A First Course in Linear Algebralinear.ups.edu \u203a A First Course in Linear Algebra \u203a Vector Spaces",
+    "link": "http://linear.ups.edu/html/section-VS.html",
+    "description": "A vector space is composed of three objects, a set and two operations. Some would explicitly state in the definition that V must be a nonempty set, but we can infer this from Property Z, since the set cannot be empty and contain a vector that behaves as the zero vector.",
+    "googleLink": "http://www.google.com/url?q=http://linear.ups.edu/html/section-VS.html&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQFnoECAsQAg&usg=AOvVaw0ROqJ2INXmBgRxSbqQZWNo",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Vector space - Wikipediaen.wikipedia.org \u203a wiki \u203a Vector_space",
+    "link": "https://en.wikipedia.org/wiki/Vector_space",
+    "description": "The general definition of a vector space allows scalars to be elements of any fixed field F. The notion is then known as an F-vector space or a vector space over F.\nGraded vector space \u00b7 Ordered vector space \u00b7 Topological vector space \u00b7 Dimension",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Vector_space&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQFjACegQIAhAB&usg=AOvVaw3jcovkmmPTpZLum2dQj_Su",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Vector Space- Definition, Axioms, Properties and Examples - Byjusbyjus.com \u203a Maths \u203a Math Article",
+    "link": "https://byjus.com/maths/vector-space/",
+    "description": "A vector space V is a set that is closed under finite vector addition and scalar multiplication operations. Visit BYJU'S to learn the axioms, rules, properties and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://byjus.com/maths/vector-space/&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQFjADegQIBhAB&usg=AOvVaw3ouOF9edfLybxBcyEDPpGJ",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Vector Spaces - UC Davis Mathematicswww.math.ucdavis.edu \u203a ~anne \u203a mat67-Le-Vector_Spaces",
+    "link": "https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Le-Vector_Spaces",
+    "description": "01.02.2007 \u00b7 A vector space over F is a set V together with the operations of addition V \u00d7 V \u2192 V and scalar multiplication F \u00d7 V \u2192 V satisfying the following properties: 1. Commutativity: u + v = v + u for all u, v \u2208 V ; 2.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Le-Vector_Spaces&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQFjAEegQIBBAB&usg=AOvVaw02lXWW8Ex2aPihSzCGtIII",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Vector Space | Properties Of Vector Space | Linear Algebra - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=8Fj0fPugVLo",
+    "description": "17.06.2020 \u00b7 Comment Below If This Video Helped You Like & Share With Your Classmates - ALL THE BEST ...Dauer: 15:34\nGepostet: 17.06.2020",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D8Fj0fPugVLo&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQtwIwC3oECAoQAQ&usg=AOvVaw0BfGKMBFokeUnn5cQDcfi0",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "4.2: Elementary properties of vector spaces - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 4: Vector spaces",
+    "link": "https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_Linear_Algebra_(Schilling_Nachtergaele_and_Lankham)/04%3A_Vector_spaces/4.02%3A_Elementary_properties_of_vector_spaces",
+    "description": "05.03.2021 \u00b7 4.2: Elementary properties of vector spaces \u00b7 1. Every vector space has a unique additive identity. Proof. Suppose there are two additive identities\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%253A_Linear_Algebra_(Schilling_Nachtergaele_and_Lankham)/04%253A_Vector_spaces/4.02%253A_Elementary_properties_of_vector_spaces&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQFjAMegQICBAB&usg=AOvVaw3kyM__Q3Z6oVgAv7uKMcdv",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "[PDF] LECTURE 12: PROPERTIES OF VECTOR SPACES AND ...math.vanderbilt.edu \u203a rolenl \u203a LinearAlgebraNotes12",
+    "link": "https://math.vanderbilt.edu/rolenl/LinearAlgebraNotes12.pdf",
+    "description": "Definition. A subspace of a vector space V is a subspace W if W is a vector space under the same vector addition and scalar multiplication operations as V .",
+    "googleLink": "http://www.google.com/url?q=https://math.vanderbilt.edu/rolenl/LinearAlgebraNotes12.pdf&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQFjANegQIARAB&usg=AOvVaw0mslBKLRZ-AdEF-k461Qgq",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "8 Vs 10 Axioms / Properties of a Vector Space: Should Closure of ...math.stackexchange.com \u203a questions \u203a 8-vs-10-axio...",
+    "link": "https://math.stackexchange.com/questions/3582253/8-vs-10-axioms-properties-of-a-vector-space-should-closure-of-addition-and-sc",
+    "description": "I think the Wikipedia article and all of your linear algebra books (as well as every source that I'm aware of) are all using the same definition of a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/3582253/8-vs-10-axioms-properties-of-a-vector-space-should-closure-of-addition-and-sc&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQFjASegQIBRAB&usg=AOvVaw2BGm72FEweNDh9KA-z8oOC",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Linear spaces - StatLectwww.statlect.com \u203a matrix-algebra \u203a linear-spaces",
+    "link": "https://www.statlect.com/matrix-algebra/linear-spaces",
+    "description": "Linear spaces are defined in a formal and very general way by enumerating the properties that the two algebraic operations performed on the elements of the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.statlect.com/matrix-algebra/linear-spaces&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQFjATegQIAxAB&usg=AOvVaw2EU_DGfCmDFWV5cUP4LX-N",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Math 2331 \u2013 Linear Algebra - 4.1 Vector Spaces & Subspaceswww.math.uh.edu \u203a ~jiwenhe \u203a math2331 \u203a lectures \u203a sec4_1",
+    "link": "https://www.math.uh.edu/~jiwenhe/math2331/lectures/sec4_1.pdf",
+    "description": "A subspace of a vector space V is a subset H of V that has three properties: a. The zero vector of V is in H. ... b. For each u and v are in H, u + v is in H. (In this case\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uh.edu/~jiwenhe/math2331/lectures/sec4_1.pdf&sa=U&ved=2ahUKEwjQnKjAzbzvAhVR4qwKHX79CAUQFjAUegQIBxAB&usg=AOvVaw3pEFjRgA-ZQafQRtqVCfwB",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Vector Spaces - Penn Mathwww.math.upenn.edu \u203a ~moose \u203a slides7-17",
+    "link": "https://www.math.upenn.edu/~moose/240S2013/slides7-17.pdf",
+    "description": "17.07.2013 \u00b7 Vector Spaces. Math 240. Definition. Properties. Set notation. Subspaces. Motivation. We know a lot about Euclidean space. There is a larger\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.upenn.edu/~moose/240S2013/slides7-17.pdf&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAB6BAgFEAE&usg=AOvVaw3b8ZBaMWKKBBOy42w2tNJ4",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Vector Space -- from Wolfram MathWorldmathworld.wolfram.com \u203a VectorSpace",
+    "link": "https://mathworld.wolfram.com/VectorSpace.html",
+    "description": "real numbers, scalars are real numbers, addition is componentwise, and scalar multiplication is multiplication on each term separately. For a general vector space,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/VectorSpace.html&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAF6BAgJEAE&usg=AOvVaw0u496HzbrXiWzvKPwmk4WF",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Vector Spaces - LTCC Onlineltcconline.net \u203a greenl \u203a courses \u203a vectors \u203a vectorsp...",
+    "link": "http://ltcconline.net/greenl/courses/203/vectors/vectorspaces.htm",
+    "description": "We have seen that vectors in Rn enjoy a collection of properties such as commutative, associative, and distributive properties. Other mathematical objects such as\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://ltcconline.net/greenl/courses/203/vectors/vectorspaces.htm&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAJ6BAgIEAE&usg=AOvVaw202A63q5aDc5ehwqEHrK1O",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Vector space properties MA 751 Part 1 Linear Algebra, functional ...math.bu.edu \u203a people \u203a mkon",
+    "link": "http://math.bu.edu/people/mkon/MA751/L10ALinAlgANew.pdf",
+    "description": "u. v w. u v w. \u0420 \u0421 \u0153 \u0420 \u0421 etc -. Page 7. Vector space properties. 3. There exists a unique vector such that ! \u0420 \u0153 !\u042f!\u042f! \u0421. \u00a1 for all vectors\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://math.bu.edu/people/mkon/MA751/L10ALinAlgANew.pdf&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAN6BAgHEAE&usg=AOvVaw0YD4on3O3Fn1-WQzRdur0H",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Some simple properties of vector spaces Theorem Suppose that V is ...www.maths.usyd.edu.au \u203a geoffp \u203a lm-ss \u203a lectp4",
+    "link": "https://www.maths.usyd.edu.au/u/geoffp/lm-ss/lectp4.pdf",
+    "description": "Some simple properties of vector spaces. Theorem Suppose that V is a vector space. a) The zero vector 0 \u2208 V is unique. That is, if x + 0 = x and x + 0 = x, for all.",
+    "googleLink": "http://www.google.com/url?q=https://www.maths.usyd.edu.au/u/geoffp/lm-ss/lectp4.pdf&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAR6BAgGEAE&usg=AOvVaw3cRGn2Dh0hhvBRhvu35mKr",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "MATH 240: Definition of a Vector Space - NIU Mathwww.math.niu.edu \u203a ~beachy \u203a courses \u203a vectorspace",
+    "link": "http://www.math.niu.edu/~beachy/courses/240/06spring/vectorspace.html",
+    "description": "MATH 240: Vector Spaces \u00b7 (1) Commutative law: For all vectors u and v in V, u + v = v + u \u00b7 (2) Associative law: For all vectors u, v, w in V, u + (v + w) = (u + v) + w \u00b7 (3)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.niu.edu/~beachy/courses/240/06spring/vectorspace.html&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAV6BAgAEAE&usg=AOvVaw2blbQxW8ZeC3TRKAKBs4wV",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Vector Spaceswww.math.colostate.edu \u203a ~renzo \u203a teaching \u203a Chapter5-annotated",
+    "link": "https://www.math.colostate.edu/~renzo/teaching/M369-F2017/Chapter5-annotated.pdf",
+    "description": "Definition A vector space (V, +,., R) is a set V with two operations + and \u00b7 satisfying the following properties for all u, v 2 V and c, d 2 R: (+i) (Additive Closure) u + v 2\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.colostate.edu/~renzo/teaching/M369-F2017/Chapter5-annotated.pdf&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAZ6BAgDEAE&usg=AOvVaw3nLVVIBwO8C0c3_n4dxZbt",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Linear Vector Spaceselectron6.phys.utk.edu \u203a modules \u203a Vector_space",
+    "link": "http://electron6.phys.utk.edu/qm1/modules/m4/Vector_space.htm",
+    "description": "linear vector space \u00b7 i) Vi + Vj = Vj + Vi (commutativity); \u00b7 ii) Vi + (Vj + Vk) = (Vi + Vj\u200b) + Vk (associativity); \u00b7 iii) there exists a null vector, 0, in V such that 0 + Vi = Vi + 0 =\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://electron6.phys.utk.edu/qm1/modules/m4/Vector_space.htm&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAd6BAgEEAE&usg=AOvVaw2dRTEd5LCJoygmRLQe9SSq",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Prove Vector Space Properties Using Vector Space Axioms ...yutsumura.com \u203a prove-vector-space-properties-usi...",
+    "link": "https://yutsumura.com/prove-vector-space-properties-using-vector-space-axioms/",
+    "description": "The Axioms of a Vector Space ... (2) a scalar multiplication operation is defined between any element of K and any element in V. ... (c1) u+v\u2208V. (c2) av\u2208V. ... (a1\u200b) u+v\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://yutsumura.com/prove-vector-space-properties-using-vector-space-axioms/&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAh6BAgBEAE&usg=AOvVaw33cfrF1r3eLd-y1AN00T-1",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Linear Algebra/Definition and Examples of Vector Spaces ...en.wikibooks.org \u203a wiki \u203a Definition_and_Example...",
+    "link": "https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Vector_Spaces",
+    "description": "A vector space must have at least one element, its zero vector. Thus a one-\u200belement vector space is the smallest one possible. Definition 1.7. A one-element vector\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Vector_Spaces&sa=U&ved=2ahUKEwi5w_jAzbzvAhURSq0KHebAAWs4ChAWMAl6BAgCEAE&usg=AOvVaw1s7O-kT6-9Uj7MjlliMZzr",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Properties of Vector Spaces - Mathonlinemathonline.wikidot.com \u203a properties-of-vector-spaces",
+    "link": "http://mathonline.wikidot.com/properties-of-vector-spaces",
+    "description": "Properties of Vector Spaces. We will now look at some important properties of vector spaces and provide what may seem like trivial proofs. Please review the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/properties-of-vector-spaces&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAB6BAgGEAE&usg=AOvVaw1iaLRd3L5DLsv9AAw9r7lT",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Vector Spaces - TCD Maths homewww.maths.tcd.ie \u203a ~dwilkins \u203a Courses \u203a vspace",
+    "link": "https://www.maths.tcd.ie/~dwilkins/Courses/111/vspace.pdf",
+    "description": "Vector spaces over the field of real numbers are usually referred to as real vector spaces. (A real vector space is thus characterized by two operations: an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maths.tcd.ie/~dwilkins/Courses/111/vspace.pdf&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAF6BAgHEAE&usg=AOvVaw34_B0YqgpA7Pc8HeEhVs0_",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Properties of vector spaces without AC - MathOverflowmathoverflow.net \u203a questions \u203a properties-of-vector...",
+    "link": "https://mathoverflow.net/questions/163923/properties-of-vector-spaces-without-ac",
+    "description": "I think vector spaces must still be flat (tensor product is exact). I don't think any of the steps in the following proof use choice, although it's quite possible I'm\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/163923/properties-of-vector-spaces-without-ac&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAJ6BAgJEAE&usg=AOvVaw0nt11FvVN1L7BhvH6NFe6d",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Proofs of Properties of finite-dimensional Vector Spaces using ...www.unirioja.es \u203a jodivaso \u203a degree_thesis \u203a presentacion",
+    "link": "http://www.unirioja.es/cu/jodivaso/degree_thesis/presentacion.pdf",
+    "description": "The objective of this project is to formalize concepts and theorems of linear algebra, concretly of vector spaces, using Isabelle/HOL. 2. We have followed a Halmos'\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.unirioja.es/cu/jodivaso/degree_thesis/presentacion.pdf&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAN6BAgIEAE&usg=AOvVaw0D-3L-fvDfbxyNLPTtFBUQ",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 8 Vector spaceweb.auburn.edu \u203a holmerr \u203a Textbook \u203a vectorspace-print",
+    "link": "https://web.auburn.edu/holmerr/2660/Textbook/vectorspace-print.pdf",
+    "description": "Both Rn and M2\u00d73 are \u201cvector spaces.\u201d A vector space is a set having an addition and a scalar multiplication that satisfy some properties. In this section,.",
+    "googleLink": "http://www.google.com/url?q=https://web.auburn.edu/holmerr/2660/Textbook/vectorspace-print.pdf&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAR6BAgFEAE&usg=AOvVaw1sEef3M4Kbg-z9yRc25oya",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] LINEAR SPACES 1. Definition and basic properties of linear spaces ...people.sissa.it \u203a ~bianchin \u203a Courses \u203a Functionanal \u203a lecture01.linear...",
+    "link": "https://people.sissa.it/~bianchin/Courses/Functionanal/lecture01.linearspaces.pdf",
+    "description": "Definition and basic properties of linear spaces. Definition 1.1. A linear space X over a field F is a set whose elements are called vectors and where two.",
+    "googleLink": "http://www.google.com/url?q=https://people.sissa.it/~bianchin/Courses/Functionanal/lecture01.linearspaces.pdf&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAV6BAgCEAE&usg=AOvVaw09SqiF7BBJfEFpWOKxeKXM",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Maths - Vectors - Martin Baker - EuclideanSpacewww.euclideanspace.com \u203a maths \u203a algebra \u203a vectors",
+    "link": "https://www.euclideanspace.com/maths/algebra/vectors/",
+    "description": "This axiom is important because it describes the linear property of vectors ... addition and scalar multiplication as defining a linear space (see Euclidean space).",
+    "googleLink": "http://www.google.com/url?q=https://www.euclideanspace.com/maths/algebra/vectors/&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAZ6BAgDEAE&usg=AOvVaw0K_Stoc2U5KxYM46ViJEai",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "VSP-0050: Abstract Vector Spaces - Ximeraximera.osu.edu \u203a LinearAlgebra \u203a VSP-M-0050",
+    "link": "https://ximera.osu.edu/la/LinearAlgebra/VSP-M-0050/main",
+    "description": "In addition, Theorems th:propertiesofaddition and th:propertiesscalarmult of MAT-\u200b0010 give us the following properties of matrix addition and scalar multiplication.",
+    "googleLink": "http://www.google.com/url?q=https://ximera.osu.edu/la/LinearAlgebra/VSP-M-0050/main&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAd6BAgBEAE&usg=AOvVaw3TfBIdy6_dFXOMG8ZadvVw",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Linear Vector Spaceswww.pci.tu-bs.de \u203a Kap_II \u203a Vector_space",
+    "link": "http://www.pci.tu-bs.de/aggericke/PC4e/Kap_II/Vector_space.htm",
+    "description": "Examples of vector spaces: ... A set of vectors {V1, V2, V3, ...} is linearly independent (LI) if there exists no linear relation of the form , except for the trivial one with all\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.pci.tu-bs.de/aggericke/PC4e/Kap_II/Vector_space.htm&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAh6BAgAEAE&usg=AOvVaw0u_RfpwkkVqrJUa9zbkBdv",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] MATH 304 Linear Algebra Lecture 11: Vector spaces. - TAMU Mathwww.math.tamu.edu \u203a ~yvorobet \u203a MATH304-503",
+    "link": "https://www.math.tamu.edu/~yvorobet/MATH304-503/Lect2-01web.pdf",
+    "description": "Vector space is a set V equipped with two operations \u03b1 : V \u00d7 V \u2192 V and \u00b5 : R \u00d7 V \u2192 V that have certain properties (listed below). The operation \u03b1 is called addition.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tamu.edu/~yvorobet/MATH304-503/Lect2-01web.pdf&sa=U&ved=2ahUKEwiP1KnBzbzvAhUNjq0KHTMOCew4FBAWMAl6BAgEEAE&usg=AOvVaw0D2F4-qVvSeEiJUiPxTijG",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Linear Vector Space - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a linear-vector-space",
+    "link": "https://www.sciencedirect.com/topics/mathematics/linear-vector-space",
+    "description": "A linear vector space consists of a set of vectors or functions and the standard operations of addition, subtraction, and scalar multiplication. In solving ordinary\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/mathematics/linear-vector-space&sa=U&ved=2ahUKEwiYipbCzbzvAhUJWqwKHfKZBtA4HhAWMAB6BAgJEAE&usg=AOvVaw0gyGuXvC9IVROJHFVDdTyQ",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Fields and Vector Spaces - UBC Mathwww.math.ubc.ca \u203a ~carrell \u203a 307_chap3",
+    "link": "http://www.math.ubc.ca/~carrell/307_chap3.pdf",
+    "description": "Fields and Vector Spaces. 3.1 Elementary Properties of Fields. 3.1.1 The Definition of a Field. In the previous chapter, we noted unecessarily that one of the main\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.ubc.ca/~carrell/307_chap3.pdf&sa=U&ved=2ahUKEwiYipbCzbzvAhUJWqwKHfKZBtA4HhAWMAF6BAgIEAE&usg=AOvVaw2sxC7HyDhEPkO9_iPfP1uV",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Vector Spaces \u00a74.2 Vector Spaces - Satya Mandalmandal.ku.edu \u203a math290 \u203a summ17S4p2VectSpace",
+    "link": "https://mandal.ku.edu/math290/SU7TeenMath290/summ17S4p2VectSpace.pdf",
+    "description": "Properties of Vector Spaces. Non-Examples. Operations on Sets ... a scalar multiplication, satisfy the properties of the vectors in n\u2212spaces Rn, listed in Theorem\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mandal.ku.edu/math290/SU7TeenMath290/summ17S4p2VectSpace.pdf&sa=U&ved=2ahUKEwiYipbCzbzvAhUJWqwKHfKZBtA4HhAWMAJ6BAgAEAE&usg=AOvVaw0VInKiclkNrOeBgk6jA8yR",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Topological Vector Spaceswww.math.uni-konstanz.de \u203a ~infusino \u203a Lect3",
+    "link": "http://www.math.uni-konstanz.de/~infusino/Lect3.pdf",
+    "description": "Chapter 2. Topological Vector Spaces. 2.1 Definition and properties of a topological vector space. In this section we are going to consider vector spaces over the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uni-konstanz.de/~infusino/Lect3.pdf&sa=U&ved=2ahUKEwiYipbCzbzvAhUJWqwKHfKZBtA4HhAWMAN6BAgHEAE&usg=AOvVaw2oS1LluAmm2doqjtCv3F3K",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Subspacestextbooks.math.gatech.edu \u203a ila \u203a subspaces",
+    "link": "https://textbooks.math.gatech.edu/ila/subspaces.html",
+    "description": "Learn to determine whether or not a subset is a subspace. Learn the ... If v is a vector in V , then all scalar multiples of v are in V by the third property. In other\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://textbooks.math.gatech.edu/ila/subspaces.html&sa=U&ved=2ahUKEwiYipbCzbzvAhUJWqwKHfKZBtA4HhAWMAR6BAgEEAE&usg=AOvVaw1zoeLNJ2Aovay-FDLKtvum",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Vector Space | Brilliant Math & Science Wikibrilliant.org \u203a wiki \u203a vector-space",
+    "link": "https://brilliant.org/wiki/vector-space/",
+    "description": "Vector spaces are mathematical objects that abstractly capture the geometry and algebra of linear equations. They are the central objects of study in linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://brilliant.org/wiki/vector-space/&sa=U&ved=2ahUKEwiYipbCzbzvAhUJWqwKHfKZBtA4HhAWMAV6BAgGEAE&usg=AOvVaw0arJxx8Lh35xsgwM7OHk4d",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "vector space in nLabncatlab.org \u203a nlab \u203a show \u203a vector+space",
+    "link": "https://ncatlab.org/nlab/show/vector+space",
+    "description": "Properties. By the basis theorem (and using the axiom of choice) every vector space admits a basis.",
+    "googleLink": "http://www.google.com/url?q=https://ncatlab.org/nlab/show/vector%2Bspace&sa=U&ved=2ahUKEwiYipbCzbzvAhUJWqwKHfKZBtA4HhAWMAx6BAgFEAE&usg=AOvVaw0vShf0uoA7Ck4IVuHyPFER",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 1 Properties of R3www.math.pitt.edu \u203a ~sph",
+    "link": "http://www.math.pitt.edu/~sph/1180/1180notes2009-10.pdf",
+    "description": "Definition: A +vector space is a set V together with two functions, or +oper! ations called +addition and +scalar multiplication such that the properties 1!10 above\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.pitt.edu/~sph/1180/1180notes2009-10.pdf&sa=U&ved=2ahUKEwiYipbCzbzvAhUJWqwKHfKZBtA4HhAWMA16BAgDEAE&usg=AOvVaw3G0blyNJFHVy1oa6-5_qn2",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Vector Spacesfaculty.wwu.edu \u203a curgus \u203a Courses",
+    "link": "http://faculty.wwu.edu/curgus/Courses/504_201710/Ch_1.pdf",
+    "description": "We will define a vector space to be a set V along with an addition and a scalar multiplication on V that satisfy the properties discussed in the previous paragraph\u200b.",
+    "googleLink": "http://www.google.com/url?q=http://faculty.wwu.edu/curgus/Courses/504_201710/Ch_1.pdf&sa=U&ved=2ahUKEwiYipbCzbzvAhUJWqwKHfKZBtA4HhAWMA56BAgBEAE&usg=AOvVaw2VyGSMtPlw8KWpcdlc_j4H",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Mathematics MATH 236, Winter 2007 Linear Algebra ... - Arizona Mathwww.math.arizona.edu \u203a ~cais \u203a hout",
+    "link": "https://www.math.arizona.edu/~cais/223Page/hout/236w06fields.pdf",
+    "description": "Here are some basic properties of vector spaces. PROPOSITION 2. Suppose that V is an F-space (where F is any particular field.) 1. The zero\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.arizona.edu/~cais/223Page/hout/236w06fields.pdf&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAB6BAgBEAE&usg=AOvVaw31Rkg_79aRumjx3xXLwK3x",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Definition of a Vector Space - Purdue Mathwww.math.purdue.edu \u203a files \u203a academic \u203a courses",
+    "link": "https://www.math.purdue.edu/files/academic/courses/2010spring/MA26200/4-2.pdf",
+    "description": "16.02.2007 \u00b7 Verify the associative law of addition for vectors in. R4. 7. Verify properties (4.1.5)\u200b\u2013(4.1.8) for vectors in R3. 8. Show with examples that\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.purdue.edu/files/academic/courses/2010spring/MA26200/4-2.pdf&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAF6BAgJEAE&usg=AOvVaw0HVDa5vr64PpO9aTTov5Op",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] 1 VECTOR SPACES AND SUBSPACEScourses.smp.uq.edu.au \u203a MATH2301 \u203a linalglecturenotes",
+    "link": "https://courses.smp.uq.edu.au/MATH2301/linalglecturenotes.pdf",
+    "description": "a description for quantities such as Force, velocity and acceleration. Such vectors belong to the foundation vector space - Rn - of all vector spaces. The properties\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://courses.smp.uq.edu.au/MATH2301/linalglecturenotes.pdf&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAJ6BAgHEAE&usg=AOvVaw1INXU_EXLK6qlM-M9h4T7p",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Vector Spacesfaculty.etsu.edu \u203a joynerm \u203a documents \u203a VectorSpaces",
+    "link": "http://faculty.etsu.edu/joynerm/documents/VectorSpaces.pdf",
+    "description": "Recall that when we discussed vector addition and scalar multiplication, that there were a set of prop- erties, such as distributive property, associative property\u200b, etc.",
+    "googleLink": "http://www.google.com/url?q=http://faculty.etsu.edu/joynerm/documents/VectorSpaces.pdf&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAN6BAgIEAE&usg=AOvVaw29QTEg58-e0do4TFloPTD5",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Properties of Dimension A First Course in Linear Algebra Preface ...linear.pugetsound.edu \u203a html \u203a section-PD",
+    "link": "http://linear.pugetsound.edu/html/section-PD.html",
+    "description": "Once the dimension of a vector space is known, then the determination of whether or not a set of vectors is linearly independent, or if it spans the vector space,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://linear.pugetsound.edu/html/section-PD.html&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAR6BAgCEAE&usg=AOvVaw21QPJeFgO7li-M51vL2vR8",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Vector Space Theory - Project Euclidprojecteuclid.org \u203a download \u203a pdf_1 \u203a euclid.lnms",
+    "link": "https://projecteuclid.org/download/pdf_1/euclid.lnms/1196285107",
+    "description": "called the standard basis for Rn. 6. Let V be a finite dimensional real vector space. The basic properties of linearly independent sets and bases\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/download/pdf_1/euclid.lnms/1196285107&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAV6BAgFEAE&usg=AOvVaw3k12Enh0IUDiTBSOOd6ZsM",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Subspaces ofRn - CliffsNoteswww.cliffsnotes.com \u203a real-euclidean-vector-spaces",
+    "link": "https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/subspaces-of-rn",
+    "description": "... n that satisfies these two properties\u2014with the usual operations of addition and scalar multiplication\u2014is called a subspace of Rn or a Euclidean vector space.",
+    "googleLink": "http://www.google.com/url?q=https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/subspaces-of-rn&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAZ6BAgDEAE&usg=AOvVaw2PoR-oyVmih1D_E65jFVhT",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Vector Spaces - University of Miamiwww.physics.miami.edu \u203a ~nearing \u203a mathmethods \u203a vector_spaces",
+    "link": "http://www.physics.miami.edu/~nearing/mathmethods/vector_spaces.pdf",
+    "description": "In the end, the way to do that is to express the definition as a set of axioms. From these axioms the general properties of vectors will follow. A vector space is a set\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.physics.miami.edu/~nearing/mathmethods/vector_spaces.pdf&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAd6BAgEEAE&usg=AOvVaw3P8nPDkfEZhxCRsnmPXK4p",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Neutrosophic Quadruple Vector Spaces and Their Properties - MDPIwww.mdpi.com \u203a ...",
+    "link": "https://www.mdpi.com/2227-7390/7/8/758",
+    "description": "In this paper authors for the first time introduce the concept of Neutrosophic Quadruple (NQ) vector spaces and Neutrosophic Quadruple linear algebras and\u200b\u00a0...\n\nMathematics: 2019\n7: (8), 758; https://doi.org/10.3390/math7080758",
+    "googleLink": "http://www.google.com/url?q=https://www.mdpi.com/2227-7390/7/8/758&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAh6BAgGEAE&usg=AOvVaw1PCfn3KQPxF819it4NdUX4",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Vector space | mathematics | Britannicawww.britannica.com \u203a Science \u203a Mathematics",
+    "link": "https://www.britannica.com/science/vector-space",
+    "description": "Vector space, a set of multidimensional quantities, known as vectors, together with a ... by scalars while preserving the ordinary arithmetic properties (\u200bassociativity,",
+    "googleLink": "http://www.google.com/url?q=https://www.britannica.com/science/vector-space&sa=U&ved=2ahUKEwjX5MTDzbzvAhVNOKwKHa0ZDlc4KBAWMAl6BAgAEAE&usg=AOvVaw2ydcLOYoKx9MVhtCirAGZX",
+    "page": 4,
+    "index": 9
+  }
+]

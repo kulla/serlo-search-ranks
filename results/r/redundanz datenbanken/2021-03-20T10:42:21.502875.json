@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Was sind Redundanzen in Datenbanken? | Normalisierung von ...www.datenbanken-verstehen.de \u203a Datenmodellierung \u203a Normalisierung",
+    "link": "https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/redundanz-datenbank/",
+    "description": "Redundanzen in Datenbanken sind ein Zeichen f\u00fcr ein schlechtes Datenbankdesign. Redundanzen sind doppelte Informationen in einer Datenbank bzw. Datenbank-Tabelle. Man spricht von einer redundanzfreien Datenbank, wenn alle doppelte Informationen entfernt werden k\u00f6nnen, ohne das ein Informationsverlust stattfindet.",
+    "googleLink": "http://www.google.com/url?q=https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/redundanz-datenbank/&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQFnoECAUQAg&usg=AOvVaw1aUNUFJ4V8CbTZsTtzKxWk",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Redundanz Definition & Erkl\u00e4rung | Datenbank Lexikondatenbanken-verstehen.de \u203a Lexikon \u203a R",
+    "link": "https://datenbanken-verstehen.de/lexikon/redundanz/",
+    "description": "Bewertung  5,0  (1)",
+    "googleLink": "http://www.google.com/url?q=https://datenbanken-verstehen.de/lexikon/redundanz/&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQFjAKegQIBhAB&usg=AOvVaw3zn9me8PSdu4w-oVdFNQJz",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Problemfall Redundanzen - Datenbankdesign: Normalisierung von ...www.tecchannel.de \u203a normalisierung-von-datenbanken,470036,2",
+    "link": "https://www.tecchannel.de/a/normalisierung-von-datenbanken,470036,2",
+    "description": "Normalisierung von Datenbanken ... Redundante Daten, also Daten, die entweder in mehreren Tabellen gleichzeitig gespeichert sind oder innerhalb einer\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tecchannel.de/a/normalisierung-von-datenbanken,470036,2&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQFjALegQIChAB&usg=AOvVaw18N9ks654s4mGF_2Yp5kOz",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "relationale Datenbanken Redundanz Mutationsanomaliewww.oszhandel.de \u203a faecher \u203a informatik \u203a datenbanken \u203a normal \u203a redun...",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/datenbanken/normal/redundanz.html",
+    "description": "Redundanz. Um Inkonsistenzen zu vermeiden, sollte eine Datenbank keine Daten mehrfach enthalten. Dies ist z. B. dann der Fall, wenn Daten \u00fcber\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oszhandel.de/gymnasium/faecher/informatik/datenbanken/normal/redundanz.html&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQFjAMegQICRAB&usg=AOvVaw2ArpvFwJwQMttlS7szvDaq",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Redundanz (Informationstheorie) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Redundanz_(Informationstheorie)",
+    "link": "https://de.wikipedia.org/wiki/Redundanz_(Informationstheorie)",
+    "description": "Durch Normalisierung des Datenbankschemas k\u00f6nnen Redundanzen weitgehend vermieden werden. Es\u00a0...\nNachrichten- und ... \u00b7 Mittlere Codewortl\u00e4nge \u00b7 Redundanz eines Codes",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Redundanz_(Informationstheorie)&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQFjANegQIBxAB&usg=AOvVaw35HdYXHuTeEtF8YgQl_IV5",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "03 Redundanz und Anomalien in Datenbanken - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=YsbFe9FLxdU",
+    "description": "01.04.2020 \u00b7 Zum Nachlesen: https://drdanielappel.de/informatik/datenbanken/Einstieg Java:\u00a0...Dauer: 7:37\nGepostet: 01.04.2020",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DYsbFe9FLxdU&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQtwIwDnoECAEQAQ&usg=AOvVaw1wmZyHaeQGuOxusm-Ui1pU",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Was ist Datenredundanz \u2013 Talendwww.talend.com \u203a resources \u203a what-is-data-redundancy",
+    "link": "https://www.talend.com/de/resources/what-is-data-redundancy/",
+    "description": "Eine Datenredundanz liegt vor, wenn in einem Datenbank- oder Datenspeichersystem dieselben Daten gehalten werden. Identische Daten k\u00f6nnen in zwei\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.talend.com/de/resources/what-is-data-redundancy/&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQFjAPegQIABAB&usg=AOvVaw0H_09fq47NEBQUKBhVTE3H",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Redundanz in Datenbanken - lernen mit Serlo!de.serlo.org \u203a ...",
+    "link": "https://de.serlo.org/161423",
+    "description": "Eine Redundanz in einer Datenbank bedeutet, dass Daten mehr als einmal in der Datenbank vorhanden sind. Damit es nicht zu Anomalien kommen \u2026",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/161423&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQFjAQegQIAhAB&usg=AOvVaw0tbGtwEvaUSgvwdOajBjDU",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Normalisierung | Datenbanken mit minimaler Redundanz - IONOSwww.ionos.de \u203a ... \u203a Hosting-Technik \u203a Normalisierung von Datenbanken",
+    "link": "https://www.ionos.de/digitalguide/hosting/hosting-technik/normalisierung-von-datenbanken/",
+    "description": "18.06.2018 \u00b7 Datenbank-Normalisierung am Beispiel erkl\u00e4rt: So \u00fcberf\u00fchren Sie Datenbanktabellen in die 1., 2. oder 3. Normalform, um redundante Eintr\u00e4ge\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ionos.de/digitalguide/hosting/hosting-technik/normalisierung-von-datenbanken/&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQFjAVegQICBAB&usg=AOvVaw1YoQTcxI51wWai0VN-qqCy",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Datenbanken (Normalisierung) | Mediencommunity 2.0mediencommunity.de \u203a content \u203a datenbanken",
+    "link": "https://mediencommunity.de/content/datenbanken",
+    "description": "24.02.2010 \u00b7 In der Tabelle der 1. NF sind alle Informationen gelistet, daher ist sie nicht konsistent und nicht redundanzfrei. Beispiel: Der Kunde Winkler hat\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mediencommunity.de/content/datenbanken&sa=U&ved=2ahUKEwjPo-yvyr7vAhULq1kKHTH4BDgQFjAWegQICxAB&usg=AOvVaw3ZfCTubaAcXdcrVHdqZZhB",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Normalisierung: Vorteile u. Vorgehen bei Anwendung Normalformwww.php-kurs.com \u203a normalisierung",
+    "link": "https://www.php-kurs.com/normalisierung.htm",
+    "description": "\u00dcber die Normalisierung werden Redundanzen und Inkonsistenzen bei Datenbanken ... Normalisierung \u2013 logische Regeln zur Minimierung von Redundanz.",
+    "googleLink": "http://www.google.com/url?q=https://www.php-kurs.com/normalisierung.htm&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAB6BAgBEAE&usg=AOvVaw0ZPmWV_DjaEwsDgVdHYYmh",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] TU M\u00fcnchen, Fakult\u00e4t f\u00fcr Informatik Lehrstuhl III: Datenbanksysteme ...db.in.tum.de \u203a teaching \u203a grundlagen \u203a Loesung02",
+    "link": "https://db.in.tum.de/teaching/ws1314/grundlagen/Loesung02.pdf?lang=en",
+    "description": "\u00a8Ubung zur Vorlesung Grundlagen: Datenbanken im WS13/14 ... lichkeit f\u00fcr eine durch das DBMS kontrollierte Redundanz vorstellen? Redundante\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://db.in.tum.de/teaching/ws1314/grundlagen/Loesung02.pdf%3Flang%3Den&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAF6BAgJEAE&usg=AOvVaw2NS5rQkG2xkX9ZnH52UsRj",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Redundanzen \u2013 Der Dualstudentwww.derdualstudent.de \u203a redundanzen",
+    "link": "https://www.derdualstudent.de/redundanzen.html",
+    "description": "Bei der Datenbankmodellierung bezeichnet man Redundanzen als Daten die mehrfach gespeichert werden. Es wird stets versucht Redundanzen zu vermeiden\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.derdualstudent.de/redundanzen.html&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAJ6BAgHEAE&usg=AOvVaw2p-stWanfqTB7D6gzJfvN6",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Was ist Denormalisierung? - Definition von WhatIs.comwww.computerweekly.com \u203a definition \u203a Denormalisierung",
+    "link": "https://www.computerweekly.com/de/definition/Denormalisierung",
+    "description": "Eine logisch ideale, normalisierte Datenbankanwendung ist vollkommen redundanzfrei. Die Normalisierung geht auf den Erfinder der relationalen Datenbank,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.computerweekly.com/de/definition/Denormalisierung&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAN6BAgIEAE&usg=AOvVaw0ZguRfvjnB9mQVL_Kauvt7",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 1. Datenbanken \u2013 Einf\u00fchrung 1.1 Redundanz und ... - DocDroidwww.docdroid.net \u203a file \u203a download",
+    "link": "https://www.docdroid.net/file/download/64p3z4Z/informationssysteme1-2017w-uebung01-fragen-pdf.pdf",
+    "description": "1.1 Redundanz und Inkonsistenz Erkl\u00e4ren Sie die Bedeutung beider Begriffe und ... Redundanzen sind fehlerhafte oder schlecht geformte Datenbanken.",
+    "googleLink": "http://www.google.com/url?q=https://www.docdroid.net/file/download/64p3z4Z/informationssysteme1-2017w-uebung01-fragen-pdf.pdf&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAR6BAgDEAE&usg=AOvVaw3PtIzpbi12st82f0Acddin",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Inkonsistenzwww-stud.rbi.informatik.uni-frankfurt.de \u203a prg2_vorlesung11_db",
+    "link": "http://www-stud.rbi.informatik.uni-frankfurt.de/~prg2/SS2006/zicari/folien/prg2_vorlesung11_db.pdf",
+    "description": "Deshalb wurden die Datenbanken entwickelt. ... Datenbank-Schnittstellen und Embedded SQL. S ... Diese Daten sind also mehrfach gespeichert (Redundanz),.",
+    "googleLink": "http://www.google.com/url?q=http://www-stud.rbi.informatik.uni-frankfurt.de/~prg2/SS2006/zicari/folien/prg2_vorlesung11_db.pdf&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAV6BAgFEAE&usg=AOvVaw0ETlqBNWOIOwMZEXO-xY3e",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Anomalien und Redundanzen | Datenbanken ...datenbanken.tsmit.de \u203a anomalien_und_redundanzen",
+    "link": "http://datenbanken.tsmit.de/anomalien_und_redundanzen.html",
+    "description": "Anomalien. Anomalien sind fehlerhafte oder unterdr\u00fcckte Datenbankzugriffe. Im Umfeld der Informationstechnologie >> Datenbanken werden Anomalien in drei\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://datenbanken.tsmit.de/anomalien_und_redundanzen.html&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAZ6BAgAEAE&usg=AOvVaw2p9TfuYsx4JjIdAiV-905p",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Datenbanken - LMU Munichwww.dbs.ifi.lmu.de \u203a Lehre \u203a InfoNF \u203a skript \u203a InfoNF_03_6",
+    "link": "http://www.dbs.ifi.lmu.de/Lehre/InfoNF/SS13/skript/InfoNF_03_6.pdf",
+    "description": "Relationaler Datenbank-Entwurf. SYSTEMS ... Redundanz: Kundenauftrag f\u00fcr mehrere Produkte ... In relationalen Datenbanken sind nicht-atomare Attribute.",
+    "googleLink": "http://www.google.com/url?q=http://www.dbs.ifi.lmu.de/Lehre/InfoNF/SS13/skript/InfoNF_03_6.pdf&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAd6BAgCEAE&usg=AOvVaw3GHhuB5Cj48USqBzbAjA1H",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Datenbanken entwickeln - Datenbank, MySQL und PHPreeg.junetz.de \u203a DSP \u203a node7",
+    "link": "http://reeg.junetz.de/DSP/node7.html",
+    "description": "Unter Redundanz versteht man das doppelte Vorhandensein einzelner Daten. Am folgenden Beispiel wird dies besonders deutlich: In folgender Tabelle werden\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://reeg.junetz.de/DSP/node7.html&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAh6BAgGEAE&usg=AOvVaw1un-Pa_MnvWptr83bbx5hb",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Relationale Datenbankengraf.clubcomputer.at \u203a DB_Normal \u203a normal",
+    "link": "http://graf.clubcomputer.at/DB_Normal/normal.htm",
+    "description": "Redundanzen; Anomalien: Falls Leerfelder ausgeschlossen sind, kann es Besitzer ohne Hund oder Hunde ohne Besitzer nicht geben. (Einf\u00fcgeanomalie) Stirbt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://graf.clubcomputer.at/DB_Normal/normal.htm&sa=U&ved=2ahUKEwiotpuwyr7vAhViuVkKHalcC_E4ChAWMAl6BAgEEAE&usg=AOvVaw23ZtzgdUUIpJgkBezB9RME",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "3 Vorteile f\u00fcr die Redundanz- Informatik? (Schule) - Gutefragewww.gutefrage.net \u203a frage \u203a 3-vorteile-fuer-die-redundanz--informatik",
+    "link": "https://www.gutefrage.net/frage/3-vorteile-fuer-die-redundanz--informatik",
+    "description": "Du hast da offenbar etwas falsch verstanden. Bei Datenbanken m\u00f6chte man immer m\u00f6glichst keine Redundanz haben. Redundanz bedeutet, dass man\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gutefrage.net/frage/3-vorteile-fuer-die-redundanz--informatik&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAB6BAgFEAE&usg=AOvVaw3RAHafxtP8felMQClV8W4P",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Sql - SQL: Was bedeuten die Begriffe: Inkonsistenz und Redundanz ...www.stacklounge.de \u203a sql-was-bedeuten-die-begriffe-inkonsistenz-und-red...",
+    "link": "https://www.stacklounge.de/5616/sql-was-bedeuten-die-begriffe-inkonsistenz-und-redundanz",
+    "description": "Hi! Unter Redundanz versteht man bei SQL in relationalen Datenbanken das mehrfache Vorhandensein ein und desselben Keys in mehreren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.stacklounge.de/5616/sql-was-bedeuten-die-begriffe-inkonsistenz-und-redundanz&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAF6BAgJEAE&usg=AOvVaw0YwSTcvBkWjbyKEOG8H86g",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Redundanz | it-administrator.dewww.it-administrator.de \u203a lexikon \u203a redundanz",
+    "link": "https://www.it-administrator.de/lexikon/redundanz.html",
+    "description": "In der Informationstheorie versteht man unter Redundanz zus\u00e4tzliche, ... IIoT fordert neben relationalen Datenbanken zus\u00e4tzlich eine Time-Series-Datenbank,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.it-administrator.de/lexikon/redundanz.html&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAJ6BAgIEAE&usg=AOvVaw2PTSjkPcLs5nUtHqaEJ1p3",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Datenbank Klausur Flashcards | Quizletquizlet.com \u203a datenbank-klausur-flash-cards",
+    "link": "https://quizlet.com/de/289610868/datenbank-klausur-flash-cards/",
+    "description": "+ Keine mehrfache Speicherung der gleichen Information. (Verneidung physischer Redundanz). + Inkonsistenzen (Widerspr\u00fcche) k\u00f6nnen so vermieden werden.",
+    "googleLink": "http://www.google.com/url?q=https://quizlet.com/de/289610868/datenbank-klausur-flash-cards/&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAN6BAgHEAE&usg=AOvVaw1ZD02qrFh70-JU43YGRctt",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Schulentwicklung NRW - Lehrplannavigator S II - Gymnasiale ...www.schulentwicklung.nrw.de \u203a schulinterner-lehrplan \u203a uv_lk_q1_iv",
+    "link": "https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/hinweise-und-beispiele/schulinterner-lehrplan/uv_lk_q1_iv.html",
+    "description": "Modellierung, Implementierung und Nutzung von relationalen Datenbanken in ... An einem Beispiel wird verdeutlicht, dass in Datenbanken Redundanzen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/hinweise-und-beispiele/schulinterner-lehrplan/uv_lk_q1_iv.html&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAR6BAgAEAE&usg=AOvVaw0h3z2p24mrFG7pPijyBVkq",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Grundlagen des relationalen Datenbankdesigns \u2013 kompakt und klarentwickler.de \u203a Online \u203a PHP",
+    "link": "https://entwickler.de/online/php/grundlagen-relationales-datenbankdesign-579906947.html",
+    "description": "18.09.2019 \u00b7 Die Datenbank: Ein wichtiger Bestandteil in vielen betrieblichen Applikationen. ... Kontrollierte Redundanz: Grunds\u00e4tzlich ist die mehrfache\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://entwickler.de/online/php/grundlagen-relationales-datenbankdesign-579906947.html&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAV6BAgGEAE&usg=AOvVaw0AHBRjR0d-lNAk-uQzEL33",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Datenredundanz \u2022 Definition | Gabler Wirtschaftslexikonwirtschaftslexikon.gabler.de \u203a ... \u203a Grundlagen der Wirtschaftsinformatik",
+    "link": "https://wirtschaftslexikon.gabler.de/definition/datenredundanz-31756",
+    "description": "... Vorkommen desselben Sachverhaltes, wobei die Wiederholung als nicht notwendig eingeordnet wird. Redundanz wird auch der Teil einer Nachricht genannt,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wirtschaftslexikon.gabler.de/definition/datenredundanz-31756&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAZ6BAgBEAE&usg=AOvVaw0jkXnDRMdg9xmKE4qNpjcu",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 2.4 Redundanzwvsg.schulen2.regensburg.de \u203a 2_4_Redundanz \u203a 04_Redundanz",
+    "link": "https://wvsg.schulen2.regensburg.de/joomla/images/Faecher/Informatik/Informatik_09_neu/Skripten_und_Vorlagen/02_Datenbanksysteme/2_4_Redundanz/04_Redundanz.pdf",
+    "description": "Informatik 9 \u2013 2.Datenbanken \u2013 2.4 Redundanz. 1. Ein Kaufhaus speichert Kundendaten und Kaufdaten in einer Tabelle einer. Datenbank: 2.4 Redundanz.",
+    "googleLink": "http://www.google.com/url?q=https://wvsg.schulen2.regensburg.de/joomla/images/Faecher/Informatik/Informatik_09_neu/Skripten_und_Vorlagen/02_Datenbanksysteme/2_4_Redundanz/04_Redundanz.pdf&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAd6BAgCEAE&usg=AOvVaw1B4IPOgj7namt9Q8M4TDJ5",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Was ist Redundanz? - Storage-Insiderwww.storage-insider.de \u203a Specials \u203a Definitionen",
+    "link": "https://www.storage-insider.de/was-ist-redundanz-a-774181/",
+    "description": "08.11.2018 \u00b7 Redundanz kommt vom lateinischen redundare, das mit \u201eIm ... wie Active-\u200bDirectory-, Datenbank- oder ERP-Server hochverf\u00fcgbar sein, so setzt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.storage-insider.de/was-ist-redundanz-a-774181/&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAh6BAgEEAE&usg=AOvVaw2MmhqllxOmaZJdgPfOQlBx",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 4. Datenbanken - HTW Dresdenwww.htw-dresden.de \u203a ~sobe \u203a InfoMB_Jg16 \u203a 4_Datenbanken",
+    "link": "http://www.htw-dresden.de/~sobe/InfoMB_Jg16/Vo/4_Datenbanken.pdf",
+    "description": "Datenbanken: Tabellen, Attribute und Datentyp. \u25ab Datenmodellierung und Normalformen einer Datenbank ... Vermeiden von Redundanz in Relationen.",
+    "googleLink": "http://www.google.com/url?q=http://www.htw-dresden.de/~sobe/InfoMB_Jg16/Vo/4_Datenbanken.pdf&sa=U&ved=2ahUKEwjYmsKwyr7vAhUIpFkKHehRDLY4FBAWMAl6BAgDEAE&usg=AOvVaw1W3UsHKAuHPOkNTv8vEiuS",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Grundwissen - Redundanz - itg-dah.infowww.itg-dah.info \u203a index.php \u203a info-9 \u203a datenbank \u203a 530-grundwissen-re...",
+    "link": "https://www.itg-dah.info/index.php/info-9/datenbank/redundanz/530-grundwissen-redundanz",
+    "description": "Sind die Datens\u00e4tze einer Datenbank ohne Widerspr\u00fcche, so hei\u00dft die Datenbank konsistent. Anomalien machen Datenbanken inkonsistent. Zur\u00fcck \u00b7 Weiter\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.itg-dah.info/index.php/info-9/datenbank/redundanz/530-grundwissen-redundanz&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAB6BAgFEAE&usg=AOvVaw1kIn54Tu88dR5ydIMfSPXz",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Einf\u00fchrung in Datenbanken - LRZwww.lrz.de \u203a services \u203a datenhaltung \u203a datenbanken",
+    "link": "https://www.lrz.de/services/datenhaltung/datenbanken/intro/",
+    "description": "... und die Redundanz von Datenelementen minimieren. Datenbanken erleichtern das Suchen, Analysieren, Bearbeiten und Speichern von Datenbest\u00e4nden.",
+    "googleLink": "http://www.google.com/url?q=https://www.lrz.de/services/datenhaltung/datenbanken/intro/&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAF6BAgIEAE&usg=AOvVaw3i5CkMMf9DZ4F_Ims0qUcI",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Grundlagen der Datenbankenwww.cs.uni-potsdam.de \u203a kreitz \u203a Teaching \u203a Datenbanken \u203a Folien",
+    "link": "https://www.cs.uni-potsdam.de/ti/kreitz/Teaching/Datenbanken/Folien.pdf?",
+    "description": "zentrale, einheitliche Darstellung des Datenbestandes (Datenbank). \u2013 Verwaltung durch ... Datenunabh\u00e4ngigkeit, wenig Redundanz, syntaktische Integrit\u00e4t.",
+    "googleLink": "http://www.google.com/url?q=https://www.cs.uni-potsdam.de/ti/kreitz/Teaching/Datenbanken/Folien.pdf%3F&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAJ6BAgJEAE&usg=AOvVaw2Bmxn_UPWahBwEZUBSuZFx",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Datenbanksystem - Mirko Hanswww.mirko-hans.de \u203a info \u203a db-systeme",
+    "link": "https://www.mirko-hans.de/info/gk_12/db-systeme.htm",
+    "description": "Datenbank: Dateien und Datenbanken stellen zwei unterschiedliche Ans\u00e4tze zum ... Lexikographisches Institut, M\u00fcnchen 1982); Redundanz: Unter Redundanz\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mirko-hans.de/info/gk_12/db-systeme.htm&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAN6BAgHEAE&usg=AOvVaw3ftiTW3poF0i55CzVL9RMi",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Normalform - Datenbankenvolker-janssen.info \u203a BuchDB \u203a Kapitel_08_Normalformen",
+    "link": "http://volker-janssen.info/BuchDB/Kapitel_08_Normalformen/08a_Normalformen.pdf",
+    "description": "Weitere Normalformen. Volker Jan\u00dfen. Page 2. Datenbanken Normalformen. Seite 2 von 56. Redundanzen. Definition: Redundanz. Wiederholung derselben\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://volker-janssen.info/BuchDB/Kapitel_08_Normalformen/08a_Normalformen.pdf&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAR6BAgEEAE&usg=AOvVaw350AeMDKcS34DsCF9MRhri",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Redundanzfreies Programmieren - sedl.atsedl.at \u203a Programmieren \u203a redundanzfrei",
+    "link": "https://sedl.at/Programmieren/redundanzfrei",
+    "description": "Redundanz ist das mehrfache Vorhandensein ein und derselben Information. ... Eine Datenbank-Eingabemaske sollte sich automatisch anpassen, wenn neue\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://sedl.at/Programmieren/redundanzfrei&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAV6BAgBEAE&usg=AOvVaw0X0BZxjjxyjwQKJLi0wofm",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Hochverf\u00fcgbarkeit - Azure SQL Database and SQL Managed ...docs.microsoft.com \u203a Azure \u203a Azure SQL \u203a SQL-Datenbank",
+    "link": "https://docs.microsoft.com/de-de/azure/azure-sql/database/high-availability-sla",
+    "description": "28.10.2020 \u00b7 F\u00fcr zonenredundante Datenbanken vom Typ \u201eUniversell\u201c stehen Knoten mit freier Kapazit\u00e4t in anderen Verf\u00fcgbarkeitszonen f\u00fcr den Failover\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/azure/azure-sql/database/high-availability-sla&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAZ6BAgAEAE&usg=AOvVaw3nRdYZkkZVsMNyJ7NjqLJx",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Verkn\u00fcpfen von Daten \u00bb Fachkonzept - Beziehungen ... - inf-schulewww.inf-schule.de \u203a ...",
+    "link": "https://www.inf-schule.de/1.4.1.2.4",
+    "description": "Damit treten zumindest schon einmal keine redundanten Daten mehr auf. ... sind nach den Tabellen das zweite wichtige Konzept von relationalen Datenbanken.",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/1.4.1.2.4&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAd6BAgGEAE&usg=AOvVaw1UutM5i1RpGK1i7z3SojZ6",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Anforderungen an ein Datenbankschema - RoRo-Seitenwww.roro-seiten.de \u203a info \u203a DBSchemaAnforderungen",
+    "link": "http://www.roro-seiten.de/info/db/07DBSchemaAnforderungen/DBSchemaAnforderungen.html",
+    "description": "Anforderungen an ein Datenbankschema. Integrit\u00e4tsregeln \u00dcber Redundanz von Daten in Relationen",
+    "googleLink": "http://www.google.com/url?q=http://www.roro-seiten.de/info/db/07DBSchemaAnforderungen/DBSchemaAnforderungen.html&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAh6BAgCEAE&usg=AOvVaw0b_7GOsDjMCNzR-rtM8P_p",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "10 Autonomie und Heterogenit\u00e4t - Abteilung Datenbanken Leipzigdbs.uni-leipzig.de \u203a buecher \u203a mrdbs \u203a mrdbs-104",
+    "link": "https://dbs.uni-leipzig.de/buecher/mrdbs/mrdbs-104.html",
+    "description": "Sind z.B. einzelne Informationen in verschiedenen Datenbanken repliziert, ist diese Redundanz seitens der Benutzer zu warten. Beispiel 10-1. In einer\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dbs.uni-leipzig.de/buecher/mrdbs/mrdbs-104.html&sa=U&ved=2ahUKEwiN8umwyr7vAhVFi1kKHYaQC7M4HhAWMAl6BAgDEAE&usg=AOvVaw0yof3STkUbjbSZxZPn4lWB",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "BSI - B 8 Datenbankenwww.bsi.bund.de \u203a Downloads \u203a BSI \u203a Hochverfuegbarkeit \u203a BandB \u203a B8...",
+    "link": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Hochverfuegbarkeit/BandB/B8_Datenbanken.html",
+    "description": "Hochverf\u00fcgbarkeitskompendium Architekturen und Mechanismen der Replikation und Synchronisation, Redundanz, Standby, Virtualisierung von Datenbanken\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Hochverfuegbarkeit/BandB/B8_Datenbanken.html&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAB6BAgCEAE&usg=AOvVaw1Kt6lBDCGLRPMh8DLZQ-_X",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Normalisierung von Datenbanken - von Tino Hempelwww.tinohempel.de \u203a info \u203a info \u203a datenbank \u203a normalisierung",
+    "link": "https://www.tinohempel.de/info/info/datenbank/normalisierung.htm",
+    "description": "Normalisierung ist somit eine weitere M\u00f6glichkeit, relationale Datenbanken zu ... aber eingesetzt werden, um Anomalien zu beseitigen oder Redundanzen zu\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tinohempel.de/info/info/datenbank/normalisierung.htm&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAF6BAgIEAE&usg=AOvVaw1_To_ytoAscvDt-K774uLm",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Datenbanken optimieren: Performance erh\u00f6hen, Zeit und Kosten ...www.skriptstube.de \u203a individualprogrammierung \u203a datenbank-optimierung",
+    "link": "https://www.skriptstube.de/individualprogrammierung/datenbank-optimierung/",
+    "description": "Unser Service: Datenbank-Analyse, Optimierung von Datenstrukturen, Vermeiden von Redundanzen, erh\u00f6hte Flexibilit\u00e4t, bessere Datenqualit\u00e4t, schnellere\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.skriptstube.de/individualprogrammierung/datenbank-optimierung/&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAJ6BAgJEAE&usg=AOvVaw2KIGsldpl6MbhnkYZardlF",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Normalisierung relationaler Datenbanken einfach erkl\u00e4rt | Digitale ...digitale-rundschau.de \u203a normalisierung-relationaler-datenbanken-datensche...",
+    "link": "https://digitale-rundschau.de/normalisierung-relationaler-datenbanken-datenschemata/",
+    "description": "11.02.2021 \u00b7 Wie Relationale Datenbanken zur Vermeidung von Redundanzen und Anomalien bei der Entwicklung von Datenbankmodellen normalisiert\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://digitale-rundschau.de/normalisierung-relationaler-datenbanken-datenschemata/&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAN6BAgHEAE&usg=AOvVaw1Je34bSPricDqqmCUsSFR3",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Informationen zum Lehrmodul Entwurf redundanzfreier ...pi.informatik.uni-siegen.de \u203a kelter \u203a lehre \u203a ers",
+    "link": "http://pi.informatik.uni-siegen.de/kelter/lehre/lm/ers",
+    "description": "Beim Entwurf von Schemata f\u00fcr relationale Datenbanken k\u00f6nnen bestimmte Fehler gemacht werden, die entweder zu Redundanz oder zu einer inkorrekten\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://pi.informatik.uni-siegen.de/kelter/lehre/lm/ers&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAR6BAgAEAE&usg=AOvVaw3HNeRouCbvpBagjd_XCPaR",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Datenbanken 1 \u2022 Eliminieren von Redundanzen und \u2022 Vermeiden ...masteroftheformulas.weebly.com \u203a uploads",
+    "link": "https://masteroftheformulas.weebly.com/uploads/5/4/8/7/54872499/04b_-_normalisierung_ii_-_aufgaben_-_l%C3%B6sungen.pdf",
+    "description": "13.1 \u2013 Datenbanken. Nr. 7-02. Normalisierung. \u00dcbung ag. 1. 1. Aufgabe. Nennen Sie die Ziele der Datenbank-Normalisierung. \u2022 Eliminieren von Redundanzen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://masteroftheformulas.weebly.com/uploads/5/4/8/7/54872499/04b_-_normalisierung_ii_-_aufgaben_-_l%25C3%25B6sungen.pdf&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAV6BAgBEAE&usg=AOvVaw3h4__r13xQpMFuc7K6lWqC",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Entwurf redundanzfreier Datenbankschemata - PDF Free Downloaddocplayer.org \u203a 41391270-Entwurf-redundanzfreier-datenbankschemata",
+    "link": "https://docplayer.org/41391270-Entwurf-redundanzfreier-datenbankschemata.html",
+    "description": "... Entwurf von Schemata f\u00fcr relationale Datenbanken k\u00f6nnen bestimmte Fehler ... da\u00df redundante Datenspeicherung (in einer nichtverteilten Datenbank) etwas\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/41391270-Entwurf-redundanzfreier-datenbankschemata.html&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAZ6BAgGEAE&usg=AOvVaw05Xob8aUqn7VkZ9P-FlIvP",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Referenzieren in Datenbanken | ComputerBase Forumwww.computerbase.de \u203a Forum \u203a Anwendungen \u203a Programmieren",
+    "link": "https://www.computerbase.de/forum/threads/referenzieren-in-datenbanken.2007563/",
+    "description": "Eine Sache habe ich nicht ganz verstanden: Datenbanken sind ja daf\u00fcr da, Redundanzen zu vermeiden. Sprich, \u00e4ndere ich den Namen eines\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.computerbase.de/forum/threads/referenzieren-in-datenbanken.2007563/&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAd6BAgFEAE&usg=AOvVaw1Jrpo-INLJVa8-iHAhwHW5",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Datenbanken in der Molekularbiologiemolgen.biologie.uni-mainz.de \u203a PDFs \u203a Genomforsch \u203a F1-db2016-17",
+    "link": "http://molgen.biologie.uni-mainz.de/Downloads/PDFs/Genomforsch/F1-db2016-17.pdf",
+    "description": "Sequenz-Datenbanken ... dennoch Unterschiede in der Redundanz und Annotations- ... dbEST \u2022 redundante Datenbank aller beim NCBI, EBI und in Japan\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://molgen.biologie.uni-mainz.de/Downloads/PDFs/Genomforsch/F1-db2016-17.pdf&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAh6BAgDEAE&usg=AOvVaw1p3-1w_uIRHHmbwzNnGKS-",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Datenbank/Allgemeine Grundlagen \u2013 SELFHTML-Wikiwiki.selfhtml.org \u203a wiki \u203a Datenbank \u203a Allgemeine_Grundlagen",
+    "link": "https://wiki.selfhtml.org/wiki/Datenbank/Allgemeine_Grundlagen",
+    "description": "05.01.2021 \u00b7 Eine Datenbank, auch Datenbanksystem genannt, ist ein System zur ... d. h. an verschiedenen Stellen, gespeichert werden (Redundanz).",
+    "googleLink": "http://www.google.com/url?q=https://wiki.selfhtml.org/wiki/Datenbank/Allgemeine_Grundlagen&sa=U&ved=2ahUKEwiQqKGxyr7vAhWls1kKHegIBGw4KBAWMAl6BAgEEAE&usg=AOvVaw092WkWDoyUOnTc9RZq9tO5",
+    "page": 4,
+    "index": 9
+  }
+]

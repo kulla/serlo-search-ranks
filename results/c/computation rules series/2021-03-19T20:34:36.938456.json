@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Computation rules for series \u2013 Serlo \u2013 Wikibooks, Sammlung freier ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Computation_rules_for_series",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Computation_rules_for_series",
+    "description": "We learned that series are in some sense \"infinite sums\". Do the same rules as for finite sums also apply to infinite sums? Like removing braces (associative law)\u200b\u00a0...\nOverview \u00b7 The sum rule \u00b7 The splitting rule \u00b7 The associative law",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Computation_rules_for_series&sa=U&ved=2ahUKEwj-wbnujL3vAhUTQ0EAHUA1CpgQFjAAegQICxAB&usg=AOvVaw09hOPMskhB5KgWJ--NWug1",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Series (mathematics) - Wikipediaen.wikipedia.org \u203a wiki \u203a Series_(mathematics)",
+    "link": "https://en.wikipedia.org/wiki/Series_(mathematics)",
+    "description": "When an is a non-negative real number for every n, the sequence SN of partial sums is non-decreasing. It follows that a series \u2211an with non-negative terms converges if and only if the sequence SN of partial sums is bounded.\nExamples of numerical ... \u00b7 Properties of series \u00b7 Series of functions \u00b7 Generalizations",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Series_(mathematics)&sa=U&ved=2ahUKEwj-wbnujL3vAhUTQ0EAHUA1CpgQFjABegQIBxAB&usg=AOvVaw1zgIZy-5rpisyNSN1tCcn1",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Geometric series - Wikipediaen.wikipedia.org \u203a wiki \u203a Geometric_series",
+    "link": "https://en.wikipedia.org/wiki/Geometric_series",
+    "description": "However, applying L'H\u00f4pital's rule results in S = (n + 1 - m) a when r = 1. ... the sum of the first n+1 terms of a geometric series, up to and ... One can derive that closed-form formula for the partial sum, s,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Geometric_series&sa=U&ved=2ahUKEwj-wbnujL3vAhUTQ0EAHUA1CpgQFjACegQIDBAB&usg=AOvVaw1mOv010Zot6ER6bFhpxUHm",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Calculus II - Series - The Basics - Pauls Online Math Notestutorial.math.lamar.edu \u203a classes \u203a calcii \u203a Series_Ba...",
+    "link": "https://tutorial.math.lamar.edu/classes/calcii/Series_Basics.aspx",
+    "description": "31.05.2018 \u00b7 In this section we will formally define an infinite series. ... however the following formula can be used to determine the product of two series.",
+    "googleLink": "http://www.google.com/url?q=https://tutorial.math.lamar.edu/classes/calcii/Series_Basics.aspx&sa=U&ved=2ahUKEwj-wbnujL3vAhUTQ0EAHUA1CpgQFjADegQICBAB&usg=AOvVaw2SMZP1UqoKKCE4vC3Sy3jH",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Rules for Product and Summation Notation - Mathematics Stack ...math.stackexchange.com \u203a questions \u203a rules-for-pro...",
+    "link": "https://math.stackexchange.com/questions/551361/rules-for-product-and-summation-notation",
+    "description": "The formula for the sum of an arithmetic series is also useful: if we know the first term a1 and the last term an, and the series has n terms, then the sum will be\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/551361/rules-for-product-and-summation-notation&sa=U&ved=2ahUKEwj-wbnujL3vAhUTQ0EAHUA1CpgQFjAEegQIBhAB&usg=AOvVaw1RNupn8ILDcSuTuLB1OCG9",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Sequences and Series: Basic Examples | Purplemathwww.purplemath.com \u203a modules \u203a series2",
+    "link": "https://www.purplemath.com/modules/series2.htm",
+    "description": "They've given me a rule for each term of this series; the rule is to multiply the index by two. So, to find each term, I'll plug the value of n into the formula; namely\u200b,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.purplemath.com/modules/series2.htm&sa=U&ved=2ahUKEwj-wbnujL3vAhUTQ0EAHUA1CpgQFjAFegQIBRAB&usg=AOvVaw2vWzoHBTylzSaSxuE5Wr35",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Sequences - Math is Funwww.mathsisfun.com \u203a algebra \u203a sequences-series",
+    "link": "https://www.mathsisfun.com/algebra/sequences-series.html",
+    "description": "A Rule. A Sequence usually has a Rule, which is a way to find the value of each term. ... So, we want a formula with \"n\" in it (where n is any term number). ... But a sum of an infinite sequence it is called a \"Series\" (it sounds like another name for\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathsisfun.com/algebra/sequences-series.html&sa=U&ved=2ahUKEwj-wbnujL3vAhUTQ0EAHUA1CpgQFjAKegQIBBAB&usg=AOvVaw2WWNyExYihcDR7h5nSB5x6",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Electrical/Electronic - Series Circuitswww.swtc.edu \u203a Ag_Power \u203a electrical \u203a lecture \u203a se...",
+    "link": "https://www.swtc.edu/Ag_Power/electrical/lecture/series_circuits.htm",
+    "description": "UNDERSTANDING & CALCULATING SERIES CIRCUITS BASIC RULES \u00b7 \"1. The same current flows through each part of a series circuit.\" \u00b7 \"2. The total resistance\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.swtc.edu/Ag_Power/electrical/lecture/series_circuits.htm&sa=U&ved=2ahUKEwj-wbnujL3vAhUTQ0EAHUA1CpgQFjARegQIChAB&usg=AOvVaw2buOdQ8KB0eaf7Um6cQ017",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Sequences - Wolfram|Alpha Exampleswww.wolframalpha.com \u203a discrete-mathematics \u203a se...",
+    "link": "https://www.wolframalpha.com/examples/mathematics/discrete-mathematics/sequences/",
+    "description": "... calculators. Analyze a sequence and compute a limit, sequence recognition or recurrences. ... Sequences are lists of numbers, oftentimes adhering to a pattern or rule. ... Sum or multiply incompletely specified infinite sequences or series.",
+    "googleLink": "http://www.google.com/url?q=https://www.wolframalpha.com/examples/mathematics/discrete-mathematics/sequences/&sa=U&ved=2ahUKEwj-wbnujL3vAhUTQ0EAHUA1CpgQFjASegQICRAB&usg=AOvVaw2D4zZ7sODc1uStwkAnfcXP",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Sequences and Series | Boundless Algebra - Lumen Learningcourses.lumenlearning.com \u203a chapter \u203a sequences-a...",
+    "link": "https://courses.lumenlearning.com/boundless-algebra/chapter/sequences-and-series/",
+    "description": "So the general rule is: ... Practice finding a formula for the general term of a sequence ... sequence: A set of things next to each other in a set order; a series; general term: A mathematical expression containing variables and constants that,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://courses.lumenlearning.com/boundless-algebra/chapter/sequences-and-series/&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAB6BAgCEAE&usg=AOvVaw1MUOhWAXmfsKDslneGlm9k",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Sequences - Wolfram|Alpha Exampleswww.wolframalpha.com \u203a discrete-mathematics \u203a se...",
+    "link": "https://www.wolframalpha.com/examples/mathematics/discrete-mathematics/sequences/",
+    "description": "... calculators. Analyze a sequence and compute a limit, sequence recognition or recurrences. ... Sequences are lists of numbers, oftentimes adhering to a pattern or rule. ... Sum or multiply incompletely specified infinite sequences or series.",
+    "googleLink": "http://www.google.com/url?q=https://www.wolframalpha.com/examples/mathematics/discrete-mathematics/sequences/&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAF6BAgJEAE&usg=AOvVaw03F8hkGpLFkSHgymnCdg_m",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Arithmetic Sequences and Series - MATHguide.comwww.mathguide.com \u203a lessons \u203a SequenceArithmetic",
+    "link": "http://www.mathguide.com/lessons/SequenceArithmetic.html",
+    "description": "Formulas for the Nth Term: Recursive and Explicit Rules; Finding a Formula for an Arithmetic\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathguide.com/lessons/SequenceArithmetic.html&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAJ6BAgIEAE&usg=AOvVaw1uDGKwDC97XCw8y-_uDmdU",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Geometric Sequences and Series - MATHguide.comwww.mathguide.com \u203a lessons \u203a SequenceGeometric",
+    "link": "http://www.mathguide.com/lessons/SequenceGeometric.html",
+    "description": "As can be seen, the explicit rule is far superior to the recursive rule. Calculating the nth Term.",
+    "googleLink": "http://www.google.com/url?q=http://www.mathguide.com/lessons/SequenceGeometric.html&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAN6BAgHEAE&usg=AOvVaw1Lz2QvaXO4t2sh_SmvgYpp",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Ten Simple Rules - PLOS Collectionscollections.plos.org \u203a collection \u203a ten-simple-rules",
+    "link": "https://collections.plos.org/collection/ten-simple-rules/",
+    "description": "22.04.2020 \u00b7 PLOS Computational Biology Ten simple rules for organizing a webinar series. April 1, 2019 Faisal M. Fadlelmola, Sumir Panji, Azza E. Ahmed,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://collections.plos.org/collection/ten-simple-rules/&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAR6BAgEEAE&usg=AOvVaw3cHiQS1LVXPQ_Djvg1aSU9",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Recording rules | Prometheusprometheus.io \u203a docs \u203a practices \u203a rules",
+    "link": "https://prometheus.io/docs/practices/rules/",
+    "description": "... flexible query language, efficient time series database and modern alerting ... A consistent naming scheme for recording rules makes it easier to interpret ... It also avoids mistakes by making incorrect or meaningless calculations stand out.",
+    "googleLink": "http://www.google.com/url?q=https://prometheus.io/docs/practices/rules/&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAV6BAgDEAE&usg=AOvVaw0ggtOVbFE4Wurq7ttM9Szh",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Order of Operationswww.montereyinstitute.org \u203a U01_L5_T2_text_final",
+    "link": "http://www.montereyinstitute.org/courses/DevelopmentalMath/COURSE_TEXT_RESOURCE/U01_L5_T2_text_final.html",
+    "description": "People need a common set of rules for performing computation. ... The order in which you compute multiplication and division is determined by which one comes\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.montereyinstitute.org/courses/DevelopmentalMath/COURSE_TEXT_RESOURCE/U01_L5_T2_text_final.html&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAZ6BAgGEAE&usg=AOvVaw2BL7M9YVg09nYxMpMj1Sws",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Time Series Model - Azure Time Series Insights Gen2 | Microsoft Docsdocs.microsoft.com \u203a ... \u203a Time Series Insights",
+    "link": "https://docs.microsoft.com/en-us/azure/time-series-insights/concepts-model-overview",
+    "description": "22.01.2021 \u00b7 Time Series Model types can have many variables that specify formula and computation rules on events. Read more about how to define Time\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/en-us/azure/time-series-insights/concepts-model-overview&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAd6BAgFEAE&usg=AOvVaw0WtM5xllMzj63aFJ_HL6JD",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Department Advisory 01-19 Guidelines on the Computation of ...www.dole.gov.ph \u203a news \u203a da-01-19-guidelines-on-...",
+    "link": "https://www.dole.gov.ph/news/da-01-19-guidelines-on-the-computation-of-salary-differential-of-female-workers-during-her-maternity-leave-and-its-criteria-for-exemption-pursuant-to-republic-act-no-11210-and-its-implementing-rules/",
+    "description": "09.07.2019 \u00b7 11210 and its Implementing Rules and Regulations. You are here: Home \u203a; \u203a; Department Advisory 01-19 Guidelines\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dole.gov.ph/news/da-01-19-guidelines-on-the-computation-of-salary-differential-of-female-workers-during-her-maternity-leave-and-its-criteria-for-exemption-pursuant-to-republic-act-no-11210-and-its-implementing-rules/&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAh6BAgBEAE&usg=AOvVaw2r5xnHPkDnzaj2D3UlnE4r",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] De minimis & Direct Product Rules - BIS.doc.govwww.bis.doc.gov \u203a index.php \u203a documents \u203a licensing-forms \u203a file",
+    "link": "https://www.bis.doc.gov/index.php/documents/licensing-forms/1408-condensed-pdf-presentation-slides-16-dec-2015pm/file",
+    "description": "\u201c600 series\u201d/9x515/see-through carve out items ... When calculating controlled content for de minimis ... The \u201c600 series\u201c and 9x515 de minimis rule \u2013 items.",
+    "googleLink": "http://www.google.com/url?q=https://www.bis.doc.gov/index.php/documents/licensing-forms/1408-condensed-pdf-presentation-slides-16-dec-2015pm/file&sa=U&ved=2ahUKEwi-9tXvjL3vAhXP9nMBHREGBPs4ChAWMAl6BAgAEAE&usg=AOvVaw1h-83Zg3IMUUtkxjuAgyjF",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "11620. Computation of Interest | FINRA.orgwww.finra.org \u203a rulebooks \u203a finra-rules",
+    "link": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/11620",
+    "description": "Computation of Interest. The Rule Notices Guidance News Releases FAQs. (a) Interest\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.finra.org/rules-guidance/rulebooks/finra-rules/11620&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAB6BAgEEAE&usg=AOvVaw2T_hJHBQ79CtRRfJcAqaqD",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "10.3: Resistors in Series and Parallel - Physics LibreTextsphys.libretexts.org \u203a ... \u203a 10: Direct-Current Circuits",
+    "link": "https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/Book%3A_University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/10%3A_Direct-Current_Circuits/10.03%3A_Resistors_in_Series_and_Parallel",
+    "description": "05.11.2020 \u00b7 In a series circuit, the output current of the first resistor flows into the ... This equation is referred to as Kirchhoff's junction rule and will be ... (Note that in these calculations, each intermediate answer is shown with an extra digit.).",
+    "googleLink": "http://www.google.com/url?q=https://phys.libretexts.org/Bookshelves/University_Physics/Book%253A_University_Physics_(OpenStax)/Book%253A_University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/10%253A_Direct-Current_Circuits/10.03%253A_Resistors_in_Series_and_Parallel&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAF6BAgIEAE&usg=AOvVaw3dmma0ebEgTKqO-MdLNyvl",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Theoretical Computer Science Cheat Sheet Definitions Series f(n ...www.tug.org \u203a texshowcase \u203a cheat",
+    "link": "https://www.tug.org/texshowcase/cheat.pdf",
+    "description": "Theoretical Computer Science Cheat Sheet. Definitions. Series f(n) = O(g(n)) ... Change of base, quadratic formula: ... ing rules: For a non-repeated factor: N(x).",
+    "googleLink": "http://www.google.com/url?q=https://www.tug.org/texshowcase/cheat.pdf&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAJ6BAgJEAE&usg=AOvVaw2PJAfcSKKAzXXOLcHOFJ8Z",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Number Series Tips and Tricks \u25b7 Plus Example Questions ...www.jobtestprep.co.uk \u203a number-series-test",
+    "link": "https://www.jobtestprep.co.uk/number-series-test",
+    "description": "Number series aptitude questions present you with mathematical sequences that ... A combination of two alternating series; A logical rule that hides in the ... Sometimes you do not need to use full calculations to determine the correct answer.",
+    "googleLink": "http://www.google.com/url?q=https://www.jobtestprep.co.uk/number-series-test&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAN6BAgHEAE&usg=AOvVaw2nxviYOGNj_OXnRlJFw91n",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "System Reliability and Availability Calculation - EventHelix.comwww.eventhelix.com \u203a FaultHandling \u203a system_relia...",
+    "link": "https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm",
+    "description": "System Availability is calculated by modeling the system as an interconnection of parts in series and parallel. The following rules are used to decide if components\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAR6BAgFEAE&usg=AOvVaw3gSD0ERTFbWjfzQFV_qakM",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Capacitors in Series and Series Capacitor Circuitswww.electronics-tutorials.ws \u203a capacitor \u203a cap_7",
+    "link": "https://www.electronics-tutorials.ws/capacitor/cap_7.html",
+    "description": "This reciprocal method of calculation can be used for calculating any number of individual capacitors connected together in a single series network. If however\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.electronics-tutorials.ws/capacitor/cap_7.html&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAV6BAgGEAE&usg=AOvVaw3aEtD44LK6Jc9sQ8bF1tPb",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Computation on Arrays: Broadcasting | Python Data Science ...jakevdp.github.io \u203a PythonDataScienceHandbook",
+    "link": "https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html",
+    "description": "Broadcasting is simply a set of rules for applying binary ufuncs (e.g., addition, subtraction, multiplication, etc.) on arrays of different sizes. Introducing Broadcasting\u00b6.",
+    "googleLink": "http://www.google.com/url?q=https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAZ6BAgCEAE&usg=AOvVaw39gXrpdem5ZPzw-DjOJVQd",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] IIROC Rules - Cleanwww.iiroc.ca \u203a PPLRuleBook \u203a IIROC_Rule_Book_clean_en",
+    "link": "https://www.iiroc.ca/Rulebook/PPLRuleBook/IIROC_Rule_Book_clean_en.pdf",
+    "description": "01.09.2020 \u00b7 Series 4000 Dealer Member Financial and Operational Rules ... when calculating client net equity for the purposes of determining minimum. 49\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.iiroc.ca/Rulebook/PPLRuleBook/IIROC_Rule_Book_clean_en.pdf&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAd6BAgAEAE&usg=AOvVaw0XpbQ8YPkVRupujdTD5H5x",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "(PDF) Numerical Quadrature and Nonlinear Sequence ...www.researchgate.net \u203a ... \u203a Transformation",
+    "link": "https://www.researchgate.net/publication/266543160_Numerical_Quadrature_and_Nonlinear_Sequence_Transformations_Unified_Rules_for_Efficient_Computation_of_Integrals_with_Algebraic_and_Logarithmic_Endpoint_Singularities",
+    "description": "... Nonlinear Sequence Transformations; Unified Rules for Efficient Computation of ... for some power series with finite radius of convergence (1.5) and (1.6) hold.",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/266543160_Numerical_Quadrature_and_Nonlinear_Sequence_Transformations_Unified_Rules_for_Efficient_Computation_of_Integrals_with_Algebraic_and_Logarithmic_Endpoint_Singularities&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAh6BAgBEAE&usg=AOvVaw0Us1Jhe7hCQgHaqXzh3xHz",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Electronics Components: Capacitors in Parallel and Series - dummieswww.dummies.com \u203a programming \u203a electronics-co...",
+    "link": "https://www.dummies.com/programming/electronics/components/electronics-components-capacitors-in-parallel-and-series/",
+    "description": "Calculating the total capacitance of two or more capacitors in parallel is simple: Just add up the individual capacitor values to get the total capacitance. This rule\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dummies.com/programming/electronics/components/electronics-components-capacitors-in-parallel-and-series/&sa=U&ved=2ahUKEwjAl6PwjL3vAhW04HMBHYg3B_w4FBAWMAl6BAgDEAE&usg=AOvVaw3cZAblSB4zMo6xKPOtNkmL",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Oct 3 | Etienne Turpin | Computation Rules Everything Around Meact.mit.edu \u203a ... \u203a lectures series \u203a fall 2016",
+    "link": "http://act.mit.edu/projects-and-events/lectures-series/fall-2016/etienne-turpin/",
+    "description": "ACT's fall 2016 lecture series is conceived by Gediminas Urbonas, ACT director, and developed and coordinated by Ashley Rizzo Moss, ACT Senior\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://act.mit.edu/projects-and-events/lectures-series/fall-2016/etienne-turpin/&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhAWMAB6BAgCEAE&usg=AOvVaw1m5dLtn4R-r-CaQFzs1_0t",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Infinite Geometric Series - Varsity Tutorswww.varsitytutors.com \u203a hotmath_help \u203a topics \u203a in...",
+    "link": "https://www.varsitytutors.com/hotmath/hotmath_help/topics/infinite-geometric-series",
+    "description": "The sum S of an infinite geometric series with \u22121<r<1 is given by the formula,. S\u200b=a11\u2212r. An infinite series that has a sum is called a convergent series and the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.varsitytutors.com/hotmath/hotmath_help/topics/infinite-geometric-series&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhAWMAF6BAgFEAE&usg=AOvVaw2DJvV6WgtapocPsJpj7fX9",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Arithmetic series formula (video) | Series | Khan Academywww.khanacademy.org \u203a ... \u203a Arithmetic series",
+    "link": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:series/x9e81a4f98389efdf:arith-series/v/formula-for-arithmetic-series",
+    "description": "20.06.2015 \u00b7 The sum of the first n terms in an arithmetic sequence is (n/2)\u22c5(a\u2081+a\u2099). It is called the arithmetic ...Dauer: 7:46\nGepostet: 20.06.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:series/x9e81a4f98389efdf:arith-series/v/formula-for-arithmetic-series&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhC3AjACegQICRAB&usg=AOvVaw3rV6JEM8t3RJbi01NjL9Fh",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "ILLC Dissertations (DS) Series | Institute for Logic, Language and ...www.illc.uva.nl \u203a Research \u203a Publications \u203a Dissertat...",
+    "link": "https://www.illc.uva.nl/Research/Publications/Dissertations/DS/",
+    "description": "... the ILLC 'Historical Dissertations' Series is a new initiative meant to make ... ... for functions: Baire classes, Weihrauch degrees, transfinite computations, and ranks ... DS-2001-04: Rosalie Iemhoff Provability Logic and Admissible Rules.",
+    "googleLink": "http://www.google.com/url?q=https://www.illc.uva.nl/Research/Publications/Dissertations/DS/&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhAWMAN6BAgIEAE&usg=AOvVaw32nX0dKATSw7G-uN1Ph3w3",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Section 121-1-6 - Computation of time, W. Va. Code R ... - Casetextcasetext.com \u203a regulation \u203a agency-121-tax-appeals",
+    "link": "https://casetext.com/regulation/west-virginia-administrative-code/agency-121-tax-appeals/title-121-procedural-rule-west-virginia-office-of-tax-appeals/series-121-01-rules-of-practice-and-procedure-before-the-wv-office-of-tax-appeals/section-121-1-6-computation-of-time",
+    "description": "Read Section 121-1-6 - Computation of time, W. Va. ... Series 121-01 - Rules Of Practice And Procedure Before The WV Office Of Tax Appeals ... In computing any period of time prescribed or allowed by these rules or by direction of the office\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://casetext.com/regulation/west-virginia-administrative-code/agency-121-tax-appeals/title-121-procedural-rule-west-virginia-office-of-tax-appeals/series-121-01-rules-of-practice-and-procedure-before-the-wv-office-of-tax-appeals/section-121-1-6-computation-of-time&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhAWMAR6BAgDEAE&usg=AOvVaw3X2uT7ZbJ_xr0lKdAdClfl",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "[PDF] The sum of an infinite series - Mathcentrewww.mathcentre.ac.uk \u203a uploaded \u203a mc-ty-convergence-2009-1",
+    "link": "https://www.mathcentre.ac.uk/resources/uploaded/mc-ty-convergence-2009-1.pdf",
+    "description": "We explain how the partial sums of an infinite series form a new sequence, and that the limit ... write down the sigma sign and the rule for the k-th term. ... If we kept on calculating the partial sums for this series, we would eventually obtain a.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathcentre.ac.uk/resources/uploaded/mc-ty-convergence-2009-1.pdf&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhAWMAV6BAgHEAE&usg=AOvVaw2il4I30aZBfYHZXQh-Dy9Q",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "F1 RULES & REGULATIONS: What's new for 2019? | Formula 1\u00aewww.formula1.com \u203a latest \u203a article.f1-rules-and-re...",
+    "link": "https://www.formula1.com/en/latest/article.f1-rules-and-regulations-what%27s-new-for-2019.2DIt7TEs9YqI8IY6mEcwsM.html",
+    "description": "09.01.2019 \u00b7 Here's our round-up of what you need to know about the new season's regulations\u2026 NEW FRONT WING. What's the change: A wider, higher \u2013\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.formula1.com/en/latest/article.f1-rules-and-regulations-what%2527s-new-for-2019.2DIt7TEs9YqI8IY6mEcwsM.html&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhAWMAZ6BAgAEAE&usg=AOvVaw26UTjwmt5E8B7UI6_PWDbf",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Mathematical Series: Formula & Concept - Precalculus Class (Video ...study.com \u203a Courses \u203a Math Courses",
+    "link": "https://study.com/academy/lesson/mathematical-series-formula-lesson-quiz.html",
+    "description": "28.08.2020 \u00b7 Definition of a Series. A mathematical series is the sum of a list of numbers that are generating ...Dauer: 3:57\nGepostet: 28.08.2020",
+    "googleLink": "http://www.google.com/url?q=https://study.com/academy/lesson/mathematical-series-formula-lesson-quiz.html&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhC3AjAHegQIBhAB&usg=AOvVaw2xtCiljql16iK1KdvAErJO",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Symbolab taylor serieslmslimdi.org \u203a deionized-automated-stranded \u203a sym...",
+    "link": "http://lmslimdi.org/deionized-automated-stranded/symbolab-taylor-series.html",
+    "description": "Results 1 - 16 of 25 \u00b7 By repeated applications of the chain rule, g(n)(x) = f(n)(x + a), so the Taylor ... Step 1: Compute the (n + 1) Taylor and Maclaurin Series The\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://lmslimdi.org/deionized-automated-stranded/symbolab-taylor-series.html&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhAWMAh6BAgEEAE&usg=AOvVaw25g4DVMFJT_m8OoWZVFCrz",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Unit 10 Section 2 : Finding the Formula for a Linear Sequencewww.cimt.org.uk \u203a projects \u203a mepres \u203a book9",
+    "link": "https://www.cimt.org.uk/projects/mepres/book9/bk9i10/bk9_10i2.html",
+    "description": "we can see easily that the formula that generates our number pattern is ... This approach can be applied to any linear sequence, giving us the general rule that: ... For this series of patterns, write an expression to show the total number of tiles in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cimt.org.uk/projects/mepres/book9/bk9i10/bk9_10i2.html&sa=U&ved=2ahUKEwiB3L_xjL3vAhUM63MBHW67Aoc4HhAWMAl6BAgBEAE&usg=AOvVaw0fCMOXVOgvMk9h1JOCa3dE",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Cleaning metrics in Prometheus after recording rules computation ...stackoverflow.com \u203a questions \u203a cleaning-metrics-in...",
+    "link": "https://stackoverflow.com/questions/58764881/cleaning-metrics-in-prometheus-after-recording-rules-computation",
+    "description": "AFAIK there is no way to do what you want within a single Prometheus instance short of deleting the time series you are no longer interested in.",
+    "googleLink": "http://www.google.com/url?q=https://stackoverflow.com/questions/58764881/cleaning-metrics-in-prometheus-after-recording-rules-computation&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAB6BAgDEAE&usg=AOvVaw10FL4R0gLgIKHIzOM6C1zp",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Quantum Computation and Quantum Informationmmrc.amss.cas.cn \u203a tlb",
+    "link": "http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf",
+    "description": "quantum mechanics, but it contains specific rules not determined by quantum ... provide a useful series of challenges at varied levels of difficulty for people\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAF6BAgHEAE&usg=AOvVaw0xOOT_-fctA0-pHhjvpvPA",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Student Events - Events - Student Events - SAE Internationalwww.sae.org \u203a attend \u203a student-events",
+    "link": "https://www.sae.org/attend/student-events",
+    "description": "... build, test, promote, and compete with a vehicle within the limits of the rules. ... a formula-style electric or plug-in hybrid racecar and compete in a series of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sae.org/attend/student-events&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAJ6BAgIEAE&usg=AOvVaw19KuUwEiCePokAXULBV8Pu",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Guide to Calculation FTSE Global Equity Index Seriesresearch.ftserussell.com \u203a products \u203a downloads \u203a FTSE_Global_Equi...",
+    "link": "https://research.ftserussell.com/products/downloads/FTSE_Global_Equity_Index_Series_Guide_to_Calc.pdf",
+    "description": "FTSE Russell | Guide to Calculation FTSE Global Equity Index Series, v3.2, ... \u201c\u200bFree Float Restrictions\u201d and FTSE Global Equity Index Series Ground Rules,.",
+    "googleLink": "http://www.google.com/url?q=https://research.ftserussell.com/products/downloads/FTSE_Global_Equity_Index_Series_Guide_to_Calc.pdf&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAN6BAgJEAE&usg=AOvVaw2rQ1w_VQWe99Xc8bJjeCJu",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Convergence and Formal Manipulation of Series from the Origins of ...doi.org \u203a ... \u203a List of Issues \u203a Volume 59, Issue 2",
+    "link": "http://doi.org/10.1080%2F00033790010028179",
+    "description": "Although mathematicians used convergent series to solve geometric problems, they manipulated series by a mere extension of the rules valid for finite series,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://doi.org/10.1080%252F00033790010028179&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAR6BAgBEAE&usg=AOvVaw2OxvWYjZjCQcoDCTChstT9",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Simplification Rules for Constrained Formula Tableaux | SpringerLinklink.springer.com \u203a chapter",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-540-45206-5_8",
+    "description": "Several variants of a first-order simplification rule for non-normal form ... Part of the Lecture Notes in Computer Science book series (LNCS, volume 2796)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/chapter/10.1007/978-3-540-45206-5_8&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAV6BAgCEAE&usg=AOvVaw1Cr3r-HM2hh3qFm9zH1dcx",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Index methodology - MSCIwww.msci.com \u203a ... \u203a Indexes \u203a Index Resources",
+    "link": "https://www.msci.com/index-methodology",
+    "description": "... documents. Below are the key methodology documents which explain our rules and guidelines: ... MSCI Index Calculation Methodology. Mar 04, 2021.",
+    "googleLink": "http://www.google.com/url?q=https://www.msci.com/index-methodology&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAZ6BAgAEAE&usg=AOvVaw3LJCd6mpBC30dbYsY-Qbsw",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "What is Algorithm | IGI Globalwww.igi-global.com \u203a dictionary \u203a algorithms-aided...",
+    "link": "https://www.igi-global.com/dictionary/algorithms-aided-sustainable-urban-design/988",
+    "description": "Definition of Algorithm: A set of rules that precisely defines a sequence of operations for ... It starts from an initial input of instructions that describe a computation that ... A method that conducts a series of specified functions to solve a problem.",
+    "googleLink": "http://www.google.com/url?q=https://www.igi-global.com/dictionary/algorithms-aided-sustainable-urban-design/988&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAd6BAgGEAE&usg=AOvVaw36t4pUL8TP0N01ixUk_x1A",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Mining quantitative association rules based on evolutionary ...dl.acm.org \u203a citation",
+    "link": "https://dl.acm.org/citation.cfm?id=1839616",
+    "description": "Mining quantitative association rules based on evolutionary computation and its ... Furthermore, rules from real-world time series such as temperature, humidity,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dl.acm.org/citation.cfm%3Fid%3D1839616&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAh6BAgEEAE&usg=AOvVaw02plR0HXn7v6j6Zkq-Ei6r",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "PEMDAS Rule - ChiliMathwww.chilimath.com \u203a Lessons \u203a Introductory Algebra",
+    "link": "https://www.chilimath.com/lessons/introductory-algebra/pemdas-rule/",
+    "description": "The PEMDAS Rule (an acronym for \u201cPlease Excuse My Dear Aunt Sally\u201d) is a set of rules that prioritize the order of calculations, that is, which operation to perform\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.chilimath.com/lessons/introductory-algebra/pemdas-rule/&sa=U&ved=2ahUKEwjczfXyjL3vAhXEX3wKHXPnC5w4KBAWMAl6BAgFEAE&usg=AOvVaw3ItI91efkilQ761jO_LOm8",
+    "page": 4,
+    "index": 9
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "name": "",
+    "link": "https://de.wikipedia.org/wiki/Untervektorraum?sa=X&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQ9QF6BAgKEAI",
+    "description": "Jeder Untervektorraum ist das Erzeugnis einer linear unabh\u00e4ngigen Teilmenge von Vektoren des Ausgangsraums. Die Summe und der Durchschnitt zweier Untervektorr\u00e4ume ergibt wieder einen Untervektorraum, dessen Dimension \u00fcber die Dimensionsformel ermittelt werden kann.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Vektorraum: Summe von Unterr\u00e4umen \u2013 Serlo \u201eMathe f\u00fcr Nicht ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Vektorraum:_Summe_...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Vektorraum:_Summe_von_Unterr%C3%A4umen",
+    "description": "... Summe explizit anzugeben, beziehungsweise zu pr\u00fcfen, ob ein gegebenes Element aus unserem Vektorraum in der Summe zweier Unterr\u00e4ume enthalten ist\u200b.\nNotation \u00b7 Motivation \u00b7 Definition und Existenz ... \u00b7 Eigenschaften der Summe",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Vektorraum:_Summe_von_Unterr%25C3%25A4umen&sa=U&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQFjADegQIAxAB&usg=AOvVaw3aljpsoWluPGoptW23d0F2",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Mathe f\u00fcr Nicht-Freaks: Vektorraum: Direkte Summe \u2013 Wikibooks ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Vektorraum:_Direkte_...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Vektorraum:_Direkte_Summe",
+    "description": "Direkte Summe von Vektorr\u00e4umenBearbeiten. Seien U 1 ; U 2 {\\displaystyle U_{1\u200b};\\,U_{2}}. {\\displaystyle U_{1};\\,U_{2}}. Unterr\u00e4ume des K-Vektorraums U\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Vektorraum:_Direkte_Summe&sa=U&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQFjAEegQICBAB&usg=AOvVaw1me4_XQ-2QaioNlNdwAerP",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Direkte Summe \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Direkte_Summe",
+    "link": "https://de.wikipedia.org/wiki/Direkte_Summe",
+    "description": "(bis auf die Reihenfolge) eindeutig als Summe endlich vieler Elemente der Untervektorr\u00e4ume, wobei aus jedem Untervektorraum h\u00f6chstens ein Element und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Direkte_Summe&sa=U&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQFjAFegQIBRAB&usg=AOvVaw0Nq4Lq17Vmx4xN8xaLQf_z",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Summe von Untervektorr\u00e4umen ist ein Untervektorraum - Beweis ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=NSc39PQ4Syk",
+    "description": "04.07.2016 \u00b7 Die Summe von zwei Untervektorr\u00e4umen eines Vektorraumes \u00fcber einem K\u00f6rper ist ein ...Dauer: 7:13\nGepostet: 04.07.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DNSc39PQ4Syk&sa=U&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQtwIwBnoECAsQAQ&usg=AOvVaw3Ok5IiVSd2NxMC9hRIitEb",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Unterr\u00e4ume (im R\u00b2, R\u00b3) - Einf\u00fchrung in die Lineare Algebra - Lernpfadwww.mathe-online.at \u203a lernpfade \u203a lin_alg_glatz",
+    "link": "https://www.mathe-online.at/lernpfade/lin_alg_glatz/?navig=l&kapitel=3",
+    "description": "Weiters darf kein Unterraum nur aus dem Nullvektor bestehen! Gib ein Beispiel mit drei Unterr\u00e4umen des R\u00b3 , sodass sie tats\u00e4chlich eine direkte Summe bilden!",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-online.at/lernpfade/lin_alg_glatz/%3Fnavig%3Dl%26kapitel%3D3&sa=U&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQFjAHegQIBhAB&usg=AOvVaw0OuIN62zMzSAnO4u1tNUAs",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "[PDF] (Direkte) Summen von Vektorr\u00e4umenwww.math.uni-bremen.de \u203a Lehrveranstaltungen \u203a LinA1_WS05 \u203a D...",
+    "link": "http://www.math.uni-bremen.de/~michaelh/Lehrveranstaltungen/LinA1_WS05/Direkte_Summen.pdf",
+    "description": "Man geht zun\u00e4chst aus von einem K-Vektorraum V und Unterr\u00e4umen U ,W \u2282V ... dann von einer direkten Summe und benutzt die Schreibweise U \u2295W . Ist die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uni-bremen.de/~michaelh/Lehrveranstaltungen/LinA1_WS05/Direkte_Summen.pdf&sa=U&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQFjAIegQIABAB&usg=AOvVaw0CB68gmmCGA-Cly3kPCwqa",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Summen und direkte Summen - Mathematics TU Grazwww.math.tugraz.at \u203a ~ganster \u203a lv_lineare_algebra \u203a 06_summen_u...",
+    "link": "https://www.math.tugraz.at/~ganster/lv_lineare_algebra/06_summen_und_direkte_summen.pdf",
+    "description": "Die Bildung der (direkten) Summe von beliebig vielen Unterr\u00e4umen verl\u00e4uft in direkter Analogie zu vorher und sei kurz skizziert. Sei V ein K-Vektorraum und Wi\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tugraz.at/~ganster/lv_lineare_algebra/06_summen_und_direkte_summen.pdf&sa=U&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQFjAJegQICRAB&usg=AOvVaw1ztFOBnPkSSe86iOja-c1g",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Schnitt und Summe von UVR | MassMaticswww.massmatics.de \u203a merkzettel",
+    "link": "https://www.massmatics.de/merkzettel/#!356:Schnitt_und_Summe_von_UVR",
+    "description": "Schnitt und Summe von UVR. Warnung. Dieses Thema ist ziemlich komplex und es gibt zig Herangehensweisen, solche Aufgaben schnell und \u201cmit Auge\u201d zu\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.massmatics.de/merkzettel/%23!356:Schnitt_und_Summe_von_UVR&sa=U&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQFjAOegQIBxAB&usg=AOvVaw0dIfTjtgZ_dy1M1cwB-9OT",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Lineare Algebra II - Universit\u00e4t Bayreuthwww.mathe2.uni-bayreuth.de \u203a Skript-LineareAlgebraII-pub-screen",
+    "link": "http://www.mathe2.uni-bayreuth.de/stoll/teaching/LineareAlgebraII-SS2012/Skript-LineareAlgebraII-pub-screen.pdf",
+    "description": "\u00a8Aquivalenzrelationen, Quotientenr\u00e4ume und affine Unterr\u00e4ume. 40. 23. ... vektorraum von V die Summe der Untervektorr\u00e4ume Ui; wir schreiben. \u2211 i\u2208I. Ui = \u3008\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathe2.uni-bayreuth.de/stoll/teaching/LineareAlgebraII-SS2012/Skript-LineareAlgebraII-pub-screen.pdf&sa=U&ved=2ahUKEwj5zbyYgr3vAhUjwzgGHYYdDksQFjAPegQIBBAB&usg=AOvVaw0oEWyEMZtTFj_Jg_8rlYSs",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Basen von Schnitt und Summe berechnenwww.math.kit.edu \u203a iag2 \u203a lehre \u203a media \u203a schnittsumme",
+    "link": "https://www.math.kit.edu/iag2/lehre/la1inf2011w/media/schnittsumme.pdf",
+    "description": "Voraussetzung. Es seien U1,U2 Untervektorr\u00e4ume von Kn. Wir wollen Basen des Schnittes. U1 \u2229 U2 und der Summe. U1 + U2 bestimmen. 2/8\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.kit.edu/iag2/lehre/la1inf2011w/media/schnittsumme.pdf&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAB6BAgBEAE&usg=AOvVaw1i293_m4OyA-DbGZvodJZz",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Summe zweier Unterr\u00e4ume - OnlineMathe - das mathe-forumwww.onlinemathe.de \u203a forum \u203a Summe-zweier-Unterraeume",
+    "link": "https://www.onlinemathe.de/forum/Summe-zweier-Unterraeume",
+    "description": "25.12.2015 \u00b7 Frohe Weihnachten miteinander, in einer meiner \u00dcbungsserien f\u00fcr Lineare Algebra soll ich bestimmen, wie die Summe von einem Unterraum\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinemathe.de/forum/Summe-zweier-Unterraeume&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAF6BAgJEAE&usg=AOvVaw3KTTOGPEsY5Ns1up8mKXe4",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Basis der Summe von Unterr\u00e4umen bestimmen | Matheloungewww.mathelounge.de \u203a basis-der-summe-von-unterraumen-bestimmen",
+    "link": "https://www.mathelounge.de/686613/basis-der-summe-von-unterraumen-bestimmen",
+    "description": "Die Summe der Unterr\u00e4ume wird von den drei gegebenen. Vektoren v1, v2, v3 erzeugt. Die sind allerdings lin. abh\u00e4ngig, weil z.B.. v1 = 2*v2\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/686613/basis-der-summe-von-unterraumen-bestimmen&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAJ6BAgIEAE&usg=AOvVaw2Vdw-c1osAWqhzNN315_8c",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Kapitel 2 Vektorr\u00e4umewww.math.uni-leipzig.de \u203a ~schueler \u203a linalg \u203a kapitel2",
+    "link": "http://www.math.uni-leipzig.de/~schueler/linalg/kapitel2.pdf",
+    "description": "ein linearer Unterraum von \u00can . Der Beweis folgt aus Satz 1.2, wo gezeigt wird, dass (L) gilt, n\u00e4mlich wenn ... 2.2.2 Summe und direkte Summe von Unterr\u00e4umen\u200b.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uni-leipzig.de/~schueler/linalg/kapitel2.pdf&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAN6BAgHEAE&usg=AOvVaw1Dg6bf3IVrhcj088DsQeTT",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Beziehungen zwischen Vektorr\u00e4umen und ihren ... - TU Berlinwww3.math.tu-berlin.de \u203a LinAlg1 \u203a Materialien \u203a vorlesung22",
+    "link": "https://www3.math.tu-berlin.de/Vorlesungen/SS12/LinAlg1/Materialien/vorlesung22.pdf",
+    "description": "20.06.2012 \u00b7 Unterr\u00e4ume, Summe, Durchschnitt. Lemma. Sei V ein endlichdimensionaler K-\u200bVektorraum und sei U \u2286 V ein. Unterraum. Dann gilt dim(U)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www3.math.tu-berlin.de/Vorlesungen/SS12/LinAlg1/Materialien/vorlesung22.pdf&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAR6BAgCEAE&usg=AOvVaw2yvOL7Yz4yiCIUBN7b4ac0",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Aufgabe 1. Direkte Summe. Sei V ein Vektorraum, und seien U 1 ...www-m10.ma.tum.de \u203a pub \u203a AufgabenDirekteSummeOrthogonalraum",
+    "link": "https://www-m10.ma.tum.de/foswiki/pub/Lehre/SS14/LinAlgAnaGeo2LBSS14/Inhalt/AufgabenDirekteSummeOrthogonalraum.pdf",
+    "description": "Sei also V = U1 \u2295\u00b7\u00b7\u00b7\u2295Ud die direkte Summe der Untervektorr\u00e4ume U1,...,Ud. Dann gibt es f\u00fcr jedes v \u2208 V eindeutige ui \u2208 Ui mit v = u1 + \u00b7\u00b7\u00b7 + ud. Daraus folgt\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www-m10.ma.tum.de/foswiki/pub/Lehre/SS14/LinAlgAnaGeo2LBSS14/Inhalt/AufgabenDirekteSummeOrthogonalraum.pdf&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAV6BAgFEAE&usg=AOvVaw2-S7MvZqgU7JoXj1_pd-bm",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 15. Quotientenr\u00e4ume und Dimensionsformelnwww.mathematik.uni-kl.de \u203a class \u203a gdm-2019 \u203a gdm-2019-c15",
+    "link": "https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c15.pdf",
+    "description": "Definition 15.2 (Direkte Summe von Unterr\u00e4umen). Es seien U1,...,Un Untervektorr\u00e4ume eines. K-Vektorraums V und U = U1 + \u00b7\u00b7\u00b7 +Un. Hat jedes\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c15.pdf&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAZ6BAgAEAE&usg=AOvVaw3BSD7QuASUeUSFJhL98pWb",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Unterr\u00e4ume und Erzeugendensysteme in Mathematik ... - Lernhelferwww.lernhelfer.de \u203a schuelerlexikon \u203a mathematik-abitur \u203a artikel \u203a unterr...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/unterraeume-und-erzeugendensysteme",
+    "description": "Ist eine Teilmenge U eines Vektorraumes (V, +, \u22c5) selbst bez\u00fcglich + und \u22c5 ein Vektorraum, so f\u00fchren die Summenbildung und die skalare Vervielfachung nicht\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/unterraeume-und-erzeugendensysteme&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAd6BAgGEAE&usg=AOvVaw32ehWqDhuLJrxtzIZmXw3g",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Lineare Algebra - Goethe-Universit\u00e4t Frankfurtwww.uni-frankfurt.de \u203a Stix-LineareAlgebra-Skript",
+    "link": "https://www.uni-frankfurt.de/58527609/Stix-LineareAlgebra-Skript.pdf",
+    "description": "Operationen mit Unterr\u00e4umen und Dimension ... (1) Die Addition (Summe) ist definiert durch m +0= m und ... Die Summe zweier Unterr\u00e4ume ist ein Unterraum.",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-frankfurt.de/58527609/Stix-LineareAlgebra-Skript.pdf&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAh6BAgEEAE&usg=AOvVaw0ulcU3E8biiAVUSFo1OsmS",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Mathematik Videos: VI. Gauss-Algorithmus - 6.8.0.1 Berechnung der ...www.onlinetutorium.com \u203a product_info",
+    "link": "https://www.onlinetutorium.com/product_info.php?products_id=803",
+    "description": "Beschreibung des Tutoriums: In diesem Video geben wir eine Anleitung zur Berechnung einer Basis der Summe zweier Untervektorr\u00e4ume. Notwendige\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinetutorium.com/product_info.php%3Fproducts_id%3D803&sa=U&ved=2ahUKEwiCuZeagr3vAhVKxzgGHesdD2w4ChAWMAl6BAgDEAE&usg=AOvVaw2pGqc-XEbxGYQnJWhTEtEy",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Untervektorraum  www.biancahoegel.de \u203a mathe \u203a vektor \u203a untervektorraum",
+    "link": "https://www.biancahoegel.de/mathe/vektor/untervektorraum.html",
+    "description": "Untervektorraum",
+    "googleLink": "http://www.google.com/url?q=https://www.biancahoegel.de/mathe/vektor/untervektorraum.html&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAB6BAgFEAE&usg=AOvVaw1hpKP5zUtuK8UKdVlv8rfO",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] linalg5.pdf  www.mathematik.uni-muenchen.de \u203a ~pareigis \u203a Vorlesungen \u203a linalg5",
+    "link": "http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/98WS/linalg5.pdf",
+    "description": "[PDF] linalg5.pdf",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/98WS/linalg5.pdf&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAF6BAgIEAE&usg=AOvVaw3gm0U23Kl6GM3rmN2FbLLm",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "MP: Unterraum mit direkter Summe finden (Forum Matroids ...  matheplanet.com \u203a Lineare Algebra \u203a Vektorr\u00e4ume",
+    "link": "https://matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=228528",
+    "description": "MP: Unterraum mit direkter Summe finden (Forum Matroids ...",
+    "googleLink": "http://www.google.com/url?q=https://matheplanet.com/matheplanet/nuke/html/viewtopic.php%3Ftopic%3D228528&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAJ6BAgKEAE&usg=AOvVaw2oucKkUS0nn_i2gxwMbxNv",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Unterr\u00e4ume und direkte Summe - - Aufgabenkatalog Algebra  www.staff.uni-mainz.de \u203a fit \u203a auf_1-4-unterraeume_direkte_summe",
+    "link": "https://www.staff.uni-mainz.de/amalevic/files/fit/auf_1-4-unterraeume_direkte_summe.pdf",
+    "description": "[PDF] Unterr\u00e4ume und direkte Summe - - Aufgabenkatalog Algebra",
+    "googleLink": "http://www.google.com/url?q=https://www.staff.uni-mainz.de/amalevic/files/fit/auf_1-4-unterraeume_direkte_summe.pdf&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAN6BAgJEAE&usg=AOvVaw1elYYt2TvomLC2riAW3Nbt",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 2.8 Direkte Summe und Quotientenr\u00e4ume - Mathematik - TU Dortmund  www.mathematik.tu-dortmund.de \u203a ~swagner \u203a LinA1-2.8.pdf",
+    "link": "http://www.mathematik.tu-dortmund.de/~swagner/la1314/LinA1-2.8.pdf",
+    "description": "[PDF] 2.8 Direkte Summe und Quotientenr\u00e4ume - Mathematik - TU Dortmund",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.tu-dortmund.de/~swagner/la1314/LinA1-2.8.pdf&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAR6BAgHEAE&usg=AOvVaw3-x1hWNo2-4bIgA_Z30-AO",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Bonusmaterial Vektorr\u00e4ume \u2013 Schau- pl\u00e4tze der linearen ... - Springer  static.springer.com \u203a sgw \u203a pdf \u203a 978-3-8274-1758-9_Bonus_Kap_15",
+    "link": "http://static.springer.com/sgw/documents/565602/application/pdf/978-3-8274-1758-9_Bonus_Kap_15.pdf",
+    "description": "[PDF] Bonusmaterial Vektorr\u00e4ume \u2013 Schau- pl\u00e4tze der linearen ... - Springer",
+    "googleLink": "http://www.google.com/url?q=http://static.springer.com/sgw/documents/565602/application/pdf/978-3-8274-1758-9_Bonus_Kap_15.pdf&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAV6BAgBEAE&usg=AOvVaw2gEWMzcHVHLLwYAY6n1ztN",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Nachtrag zur allgemeinen Vektorraum-Theorie. 1.5.15. Direkte ...  www.math.uni-bielefeld.de \u203a ~sek \u203a leit1",
+    "link": "https://www.math.uni-bielefeld.de/~sek/la2/leit1.pdf",
+    "description": "[PDF] Nachtrag zur allgemeinen Vektorraum-Theorie. 1.5.15. Direkte ...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-bielefeld.de/~sek/la2/leit1.pdf&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAZ6BAgEEAE&usg=AOvVaw3XL9yF82OtROM0K3i3jfGY",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 3.2 Unterr\u00e4ume  fma2.math.uni-magdeburg.de \u203a laag2010 \u203a skript_kap3_kap4",
+    "link": "http://fma2.math.uni-magdeburg.de/~mathww/laag2010/skript_kap3_kap4.pdf",
+    "description": "[PDF] 3.2 Unterr\u00e4ume",
+    "googleLink": "http://www.google.com/url?q=http://fma2.math.uni-magdeburg.de/~mathww/laag2010/skript_kap3_kap4.pdf&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAd6BAgCEAE&usg=AOvVaw2Oobkn707do7o8Vnt4V_cE",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Direkte Summen - Institut f\u00fcr Mathematik - Universit\u00e4t Rostock  www.mathematik.uni-rostock.de \u203a algebra \u203a aufgaben-zur-linearen-algebra",
+    "link": "https://www.mathematik.uni-rostock.de/struktur/professuren-apl-prof/algebra/aufgaben-zur-linearen-algebra/direkte-summen/",
+    "description": "Direkte Summen - Institut f\u00fcr Mathematik - Universit\u00e4t Rostock",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.uni-rostock.de/struktur/professuren-apl-prof/algebra/aufgaben-zur-linearen-algebra/direkte-summen/&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAh6BAgDEAE&usg=AOvVaw2gxgg_ejlrp1bB13vqYrJl",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Direkte Summe von Teilr\u00e4umen - Mathepedia  mathepedia.de \u203a Direkte_Summe",
+    "link": "https://mathepedia.de/Direkte_Summe.html",
+    "description": "Direkte Summe von Teilr\u00e4umen - Mathepedia",
+    "googleLink": "http://www.google.com/url?q=https://mathepedia.de/Direkte_Summe.html&sa=U&ved=2ahUKEwif9P-dgr3vAhXXzTgGHWLsAGc4FBAWMAl6BAgGEAE&usg=AOvVaw13nxPYa0hkhlivblWvaYn_",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Direkte Summe - Unterr\u00e4ume (2) - Mathe Boardwww.matheboard.de \u203a archive \u203a thread",
+    "link": "https://www.matheboard.de/archive/583281/thread.html",
+    "description": "Meine Frage: Sei K ein Koerper, V ein endlichdimensionaler K-Vektorraum und seien. U1 und U2 V Unterraeume. Zeigen Sie die Aequivalenz\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matheboard.de/archive/583281/thread.html&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAB6BAgFEAE&usg=AOvVaw2HFDec0gFjnWTsxL5U4ptg",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] MLAE2 Mathematik: Lineare Algebra f\u00fcr Ingenieure 2 - Dublindublin.zhaw.ch \u203a ~kirs \u203a MLAE2",
+    "link": "http://dublin.zhaw.ch/~kirs/MLAE2/MLAE2Notes.pdf",
+    "description": "03.06.2016 \u00b7 ein linearer Unterraum (Untervektorraum) von V , falls. 1. 0V \u2208 U, ... Summe U+W f\u00fcr gegebene lineare Unterr\u00e4ume U, W \u2286 V berechnen.",
+    "googleLink": "http://www.google.com/url?q=http://dublin.zhaw.ch/~kirs/MLAE2/MLAE2Notes.pdf&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAF6BAgHEAE&usg=AOvVaw0UFQcfYVcxVsWbwtiv1sWC",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Unterraume und Approximationsaufgabenpnp.mathematik.uni-stuttgart.de \u203a Skripte \u203a Funktionalanalysis \u203a skriptse3",
+    "link": "http://pnp.mathematik.uni-stuttgart.de/iadm/Wirth/Skripte/Funktionalanalysis/skriptse3.xht",
+    "description": "Die direkte Summe abgeschlossener Unterr\u00e4ume mu\u00df selbst nicht abgeschlossen sein. 1.3.3 Beispiel. Um ein Beispiel anzugeben, betrachten wir den Raum L\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://pnp.mathematik.uni-stuttgart.de/iadm/Wirth/Skripte/Funktionalanalysis/skriptse3.xht&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAJ6BAgIEAE&usg=AOvVaw3QRe2Y9IPvgEHZyZsEPn5g",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 2.8 Direkte Summe und Quotientenr\u00e4ume - Mathematik - TU Dortmundwww.mathematik.uni-dortmund.de \u203a sites \u203a files \u203a LinA1-2.8.pdf",
+    "link": "http://www.mathematik.uni-dortmund.de/sites/files/lineare-algebra-fuer-b-sc/LinA1-2.8.pdf",
+    "description": "(4) dim(U1 + U2) = dimU1 + dimU2: Bemerkung. L\u00e4sst sich 2.8.2. auf mehr als zwei Summanden erweitern? Seien. z.B. U1,U2,U3 Untervektorr\u00e4ume des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-dortmund.de/sites/files/lineare-algebra-fuer-b-sc/LinA1-2.8.pdf&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAN6BAgJEAE&usg=AOvVaw3dtjmvOKozpyRbkszYank8",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 4 Vektorr\u00e4umewww2.math.ethz.ch \u203a LA1-Zusammenfassung-20141111_Kapitel4",
+    "link": "https://www2.math.ethz.ch/education/bachelor/lectures/hs2014/math/linalg1/LA1-Zusammenfassung-20141111_Kapitel4.pdf",
+    "description": "11.11.2014 \u00b7 Definition: Ein Unterraum oder Teilraum eines K-Vektorraums V ist eine ... Abk\u00fc: Die Summe endlich vieler Unterr\u00e4ume V1,...,Vn schreibt man\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www2.math.ethz.ch/education/bachelor/lectures/hs2014/math/linalg1/LA1-Zusammenfassung-20141111_Kapitel4.pdf&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAR6BAgEEAE&usg=AOvVaw2bKjZ8us7uoUquzBHQEGEc",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Seien Ui Unterr\u00e4ume eines K-VR. Was ist die Summe der U ...www.repetico.de \u203a card-76431543",
+    "link": "https://www.repetico.de/card-76431543",
+    "description": "23.12.2018 \u00b7 Die Summe aller Ui ist eine Menge in der alle Summen der Elemente aller Ui liegen.Also: \u2211i\u2208IUi = {\u2211i\u2208I\ufeffui: dabei ui = 0 f\u00fcr fast alle i...",
+    "googleLink": "http://www.google.com/url?q=https://www.repetico.de/card-76431543&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAV6BAgDEAE&usg=AOvVaw0xme5D1_MHs28J8S-vnQ91",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "\u00dcbungsaufgaben (Vektorraumtheorie) - LPlp.uni-goettingen.de \u203a get \u203a text",
+    "link": "https://lp.uni-goettingen.de/get/text/2337",
+    "description": "L\u00f6sung anzeigen. Aufgabe Direkte Summe von Untervektorr\u00e4umen. Seien U_1,\\\u200bdots,U_n Untervektorr\u00e4ume eines K -Vektorraums V . Dann ist auch. U := U_1 +\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://lp.uni-goettingen.de/get/text/2337&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAZ6BAgCEAE&usg=AOvVaw2Kw6JEIFmiZOZn4XXmCcCr",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Abschnitt 5reh.math.uni-duesseldorf.de \u203a ~internet \u203a LA_I_Skript_Abschnitt_05",
+    "link": "http://reh.math.uni-duesseldorf.de/~internet/LAI_WS1718/LA_I_Skript_Abschnitt_05.pdf",
+    "description": "Die summe Erze u ist wie derrum en Unterrin vor v... wichtigster Sherial fall: Der Durchschnitt. Uinu und die Summe Untuz zweier Unterr\u00e4ume . ist jeweils wieder\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://reh.math.uni-duesseldorf.de/~internet/LAI_WS1718/LA_I_Skript_Abschnitt_05.pdf&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAd6BAgBEAE&usg=AOvVaw26FNGTqs_UTYcOULXP-KY9",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] \u00a723. Die Jordan'sche Normalformmath-www.uni-paderborn.de \u203a ~chris \u203a Index27",
+    "link": "http://math-www.uni-paderborn.de/~chris/Index27/V/par23a.pdf",
+    "description": "f\u2013invariante Untervektorr\u00e4ume von V mit dimK(Ui) = ni und Basen Bi \u2286 Ui (i = 1,...\u200b,s). Ist dann V die direkte Summe der Untervektorr\u00e4ume Ui, so ist B := s. J i=1.",
+    "googleLink": "http://www.google.com/url?q=http://math-www.uni-paderborn.de/~chris/Index27/V/par23a.pdf&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAh6BAgAEAE&usg=AOvVaw2shPmEyt1EbC3qPw_mJjQx",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "HM IIwww.mathematik.uni-ulm.de \u203a ReineMath \u203a Mathe-Online \u203a kurse",
+    "link": "http://www.mathematik.uni-ulm.de/ReineMath/Mathe-Online/kurse/hm2/01-la/02/r/index.html",
+    "description": "sind stets Unterr\u00e4ume eines Vektorraums $ \\mbox{$V$}$ . Der Durchschnitt von ... Die Summe der Unterr\u00e4ume $ \\mbox{$U_1,\\ldots, U_m$}$ ist definiert als.",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-ulm.de/ReineMath/Mathe-Online/kurse/hm2/01-la/02/r/index.html&sa=U&ved=2ahUKEwj0n-Wegr3vAhVF4zgGHb8FAaE4HhAWMAl6BAgGEAE&usg=AOvVaw1XM10QPnBjaPUiTcZBkDlQ",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Unterr\u00e4ume und lineare Abbildungenwww2.iazd.uni-hannover.de \u203a ~erne \u203a lina1 \u203a dateien \u203a lineare_Abb",
+    "link": "http://www2.iazd.uni-hannover.de/~erne/lina1/dateien/lineare%20Abb/lineare_Abb.html",
+    "description": "Die Summe und jedes Vielfache solcher Funktionen ist n\u00e4mlich wieder vom gleichen Typ (Superposition!) [Maple Plot]. Sinus und Cosinus als Basisfunktionen. [\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www2.iazd.uni-hannover.de/~erne/lina1/dateien/lineare%2520Abb/lineare_Abb.html&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAB6BAgEEAE&usg=AOvVaw1kyN9pffiF9OBNSRHu4Qy6",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Theorie der Vektorr\u00e4umewww2.iazd.uni-hannover.de \u203a ~erne \u203a lina1 \u203a dateien \u203a linAlg3",
+    "link": "http://www2.iazd.uni-hannover.de/~erne/lina1/dateien/linAlg3.pdf",
+    "description": "Unterraum, Linearkombination, lineare H\u00fclle, Erzeugendensystem, linear (un)\u200babh\u00e4ngig ... Ist ein Vektorraum V direkte Summe zweier Unterr\u00e4ume U und W, d.h..",
+    "googleLink": "http://www.google.com/url?q=http://www2.iazd.uni-hannover.de/~erne/lina1/dateien/linAlg3.pdf&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAF6BAgJEAE&usg=AOvVaw2hgs9hXXJY4zYYPky_aMBD",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Basen von Schnitt und Summe berechnen - PDF Free Downloaddocplayer.org \u203a 30787542-Basen-von-schnitt-und-summe-berechnen",
+    "link": "https://docplayer.org/30787542-Basen-von-schnitt-und-summe-berechnen.html",
+    "description": "... Summe berechnen 1 / 8 Voraussetzung Es seien U 1, U 2 Untervektorr\u00e4ume von K n. Wir wollen Basen des Schnittes U 1 U 2 und der Summe bestimmen.",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/30787542-Basen-von-schnitt-und-summe-berechnen.html&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAJ6BAgIEAE&usg=AOvVaw0K3Z3CaSKN17-Xe8Fzgluc",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 1 Erg\u00e4nzungen zur Linearen Algebra - Uni Kielwww.uni-kiel.de \u203a psychologie \u203a andres \u203a multi13 \u203a lae",
+    "link": "http://www.uni-kiel.de/psychologie/andres/multi13/lae.pdf",
+    "description": "Als erstes Erg\u00e4nzungen zu Summen von Unterr\u00e4umen. Sind V1, ..., Vk Unterr\u00e4ume des Rn, so soll die Menge. {x1 + ... + xk | xi \u2208 Vi} auch Summe der Vi hei\u00dfen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.uni-kiel.de/psychologie/andres/multi13/lae.pdf&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAN6BAgHEAE&usg=AOvVaw3LKDMWwgxod67JOSqAWjgg",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Linearer Unterraum erkl\u00e4rt inkl. \u00dcbungen - Sofatutorwww.sofatutor.com \u203a mathematik \u203a videos \u203a linearer-unterraum",
+    "link": "https://www.sofatutor.com/mathematik/videos/linearer-unterraum",
+    "description": "Bewertung  5,0  (3)",
+    "googleLink": "http://www.google.com/url?q=https://www.sofatutor.com/mathematik/videos/linearer-unterraum&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAR6BAgFEAE&usg=AOvVaw1ucixdpxJYVVG6TYq3oC0E",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Lineare Algebra und Analytische Geometriewww.math.hu-berlin.de \u203a ~kramer \u203a laag-scr",
+    "link": "https://www.math.hu-berlin.de/~kramer/laag-scr.pdf",
+    "description": "Eine nichtleere Teilmenge U \u2286 V hei\u00dft ein linearer Unterraum oder Teilraum ... Es seien U1,U2 Unterr\u00e4ume von V . Dann ist ihre Summe U1 + U2 ebenfalls ein.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.hu-berlin.de/~kramer/laag-scr.pdf&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAV6BAgCEAE&usg=AOvVaw0KbA8rebjJk0NI0NGIVFyp",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Direkte Summe 2er Unterr\u00e4umede.sci.mathematik.narkive.com \u203a direkte-summe-2er-unterraume",
+    "link": "https://de.sci.mathematik.narkive.com/mi8zeUz3/direkte-summe-2er-unterraume",
+    "description": "auf IR. Wir betrachten die Unterr\u00e4ume V_0 und V_1 der geraden bzw. ungeraden ... (1) V_0 + V_1 = V: jede Funktion l\u00e4sst sich als Summe einer geraden und",
+    "googleLink": "http://www.google.com/url?q=https://de.sci.mathematik.narkive.com/mi8zeUz3/direkte-summe-2er-unterraume&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAZ6BAgAEAE&usg=AOvVaw1qpr_rfoun9a5HvcnJEqVJ",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Affine Geometrie (Einfachere, konstruktive Version)www.minet.uni-jena.de \u203a ~matveev \u203a Lehre \u203a vorlesung6_ausdruck",
+    "link": "http://www.minet.uni-jena.de/~matveev/Lehre/LA10/vorlesung6_ausdruck.pdf",
+    "description": "Beweis des Lemmas: Z.z.: U := {x \u2208 Kn | Ax = b} ist ein affiner. Unterraum \u00fcber KernA. Sei x0 \u2208 U. Z.z.: (i) Jedes x \u2208 U ist die Summe x0 + v, wobei v \u2208 KernA.",
+    "googleLink": "http://www.google.com/url?q=http://www.minet.uni-jena.de/~matveev/Lehre/LA10/vorlesung6_ausdruck.pdf&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAd6BAgGEAE&usg=AOvVaw0xhWOE6wF8b_NE1yhub3eu",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "invarianter Unterraum - Lexikon der Mathematikwww.spektrum.de \u203a Lexika \u203a Lexikon der Mathematik",
+    "link": "https://www.spektrum.de/lexikon/mathematik/invarianter-unterraum/7094",
+    "description": "Der Durchschnitt F-invarianter Unterr\u00e4ume eines Vektorraumes V ist wieder ein F\u200b-invarianter Unterraum von V, ebenso die Summe endlich vieler F-invarianter\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.spektrum.de/lexikon/mathematik/invarianter-unterraum/7094&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAh6BAgBEAE&usg=AOvVaw1Lv5aoG1r_MiZQWP-V5tqq",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Mathematik f\u00fcr Physiker 2 - Herzlich willkommen auf der Website ...www.math.uni-tuebingen.de \u203a download \u203a LectureNotes \u203a mfph2",
+    "link": "http://www.math.uni-tuebingen.de/~keilen/download/LectureNotes/mfph2.pdf",
+    "description": "Die Summe zweier Unterr\u00e4ume ersetzt ihre Vereinigung in der Theorie der. Vektorr\u00e4ume. Sie ist der kleinste Unterraum, der beide enth\u00e4lt. Im Beispiel.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uni-tuebingen.de/~keilen/download/LectureNotes/mfph2.pdf&sa=U&ved=2ahUKEwi2wtqfgr3vAhUVxzgGHRvcAgo4KBAWMAl6BAgDEAE&usg=AOvVaw2r1fj6FXE3HYiK4kM0iCX0",
+    "page": 4,
+    "index": 9
+  }
+]

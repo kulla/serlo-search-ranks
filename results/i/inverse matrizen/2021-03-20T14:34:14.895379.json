@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Inverse Matrix berechnen nach Gau\u00df-Jordan - Mathebibel.dewww.mathebibel.de \u203a ... \u203a Algebra \u203a Matrizenrechnung",
+    "link": "https://www.mathebibel.de/inverse-matrix-berechnen-nach-gauss-jordan",
+    "description": "Inverse Matrix berechnen (Gau\u00df-Jordan-Algorithmus) einfach erkl\u00e4rt \u2713 Aufgaben mit L\u00f6sungen ...",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Inverse Matrix \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Inverse_Matrix",
+    "link": "https://de.wikipedia.org/wiki/Inverse_Matrix",
+    "description": "Die inverse Matrix, Kehrmatrix oder kurz Inverse einer quadratischen Matrix ist in der Mathematik eine ebenfalls quadratische Matrix, die mit der Ausgangsmatrix\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Inverse Matrix \u2014 Matrizenrechnung | abiturmaabiturma.de \u203a ... \u203a Matrizenrechnung \u203a Inverse Matrix",
+    "link": "https://abiturma.de/mathe-lernen/geometrie/matrizenrechnung/inverse-matrix",
+    "description": "20.02.2018 \u2014 Inverse einer Matrix und Einheitsmatrix. Sei A Mathe-Abitur eine quadratische Matrix. Eine Matrix B Mathe-Abitur hei\u00dft\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Inverse Matrix berechnen \u2022 einfach erkl\u00e4rt \u00b7 [mit Video] - Studyflixstudyflix.de \u203a mathematik \u203a inverse-matrix-berechnen-2432",
+    "link": "https://studyflix.de/mathematik/inverse-matrix-berechnen-2432",
+    "description": "Wenn du links die Einheitsmatrix erzeugt hast, kannst du rechts einfach deine inverse Matrix ablesen ...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Inverse Matrix \u2022 einfach erkl\u00e4rt \u00b7 [mit Video] - Studyflixstudyflix.de \u203a mathematik \u203a inverse-matrix-2433",
+    "link": "https://studyflix.de/mathematik/inverse-matrix-2433",
+    "description": "Bei der Multiplikation von zwei Matrizen kannst du erst das Produkt bilden und davon die inverse ...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Berechnung der inversen Matrixstatistik.wu-wien.ac.at \u203a MOK \u203a HTML \u203a node31",
+    "link": "http://statistik.wu-wien.ac.at/~leydold/MOK/HTML/node31.html",
+    "description": "Berechnung der inversen Matrix. Die inverse Matrix k\u00f6nnen wir mit Hilfe des Verfahrens von Gau\u00df-Jordan berechnen: (1), Wir stellen eine erweiterte\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Inverse Matrizen berechnen - von Arndt Br\u00fcnnerarndt-bruenner.de \u203a mathe \u203a scripts \u203a inversematrix",
+    "link": "https://arndt-bruenner.de/mathe/scripts/inversematrix.htm",
+    "description": "Inverse Matrix berechnen. Zwei Matrizen, deren Produkt bei der Matrizenmultiplikation die Einheitsmatrix ist, sind zueinander invers. In manchen Situationen\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Inverse Matrizen online lernen - Sofatutorwww.sofatutor.com \u203a mathematik \u203a inverse-matrizen",
+    "link": "https://www.sofatutor.com/mathematik/lineare-algebra-und-analytische-geometrie/matrizen/inverse-matrizen",
+    "description": "Inhalt. Was ist eine inverse Matrix? Voraussetzung f\u00fcr die Existenz einer inversen Matrix; M\u00f6glichkeiten der Berechnung einer inversen Matrix; Wichtige\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Inverse Matrix | MassMaticswww.massmatics.de \u203a merkzettel",
+    "link": "https://www.massmatics.de/merkzettel/#!318:Inverse_Matrix",
+    "description": "Was ist die inverse Matrix? Wie du dich vielleicht von der Besprechung der Matrizenmultiplikation her erinnerst, kann man durch Matrizen nicht dividieren.",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Inverse Matrix bestimmen (Simultanverfahren,3X3-Matrix ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=YGnCxuE2LKg",
+    "description": "Inverse Matrix bestimmen (Simultanverfahren,3X3-Matrix)Wenn noch spezielle Fragen sind: https://www ...",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Inverse Matrixwww.biancahoegel.de \u203a mathe \u203a matrix \u203a matrix_invers",
+    "link": "https://www.biancahoegel.de/mathe/matrix/matrix_invers.html",
+    "description": "Die inverse Matrix wird in der linearen Algebra unter anderem bei der L\u00f6sung linearer Gleichungssysteme, bei \u00c4quivalenzrelationen von Matrizen und bei\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Rechenregeln f\u00fcr inverse Matrizen - Matheretterwww.matheretter.de \u203a wiki \u203a inverse-matrizen-rechenre...",
+    "link": "https://www.matheretter.de/wiki/inverse-matrizen-rechenregeln",
+    "description": "Rechenregeln f\u00fcr inverse Matrizen ... b) Das invertierte Produkt zweier Matrizen f\u00fchrt zu einer Vertauschung der Faktoren der invertierten Einzelmatrizen.",
+    "googleLink": null,
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Mathe Aufgaben Lineare Algebra Matrizen Inverse Matrizen ...www.mathods.com \u203a mathe \u203a cun=Inverse+Matrizen",
+    "link": "http://www.mathods.com/mathe.php?con=Lineare+Algebra&can=Matrizen&cun=Inverse+Matrizen",
+    "description": "Mathematik und Statistik \u00dcbungsaufgaben mit L\u00f6sungsweg zum Thema Lineare Algebra Matrizen Inverse Matrizen. Mit Mathods.com Mathematik- und\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Mathe Aufgaben Lineare Algebra Determinanten Inverse ...www.mathods.com \u203a mathe \u203a cun=Inverse+Matrizen",
+    "link": "http://www.mathods.com/mathe.php?con=Lineare+Algebra&can=Determinanten&cun=Inverse+Matrizen",
+    "description": "Mathematik und Statistik \u00dcbungsaufgaben mit L\u00f6sungsweg zum Thema Lineare Algebra Determinanten Inverse Matrizen. Mit Mathods.com Mathematik- und\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Inverse Matrix Rechner - Reshishmatrix.reshish.com \u203a inverse",
+    "link": "https://matrix.reshish.com/de/inverse.php",
+    "description": "Hier kannst du die inverse Matrix mit komplexen Zahlen kostenlos online und mit einer sehr detaillierten L\u00f6sung berechnen.",
+    "googleLink": null,
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Inverse Matrix - Abitur Mathewww.abi-mathe.de \u203a Matrizen \u203a Inverse Matrix",
+    "link": "http://www.abi-mathe.de/buch/matrizen/inverse-matrix/",
+    "description": "M\u00f6chte man zu einer Matrix A die inverse Matrix A\u22121 bestimmen, so muss man A zun\u00e4chst mit der Einheitsmatrix erweitern. A=[\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Inverse Matrizen \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c \u2013 Wikibooks ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Inv...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Inverse_Matrizen",
+    "description": "Inverse Matrizen \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c. Sprache; Beobachten \u00b7 Bearbeiten \u00b7 UnderCon icon.svg. Diese Seite ist noch im Entstehen und noch nicht\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "2\u00d72-Matrix invertieren (Inverse Matrizen) - Touchdown Mathewww.touchdown-mathe.de \u203a Titel",
+    "link": "https://www.touchdown-mathe.de/titel/2x2-matrix-invertieren/",
+    "description": "Etwas anders sieht es bei der 3\u00d73-Matrix aus. Hier erkl\u00e4ren wir das Vorgehen \u00fcber Zeilenumformungen. Wenn du wissen m\u00f6chtest, wie du eine inverse Matrix zu\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Inverse Matrix / Matrix invertieren; Regul\u00e4re und singul\u00e4re ...welt-der-bwl.de \u203a Inverse-Matrix",
+    "link": "https://welt-der-bwl.de/Inverse-Matrix",
+    "description": "Inverse Matrix Definition. Nur eine quadratische Matrix A (z.B. eine Matrix mit 2 Zeilen und 2 Spalten) kann eine inverse Matrix (die dann mit A-1 bezeichnet\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Invertierbare Matrix - Analysis und Lineare Algebrawww.ingenieurkurse.de \u203a matrizen \u203a invertierbare-matrix",
+    "link": "https://www.ingenieurkurse.de/hoehere-mathematik-analysis-lineare-algebra/matrizen/invertierbare-matrix.html",
+    "description": "Zudem ist es relativ selten, dass die Inverse einer ganzzahligen Matrix erneut ganzzahlig wird. Berechnung der Inversen mithilfe des Gau\u00df-Jordan Algorithmus\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://www.ingenieurkurse.de/hoehere-mathematik-analysis-lineare-algebra/matrizen/invertierbare-matrix.html&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAB6BAgGEAE&usg=AOvVaw0dcH54A85lHope2NWdtlBV",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Inverse einer Matrix \u21d2 einfach und ausf\u00fchrlich erkl\u00e4rtwww.mathe-lerntipps.de \u203a inverse-einer-matrix",
+    "link": "https://www.mathe-lerntipps.de/inverse-einer-matrix/",
+    "description": "Die Inverse einer Matrix wird auch Kehrmatrix genannt und ist eine quadratische Matrix, die mit der Ausgangsmatrix multipliziert die Einheitsmatrix ergibt.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-lerntipps.de/inverse-einer-matrix/&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAF6BAgHEAE&usg=AOvVaw1xUpIEh210BI0qTOqSAGdJ",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Inverse Matrix - Mathe L\u00f6sung bei mathetools.dewww.mathetools.de \u203a inverse_matrix",
+    "link": "https://www.mathetools.de/inverse_matrix/",
+    "description": "Dieses Tool kann Matrizen invertieren und den Rechenweg darstellen. ... Matrix invertieren, Matrixinvertierung, inverse Matrix\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathetools.de/inverse_matrix/&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAJ6BAgJEAE&usg=AOvVaw2KHsa8JX68x89DME-sLFOe",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Matrizen und Determinantenwww.uni-magdeburg.de \u203a exph \u203a mathe_gl \u203a matrizen",
+    "link": "http://www.uni-magdeburg.de/exph/mathe_gl/matrizen.pdf",
+    "description": "(Reihenfolge bei der Multiplikation beachten!) \u2022 Die Inverse der transponierten Matrix entspricht der Transponierten der inversen Matrix. T. T. A.",
+    "googleLink": "http://www.google.com/url?q=http://www.uni-magdeburg.de/exph/mathe_gl/matrizen.pdf&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAN6BAgIEAE&usg=AOvVaw1Zkhc8rOzGOHJTJUcCuJQ2",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Matrixinversionwww.matopt.de \u203a grundlagen \u203a matrixinversion",
+    "link": "https://www.matopt.de/grundlagen/matrixinversion.html",
+    "description": "Das Bilden der Inverse einer Matrix wird invertieren genannt. Rechner Matrixinversion. \u00dcberlegungen zur Inversen. Bei Skalaren macht die Division eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matopt.de/grundlagen/matrixinversion.html&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAR6BAgEEAE&usg=AOvVaw2OI6BpamhInWaK1Ka_TaFP",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Inverse Matrix - Abitur-Vorbereitung - Online-Kurse - Abiweb.dewww.abiweb.de \u203a matrizen \u203a besondere-matrizen \u203a inverse-matrix",
+    "link": "https://www.abiweb.de/mathematik-analytische-geometrie-lineare-algebra-agla/matrizen/besondere-matrizen/inverse-matrix.html",
+    "description": "Inverse Matrix, Zwei Matrizen, Nachrechnen, Einheitsmatrix uvm. jetzt perfekt lernen im Online-Kurs Analytische Geometrie / Lineare Algebra (Agla)!",
+    "googleLink": "http://www.google.com/url?q=https://www.abiweb.de/mathematik-analytische-geometrie-lineare-algebra-agla/matrizen/besondere-matrizen/inverse-matrix.html&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAV6BAgFEAE&usg=AOvVaw1ITkfZUWL9k958OqJiM1PO",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Invertierbare Matrizen - Mathepediamathepedia.de \u203a Invertierbare_Matrizen",
+    "link": "https://mathepedia.de/Invertierbare_Matrizen.html",
+    "description": "... wo gezeigt wird, dass es keinen Unterschied zwischen einer Linksinversen und einer Rechtsinversen gibt und die Inverse einer Matrix eindeutig bestimmt ist\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://mathepedia.de/Invertierbare_Matrizen.html&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAZ6BAgAEAE&usg=AOvVaw09ODy0heox_Znf3eyXauAI",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Inverse einer Matrixhomepage.univie.ac.at \u203a gz_uk \u203a 9_inverse_matrizen_gz",
+    "link": "http://homepage.univie.ac.at/johann.brandstetter/gz_uk/9_inverse_matrizen_gz.pdf",
+    "description": "\u22121 ist das (multiplikative) Inverse von a. Inverse in der Matrizenwelt? 1. Das Einselement f\u00fcr Matrizen ist die Einheitsmatrix In. 2. Die Inverse einer n \u00d7 n Matrix A\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://homepage.univie.ac.at/johann.brandstetter/gz_uk/9_inverse_matrizen_gz.pdf&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAd6BAgDEAE&usg=AOvVaw1qQ8JPFtY97lWl5pVFCpYj",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "inverse matrix - German translation \u2013 Lingueewww.linguee.com \u203a english-german \u203a translation \u203a inverse+matrix",
+    "link": "https://www.linguee.com/english-german/translation/inverse+matrix.html",
+    "description": "Many translated example sentences containing \"inverse matrix\" \u2013 German-\u200bEnglish dictionary and search engine for German translations.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.com/english-german/translation/inverse%2Bmatrix.html&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAh6BAgBEAE&usg=AOvVaw1yl2zuSM45O7EOD5UF4mdH",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "inverse Matrizen bestimmen | Matheloungewww.mathelounge.de \u203a inverse-matrizen-bestimmen",
+    "link": "https://www.mathelounge.de/705371/inverse-matrizen-bestimmen",
+    "description": "Aloha ;). Eine Matrix A A A mit ihrer inversen Matrix A \u2212 1 A^{-1} A\u22121 multipliziert ergibt die Einheitsmatrix. Da die Matrizen bis auf einen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/705371/inverse-matrizen-bestimmen&sa=U&ved=2ahUKEwiG0Yyb_r7vAhWKjFkKHZSfDik4FBAWMAl6BAgCEAE&usg=AOvVaw3IVOP3nowj3NT4IXOzP-wK",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Inverse Matrix bestimmen - Studimup.dewww.studimup.de \u203a lineare-algebra \u203a lineare-abbildungen-und-matrizen \u203a i...",
+    "link": "https://www.studimup.de/lineare-algebra/lineare-abbildungen-und-matrizen/inverse-matrix-bestimmen/",
+    "description": "Eine Inverse Matrix ist ein gegenst\u00fcck zu einer anderen Matrix, die zusammen multipliziert die Einheitsmatrix ergeben. Wichtig: Es gibt nur dann eine Inverse\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.studimup.de/lineare-algebra/lineare-abbildungen-und-matrizen/inverse-matrix-bestimmen/&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAB6BAgAEAE&usg=AOvVaw0qwXV0SlURpQSrc7xUmxl7",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Inverse Matrix - Math-Grainwww.math-grain.de \u203a download \u203a matrix \u203a spez-matr \u203a inverse-1",
+    "link": "http://www.math-grain.de/download/m1/matrix/spez-matr/inverse-1.pdf",
+    "description": "Eine Matrix A kann nicht zwei verschiedene inverse Matrizen haben. Stellen wir uns vor, dass B A = E und au\u00dferdem A C = E, dann ist. B = C . Dies ergibt sich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math-grain.de/download/m1/matrix/spez-matr/inverse-1.pdf&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAF6BAgJEAE&usg=AOvVaw0Oi8LJuOK7XXiv-ht4iDfq",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] 4 Invertierbare Matrizen - RISCwww3.risc.jku.at \u203a education \u203a courses \u203a 4-inv-mat-neu",
+    "link": "https://www3.risc.jku.at/education/courses/ws2006/la/4-inv-mat-neu.pdf",
+    "description": "Definition 4.1: Sei A eine m \u00d7 n Matrix. Eine n \u00d7 m Matrix X heisst Linksinverse von A wenn gilt XA = In. X heisst Rechtsinverse von A wenn gilt AX = Im\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www3.risc.jku.at/education/courses/ws2006/la/4-inv-mat-neu.pdf&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAJ6BAgIEAE&usg=AOvVaw0wvJkhVh3r-t59RaN4f-9Q",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Inverse Matrix | Determinanten - NetMathnetmath.vcrp.de \u203a Skripte \u203a Schell \u203a Mathe1 \u203a 15-Determinanten \u203a inverse...",
+    "link": "https://netmath.vcrp.de/downloads/Skripte/Schell/Mathe1/15-Determinanten/inverse_matrix.html",
+    "description": "Hat man speziell eine Matrixgleichung mit einer einreihigen, quadratischen Matrix A AX=E (E : Einheitsmatrix), so hei\u00dft X die zu A inverse Matrix und wird durch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://netmath.vcrp.de/downloads/Skripte/Schell/Mathe1/15-Determinanten/inverse_matrix.html&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAN6BAgHEAE&usg=AOvVaw1q4pule4gDwcW9C7j_17bg",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Inverse, Matrix invertieren, inverse Matrix, Einheitsmatrix | Mathe ...www.mathe-seite.de \u203a oberstufe \u203a matrizen-lgs \u203a rechenoperationen \u203a inver...",
+    "link": "https://www.mathe-seite.de/oberstufe/matrizen-lgs/rechenoperationen/inverse-matrix/",
+    "description": "(Die Einheitsmatrix ist eine Matrix, die \u00fcberall Nullen hat, und nur in der Diagonale Einsen hat.) Wenn man nun irgendeine Matrix hat, so ist die zugeh\u00f6rige Inverse\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-seite.de/oberstufe/matrizen-lgs/rechenoperationen/inverse-matrix/&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAR6BAgDEAE&usg=AOvVaw1ZTSbd1U3nki3oj12z4tn3",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Inverse Matrix | Mathematrixwww.mathematrix.de \u203a inverse-matrix",
+    "link": "http://www.mathematrix.de/inverse-matrix/",
+    "description": "Inverse Matrix. Bei der normale Multiplikation existiert eine Inverse equation ... Die Inverse des Produktes zweier invertierbarer Matrizen ist gleich dem Produkt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematrix.de/inverse-matrix/&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAV6BAgFEAE&usg=AOvVaw3_9P3CTvvJieoHniMB0KVS",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] inverse Matrix - Glossar Mathebaustellewww.mathebaustelle.de \u203a glossar \u203a matrix_inverse",
+    "link": "http://www.mathebaustelle.de/glossar/matrix_inverse.pdf",
+    "description": "Matrizen, die eine Inverse haben, hei\u00dfen invertierbar. (eine andere Bezeichnung ist \u201eregul\u00e4r\u201c). Ein CAS wie der TI-NSpire CX CAS invertiert die Matrix A durch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathebaustelle.de/glossar/matrix_inverse.pdf&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAZ6BAgBEAE&usg=AOvVaw0XOjNDUGhivFf3QpdjOXJj",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Inverse Matrix berechnen + Matrix Rechner - Simplexywww.simplexy.de \u203a mathe-klasse-12 \u203a matrix \u203a inverse-matrix",
+    "link": "https://www.simplexy.de/mathe-klasse-12/matrix/inverse-matrix.php",
+    "description": "Ebenso ist es wenn man eine Matrix mit ihrer Inversen multipliziert, als Ergebnis bekommt man die Einheitsmatrix. Wiederholung: Kehrwert:.",
+    "googleLink": "http://www.google.com/url?q=https://www.simplexy.de/mathe-klasse-12/matrix/inverse-matrix.php&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAd6BAgGEAE&usg=AOvVaw0zW-XoofSHYg7o3kklv9o5",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Inverseinstitute.unileoben.ac.at \u203a lehrbetrieb \u203a num \u203a vl-skript \u203a skripts05 \u203a node54",
+    "link": "http://institute.unileoben.ac.at/amat/lehrbetrieb/num/vl-skript/skripts05/node54.html",
+    "description": "Inverse. Die zu einer (nichtsingul\u00e4ren) Matrix $A$ inverse Matrix $A^{-1}$ braucht kaum ein Rechenverfahren in expliziter Form. Soll etwa der Vektor\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://institute.unileoben.ac.at/amat/lehrbetrieb/num/vl-skript/skripts05/node54.html&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAh6BAgCEAE&usg=AOvVaw0eH-cOdsQn5gkTvBmbom6F",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Matrizenrechnung: Rechenregeln f\u00fcr Matrizen, Inverse einer Matrix ...elsenaju.info \u203a Matrizenrechnung",
+    "link": "http://elsenaju.info/Matrizenrechnung.htm",
+    "description": "Matrizenrechnung: Rechenregeln f\u00fcr Addition, Multiplikation, Skalar mit Online-\u200bRechner, Inverse Matrix, Adjunkte und Determinante.",
+    "googleLink": "http://www.google.com/url?q=http://elsenaju.info/Matrizenrechnung.htm&sa=U&ved=2ahUKEwid6q6b_r7vAhVQmVkKHQSwDCU4HhAWMAl6BAgEEAE&usg=AOvVaw3T-ZxlVBVBzKfe_lBBLu2G",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 304.pdfstat.math.uni-duesseldorf.de \u203a ~berger \u203a Wiwi01-Dateien",
+    "link": "http://stat.math.uni-duesseldorf.de/~berger/Wiwi01-Dateien/304.pdf",
+    "description": "3.4 Inverse Matrix und Determinante. In diesem Abschnitt behandeln wir nur quadratische Matrizen (von einigen Nebenbemer- kungen abgesehen).",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Inverse Matrix Die mit einer quadratischen Matrix A assoziierte ...vhm.mathematik.uni-stuttgart.de \u203a Vorlesungen \u203a Lineare_Algebra",
+    "link": "https://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Lineare_Algebra/Folien_Inverse_Matrix.pdf",
+    "description": ". bzw. detA = 0. In diesem Fall bezeichnet A\u22121 die Matrix der inversen linearen Abildung,. d.h.. AA.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Lineare_Algebra/Folien_Inverse_Matrix.pdf&ved=2ahUKEwiMmNqb_r7vAhVh1lkKHaW4B8w4KBAWMAF6BAgHEAE&usg=AOvVaw0RiDnboON4m09F-fHlAwJn",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Mathematik - Inverse Matrizen (Matrix ... - Maschinenbau-Student.demaschinenbau-student.de \u203a inversematrixunter",
+    "link": "http://maschinenbau-student.de/inversematrixunter.php",
+    "description": "Inverse Matrizen (Matrix) berechnen mit Unterdeterminanten ... Dazu wird die Determinante von der Matrize (Matrix) gebildet. Sie muss ungleich Null sein und\u200b\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "MP: inverse matrix (probe) (Forum Matroids Matheplanet)www.matheplanet.com \u203a matheplanet \u203a nuke \u203a html \u203a viewtopic",
+    "link": "https://www.matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=7363",
+    "description": "Aber normalerweise argumentiert man mit der Determinante, also eine Matrix ist genau ... Uuuiiii: keine Matrix-Multiplikation, aber schon die Inverse berechnen?",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.matheplanet.com/matheplanet/nuke/html/viewtopic.php%3Ftopic%3D7363&ved=2ahUKEwiMmNqb_r7vAhVh1lkKHaW4B8w4KBAWMAN6BAgJEAE&usg=AOvVaw0pJLcgtyLgks5It2f21hdC",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Onlinekurs Matrizen (Kapitel 6 Seite 10) inverse Matrix Inversion ...www.mathematik.net \u203a matrizen",
+    "link": "http://www.mathematik.net/matrizen/m06s10.htm",
+    "description": "Alles was wir bis jetzt \u00fcber Matrizen wissen, ist die Definion der inversen Matrix A\u200b\u20131, und deshalb m\u00fcssen wir unsere \u00dcberlegungen auch mit dieser Formel\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Inverse Matrix - Teil der Matrizenrechnung - was ist wichtig?www.oberprima.com \u203a ... \u203a Mathe in der Oberstufe \u203a Matrizenrechnung",
+    "link": "https://www.oberprima.com/inverse-matrix/",
+    "description": "09.11.2018 \u00b7 Inverse Matrix mit dem Gau\u00df-Jordan-Algorithmus. Thema ist heute die Berechnung einer inversen Matrize. Und dazu benutzen wir den\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.oberprima.com/inverse-matrix/&ved=2ahUKEwiMmNqb_r7vAhVh1lkKHaW4B8w4KBAWMAV6BAgAEAE&usg=AOvVaw1mYA3_wC2lJsjqrwBXn90u",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "inverse Matrix - Deutsch \u00dcbersetzung - Englisch Beispiele | Reverso ...context.reverso.net \u203a \u00fcbersetzung \u203a englisch-deutsch \u203a inverse+Matrix",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/englisch-deutsch/inverse+Matrix",
+    "description": "\u00dcbersetzung im Kontext von \u201einverse Matrix\u201c in Englisch-Deutsch von Reverso Context: Linear Systems: Use an Inverse Matrix to Solve.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://context.reverso.net/%25C3%25BCbersetzung/englisch-deutsch/inverse%2BMatrix&ved=2ahUKEwiMmNqb_r7vAhVh1lkKHaW4B8w4KBAWMAZ6BAgEEAE&usg=AOvVaw0_3JGk00wqOXwN4BHLdqZW",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Matrizen | Maths2Mindwww.maths2mind.com \u203a algebra \u203a matrizen \u203a transponierte-inverse-matrix",
+    "link": "https://www.maths2mind.com/algebra/matrizen/transponierte-inverse-matrix",
+    "description": "Wenn A eine inverse Matrix A-1 besitzt, dann ist die Determinante von A auf jeden Fall ungleich Null. Die Berechnung der inversen Matrix ist kompliziert. Bei einer\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.maths2mind.com/algebra/matrizen/transponierte-inverse-matrix&ved=2ahUKEwiMmNqb_r7vAhVh1lkKHaW4B8w4KBAWMAd6BAgFEAE&usg=AOvVaw2kzWYd3iYm2D7kog7Fjv-p",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Inverse einer 2x2-Matrix - mathe onlinewww.mathe-online.at \u203a mathint \u203a matr \u203a i_Inverse2x2",
+    "link": "https://www.mathe-online.at/mathint/matr/i_Inverse2x2.html",
+    "description": "Um die Inverse einer allgemeinen invertierbaren -Matrix. zu berechnen, l\u00f6sen wir das Gleichungssystem nach f\u00fcr einen allgemeinen Vektor . In Komponenten\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.mathe-online.at/mathint/matr/i_Inverse2x2.html&ved=2ahUKEwiMmNqb_r7vAhVh1lkKHaW4B8w4KBAWMAh6BAgCEAE&usg=AOvVaw13ALY2jZn1kzFZREPAJpdL",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Inversion von Matrizen in Mathematik | Sch\u00fclerlexikon | Lernhelferwww.lernhelfer.de \u203a schuelerlexikon \u203a mathematik-abitur \u203a artikel \u203a invers...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/inversion-von-matrizen",
+    "description": "Um die Inverse einer Matrix zu bestimmen, gibt es zwei prinzipielle Verfahren (\u200bM\u00f6glichkeiten).Beim GAUSS-JORDAN-Verfahren wird mithilfe elementarer\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/inversion-von-matrizen&ved=2ahUKEwiMmNqb_r7vAhVh1lkKHaW4B8w4KBAWMAl6BAgDEAE&usg=AOvVaw3Ks1KCVngNcug1zVXlAzuA",
+    "page": 4,
+    "index": 9
+  }
+]

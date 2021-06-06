@@ -1,0 +1,402 @@
+[
+  {
+    "name": "",
+    "link": "https://de.serlo.org/mathe/1665/lineare-un-abh%C3%A4ngigkeit?sa=X&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQ9QF6BAgEEAI",
+    "description": "Allgemeine Definition\n\n Eine Menge von Vektoren ist linear abh\u00e4ngig, wenn man eine Linearkombination von ihnen bilden kann, die den Nullvektor ergibt und nicht trivial ist (trivial w\u00e4re, einfach von allen Vektoren das Nullfache zu nehmen). Geht das nicht, so sind sie linear unabh\u00e4ngig.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit - 3 Vektoren - Mathebibel.dewww.mathebibel.de \u203a Erkl\u00e4rungen \u203a Geometrie \u203a Vektorrechnung",
+    "link": "https://www.mathebibel.de/lineare-abhaengigkeit-drei-vektoren",
+    "description": "Bewertung  4,9  (156)",
+    "googleLink": "http://www.google.com/url?q=https://www.mathebibel.de/lineare-abhaengigkeit-drei-vektoren&sa=U&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQFjADegQIChAB&usg=AOvVaw01i8SMZb_ans1lnuO3lVUl",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit und lineare Abh\u00e4ngigkeit \u00b7 [mit Video]studyflix.de \u203a mathematik \u203a lineare-unabhangigkeit-und-lineare-abhangigk...",
+    "link": "https://studyflix.de/mathematik/lineare-unabhangigkeit-und-lineare-abhangigkeit-von-vektoren-1865",
+    "description": "15.03.2020 \u00b7 Untersuchst du zwei Vektoren auf Lineare Abh\u00e4ngigkeit oder lineare Unabh\u00e4ngigkeit ...Dauer: 4:38\nGepostet: 15.03.2020",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/mathematik/lineare-unabhangigkeit-und-lineare-abhangigkeit-von-vektoren-1865&sa=U&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQtwIwBHoECAgQAQ&usg=AOvVaw2hHb93Gim2dMoaoJDx8m-m",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "k so w\u00e4hlen, dass 3 Vektoren linear unabh\u00e4ngig sind ... - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=IUFj3f83Bsw",
+    "description": "14.05.2015 \u00b7 k so w\u00e4hlen, dass 3 Vektoren linear unabh\u00e4ngig sind, Gaussverfahren | Mathe by Daniel ...Dauer: 5:14\nGepostet: 14.05.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DIUFj3f83Bsw&sa=U&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQtwIwDXoECAMQAQ&usg=AOvVaw3AWMFTBhNEbCzTEegN_gYi",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit von Vektoren + Linearkombination durch ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=MmlaW48WZt0",
+    "description": "24.05.2020 \u00b7 Lineare Unabh\u00e4ngigkeit von Vektoren + Linearkombination durch Basisvektoren + ...Dauer: 21:48\nGepostet: 24.05.2020",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DMmlaW48WZt0&sa=U&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQtwIwDnoECAEQAQ&usg=AOvVaw18HSh_fPPIq12Y71fVGA16",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "3 Vektoren auf Komplanarit\u00e4t untersuchen, Komplanar, linear ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=qBQeFSnLOVA",
+    "description": "22.07.2013 \u00b7 3 Vektoren auf Komplanarit\u00e4t untersuchen, Komplanar, linear abh\u00e4ngig, unabh\u00e4ngig Wenn ...Dauer: 2:11\nGepostet: 22.07.2013",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DqBQeFSnLOVA&sa=U&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQtwIwD3oECAcQAQ&usg=AOvVaw303W7fl4jqIp03uHNb1Be2",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit und Unabh\u00e4ngigkeit von Vektoren ... - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=etNXBl5fJzc",
+    "description": "06.01.2017 \u00b7 Ist keine Linearkombination m\u00f6glich, so sind die Vektoren linear unabh\u00e4ngig voneinander ...Dauer: 12:49\nGepostet: 06.01.2017",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DetNXBl5fJzc&sa=U&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQtwIwEHoECAIQAQ&usg=AOvVaw0hYV9fhmlDnLK50XR4mPCq",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Lineare_Unabh\u00e4ngigkeit",
+    "link": "https://de.wikipedia.org/wiki/Lineare_Unabh%C3%A4ngigkeit",
+    "description": "In der linearen Algebra wird eine Familie von Vektoren eines Vektorraums linear unabh\u00e4ngig genannt, wenn sich der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Lineare_Unabh%25C3%25A4ngigkeit&sa=U&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQFjAbegQICRAB&usg=AOvVaw3laXb7tXxSOdBZh8O-Kt1g",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit von Vektoren pr\u00fcfen - auf Frustfrei-Lernen.dewww.frustfrei-lernen.de \u203a lineare-abhaengigkeit-von-vektoren-pruefen",
+    "link": "https://www.frustfrei-lernen.de/mathematik/lineare-abhaengigkeit-von-vektoren-pruefen.html",
+    "description": "Warum pr\u00fcft man zwei Vektoren auf lineare Abh\u00e4ngigkeit? Antwort: Zwei Geraden sind genau dann parallel zueinander, wenn die zugeh\u00f6rigen Richtungsvektoren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.frustfrei-lernen.de/mathematik/lineare-abhaengigkeit-von-vektoren-pruefen.html&sa=U&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQFjAgegQIBhAB&usg=AOvVaw3JUA1G_r5MQQEqGbt23wM5",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit von Vektoren - mathe onlinewww.mathe-online.at \u203a materialien \u203a files \u203a Vectors \u203a lineare_abhaengigkeit",
+    "link": "https://www.mathe-online.at/materialien/Andreas.Pester/files/Vectors/lineare_abhaengigkeit.htm",
+    "description": "Zwei Vektoren sind genau dann linear abh\u00e4ngig, wenn sie kollinear sind, oder anders gesagt: wenn zwei Vektoren parallel zueinander sind, dann sind sie\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-online.at/materialien/Andreas.Pester/files/Vectors/lineare_abhaengigkeit.htm&sa=U&ved=2ahUKEwi7hNvk-77vAhUF01kKHYQoD8QQFjAhegQICxAB&usg=AOvVaw0Yssi3EbJvXTybipXC79p0",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeitstatistik.wu-wien.ac.at \u203a ~leydold \u203a MOK \u203a HTML \u203a node25",
+    "link": "http://statistik.wu-wien.ac.at/~leydold/MOK/HTML/node25.html",
+    "description": "Sind Vektoren linear abh\u00e4ngig, dann l\u00e4\u00dft sich ein Vektor (aber nicht notwendigerweise jeder!) als Linearkombination der anderen Vektoren darstellen. Zur\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://statistik.wu-wien.ac.at/~leydold/MOK/HTML/node25.html&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAB6BAgAEAE&usg=AOvVaw2yhmyytzrCgvn0jWuTQF90",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "2.1.2 Lineare (Un-)Abh\u00e4ngigkeit von Vektoren | mathelikewww.mathelike.de \u203a ABITUR SKRIPT \u203a 2 Geometrie \u203a 2.1 Vektoren",
+    "link": "https://www.mathelike.de/abi-check-mathe-abi-skript-bayern/2-geometrie/2-1-vektoren/2-1-2-lineare-un-abhaengigkeit-von-vektoren.html",
+    "description": "Im Raum R3 R 3 sind h\u00f6chstens drei Vektoren linear unabh\u00e4ngig. Jeder weitere Vektor l\u00e4sst sich eindeutig als Linearkombination der linear unabh\u00e4ngigen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelike.de/abi-check-mathe-abi-skript-bayern/2-geometrie/2-1-vektoren/2-1-2-lineare-un-abhaengigkeit-von-vektoren.html&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAF6BAgIEAE&usg=AOvVaw2f5Z-uWYNm2O6gjLdAjD_f",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit von 3 Vektoren (Unabh\u00e4ngigkeit)www.gut-erklaert.de \u203a mathematik \u203a lineare-abhaengigkeit-3-vektoren",
+    "link": "https://www.gut-erklaert.de/mathematik/lineare-abhaengigkeit-3-vektoren.html",
+    "description": "04.05.2020 \u00b7 Wir haben drei Vektoren. Pr\u00fcfe mit einem linearen Gleichungssystem (kurz LGS), ob diese drei Vektoren linear Abh\u00e4ngig sind oder nicht. Lineare\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gut-erklaert.de/mathematik/lineare-abhaengigkeit-3-vektoren.html&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAJ6BAgJEAE&usg=AOvVaw0SdgcnHi6dK7VsPtT8SGlr",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit - StudyHelp Online-Lernenwww.studyhelp.de \u203a Online-Lernen \u203a Mathe \u203a Mathematik f\u00fcr Ingenieure",
+    "link": "https://www.studyhelp.de/online-lernen/mathe/lineare-unabhaengigkeit/",
+    "description": "Lineare Unabh\u00e4ngigkeit. Eine Familie von Vektoren ist linear unabh\u00e4ngig, wenn keine Linearkombination der Vektoren den Nullvektor ergibt, au\u00dfer alle\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.studyhelp.de/online-lernen/mathe/lineare-unabhaengigkeit/&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAN6BAgHEAE&usg=AOvVaw0sI7Nm8im3PWlVcXPYy08R",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit | MassMaticswww.massmatics.de \u203a merkzettel",
+    "link": "https://www.massmatics.de/merkzettel/#!309:Lineare_Abhaengigkeit",
+    "description": "Wir nehmen uns also einen Vektorraum V und ein paar Vektoren aus V, etwa v1,\u200b\u2026,vn\u2208V. Dann hei\u00dfen diese Vektoren linear abh\u00e4ngig, wenn es eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.massmatics.de/merkzettel/%23!309:Lineare_Abhaengigkeit&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAR6BAgEEAE&usg=AOvVaw1ZVmhZCVnuKIdFOYBbpxHO",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit - geometrisch | MassMaticswww.massmatics.de \u203a merkzettel",
+    "link": "https://www.massmatics.de/merkzettel/#!346:Lineare_Unabhaengigkeit_-_geometrisch",
+    "description": "Man k\u00f6nnte denken, die drei Vektoren w\u00e4ren linear unabh\u00e4ngig, denn sie zeigen ja in verschiedene Richtungen. In der Tat liegt der orangene Vektor weder auf\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.massmatics.de/merkzettel/%23!346:Lineare_Unabhaengigkeit_-_geometrisch&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAV6BAgBEAE&usg=AOvVaw09S9YexusPydA7Ss6vtlg1",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit oder Abh\u00e4ngigkeit von Vektoren ...mathematik-wissen.de \u203a vektorrechnung \u203a lineare-unabhaengigkeit-oder-a...",
+    "link": "https://mathematik-wissen.de/vektorrechnung/lineare-unabhaengigkeit-oder-abhaengigkeit-von-vektoren-linearkombination",
+    "description": "Eine Linearkombination ist ein Vektor der aus einer Summe mehrerer anderer Vektoren gebildet werden. Zum Beispiel ist Vektor c gleich Vektor a + b: lineare-\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathematik-wissen.de/vektorrechnung/lineare-unabhaengigkeit-oder-abhaengigkeit-von-vektoren-linearkombination&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAZ6BAgGEAE&usg=AOvVaw1ikMLaY5OSiPHpbv53HPtt",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit von Vektoren \u2013 Serlo \u201eMathe f\u00fcr Nicht ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Lineare_Unabh\u00e4ngigke...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Lineare_Unabh%C3%A4ngigkeit_von_Vektoren",
+    "description": "Definition (Erstes Kriterium f\u00fcr lineare Unabh\u00e4ngigkeit). Vektoren v 1 {\\\u200bdisplaystyle v_{1}}. v_{1}. bis v n {\\displaystyle v_{n}}. v_{n}. sind linear unabh\u00e4ngig, wenn\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Lineare_Unabh%25C3%25A4ngigkeit_von_Vektoren&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAd6BAgDEAE&usg=AOvVaw0gKgQIB-bkZ12WYgrbs_d-",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Linearkombinationen und lineare Unabh\u00e4ngigkeit von Vektoren ...www.chemgapedia.de \u203a vsengine \u203a vlu \u203a vsc \u203a ma_02_01_03.vlu.html",
+    "link": "http://www.chemgapedia.de/vsengine/vlu/vsc/de/ma/1/mc/ma_02/ma_02_01/ma_02_01_03.vlu.html",
+    "description": "Bevor wir die lineare Unabh\u00e4ngigkeit definieren k\u00f6nnen, m\u00fcssen wir zun\u00e4chst die exakte Definition der Linearkombination nachholen: Linearkombination\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.chemgapedia.de/vsengine/vlu/vsc/de/ma/1/mc/ma_02/ma_02_01/ma_02_01_03.vlu.html&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAh6BAgCEAE&usg=AOvVaw3Ndhgkl3k5eDraOHndjEHF",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit | Vektorrechnung im 3-dimensionalennetmath.vcrp.de \u203a Mathe1 \u203a 18-3DVektoren \u203a lineare_unabhngigkeit",
+    "link": "https://netmath.vcrp.de/downloads/Skripte/Schell/Mathe1/18-3DVektoren/lineare_unabhngigkeit.html",
+    "description": "Zwei Vektoren sind linear abh\u00e4ngig, wenn sie parallel sind. Drei Vektoren sind linear abh\u00e4ngig, wenn sie in einer Ebene liegen. So, wie zwei parallele Vektoren\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://netmath.vcrp.de/downloads/Skripte/Schell/Mathe1/18-3DVektoren/lineare_unabhngigkeit.html&sa=U&ved=2ahUKEwijuIjl-77vAhVClVkKHZ2TBZw4ChAWMAl6BAgFEAE&usg=AOvVaw3ItB-OmyhXEiM7nvxkWCJ7",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 2. \u00a8Ubungsblatt Aufgaben mit L\u00f6sungenwww.math.kit.edu \u203a iana2 \u203a lehre \u203a media \u203a loesungen2",
+    "link": "https://www.math.kit.edu/iana2/lehre/am22013s/media/loesungen2.pdf",
+    "description": "(a) Stellen Sie den Vektor x = (\u22123, 4, 7) als Linearkombination von u, v und w dar ... Wir erhalten \u03b21 = \u03b22 = \u03b23 = 0, die drei Vektoren sind also linear unabh\u00e4ngig\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.kit.edu/iana2/lehre/am22013s/media/loesungen2.pdf&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAB6BAgAEAE&usg=AOvVaw2RMZzPumLR3BcgBZNuWNhR",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit im R\u00b3 - Online-Kurse - ingenieurkurse.dewww.ingenieurkurse.de \u203a vektorraeume \u203a lineare-abhaengigkeit-im-r-3",
+    "link": "https://www.ingenieurkurse.de/hoehere-mathematik-analysis-lineare-algebra/vektorraeume/lineare-abhaengigkeit-unabhaengigkeit-von-vektoren/lineare-abhaengigkeit-im-r-3.html",
+    "description": "L\u00e4sst sich der Nullvektor als Linearkombination der drei Vektoren darstellen bzw. nehmen nicht alle \\lambda den Wert null an, so sind die drei Vektoren linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ingenieurkurse.de/hoehere-mathematik-analysis-lineare-algebra/vektorraeume/lineare-abhaengigkeit-unabhaengigkeit-von-vektoren/lineare-abhaengigkeit-im-r-3.html&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAF6BAgJEAE&usg=AOvVaw1IlF5hd-8ih6mF1MArM_gk",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit und lineare Unabh\u00e4ngigkeit online lernenwww.sofatutor.com \u203a lineare-abhaengigkeit-und-lineare-unabhaengigkeit",
+    "link": "https://www.sofatutor.com/mathematik/lineare-algebra-und-analytische-geometrie/vektorrechnung/lineare-abhaengigkeit-und-lineare-unabhaengigkeit",
+    "description": "Wenn drei Vektoren linear abh\u00e4ngig sind, dann werden sie als komplanar bezeichnet. \u00dcbrigens: Der Nullvektor l\u00e4sst sich als Linearkombination von beliebigen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sofatutor.com/mathematik/lineare-algebra-und-analytische-geometrie/vektorrechnung/lineare-abhaengigkeit-und-lineare-unabhaengigkeit&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAJ6BAgIEAE&usg=AOvVaw3t4DNyDJtxHldUZPT7kcoe",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit, lineare Unabh\u00e4ngigkeit | MatheGurumatheguru.com \u203a ... \u203a Lineare Abh\u00e4ngigkeit, lineare Unabh\u00e4ngigkeit",
+    "link": "https://matheguru.com/lineare-algebra/lineare-abhangigkeit-lineare-unabhangigkeit.html",
+    "description": "Ist die folgende Menge an Vektoren linear unabh\u00e4ngig? S = \\Big \\{ \\ubrace[\\vec{\\\u200btextbf{v. Da der Vektor v1 als lineare\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://matheguru.com/lineare-algebra/lineare-abhangigkeit-lineare-unabhangigkeit.html&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAN6BAgHEAE&usg=AOvVaw3rTM81-ylB2J-5K9pQVRcl",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit einfach erkl\u00e4rt | StudySmarterwww.studysmarter.de \u203a schule \u203a mathe \u203a vektoren \u203a lineare-unabhaengigkeit",
+    "link": "https://www.studysmarter.de/schule/mathe/vektoren/lineare-unabhaengigkeit/",
+    "description": "Wann sind Vektoren linear unabh\u00e4ngig? Lineare Unabh\u00e4ngigkeit liegt genau dann vor, wenn kein Vektor ein Vielfaches eines anderen Vektors von n Vektoren ist\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.studysmarter.de/schule/mathe/vektoren/lineare-unabhaengigkeit/&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAR6BAgEEAE&usg=AOvVaw2qQywENrMQS_pEdOhioSWU",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Lineare (Un-)Abh\u00e4ngigkeit von Vektoren - Online-Kurse - Abiweb.dewww.abiweb.de \u203a lineare-un-abhaengigkeit-von-vektoren",
+    "link": "https://www.abiweb.de/mathematik-analytische-geometrie-lineare-algebra-agla/rechnen-mit-vektoren/lineare-un-abhaengigkeit-von-vektoren.html",
+    "description": "Vektoren, Vektor, Zeile ergibt, dritten Zeile, Linearkombination, bcab uvm. jetzt perfekt lernen im Online-Kurs Analytische Geometrie / Lineare Algebra (Agla)!",
+    "googleLink": "http://www.google.com/url?q=https://www.abiweb.de/mathematik-analytische-geometrie-lineare-algebra-agla/rechnen-mit-vektoren/lineare-un-abhaengigkeit-von-vektoren.html&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAV6BAgDEAE&usg=AOvVaw3DGclkh8uiTBAkbniEKVF4",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Lineare Unabh\u00e4ngigkeit Elemente v1,...,vm eines Vektorraums V ...vhm.mathematik.uni-stuttgart.de \u203a Folien_Lineare_Unabhaengigkeit",
+    "link": "http://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Lineare_Algebra/Folien_Lineare_Unabhaengigkeit.pdf",
+    "description": "(ii) Drei Vektoren u,v,w \u2208 R3 sind linear abh\u00e4ngig, wenn zwei Vektoren parallel sind oder wenn ein Vektor in der von den beiden anderen Vektoren.",
+    "googleLink": "http://www.google.com/url?q=http://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Lineare_Algebra/Folien_Lineare_Unabhaengigkeit.pdf&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAZ6BAgCEAE&usg=AOvVaw3DbGLMr388uYhv0yjLlbpN",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Lineare Algebra Imath-www.upb.de \u203a ~linalg2 \u203a vorlesung \u203a la1_gesamt",
+    "link": "http://math-www.upb.de/~linalg2/vorlesung/la1_gesamt.pdf",
+    "description": "linear unabh\u00e4ngig. Die lineare Unabh\u00e4ngigkeit von Vektoren k\u00f6nnen wir \u2014 im Einklang mit obiger Erkl\u00e4rung \u2014 wie folgt kennzeichnen: 6.2 Die Vektoren a1,a2\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://math-www.upb.de/~linalg2/vorlesung/la1_gesamt.pdf&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAd6BAgFEAE&usg=AOvVaw3H0hm68hD_CJ0s_wz9WxiG",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit und Dimensionmathe-online.fernuni-hagen.de \u203a MIB \u203a HTML \u203a node69",
+    "link": "http://mathe-online.fernuni-hagen.de/MIB/HTML/node69.html",
+    "description": "Der Schl\u00fcssel zu einer Antwort liegt im Begriff der linearen Abh\u00e4ngigkeit bzw. Unabh\u00e4ngigkeit. Wir sagen, dass die Vektoren $ w_1,\\ldots ,w_r$ linear abh\u00e4ngig\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathe-online.fernuni-hagen.de/MIB/HTML/node69.html&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAh6BAgGEAE&usg=AOvVaw2uWWJ3L2rQ6YjaOBx-RvEN",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Lineare Abh\u00e4ngigkeit - Mathematics TU Grazwww.math.tugraz.at \u203a lv_lineare_algebra \u203a 03_lineare_abhaengigkeit",
+    "link": "https://www.math.tugraz.at/~ganster/lv_lineare_algebra/03_lineare_abhaengigkeit.pdf",
+    "description": "Sei V ein K-Vektorraum und (vi)i\u2208I eine Familie von Vek- toren aus V . Wir betrachten alle Vektoren v \u2208 V , die sich als Linearkombination von endlich vielen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tugraz.at/~ganster/lv_lineare_algebra/03_lineare_abhaengigkeit.pdf&sa=U&ved=2ahUKEwjYrKzl-77vAhVJi1kKHS7FAzY4FBAWMAl6BAgBEAE&usg=AOvVaw2ORjtGj9Foj2lCSjHM0tTY",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "lineare Abh\u00e4ngigkeit (Vektorrechnung) - rither.dewww.rither.de \u203a Mathematik \u203a Vektorrechnung \u203a Vektoren",
+    "link": "http://www.rither.de/a/mathematik/lineare-algebra-und-analytische-geometrie/vektoren/lineare-abhaengigkeit/",
+    "description": "Daher sind Vektor a und Vektor b voneinander linear unabh\u00e4ngig. Um sich l\u00e4stige Mehrfachpr\u00fcfungen zu ersparen (bei mehr als 2 Vektoren) kann man auch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.rither.de/a/mathematik/lineare-algebra-und-analytische-geometrie/vektoren/lineare-abhaengigkeit/&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAB6BAgFEAE&usg=AOvVaw1ozdNm-PNm81SLb1eu9pZ0",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Lineare Kombinationen und lineare Abh\u00e4ngigkeit | Mathematrixwww.mathematrix.de \u203a lineare-kombinationen-abhangigkeit",
+    "link": "http://www.mathematrix.de/lineare-kombinationen-abhangigkeit/",
+    "description": "Lineare Kombinationen und lineare Abh\u00e4ngigkeit. Eine lineare Kombination ist die Summe von Vektoren, wobei jeder Vektor mit einem Skalar\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematrix.de/lineare-kombinationen-abhangigkeit/&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAF6BAgHEAE&usg=AOvVaw2q2iV6JhWd4NIm_K2eqAnl",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Linear unabh\u00e4ngige Vektoren (Linearkombination) in Mathematik ...www.lernhelfer.de \u203a schuelerlexikon \u203a mathematik-abitur \u203a artikel \u203a linear-...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/linear-unabhaengige-vektoren-linearkombination",
+    "description": "Die Vektoren a 1 \u2192 , a 2 \u2192 , ..., a n \u2192 hei\u00dfen genau dann linear unabh\u00e4ngig, wenn die Gleichung \u03bb 1 a 1 \u2192 + \u03bb 2 a 2 \u2192 + ... + \u03bb n  a n \u2192 = o \u2192 nur f\u00fcr \u03bb 1 = \u03bb 2\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/linear-unabhaengige-vektoren-linearkombination&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAJ6BAgJEAE&usg=AOvVaw2xpvdTOVELLrzuhhItq1Ma",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Lineare Gleichungssysteme: eine Erg\u00e4nzunghomepage.univie.ac.at \u203a gz_uk \u203a 10_lineare_unabhaengigkeit_gz",
+    "link": "http://homepage.univie.ac.at/johann.brandstetter/gz_uk/10_lineare_unabhaengigkeit_gz.pdf",
+    "description": "Dabei ist es egal, ob die Vektoren die Zeilen oder die Spalten der Matrix bilden! Beispiel: Ist die folgende Menge von Vektoren linear unabh\u00e4ngig? \u239b. \u23a2\u23a2\u23a2\u23a8. \u23a2\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://homepage.univie.ac.at/johann.brandstetter/gz_uk/10_lineare_unabhaengigkeit_gz.pdf&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAN6BAgIEAE&usg=AOvVaw0_NWvRXlRbfftK9hd6_2l6",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Lineare Unabh\u00e4ngigkeit, Erzeugendensystem, Basis und Co.www.ge-kreuztal.de \u203a wp-content \u203a uploads \u203a 2020/03 \u203a M-Q1-III",
+    "link": "https://www.ge-kreuztal.de/wp-content/uploads/2020/03/M-Q1-III.pdf",
+    "description": "Linearkombination: Um zu zeigen, dass sich ein Vektor aus den anderen linear ... Dimension n bewegen und wir n+1 Vektoren auf lineare Abh\u00e4ngigkeit.",
+    "googleLink": "http://www.google.com/url?q=https://www.ge-kreuztal.de/wp-content/uploads/2020/03/M-Q1-III.pdf&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAR6BAgBEAE&usg=AOvVaw0U11tkGUTcMtSbU-4jCX2i",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit - SchulLV - Dein digitales Lernverzeichniswww.schullv.de \u203a vektoren \u203a lineare_abhaengigkeit_unabhaengigkeit",
+    "link": "https://www.schullv.de/mathe/basiswissen/analytische_geometrie/vektoren/lineare_abhaengigkeit_unabhaengigkeit",
+    "description": "Wenn zwei Vektoren linear abh\u00e4ngig sind, bedeutet dies, dass sie parallel zueinander liegen. In Formeln ausgedr\u00fcckt sind zwei Vektoren \\(\\overrightarrow{\u200bu}\\)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.schullv.de/mathe/basiswissen/analytische_geometrie/vektoren/lineare_abhaengigkeit_unabhaengigkeit&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAV6BAgDEAE&usg=AOvVaw0M4Xt74-goeEW0L95SYRv9",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit und Unabh\u00e4ngigkeit von Vektoren ...welt-der-bwl.de \u203a Lineare-Abh\u00e4ngigkeit-Vektoren",
+    "link": "https://welt-der-bwl.de/Lineare-Abh%C3%A4ngigkeit-Vektoren",
+    "description": "Lineare Abh\u00e4ngigkeit Definition. Mehrere Vektoren sind linear abh\u00e4ngig, wenn man aus ihnen mit einer Linearkombination \u2013 mit Skalaren bzw. Faktoren, die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://welt-der-bwl.de/Lineare-Abh%25C3%25A4ngigkeit-Vektoren&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAZ6BAgCEAE&usg=AOvVaw3xLWBSw_I5zhJrPyk0rIMJ",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] \u00a7 5 Lineare Abh\u00e4ngigkeit und lineare Unabh\u00e4ngigkeit von Vektorenwww.extremstark.de \u203a Mathematik \u203a Geoskript \u203a 05 Lineare Abhaeng...",
+    "link": "http://www.extremstark.de/Mathematik/Geoskript/05%20Lineare%20Abhaengigkeit%20und%20lineare%20Unabhaengigkeit%20von%20Vektoren.pdf",
+    "description": "Der Vektor c h\u00e4ngt somit von den Vektoren a und b ab. Man nennt die Vektoren a , b und c linear abh\u00e4ngig. Im ersten Beispiel dagegen l\u00e4sst sich keiner der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.extremstark.de/Mathematik/Geoskript/05%2520Lineare%2520Abhaengigkeit%2520und%2520lineare%2520Unabhaengigkeit%2520von%2520Vektoren.pdf&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAd6BAgEEAE&usg=AOvVaw2AP0ZHBLlZM9Lq44qza8zr",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] L\u00f6sung des 6.\u00a8Ubungsblattes - Userpage.FU-Berlin.DE (ZEDAT)userpage.fu-berlin.de \u203a mws \u203a lina0910 \u203a loesungen \u203a loesung06",
+    "link": "http://userpage.fu-berlin.de/mws/L/09W/lina0910/loesungen/loesung06.pdf",
+    "description": "genschaft, dass je zwei der Vektoren linear unabh\u00e4ngig \u00fcber R sind, also ein linear unabh\u00e4ngiges. System im R-Vektorraum Rn bilden? L\u00f6sung. Solch eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://userpage.fu-berlin.de/mws/L/09W/lina0910/loesungen/loesung06.pdf&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAh6BAgAEAE&usg=AOvVaw3Ii0U7g5YzFKDcsXlCe90-",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit und Unabh\u00e4ngigkeit - Analytische Geometrie ...learnattack.de \u203a Sch\u00fclerlexikon \u203a Mathematik Sch\u00fclerlexikon",
+    "link": "https://learnattack.de/schuelerlexikon/mathematik/lineare-abhaengigkeit-und-unabhaengigkeit",
+    "description": "Bei linear unabh\u00e4ngigen Vektoren ist das nicht m\u00f6glich. (Beispielsweise kann man einen Vektor, der \u201enach oben\u201c zeigt, nicht aus zwei Vektoren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://learnattack.de/schuelerlexikon/mathematik/lineare-abhaengigkeit-und-unabhaengigkeit&sa=U&ved=2ahUKEwj6-83l-77vAhUprFkKHamKC-w4HhAWMAl6BAgGEAE&usg=AOvVaw1HUqDSXd0LWk-2J2REQRDa",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit - Mathepediamathepedia.de \u203a Lineare_Abhaengigkeit_in_Vektorraeumen",
+    "link": "https://mathepedia.de/Lineare_Abhaengigkeit_in_Vektorraeumen.html",
+    "description": "Ein einzelner Vektor ist nach der obigen Definition genau dann linear unabh\u00e4ngig, wenn er verschieden vom Nullvektor ist. Beispiele. Der Nullvektor ist linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathepedia.de/Lineare_Abhaengigkeit_in_Vektorraeumen.html&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAB6BAgBEAE&usg=AOvVaw3ZGZPXDhF-kX8v9RsEsZ_Y",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit - Studimup.dewww.studimup.de \u203a lineare-algebra \u203a vektorr\u00e4ume \u203a lineare-unabh\u00e4ngigkeit",
+    "link": "https://www.studimup.de/lineare-algebra/vektorr%C3%A4ume/lineare-unabh%C3%A4ngigkeit/",
+    "description": "linear unabh\u00e4ngig, wenn sich keiner der Vektoren mithilfe der Linearkombination zusammenbasteln l\u00e4sst. Mathematische Definition. Definition: Sei L\u2282V eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.studimup.de/lineare-algebra/vektorr%25C3%25A4ume/lineare-unabh%25C3%25A4ngigkeit/&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAF6BAgHEAE&usg=AOvVaw0Xg-G2orNDTW74kMIuRHJJ",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Allgemeine Vektorr\u00e4ume - TU Freibergtu-freiberg.de \u203a sites \u203a default \u203a files \u203a media \u203a bernstein \u203a vektr13",
+    "link": "https://tu-freiberg.de/sites/default/files/media/fakultaet-fuer-mathematik-und-informatik-fakultaet-1-9277/bernstein/vektr13.pdf",
+    "description": "260. Lernziele 12. \u2022 Vektorraum. \u2022 Linearkombination, linear abh\u00e4ngig, linear unabh\u00e4ngig. \u2022 Rang einer Matrix. \u2022 Rangsatz f\u00fcr lineare Gleichungssysteme. 253\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://tu-freiberg.de/sites/default/files/media/fakultaet-fuer-mathematik-und-informatik-fakultaet-1-9277/bernstein/vektr13.pdf&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAJ6BAgJEAE&usg=AOvVaw1hi55rB-49CQmldQ-YdNvb",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit von Vektoren im Raum \u2013 GeoGebrawww.geogebra.org \u203a NETSyQHq",
+    "link": "https://www.geogebra.org/m/NETSyQHq",
+    "description": "(Ansicht drehen beim Button \"ABC\" unter \"Drehe die 3D Grafik-Ansicht\") Sind die drei Vektoren linear unabh\u00e4ngig oder nicht? Woran erkennen Sie das?",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/NETSyQHq&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAN6BAgIEAE&usg=AOvVaw0mqCSi42XpePd73gqH48rk",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "9.3. Lineare Unabh\u00e4ngigkeit - mathprojectwww.mathproject.de \u203a LineareAlgebra",
+    "link": "http://www.mathproject.de/LineareAlgebra/9_3.html",
+    "description": "Eine Darstellung des Nullvektors gem\u00e4\u00df 3. nennt man eine nicht-triviale Darstellung der Null (in < v 1 ,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathproject.de/LineareAlgebra/9_3.html&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAR6BAgEEAE&usg=AOvVaw3JbhsUWbu46Civy_45SNmF",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Lineare Unabh\u00e4ngigkeit eines einzelnen Vektors | Matheloungewww.mathelounge.de \u203a lineare-unabhangigkeit-eines-einzelnen-vektors",
+    "link": "https://www.mathelounge.de/703615/lineare-unabhangigkeit-eines-einzelnen-vektors",
+    "description": "Im Folgenden stehe 0v f\u00fcr den Nullvektor: Das System (0v) das nur den Nullvektor enth\u00e4lt ist linear abh\u00e4ngig. Eine nichttriviale\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/703615/lineare-unabhangigkeit-eines-einzelnen-vektors&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAV6BAgFEAE&usg=AOvVaw1CggnsntCf28xgI6a1uDHK",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Aufgabe 1 (4 BE) Aufgabe 2 (6 BE)www.math.uni-leipzig.de \u203a ~wuschke \u203a uploads \u203a schule \u203a Aufgabe1...",
+    "link": "http://www.math.uni-leipzig.de/~wuschke/uploads/schule/11gk/Aufgabe18_loes.pdf",
+    "description": "Lineare Abh\u00e4ngigkeit und Unabh\u00e4ngigkeit von Vektoren (19.03.2020) ... \u00dcberpr\u00fcfen Sie, ob die Vektoren voneinander linear abh\u00e4ngig oder unabh\u00e4ngig sind.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uni-leipzig.de/~wuschke/uploads/schule/11gk/Aufgabe18_loes.pdf&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAZ6BAgCEAE&usg=AOvVaw1nAATojIPNnX_PHsZon7fF",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Lineare Unabh\u00e4ngigkeitmethodenlehre.uni-mainz.de \u203a 2019/04 \u203a LineareUnabhaengigkeit",
+    "link": "https://methodenlehre.uni-mainz.de/files/2019/04/LineareUnabhaengigkeit.pdf",
+    "description": "D.H.: Einen Vektor durch eine Linearkombination der anderen ausdr\u00fccken und durch eine Linearkombination aller Vektoren den Nullvektor erzeugen ist.",
+    "googleLink": "http://www.google.com/url?q=https://methodenlehre.uni-mainz.de/files/2019/04/LineareUnabhaengigkeit.pdf&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAd6BAgAEAE&usg=AOvVaw0fvm8vwIHwt7SaHjQkxK-E",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Lineare Abh\u00e4ngigkeit von 3 Vektoren verstehen! - Mathe Lerntippswww.mathe-lerntipps.de \u203a lineare-abhaengigkeit-3-vektoren",
+    "link": "https://www.mathe-lerntipps.de/lineare-abhaengigkeit-3-vektoren/",
+    "description": "Da die Determinante gleich Null ist, sind die Vektoren linear Abh\u00e4ngig! \u2190 Lineare Abh\u00e4ngigkeit 2 Vektoren \u00b7 Spatprodukt \u2192. Share This Post:.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-lerntipps.de/lineare-abhaengigkeit-3-vektoren/&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAh6BAgDEAE&usg=AOvVaw0SKiikPNB79fgulTp7-mEm",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Mathematik - Lineare Algebra - Lineare Unabh\u00e4ngigkeit und ...www.gymbase.de \u203a index \u203a themeng12 \u203a algebra_02",
+    "link": "http://www.gymbase.de/index/themeng12/ma/algebra_02.php",
+    "description": "Dies bedeutet, die Vektoren sind linear unabh\u00e4ngig. Die Zweite L\u00f6sungsm\u00f6glichkeit w\u00e4ren unendlich viele L\u00f6sungen. Kommt dies vor sind die Vektoren linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.gymbase.de/index/themeng12/ma/algebra_02.php&sa=U&ved=2ahUKEwjGqfDl-77vAhVCq1kKHf17BjU4KBAWMAl6BAgGEAE&usg=AOvVaw10KILSj_hKipFwRTqPwF3I",
+    "page": 4,
+    "index": 9
+  }
+]

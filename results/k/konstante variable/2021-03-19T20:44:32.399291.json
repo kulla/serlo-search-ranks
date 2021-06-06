@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Konstante und Variable - lernen mit Serlo!de.serlo.org \u203a mathe \u203a konstante-und-variable",
+    "link": "https://de.serlo.org/mathe/1711/konstante-und-variable",
+    "description": "Beim Betrachten von Funktionen fallen manchmal die Begriffe \"Variable\" und \"Konstante\". Man bezieht sich hierbei auf das Verhalten einer Zahl, wenn man das Funktionsargument ver\u00e4ndert. Ist sie ver\u00e4nderlich, so nennt man sie Variable, bleibt sie gleich, hei\u00dft sie Konstante.",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/mathe/1711/konstante-und-variable&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFnoECAYQAg&usg=AOvVaw37MRPpmHvjpavb8JaxAZw5",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Konstante Variablen | C-HowTowww.c-howto.de \u203a Tutorial Start \u203a Variablen & Konstanten",
+    "link": "https://www.c-howto.de/tutorial/variablen-konstanten/konstante-variablen/",
+    "description": "Konstante Variablen. In der Programmierung kommt es oft vor, dass man einen konstanten Wert an vielen verschiedenen Stellen im Programm ben\u00f6tigt. Wenn wir\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.c-howto.de/tutorial/variablen-konstanten/konstante-variablen/&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFjAKegQICRAB&usg=AOvVaw2nQl4i-rYJUwLuxRNsVmGQ",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Konstante (Programmierung) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Konstante_(Programmierung)",
+    "link": "https://de.wikipedia.org/wiki/Konstante_(Programmierung)",
+    "description": "Eine Konstante (von lateinisch constans \u201afeststehend') in einem Computerprogramm ist ein Beh\u00e4lter f\u00fcr eine Gr\u00f6\u00dfe, die nach der Zuweisung nicht ver\u00e4ndert werden kann. Das Gegenst\u00fcck dazu ist eine Variable.",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Konstante_(Programmierung)&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFjALegQIAhAB&usg=AOvVaw03L9wXTZ_KpJwa9rOtkkui",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "D-Programmierung: Konstanten Variablen \u2013 Wikibooks, Sammlung ...de.wikibooks.org \u203a wiki \u203a D-Programmierung:_Konstanten_Variablen",
+    "link": "https://de.wikibooks.org/wiki/D-Programmierung:_Konstanten_Variablen",
+    "description": "Konstanten und VariablenBearbeiten. Zuerst erkl\u00e4re ich in diesem Kapitel was Konstanten und Variablen sind. Und da beide viele gemeinsame Eigenschaften\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/D-Programmierung:_Konstanten_Variablen&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFjAMegQICBAB&usg=AOvVaw1LyBsDFFlXhtU1UFpgVOE9",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Variablen, Konstantenlink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-3-7091-0393-7_5.pdf",
+    "description": "Eine Variable bzw. eine Konstante hat folgende grundlegende Eigenschaften: \u2022 Name: Variablen und Konstanten werden mit eindeutigen Namen identifiziert.",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-3-7091-0393-7_5.pdf&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFjANegQIBxAB&usg=AOvVaw1x-fGUQ05PCbqNn7rqXxCV",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "konstante variable - English translation \u2013 Lingueewww.linguee.com \u203a german-english \u203a translation \u203a konstante+variable",
+    "link": "https://www.linguee.com/german-english/translation/konstante+variable.html",
+    "description": "Many translated example sentences containing \"konstante variable\" \u2013 English-\u200bGerman dictionary and search engine for English translations.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.com/german-english/translation/konstante%2Bvariable.html&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFjAOegQIBRAB&usg=AOvVaw1xE8fNcXcTJHDN_3OnkbY0",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "2.2.6 Konstante mit Variablennamenwww.numa.uni-linz.ac.at \u203a Lectures \u203a Kurs-C \u203a Script \u203a html \u203a node19",
+    "link": "https://www.numa.uni-linz.ac.at/Teaching/Lectures/Kurs-C/Script/html/node19.html",
+    "description": "Constants and variables #include <iostream.h> main() { const int N = 5; // The only initialization of constant int i, j = 5; // First initialization of variable cout\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.numa.uni-linz.ac.at/Teaching/Lectures/Kurs-C/Script/html/node19.html&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFjAPegQIAxAB&usg=AOvVaw07ebiA64RuCHoIWLDNj3Ud",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Variablen (Mathe): Definition und Rechnen - auf gut-erklaert.dewww.gut-erklaert.de \u203a mathematik \u203a variablen-definition-rechnen",
+    "link": "https://www.gut-erklaert.de/mathematik/variablen-definition-rechnen.html",
+    "description": "28.12.2017 \u00b7 Konstanten sind im Prinzip \"feste Zahlen\". Variable und Konstante. Setzt man f\u00fcr x eine Zahl ein, kann man damit y berechnen. Oder umgekehrt:\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gut-erklaert.de/mathematik/variablen-definition-rechnen.html&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFjAUegQIARAB&usg=AOvVaw01CsnpfiuI9vs-ma_XPKZz",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Konstante und Variable (Mathematik) - [ Deutscher Bildungsserver ]www.bildungsserver.de \u203a Suche \u203a Onlineressourcen",
+    "link": "https://www.bildungsserver.de/onlineressource.html?onlineressourcen_id=56029",
+    "description": "04.03.2014 \u00b7 Beim betrachten von Funktionen fallen manchmal die Begriffe \"variable\" und \"\u200bkonstante\". Man bezieht sich hierbei auf das Verhalten einer Zahl\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.bildungsserver.de/onlineressource.html%3Fonlineressourcen_id%3D56029&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFjAVegQIChAB&usg=AOvVaw0_TSA7JVLNzYKSqpN3d8e0",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Was sind Variable und Konstante? (Schule, Mathe, Mathematik)www.gutefrage.net \u203a frage \u203a was-sind-variable-und-konstante",
+    "link": "https://www.gutefrage.net/frage/was-sind-variable-und-konstante",
+    "description": "Variablen sind variabel, Konstanten sind konstant. Variabel bedeutet ver\u00e4nderbar, konstant bedeutet gleichbleibend. Eine Variable hat also keinen festen Wert,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gutefrage.net/frage/was-sind-variable-und-konstante&sa=U&ved=2ahUKEwjTw-SKj73vAhWUjeYKHbhED3MQFjAWegQICxAB&usg=AOvVaw0b62hzn7GKRIioCmHQYYEQ",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Eine variable Konstante? - Spektrum der Wissenschaftwww.spektrum.de \u203a Physik",
+    "link": "https://www.spektrum.de/news/eine-variable-konstante/342548",
+    "description": "07.05.1999 \u00b7 Wie konstant sind physikalische Konstanten? Diese scheinbar paradoxe Fragestellung k\u00f6nnte f\u00fcr moderne Theorien durchaus von Bedeutung\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.spektrum.de/news/eine-variable-konstante/342548&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAB6BAgEEAE&usg=AOvVaw1vZPmPGAopFzKp_TG_NUen",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] 3.2.1. Variable, Konstante, Literale - TU Darmstadtwww.ke.tu-darmstadt.de \u203a lehre \u203a archiv \u203a material \u203a AI-3-b-Objekte",
+    "link": "https://www.ke.tu-darmstadt.de/lehre/archiv/ws0607/ai1/material/AI-3-b-Objekte.pdf",
+    "description": "Mit der Einrichtung von \u201dvar\u201c als einer Konstanten anstelle einer. Variablen verbaut man sich ja M\u00f6glichkeiten. Sinn: \u25cb Oft ist ein Objekt von seiner inneren Logik\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ke.tu-darmstadt.de/lehre/archiv/ws0607/ai1/material/AI-3-b-Objekte.pdf&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAF6BAgJEAE&usg=AOvVaw3A4NULA7Hz_qUQgWYjC0Uh",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "PHP - Grundlagen - Variablen - Konstanten - Peter Kropffwww.peterkropff.de \u203a site \u203a php \u203a konstanten",
+    "link": "https://www.peterkropff.de/site/php/konstanten.htm",
+    "description": "Konstanten stellen eine ganz spezielle Form von Variablen dar und unterscheiden sich von ... Konstanten m\u00fcssen mit dem Befehl define definiert werden.",
+    "googleLink": "http://www.google.com/url?q=https://www.peterkropff.de/site/php/konstanten.htm&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAJ6BAgIEAE&usg=AOvVaw123Ydum8ALBYbSYM-15H3l",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "JavaScript: Variablen und Konstanten - molilymolily.de \u203a variablen",
+    "link": "https://molily.de/js/variablen.html",
+    "description": "JavaScript: Variablen und Konstanten. Einf\u00fchrung; Variablen deklarieren ohne Wert; Mehrere Variablen deklarieren; Geltungsbereiche; Globale Variablen ( var )\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://molily.de/js/variablen.html&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAN6BAgHEAE&usg=AOvVaw0PW5WAN8biycbWd_FZGqb1",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "JavaScript/Variable/const \u2013 SELFHTML-Wikiwiki.selfhtml.org \u203a wiki \u203a JavaScript \u203a Variable \u203a const",
+    "link": "https://wiki.selfhtml.org/wiki/JavaScript/Variable/const",
+    "description": "27.02.2017 \u00b7 Dabei wird analog zur Initialisierung einer Variable ein Bezeichner an einen Wert gebunden, mit dem Unterschied, dass bei einer Konstante\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.selfhtml.org/wiki/JavaScript/Variable/const&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAR6BAgFEAE&usg=AOvVaw1moJk0gBLSrbRFfZoXmaba",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "konstante variable - Englisch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a deutsch-englisch \u203a uebersetzung \u203a konstante+variable",
+    "link": "https://www.linguee.de/deutsch-englisch/uebersetzung/konstante+variable.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"konstante variable\" \u2013 Englisch-Deutsch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von Englisch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/deutsch-englisch/uebersetzung/konstante%2Bvariable.html&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAV6BAgDEAE&usg=AOvVaw1nhRw2HZxc2UKc5XT6kw6m",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Variablen und Konstanten in Javawww.purl.org \u203a stefan_ram \u203a pub \u203a variablen_konstanten_java",
+    "link": "http://www.purl.org/stefan_ram/pub/variablen_konstanten_java",
+    "description": "Das, was in diesem Kurs bisher als \u201eKonstante\u201c bezeichnet wurde, ist in der Sprache der Java -Sprachspezifikation eine final-Variable (4.12.4), dort wird der\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.purl.org/stefan_ram/pub/variablen_konstanten_java&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAZ6BAgBEAE&usg=AOvVaw0rN1psD0U4LJ-XGJggPcFF",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Deklarieren von Konstanten (VBA) | Microsoft Docsdocs.microsoft.com \u203a ... \u203a Sprachreferenz \u203a Visual Basic",
+    "link": "https://docs.microsoft.com/de-de/office/vba/language/concepts/getting-started/declaring-constants",
+    "description": "21.12.2018 \u00b7 Nachdem eine Konstante deklariert wurde, kann sie nicht bearbeitet werden, und ihr kann kein neuer Wert zugewiesen werden.",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/office/vba/language/concepts/getting-started/declaring-constants&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAd6BAgAEAE&usg=AOvVaw3XyVzJjgzieucv33vkxBmC",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Schl\u00fcsselbefehl Constants \u2013 SAP-Wikiwww.berater-wiki.de \u203a Schl\u00fcsselbefehl_Constants",
+    "link": "https://www.berater-wiki.de/Schl%C3%BCsselbefehl_Constants",
+    "description": "Konstanten sind eine kleine Feinheit, die man bewu\u00dft nutzen sollte. ... Verwendung Variable als Konstante ... (keine Neuzuweisung der Variablen lv_de\u200b)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.berater-wiki.de/Schl%25C3%25BCsselbefehl_Constants&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAh6BAgGEAE&usg=AOvVaw3WcQ63NC6xsvLfEIgDwrYM",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Konstanten - Manual - PHPwww.php.net \u203a manual \u203a language.constants.php",
+    "link": "https://www.php.net/manual/de/language.constants.php",
+    "description": "Eine Konstante ist ein Bezeichner (Name) f\u00fcr einen einfachen Wert. ... G\u00fcltigkeitsbereich lesen Sie bitte den Abschnitt \u00fcber den Geltungsbereich von Variablen.",
+    "googleLink": "http://www.google.com/url?q=https://www.php.net/manual/de/language.constants.php&sa=U&ved=2ahUKEwjV9Z2Lj73vAhUiheYKHdeuCkE4ChAWMAl6BAgCEAE&usg=AOvVaw35RwlcbSSdSd9rW1F8YR4H",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Konstanten - Beckhoff Information System - Germaninfosys.beckhoff.com \u203a content \u203a tc3_plc_intro",
+    "link": "https://infosys.beckhoff.com/content/1031/tc3_plc_intro/2529284235.html",
+    "description": "Sie k\u00f6nnen Variablen entweder lokal im Deklarationsteil eines Bausteins oder in einer globalen Variablenliste deklarieren. An welcher Stelle Sie eine Variable\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://infosys.beckhoff.com/content/1031/tc3_plc_intro/2529284235.html&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAB6BAgBEAE&usg=AOvVaw0K_GIRrYD9Nk-aSkJloeYt",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "const - Arduino-Referenzwww.arduino.cc \u203a language \u203a variables \u203a variable-scope-qualifiers \u203a const",
+    "link": "https://www.arduino.cc/reference/de/language/variables/variable-scope-qualifiers/const/",
+    "description": "Der Code zeigt die Verwendung von konstanten Variablen. // Definiere Pi als Konstante const float pi = 3.14; // Variable x zum Speichern des Ergebnisses float x;\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.arduino.cc/reference/de/language/variables/variable-scope-qualifiers/const/&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAF6BAgHEAE&usg=AOvVaw2Qsk3bu0-KrkWmZtcjtaHq",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "G\u00fcltigkeit von Variablen und Konstanten | Herbers Excel-Serverwww.herber.de \u203a vbabasics",
+    "link": "https://www.herber.de/vbabasics/0007.html",
+    "description": "Bewertung  4,9  (251)",
+    "googleLink": "http://www.google.com/url?q=https://www.herber.de/vbabasics/0007.html&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAJ6BAgJEAE&usg=AOvVaw3afg9GmB2FdAnnliWJtsml",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Konstante \u2013 Dorsch - Lexikon der Psychologiedorsch.hogrefe.com \u203a stichwort \u203a konstante",
+    "link": "https://dorsch.hogrefe.com/stichwort/konstante",
+    "description": "Konstante [engl. constant; lat. constans fest, best\u00e4ndig], [FSE], unver\u00e4nderliche Gr\u00f6\u00dfe. ... anzusehen ist, im Ggs. zu den ver\u00e4nderlichen Gr\u00f6\u00dfen (Variable).",
+    "googleLink": "http://www.google.com/url?q=https://dorsch.hogrefe.com/stichwort/konstante&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAN6BAgIEAE&usg=AOvVaw0mOc9muzrFLUcaO0AUNqYI",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "So kannst du Java Konstanten bei der Programmierung nutzen ...mein-javablog.de \u203a java-konstanten",
+    "link": "https://mein-javablog.de/java-konstanten/",
+    "description": "Welcher Unterschied besteht zwischen Konstanten und Java Variablen? ... public class Konstanten { public int konstante;//Variable muss \u00f6ffentlich sein -deshalb\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mein-javablog.de/java-konstanten/&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAR6BAgCEAE&usg=AOvVaw0mj9et8lghXxzKFO-f2cPW",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Rheinwerk Computing :: Java ist auch eine Insel \u2013 5.4 Konstanten ...openbook.rheinwerk-verlag.de \u203a javainsel9 \u203a javainsel_05_004",
+    "link": "https://openbook.rheinwerk-verlag.de/javainsel9/javainsel_05_004.htm",
+    "description": "\u00d6ffentliche statische finale Variablen nehmen konstante Werte auf. Aufz\u00e4hlungen \u00fcber ein enum (die intern aber auch nur \u00f6ffentliche final statische Werte sind).",
+    "googleLink": "http://www.google.com/url?q=https://openbook.rheinwerk-verlag.de/javainsel9/javainsel_05_004.htm&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAV6BAgGEAE&usg=AOvVaw0vHiXsWFj6yv3a-7jNP4Ta",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "PHP: Variablen und Konstanten: $var | a coding projectwww.a-coding-project.de \u203a ratgeber \u203a php \u203a variablen-und-konstanten",
+    "link": "https://www.a-coding-project.de/ratgeber/php/variablen-und-konstanten",
+    "description": "Was ist nun eine Variable und was eine Konstante? Ganz einfach: Der Inhalt einer Variablen kann, wie der Name schon sagt, variieren, ist also ver\u00e4nderlich.",
+    "googleLink": "http://www.google.com/url?q=https://www.a-coding-project.de/ratgeber/php/variablen-und-konstanten&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAZ6BAgDEAE&usg=AOvVaw2SHZsH41lMpYNpDdZljApA",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Konstante - Wiki f\u00fcr die Programmiersprache Rubywiki.ruby-portal.de \u203a Konstante",
+    "link": "https://wiki.ruby-portal.de/Konstante.html",
+    "description": "Konstanten sind \u00e4hnlich wie Variablen Verweise auf ein spezielles Objekt, nur sollte sich der Wert einer Konstanten im gesamten Programm nicht ver\u00e4ndern.",
+    "googleLink": "http://www.google.com/url?q=https://wiki.ruby-portal.de/Konstante.html&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAd6BAgEEAE&usg=AOvVaw3f4YiSsaWG8JtvmqtGm5lO",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Konstanten \u2013 PHP lernen - PHP-Einfach.dewww.php-einfach.de \u203a PHP Tutorial",
+    "link": "https://www.php-einfach.de/php-tutorial/konstanten/",
+    "description": "10.02.2020 \u00b7 Syntax. Um eine Konstante zu definieren, nutzt ihr das Schl\u00fcsselwort const . Auf die Konstante k\u00f6nnt ihr dann zugreifen \u00e4hnlich wie auf Variablen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.php-einfach.de/php-tutorial/konstanten/&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAh6BAgAEAE&usg=AOvVaw3epxMLuIc1DxoQ4tpEM_Hd",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Konstante oder variable Datenrate? - slashCAMwww.slashcam.de \u203a info \u203a Konstante-oder-variable-Datenrate--3014646",
+    "link": "https://www.slashcam.de/info/Konstante-oder-variable-Datenrate--3014646.html",
+    "description": "konstanten oder variablen Bitrate. Ich sehe mir die DVDs an einem normalen. R\u00f6hrenfernseher an und habe eigentlich keinen Unterschied feststellen k\u00f6nnen.",
+    "googleLink": "http://www.google.com/url?q=https://www.slashcam.de/info/Konstante-oder-variable-Datenrate--3014646.html&sa=U&ved=2ahUKEwikvK-Mj73vAhXsILcAHXFDDm04FBAWMAl6BAgFEAE&usg=AOvVaw0fgLnFy7f2DNVlMuVvKpVJ",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Konstante oder variable Datenrate? - slashCAMwww.slashcam.de \u203a info \u203a Konstante-oder-variable-Datenrate--3014646",
+    "link": "https://www.slashcam.de/info/Konstante-oder-variable-Datenrate--3014646.html",
+    "description": "konstanten oder variablen Bitrate. Ich sehe mir die DVDs an einem normalen. R\u00f6hrenfernseher an und habe eigentlich keinen Unterschied feststellen k\u00f6nnen.",
+    "googleLink": "http://www.google.com/url?q=https://www.slashcam.de/info/Konstante-oder-variable-Datenrate--3014646.html&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAB6BAgDEAE&usg=AOvVaw3jGYRCIGXxRx4hwGkgZ0O3",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Inhalt 4.9 Typen, Variable und Konstantewww2.htw-dresden.de \u203a ~sobe \u203a Vorjahre \u203a Vo_Info1_Jg10 \u203a 4_C_T...",
+    "link": "https://www2.htw-dresden.de/~sobe/Vorjahre/Vo_Info1_Jg10/4_C_Typen-Variable-Konstante.pdf",
+    "description": "Type-Umwandlungen durch Typecasts. \u25ab Pr\u00e4prozessorkonstanten und Makro- Funktionen durch #define. 4.9 Typen, Variable und Konstante. 149. Informatik I\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www2.htw-dresden.de/~sobe/Vorjahre/Vo_Info1_Jg10/4_C_Typen-Variable-Konstante.pdf&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAF6BAgJEAE&usg=AOvVaw2BA6htVuZ3mFKxvt9jH03C",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Javascript const \u2013 Konstante | mediaevent.dewww.mediaevent.de \u203a javascript \u203a const",
+    "link": "https://www.mediaevent.de/javascript/const.html",
+    "description": "12.11.2019 \u00b7 Javascript const \u2013 Variablendeklaration mit Block Scope. Javascript Import und Export. Das Schl\u00fcsselwort const definiert einen Wert oder die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mediaevent.de/javascript/const.html&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAJ6BAgIEAE&usg=AOvVaw2RoCU2Q8a4-Dvq8sqp6K7g",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Konstante / variable - Suchedni\u00f3w Naturalniesuchedniownaturalnie.pl \u203a konstante-variable",
+    "link": "https://suchedniownaturalnie.pl/de/konstante-variable/",
+    "description": "Home; Konstante / variable. Die Geschichte der Ansiedlung Suchedni\u00f3w reicht viele Jahrhunderte zur\u00fcck \u2013 wir befinden uns im Altpolnischen Industriegebiet,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://suchedniownaturalnie.pl/de/konstante-variable/&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAN6BAgHEAE&usg=AOvVaw21-e0EnsYWT47cZPH5_13H",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "PHP Konstanten - Variablen mit festen Werten - EDV-Lehrgangwww.edv-lehrgang.de \u203a Internet \u203a PHP-Programmierung",
+    "link": "https://www.edv-lehrgang.de/php-konstanten/",
+    "description": "Konstanten in PHP. Man kann in PHP eine spezielle Form von Variablen definieren, deren Inhalte nicht variabel sind, sondern fest. Diese werden Konstante\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.edv-lehrgang.de/php-konstanten/&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAR6BAgBEAE&usg=AOvVaw1AHco8pzysQGIYmSSUIxHs",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Konstanten + Aufz\u00e4hlungen - Das VBA-Tutorialwww.vba-tutorial.de \u203a variablen \u203a konstanten",
+    "link": "https://www.vba-tutorial.de/variablen/konstanten.htm",
+    "description": "Gelegentlich steht bei einer Variablen von vornherein fest, dass sie ihren Wert niemals \u00e4ndern soll. In Visual Basic f\u00fcr Applikationen kann man dazu Konstante \u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.vba-tutorial.de/variablen/konstanten.htm&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAV6BAgEEAE&usg=AOvVaw22hJO-2UcrfnjLRbdscFDK",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Wie kann ich eine konstante Variable beschreiben? | C++ Communitywww.c-plusplus.net \u203a \u00dcbersicht \u203a C++ (alle ISO-Standards)",
+    "link": "https://www.c-plusplus.net/forum/topic/221405/wie-kann-ich-eine-konstante-variable-beschreiben",
+    "description": "Hi, ich habe folgendes Problem: Ich will einen Struct erzeugen, in dem zwei Variablen konstant sind und diesen dann speichern. Die zwei\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.c-plusplus.net/forum/topic/221405/wie-kann-ich-eine-konstante-variable-beschreiben&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAZ6BAgFEAE&usg=AOvVaw0D_y9QCM0BEpiGCiytxE0T",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Konstanten - fixe Variablen in PHP: define() - PHP-Kurs.comwww.php-kurs.com \u203a konstanten-in-php",
+    "link": "https://www.php-kurs.com/konstanten-in-php.htm",
+    "description": "Konstanten - fixe Variablen. Was nun, konstant oder variabel? Konstanten werden einmal definiert und sind in allen Programmteilen verf\u00fcgbar (auch in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.php-kurs.com/konstanten-in-php.htm&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAd6BAgGEAE&usg=AOvVaw0-27EtohhsO0HcWc9xK3uc",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "const - JavaScript | MDNdeveloper.mozilla.org \u203a ... \u203a Anweisungen und Deklarationen",
+    "link": "https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Statements/const",
+    "description": "Die const-Deklaration erstellt eine Konstante. Wie bei der Deklaration einer Variablen mit let ist der G\u00fcltigkeitsbereich auf den lokalen Block begrenzt. Der Wert\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Statements/const&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAh6BAgCEAE&usg=AOvVaw3-ZUWGpTzhmytjf_Vt51mM",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Variablen und Konstanten - B\u00fccher.debilder.buecher.de \u203a zusatz \u203a 10496297_lese_1",
+    "link": "https://bilder.buecher.de/zusatz/10/10496/10496297_lese_1.pdf",
+    "description": "Hierzu gibt es Variablen und Konstanten, mit deren Hilfe man die ... Beispiel eine Variable vom Typ int (Ganzzahl, engl. integer) verwenden, k\u00f6nnen Sie\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://bilder.buecher.de/zusatz/10/10496/10496297_lese_1.pdf&sa=U&ved=2ahUKEwig4cKNj73vAhVk4HMBHZXIBbA4HhAWMAl6BAgAEAE&usg=AOvVaw0ePKCCEeRU0oTYzw-SmSS-",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Hier erfahren Sie, wie Sie eine Java-Konstantenvariable erstellen  www.greelane.com \u203a computerwissenschaften \u203a constant-2034049",
+    "link": "https://www.greelane.com/wissenschaft-technologie-mathematik/computerwissenschaften/constant-2034049",
+    "description": "Hier erfahren Sie, wie Sie eine Java-Konstantenvariable erstellen",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.greelane.com/wissenschaft-technologie-mathematik/computerwissenschaften/constant-2034049&ved=2ahUKEwiUoYyPj73vAhUkgtgFHUedAkc4KBAWMAF6BAgKEAE&usg=AOvVaw14GaPNsN2vyMOZjN_aLPF5",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Konstante \u2022 Definition | Gabler Wirtschaftslexikon  wirtschaftslexikon.gabler.de \u203a ... \u203a Angewandte Wirtschaftsmathematik",
+    "link": "https://wirtschaftslexikon.gabler.de/definition/konstante-41561",
+    "description": "Konstante \u2022 Definition | Gabler Wirtschaftslexikon",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://wirtschaftslexikon.gabler.de/definition/konstante-41561&ved=2ahUKEwiUoYyPj73vAhUkgtgFHUedAkc4KBAWMAJ6BAgJEAE&usg=AOvVaw0ziUGdukBuh-WOIFwgp4uc",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Variable \u2013 Online Lexikon f\u00fcr Psychologie und P\u00e4dagogik  lexikon.stangl.eu \u203a variable",
+    "link": "https://lexikon.stangl.eu/5295/variable",
+    "description": "Variable \u2013 Online Lexikon f\u00fcr Psychologie und P\u00e4dagogik",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://lexikon.stangl.eu/5295/variable&ved=2ahUKEwiUoYyPj73vAhUkgtgFHUedAkc4KBAWMAN6BAgHEAE&usg=AOvVaw2_tt0TpenzM3XYXmIML07y",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Allgemeines \u00fcber Variablen und Konstanten | - Delphi-Treff  www.delphi-treff.de \u203a object-pascal \u203a allgemeines-ueber-variablen-und-ko...",
+    "link": "https://www.delphi-treff.de/object-pascal/allgemeines-ueber-variablen-und-konstanten/",
+    "description": "Allgemeines \u00fcber Variablen und Konstanten | - Delphi-Treff",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.delphi-treff.de/object-pascal/allgemeines-ueber-variablen-und-konstanten/&ved=2ahUKEwiUoYyPj73vAhUkgtgFHUedAkc4KBAWMAR6BAgIEAE&usg=AOvVaw1nO6LipRyMQobNweCVPKsQ",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "PowerShell-Grundlagen: Arbeiten mit Variablen und Konstanten  www.computerweekly.com \u203a tipp \u203a PowerShell-Grundlagen-Arbeiten-mit-...",
+    "link": "https://www.computerweekly.com/de/tipp/PowerShell-Grundlagen-Arbeiten-mit-Variablen-und-Konstanten",
+    "description": "PowerShell-Grundlagen: Arbeiten mit Variablen und Konstanten",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.computerweekly.com/de/tipp/PowerShell-Grundlagen-Arbeiten-mit-Variablen-und-Konstanten&ved=2ahUKEwiUoYyPj73vAhUkgtgFHUedAkc4KBAWMAV6BAgGEAE&usg=AOvVaw0Mo45_zoisY9Y6UZzVpDQq",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Was ist was? Zahlen, Variablen, Konstanten ... - www.mathefragen.de  www.mathefragen.de \u203a frage \u203a was-ist-was-zahlen-variablen-konstanten-ter...",
+    "link": "https://www.mathefragen.de/frage/q/69bfe8700aa5f16f/was-ist-was-zahlen-variablen-konstanten-terme-gleichungen-ungleichungen-funktionsgleichnungen-und-formeln/",
+    "description": "Was ist was? Zahlen, Variablen, Konstanten ... - www.mathefragen.de",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.mathefragen.de/frage/q/69bfe8700aa5f16f/was-ist-was-zahlen-variablen-konstanten-terme-gleichungen-ungleichungen-funktionsgleichnungen-und-formeln/&ved=2ahUKEwiUoYyPj73vAhUkgtgFHUedAkc4KBAWMAZ6BAgCEAE&usg=AOvVaw2cd1SbNLUzN2w3--vEu4H1",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "konstante Variable - STATISTIK-FORUM.de - Hilfe und Beratung bei ...  www.statistik-forum.de \u203a Statistische Verfahren \u203a Korrelationen",
+    "link": "http://www.statistik-forum.de/korrelationen-f10/konstante-variable-t7473.html",
+    "description": "konstante Variable - STATISTIK-FORUM.de - Hilfe und Beratung bei ...",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Statische Variablen, Konstanten und Methoden in Java  www.programmierenlernenhq.de \u203a Java",
+    "link": "https://www.programmierenlernenhq.de/statische-variablen-konstanten-und-methoden-in-java/",
+    "description": "Statische Variablen, Konstanten und Methoden in Java",
+    "googleLink": "http://www.google.com/url?esrc=s&frm=1&q=&rct=j&sa=U&url=https://www.programmierenlernenhq.de/statische-variablen-konstanten-und-methoden-in-java/&ved=2ahUKEwiUoYyPj73vAhUkgtgFHUedAkc4KBAWMAh6BAgDEAE&usg=AOvVaw1x2j3LZeUyHWr-phDHXS-h",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Variable (Merkmal) - ESWF  eswf.uni-koeln.de \u203a glossar \u203a node10",
+    "link": "http://eswf.uni-koeln.de/glossar/node10.html",
+    "description": "Variable (Merkmal) - ESWF",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  }
+]

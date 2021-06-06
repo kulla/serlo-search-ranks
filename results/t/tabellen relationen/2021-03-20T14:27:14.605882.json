@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Relation (Datenbank) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Relation_(Datenbank)",
+    "link": "https://de.wikipedia.org/wiki/Relation_(Datenbank)",
+    "description": "Relationen als Tabellen\n\n In Tabellenform entsprechen die Attribute den Spaltenk\u00f6pfen, die Attributwerte den in den Spalten vorhandenen Eintr\u00e4gen. ... Sowohl der Zusammenhang von Attributen bzw. Attributwerten innerhalb einer Tabelle als auch eine Verkn\u00fcpfung von Tabellen durch Fremdschl\u00fcssel stellen eine Relation dar.",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Relation_(Datenbank)&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QFnoECAUQAg&usg=AOvVaw3Cy_40xKMzZ8R_73EXgrnH",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Beziehungen in Datenbanken | Datenmodellierung Grundlagenwww.datenbanken-verstehen.de \u203a Datenmodellierung",
+    "link": "https://www.datenbanken-verstehen.de/datenmodellierung/beziehungen-datenbanken/",
+    "description": "Bewertung  3,6  (191)",
+    "googleLink": "http://www.google.com/url?q=https://www.datenbanken-verstehen.de/datenmodellierung/beziehungen-datenbanken/&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QFjACegQIDBAB&usg=AOvVaw0QSOItBwylFzblZofHlHEA",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Relation :: relation :: ITWissen.infowww.itwissen.info \u203a Relation-relation",
+    "link": "https://www.itwissen.info/Relation-relation.html",
+    "description": "01.02.2010 \u00b7 Aus Sicht einer Datenbank bezieht sich eine Relation nicht auf die Beziehung zwischen Tabellen. Vielmehr besteht ein relationales\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.itwissen.info/Relation-relation.html&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QFjADegQIBxAB&usg=AOvVaw3-nQIiaPdtnVZoS9yOKfSj",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "13.16 Relationen versus Tabellen - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=5zXyKIPi7jM",
+    "description": "13.05.2013 \u00b7 Komplette Liste der Videos und zus\u00e4tzliches Material auf http://\u200bdatenbankenlernen ...Dauer: 2:53\nGepostet: 13.05.2013",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D5zXyKIPi7jM&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QtwIwEXoECAMQAQ&usg=AOvVaw0BfxQ8TewY2M4nzvPxqpcP",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Relationen - Tabellen verbinden und mit PHP nutzen - PHP-Kurs.comwww.php-kurs.com \u203a relationen-tabellen-verbinden",
+    "link": "https://www.php-kurs.com/relationen-tabellen-verbinden.htm",
+    "description": "Anhand einer Adressverwaltung sehen wir uns am praktischen Beispiel Relationen an und wie Tabellen miteinander verbunden werden. Aufgabe: Erstellen Sie\u00a0...\n\nId: f\u00fcr die eindeutige Zugriffsm\u00f6glichkeit\nNachname, vorname, strasse: irgendwie selbstredend\nEmail: die E-Mail-Adresse der Person\nPlz: 5-stellig \u2013 um das Beispiel einfach zu halten, werden wir nur 5-stellige Postleitzahlen erfassen",
+    "googleLink": "http://www.google.com/url?q=https://www.php-kurs.com/relationen-tabellen-verbinden.htm&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QFjASegQICRAB&usg=AOvVaw0alm-V0TuKwP1JbhPW4ol-",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Tabellen (Relationen) - lernen mit Serlo!de.serlo.org \u203a informatik \u203a tabellen-relationen",
+    "link": "https://de.serlo.org/informatik/160124/tabellen-relationen",
+    "description": "Tabellen (Relationen) ... Dabei gibt es wie bei jeder Tabelle Spalten und Zeilen. ... In Relationen darf (im Gegensatz zur Tabelle) jeder Datensatz nur genau\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/160124/tabellen-relationen&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QFjATegQICxAB&usg=AOvVaw1tMu286H4L35GLrRSIxFcD",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Grundkurs Datenbanken: SQL und das relationale Datenbankmodellentwickler.de \u203a Online \u203a Datenbanken",
+    "link": "https://entwickler.de/online/datenbanken/datenbanken-grundlagen-und-entwurf-115676.html",
+    "description": "23.08.2018 \u00b7 Tabellen (Relationen); Operatoren, d. h. Rechenoperationen f\u00fcr Tabellen ... Der Aufbau einer Tabelle f\u00fcr eine relationale Datenbank kann\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://entwickler.de/online/datenbanken/datenbanken-grundlagen-und-entwurf-115676.html&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QFjAUegQIABAB&usg=AOvVaw1Jr_6-BXmTGokHWQbbhg2W",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Grundlagen des relationalen Datenbankdesigns \u2013 kompakt und klarentwickler.de \u203a Online \u203a PHP",
+    "link": "https://entwickler.de/online/php/grundlagen-relationales-datenbankdesign-579906947.html",
+    "description": "18.09.2019 \u00b7 Eine Tabelle bezeichnet man auch als Relation, daher der Name relationales Datenbanksystem. Eine relationale Datenbank enth\u00e4lt mindestens\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://entwickler.de/online/php/grundlagen-relationales-datenbankdesign-579906947.html&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QFjAZegQIARAB&usg=AOvVaw2XLL6ye4Urf15t2f1jyFgO",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "2.1.1 Relationale Datenbankendbs.uni-leipzig.de \u203a buecher \u203a mrdbs \u203a mrdbs-10",
+    "link": "https://dbs.uni-leipzig.de/buecher/mrdbs/mrdbs-10.html",
+    "description": "In relationalen Datenbanken werden die Daten in Tabellen oder Relationen gespeichert. Jede Relation besteht aus einer bestimmten Anzahl von Spalten oder\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dbs.uni-leipzig.de/buecher/mrdbs/mrdbs-10.html&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QFjAaegQIBhAB&usg=AOvVaw29eCsbn5B3UI6WgXzzgH9f",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Vom ERM zum relationalen Modell - von Tino Hempelwww.tinohempel.de \u203a info \u203a info \u203a datenbank",
+    "link": "https://www.tinohempel.de/info/info/datenbank/erm2codd.htm",
+    "description": "Jeder Entit\u00e4tstyp wird in ein eigenes Relationsschema (Tabelle) abgebildet. ... Es lassen sich die drei Relationen auf zwei reduzieren, wenn zur Kardinalit\u00e4t 1\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tinohempel.de/info/info/datenbank/erm2codd.htm&sa=U&ved=2ahUKEwibs4DS_L7vAhWo1VkKHeDnCn4QFjAbegQICBAB&usg=AOvVaw02Ds1QAY7zXCHNmQKZAaR7",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "MySQL - Grundlagen - Relation - Peter Kropffwww.peterkropff.de \u203a site \u203a mysql \u203a relation",
+    "link": "https://www.peterkropff.de/site/mysql/relation.htm",
+    "description": "In einer relationalen Datenbank kann man besagte Tabellen miteinander verkn\u00fcpfen. Und zwar \u00fcber Schl\u00fcssel. Dabei gibt es ein paar Grundregeln zu denen ich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.peterkropff.de/site/mysql/relation.htm&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAB6BAgEEAE&usg=AOvVaw2Z1Ky2QnEyXE6834CxYu5l",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Advanced SQL - Einstiegstutorial 1 - Die Relationen von Angebotenwww.peterkropff.de \u203a tutorials \u203a advanced_sql_1 \u203a relation_angebot",
+    "link": "https://www.peterkropff.de/tutorials/advanced_sql_1/relation_angebot.htm",
+    "description": "noch mal ganz kurz die Relationen der einzelnen Tabellen. Relation angebot. 3. Die Tabelle markt ... ist sehr einfach gehalten. Zun\u00e4chst mal gibt es die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.peterkropff.de/tutorials/advanced_sql_1/relation_angebot.htm&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAF6BAgHEAE&usg=AOvVaw0Fo005qEkwQOAZI_iD_N_O",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Relationale Datenbanken | Das Datenmodell im \u00dcberblick - IONOSwww.ionos.de \u203a ... \u203a Hosting \u203a Hosting-Technik \u203a Relationale Datenbanken",
+    "link": "https://www.ionos.de/digitalguide/hosting/hosting-technik/relationale-datenbanken/",
+    "description": "Das Datenbank-Managementsystem erstellt im Fall eines Views eine virtuelle Tabelle (logische Relation) auf Basis physischer Tabellen. Auf diese Views\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ionos.de/digitalguide/hosting/hosting-technik/relationale-datenbanken/&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAJ6BAgIEAE&usg=AOvVaw0_0R3rPqgSYQ1vkI8ofFEF",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Relationale Datenbanken - einfach erkl\u00e4rt f\u00fcr dein Studium! \u00b7 [mit ...studyflix.de \u203a informatik \u203a relationale-datenbanken-600",
+    "link": "https://studyflix.de/informatik/relationale-datenbanken-600",
+    "description": "29.11.2018 \u00b7 Die Mathematik beschreibt Datenbanken als Relationen. Dabei steht der Tabellenname f\u00fcr den Namen der Relation zwischen den Daten, der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/informatik/relationale-datenbanken-600&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAN6BAgJEAE&usg=AOvVaw0sd9HY07ZeWfiwpJRyysxB",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] SQL - Relationale und Objekt-orientierte Datenstrukturentu-dresden.de \u203a cib \u203a dateien \u203a studium \u203a modul_gf9 \u203a Vorlesung_1",
+    "link": "https://tu-dresden.de/bu/bauingenieurwesen/cib/ressourcen/dateien/studium/modul_gf9/Vorlesung_1.pdf",
+    "description": "2) Von Tabellen zu Relationen ... Jede Sicht kann andere Relationen ben\u00f6tigen und andere Topologien bilden: D1=(O,R1); ... Datenstruktur: Relation (Tabelle).",
+    "googleLink": "http://www.google.com/url?q=https://tu-dresden.de/bu/bauingenieurwesen/cib/ressourcen/dateien/studium/modul_gf9/Vorlesung_1.pdf&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAR6BAgGEAE&usg=AOvVaw2Cq2sfMKmlU0wrmFCN1kg-",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "08.04.1 Relationen als Tabellen - TIB AV-Portalav.tib.eu \u203a media",
+    "link": "https://av.tib.eu/de/media/9807",
+    "description": "Video in TIB AV-Portal: 08.04.1 Relationen als Tabellen. 49 ... Computeranimation Zusammenhang <Mathematik> Zeichenkette Tabelle Relation <Mathematik>.",
+    "googleLink": "http://www.google.com/url?q=https://av.tib.eu/de/media/9807&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAV6BAgAEAE&usg=AOvVaw3M07Wm-PwlPbnG4CWy0fgZ",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Operationen der Relationenalgebra - von Tino Hempelwww.tinohempel.de \u203a info \u203a info \u203a datenbank \u203a operation",
+    "link": "https://www.tinohempel.de/info/info/datenbank/operation.htm",
+    "description": "Join (Verbund), JAttribute(A,B) A B, Verkn\u00fcpfung zweier Relationen zu einer neuen Relation mit den Attributen beider Tabellen \u00fcber gemeinsame Attribute\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tinohempel.de/info/info/datenbank/operation.htm&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAZ6BAgFEAE&usg=AOvVaw3IL0m6AvRc8TUQ7aaBmon9",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "inf-schule - Beziehungen zwischen Tabellenwww.inf-schule.de \u203a gbuch \u203a datenverknuepfen \u203a konzept_fremdschluessel",
+    "link": "https://www.inf-schule.de/information/datenbanksysteme/gbuch/datenverknuepfen/konzept_fremdschluessel",
+    "description": "Ein relationales Datenbanksystem kann solche Beziehungen garantieren. Das bedeutet, dass nur Werte in den Fremdschl\u00fcsseln erlaubt werden, die auch in der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/information/datenbanksysteme/gbuch/datenverknuepfen/konzept_fremdschluessel&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAd6BAgBEAE&usg=AOvVaw1RcfoQbUzP00IvdZaHHBcY",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Tabellenverkn\u00fcpfungen \u2014 phpMyAdmin 5.2.0-dev Dokumentationdocs.phpmyadmin.net \u203a latest \u203a relations",
+    "link": "https://docs.phpmyadmin.net/de/latest/relations.html",
+    "description": "Bei Verwendung einer InnoDB-Tabelle erzeugt phpMyAdmin echte ... _images/\u200bpma-relations-relation-view-link.png _images/pma-relations-relation-link.png.",
+    "googleLink": "http://www.google.com/url?q=https://docs.phpmyadmin.net/de/latest/relations.html&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAh6BAgCEAE&usg=AOvVaw1iZv607P5MxN55HkgkEvrT",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Relationen zwischen Tabellen im Beziehungsfenster von Microsoft ...www.luis.uni-hannover.de \u203a access \u203a 06_Access_TabelleRelation",
+    "link": "https://www.luis.uni-hannover.de/fileadmin/kurse/material/access/06_Access_TabelleRelation.pdf",
+    "description": "1 : 1 - Relation. \u25ab Beziehungen mit dem Verb \u201eist\u201c oder \u201ehat\u201c bilden eine 1 : 1 \u2013. Beziehung ab. \u25ab Diese Beziehungsart kann in einer Tabelle dargestellt werden\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.luis.uni-hannover.de/fileadmin/kurse/material/access/06_Access_TabelleRelation.pdf&sa=U&ved=2ahUKEwiAjKzS_L7vAhVFu1kKHTrfDvo4ChAWMAl6BAgDEAE&usg=AOvVaw3ul1aae6OkKQjbhRfGben3",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Relationen - LibreOffice Helphelp.libreoffice.org \u203a latest \u203a text \u203a shared \u203a explorer \u203a database",
+    "link": "https://help.libreoffice.org/latest/de/text/shared/explorer/database/05020000.html",
+    "description": "Der Dialog Tabellen hinzuf\u00fcgen wird ge\u00f6ffnet, in dem Sie die Tabellen ausw\u00e4hlen k\u00f6nnen, f\u00fcr welche eine Beziehung erstellt werden soll. Add Table Icon. Tabelle\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://help.libreoffice.org/latest/de/text/shared/explorer/database/05020000.html&sa=U&ved=2ahUKEwiUxtDS_L7vAhXwuFkKHbr6BH84FBAWMAB6BAgCEAE&usg=AOvVaw2l3I6TqU5wkqu02HruKNe3",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Unterschied zwischen Tabelle und Relation? - Entwickler-Forumentwickler-forum.de \u203a showthread.php \u203a 58699-Unterschied-zwischen-Tab...",
+    "link": "https://entwickler-forum.de/showthread.php/58699-Unterschied-zwischen-Tabelle-und-Relation",
+    "description": "als endliche Menge von Tupeln definiert. Dass eine Tabelle eine Darstellungsm\u00f6glichkeit einer Relation + Relationschema ist ist auch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://entwickler-forum.de/showthread.php/58699-Unterschied-zwischen-Tabelle-und-Relation&sa=U&ved=2ahUKEwiUxtDS_L7vAhXwuFkKHbr6BH84FBAWMAF6BAgJEAE&usg=AOvVaw23iKewmu919hoR4IQqU2dV",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Leitfaden f\u00fcr Tabellenbeziehungen - Access - Microsoft Supportsupport.microsoft.com \u203a de-de \u203a office \u203a leitfaden-f\u00fcr-tabellenbeziehungen-...",
+    "link": "https://support.microsoft.com/de-de/office/leitfaden-f%C3%BCr-tabellenbeziehungen-30446197-4fbe-457b-b992-2f6fb812b58f",
+    "description": "Verkn\u00fcpfen von Tabellen in Access-Desktopdatenbanken durch Hinzuf\u00fcgen von Verkn\u00fcpfungen und das Erstellen von Beziehungen.",
+    "googleLink": "http://www.google.com/url?q=https://support.microsoft.com/de-de/office/leitfaden-f%25C3%25BCr-tabellenbeziehungen-30446197-4fbe-457b-b992-2f6fb812b58f&sa=U&ved=2ahUKEwiUxtDS_L7vAhXwuFkKHbr6BH84FBAWMAJ6BAgHEAE&usg=AOvVaw0xv3pMuWL3o68gHJFceory",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "DKD5 Tabellen (plus, minus), Relationen, Gr\u00f6\u00dfen (\u20ac, km, h)www.delto-verlag.de \u203a Tabellen-plus-minus-Relationen-Groessen-km-h",
+    "link": "http://www.delto-verlag.de/Tabellen-plus-minus-Relationen-Groessen-km-h",
+    "description": "12,31\u00a0\u20ac Auf Lager",
+    "googleLink": "http://www.google.com/url?q=http://www.delto-verlag.de/Tabellen-plus-minus-Relationen-Groessen-km-h&sa=U&ved=2ahUKEwiUxtDS_L7vAhXwuFkKHbr6BH84FBAWMAN6BAgIEAE&usg=AOvVaw3TBnDNrJNILUXXES27WXbe",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "OSZ Handel I Datenbanken -Abbildungsregeln f\u00fcr die \u00dcberf\u00fchrung ...www.oszhandel.de \u203a faecher \u203a informatik \u203a datenbanken \u203a modell \u203a abbild",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/datenbanken/modell/abbild.htm",
+    "description": "Bei den Entit\u00e4tstypen ist es klar - sie werden in Relationen (Tabellen) \u00fcberf\u00fchrt. Bei den Beziehungsmengen (Relationship) sind einige Besonderheiten in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oszhandel.de/gymnasium/faecher/informatik/datenbanken/modell/abbild.htm&sa=U&ved=2ahUKEwiUxtDS_L7vAhXwuFkKHbr6BH84FBAWMAR6BAgEEAE&usg=AOvVaw1BFpXmbAhA7Wyr6QHsfnWN",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "1.2 Entwurf - kstbbwww.kstbb.de \u203a informatik \u203a rdb \u203a 1_2_Entwurf",
+    "link": "https://www.kstbb.de/informatik/rdb/01/1_2_Entwurf.html",
+    "description": "Jede Zeile bildet somit einen Datensatz. ER-Modell, \u2192, Relationenmodell, \u2192, Relationale Datenbank. Entit\u00e4tstyp, \u2192, Relation, \u2192, Tabelle.",
+    "googleLink": "http://www.google.com/url?q=https://www.kstbb.de/informatik/rdb/01/1_2_Entwurf.html&sa=U&ved=2ahUKEwiUxtDS_L7vAhXwuFkKHbr6BH84FBAWMAV6BAgBEAE&usg=AOvVaw2mvYMpENzuzknHnUibAMdF",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Datenbankenmediencommunity.de \u203a book \u203a export \u203a html",
+    "link": "https://mediencommunity.de/book/export/html/23987",
+    "description": "besteht aus mindestens einer, meistens aus mehreren Tabellen (Relationen). andere Datenbanken: hierarchische oder objektorientierte. Tabelle = Relation.",
+    "googleLink": "http://www.google.com/url?q=https://mediencommunity.de/book/export/html/23987&sa=U&ved=2ahUKEwiUxtDS_L7vAhXwuFkKHbr6BH84FBAWMAd6BAgFEAE&usg=AOvVaw1FNHzAWwhAZkzjmbencXku",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 1 Arbeiten mit einer Datenbank1 mietet - Werner-von-Siemens ...www.siemens-gymnasium-berlin.de \u203a 30_vomermzurrelation-wpf",
+    "link": "https://www.siemens-gymnasium-berlin.de/sites/default/files/Artikel_oeffentlich/30_vomermzurrelation-wpf.pdf",
+    "description": "Entit\u00e4ten k\u00f6nnen immer nur \u00fcber Relationen miteinander verbunden werden! Eine Relation ... es klar - sie werden in Relationen (Tabellen) \u00fcberf\u00fchrt. Bei den\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.siemens-gymnasium-berlin.de/sites/default/files/Artikel_oeffentlich/30_vomermzurrelation-wpf.pdf&sa=U&ved=2ahUKEwiUxtDS_L7vAhXwuFkKHbr6BH84FBAWMAh6BAgDEAE&usg=AOvVaw0-0CVSbKgKp_JJ8hhWAzcV",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Anleitungen: Relationen und Tabellen | NETZWELTwww.netzwelt.de \u203a Download \u203a Anleitungen",
+    "link": "https://www.netzwelt.de/news/86296_3-anleitung-datenbanken-openoffice-org-base-erstellen.html",
+    "description": "Relationen und Tabellen ... jede Spalte, die er in der sp\u00e4teren Tabelle der Datenbank sehen m\u00f6chte, sogenannte Felder mit Namen und Beschreibung anlegen.",
+    "googleLink": "http://www.google.com/url?q=https://www.netzwelt.de/news/86296_3-anleitung-datenbanken-openoffice-org-base-erstellen.html&sa=U&ved=2ahUKEwiUxtDS_L7vAhXwuFkKHbr6BH84FBAWMAl6BAgAEAE&usg=AOvVaw0o19UO9KHI259Pf7fl2nCZ",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Datenbanken - beim Lab4Infwww.lab4inf.fh-muenster.de \u203a docs \u203a Informatik_II_Datenbanken",
+    "link": "http://www.lab4inf.fh-muenster.de/lab4inf/docs/Informatik-II/Informatik_II_Datenbanken.pdf",
+    "description": "Von Relationen zu Tabellen. \u2022 Die mathematische Notation ist sehr m\u00e4chtig, und bei theoretischen Informatikern beliebt, um z.B. S\u00e4tze und Aussagen zu\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.lab4inf.fh-muenster.de/lab4inf/docs/Informatik-II/Informatik_II_Datenbanken.pdf&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAB6BAgEEAE&usg=AOvVaw1raFdV-mxUJllPZd2TwEVt",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "n:n-Beziehungenfmhelp.filemaker.com \u203a fmp \u203a FMP_Help \u203a many-to-many-relationships",
+    "link": "https://fmhelp.filemaker.com/help/18/fmp/de/FMP_Help/many-to-many-relationships.html",
+    "description": "Relationale Datenbanksysteme erlauben Ihnen gew\u00f6hnlich nicht, eine direkte n-n-Beziehung zwischen zwei Tabellen einzurichten. Betrachten Sie das Beispiel\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://fmhelp.filemaker.com/help/18/fmp/de/FMP_Help/many-to-many-relationships.html&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAF6BAgHEAE&usg=AOvVaw2drJ-z_AqSICmYP0q0UodF",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Einsatz von Prim\u00e4r- und Fremdschl\u00fcssel: Relationen abbilden - ZMSwww.zms-publishing.com \u203a sql_integration \u203a relationen \u203a index_ger",
+    "link": "https://www.zms-publishing.com/content/dokumentation/literatur/professional_manual/sql_integration/relationen/index_ger.html",
+    "description": "Im relationalen Datenbankmodell sind Tabellen \u00fcber \u201eSchl\u00fcssel\u201c verbunden; der Prim\u00e4rschl\u00fcssel ist eine innerhalb der Tabelle f\u00fcr jeden Datensatz eindeutige\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.zms-publishing.com/content/dokumentation/literatur/professional_manual/sql_integration/relationen/index_ger.html&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAJ6BAgJEAE&usg=AOvVaw2QbmjwanwwcMyJPf3Fq3-M",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Relationale Datenbanken - Kapitel 5www.hdm-stuttgart.de \u203a ~riekert \u203a lehre \u203a db-kelz \u203a chap5",
+    "link": "https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap5.htm",
+    "description": "5. Weitere wichtige Begriffe. 5.1 Beziehungen zwischen Tabellen. 1:1 Beziehung: Einem Datensatz einer Tabelle ist genau ein Datensatz einer anderen Tabelle\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap5.htm&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAN6BAgIEAE&usg=AOvVaw1E-n7Tjoxacewd-RwCRn3F",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Relationen im MySQLi - Verkn\u00fcpfung mehrerer Datentabellenwww.winkelb.com \u203a mysql-relationen",
+    "link": "https://www.winkelb.com/mysql-relationen",
+    "description": "Relationen in MySQLi-Datentabellen. Verkn\u00fcpfung von Tabellen f\u00fcr Abfragen. Ein wesentliches Konzept von SQL, auf das auch MySQLi aufbaut, ist das\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.winkelb.com/mysql-relationen&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAR6BAgAEAE&usg=AOvVaw0UtZkngAGok6vthPGUmPZy",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Workflow - Tabellenrelation (Tabelle)help.faveo365.com \u203a help \u203a de-DE",
+    "link": "https://help.faveo365.com/help/de-DE/T_1505.htm",
+    "description": "Gibt Beziehungen zwischen Tabellen an, die im Workflow verwendet werden. Die Informationen werden im Fenster Workflow - Tabellenrelationen angezeigt.",
+    "googleLink": "http://www.google.com/url?q=https://help.faveo365.com/help/de-DE/T_1505.htm&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAV6BAgCEAE&usg=AOvVaw2Rbb0acf4ADuprmFX1DHQ3",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Datenbankmodellierungwww.breitenfellner.info \u203a klassenbereich \u203a downloak \u203a damo",
+    "link": "http://www.breitenfellner.info/klassenbereich/downloak/damo.pdf",
+    "description": "Entit\u00e4ten in Relationen umwandeln. Unter der relationalen Aufl\u00f6sung verstehen wir die Um- wandlung in Tabellen. Relation bedeutet Tabelle . H\u00e4ufig wird das\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.breitenfellner.info/klassenbereich/downloak/damo.pdf&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAZ6BAgDEAE&usg=AOvVaw1gfhs277WwqZtW3n7bkOqq",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Join - I-Moodlewww.imoodle.de \u203a sqltutorial \u203a lektion3",
+    "link": "https://www.imoodle.de/sqltutorial/lektion3.html",
+    "description": "... in das Relationenmodell entstehen daraus mehrere Relationen (Tabellen). ... der Relation Fahrer in die Relation Fahrt als Fremdschl\u00fcssel \u2191PersonalNr in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.imoodle.de/sqltutorial/lektion3.html&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAd6BAgGEAE&usg=AOvVaw3fMtKJduuTLk9uRznoUQ0_",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "3 Das Relationenmodelllink.springer.com \u203a content \u203a pdf",
+    "link": "http://link.springer.com/content/pdf/10.1007%2F978-3-322-91885-7_3.pdf",
+    "description": "Datenbanken erfolgt ausschlie\u00dflich \u00fcber diese Tabellen. F\u00fcr den Laien sieht es ... Wie wir gesehen haben, wird eine Tabelle als Relation bezeichnet. Genau-.",
+    "googleLink": "http://www.google.com/url?q=http://link.springer.com/content/pdf/10.1007%252F978-3-322-91885-7_3.pdf&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAh6BAgBEAE&usg=AOvVaw0X-8Slz7s7bxhOgZ6h66qf",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Fremdschl\u00fcssel-Beziehungen \u2013 Wikibooks, Sammlung freier Lehr ...de.wikibooks.org \u203a wiki \u203a Einf\u00fchrung_in_SQL:_Fremdschl\u00fcssel-Beziehungen",
+    "link": "https://de.wikibooks.org/wiki/Einf%C3%BChrung_in_SQL:_Fremdschl%C3%BCssel-Beziehungen",
+    "description": "In diesem Kapitel werden wir die Verkn\u00fcpfungen zwischen Tabellen \u00fcber Fremdschl\u00fcssel behandeln. Bereits in den einleitenden Kapiteln wurde die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Einf%25C3%25BChrung_in_SQL:_Fremdschl%25C3%25BCssel-Beziehungen&sa=U&ved=2ahUKEwj01fDS_L7vAhUD1VkKHUL3ChY4HhAWMAl6BAgFEAE&usg=AOvVaw1qyKaEweCiiwGbmwWwarWH",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Fremdschl\u00fcssel-Beziehungen \u2013 Wikibooks, Sammlung freier ...de.wikibooks.org \u203a wiki \u203a Einf\u00fchrung_in_SQL:_Fremds...",
+    "link": "https://de.wikibooks.org/wiki/Einf%C3%BChrung_in_SQL:_Fremdschl%C3%BCssel-Beziehungen",
+    "description": "In diesem Kapitel werden wir die Verkn\u00fcpfungen zwischen Tabellen \u00fcber Fremdschl\u00fcssel behandeln. Bereits in den einleitenden Kapiteln wurde die\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Datenmodelle - Confluence Mobil - TUM Wikiwiki.tum.de \u203a display \u203a logistikkompendium \u203a Datenm...",
+    "link": "https://wiki.tum.de/display/logistikkompendium/Datenmodelle",
+    "description": "31.07.2019 \u2014 Etwas irrt\u00fcmlich kann hier der Begriff Relationen verstanden werden, der nicht als Beziehungen, sondern als Tabellen zu verstehen ist.",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Verkn\u00fcpfung \u00fcber Relationen - Combitdocu.combit.net \u203a Documents \u203a verknpfungberrelationen",
+    "link": "https://docu.combit.net/designer/de/Documents/verknpfungberrelationen.htm",
+    "description": "W\u00e4hlen Sie dann die Orders-Tabelle aus. Abbildung 5.5: Tabellen die \u00fcber eine Relation verkn\u00fcpft sind\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Zeilen als Element, Spalten als Attribut, Prim\u00e4rschl\u00fcssel ...www.sql-und-xml.de \u203a Sql-Tutorial",
+    "link": "https://www.sql-und-xml.de/sql-tutorial/primaerschluessel-fremdschluessel-beziehungen.html",
+    "description": "Relationale DBMS verwenden Tabellen = Relationen, die Spalten werden als Attribute bezeichnet und k\u00f6nnen Zeilen eindeutig kennzeichnen.",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Anwendungsentwicklung - Relationen ... - INffORUMwww.infforum.de \u203a themen \u203a se-methode-rm",
+    "link": "http://www.infforum.de/themen/anwendungsentwicklung/se-methode-rm.htm",
+    "description": "Die Formate der Datenbank-Tabellen werden als Schema beschrieben. Die Tabellen im Datenbankschema tragen eindeutige Namen. Jede Tabelle im\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Daten und Datenmodellierung (3) Datenmodellierungcbrell.de \u203a blog \u203a daten-und-datenmodellierung-3",
+    "link": "https://cbrell.de/blog/daten-und-datenmodellierung-3/",
+    "description": "14.10.2018 \u2014 Relationenmodell und Entity-Relationship-Modell \u2013 Datenmodellierung am Beispiel. Relationen sind wie Tabellen. Eine Relation ist die Basis\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "\u00dcbersicht (Datengruppen-Explorer) - GeoASwww.geoas.net \u203a datengruppenexplorer_uebersicht",
+    "link": "http://www.geoas.net/Help/780/GeoAS_Management/datengruppenexplorer_uebersicht.htm",
+    "description": "\u2022nicht-kartierbare Tabellenebene (Relation/Layer) ... F\u00fcgt kartierbare oder nicht-kartierbare Tabellen (Relationen/Ebenen/Layer) einer Gruppe hinzu. Die Daten\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Datenbankanfragen und -operationen mittels SQLwww2.htw-dresden.de \u203a 4_Datenbanken_Teil2",
+    "link": "https://www2.htw-dresden.de/~sobe/InfoMB_Jg14/Vo/4_Datenbanken_Teil2.pdf",
+    "description": "\u00dcber den verschiedenen Tabellen einer Datenbank werden ... Operationen auf Relationen - Projektion. 31 ... Relationenformats einer Relation R projiziert.",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Allgemeine Beschreibung: Relation / Tabelle | Datenbanken ...datenbanken.tsmit.de \u203a allgemeine_beschreibung_relati...",
+    "link": "http://datenbanken.tsmit.de/allgemeine_beschreibung_relation__tabelle.html",
+    "description": "Nehmen wir nochmals die Tabelle Personen. Die Tabelle besteht aus. einer \u00dcberschrift; Spalten (Attribute) mit eindeutigen Spalten\u00fcberschriften; Zeilen (Tupel)\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Grundlagen f\u00fcr die Entwicklung von Datenbankanwendungen ...www.afz.bremen.de \u203a sixcms \u203a Datenbankgrundlagen",
+    "link": "https://www.afz.bremen.de/sixcms/media.php/13/Datenbankgrundlagen.pdf",
+    "description": "7. 3. Relationales Datenmodell. Eine relationale Datenbank *)speichert alle Daten (auch die Daten \u00fcber die Daten) grunds\u00e4tzlich in 'einfachen' Tabellen.",
+    "googleLink": null,
+    "page": 4,
+    "index": 9
+  }
+]

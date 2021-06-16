@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Determinante - Mathebibel.dewww.mathebibel.de \u203a Erkl\u00e4rungen \u203a Algebra",
+    "link": "https://www.mathebibel.de/determinante",
+    "description": "Eine Determinante ist eine Zahl, die einer quadratischen Matrix zugeordnet ist. Auf den ersten Blick unterscheidet sich eine Determinante nur durch eine andere Schreibweise von einer Matrix. Im Gegensatz zu Matrizen lassen sich Determinanten jedoch berechnen.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathebibel.de/determinante&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQFnoECAQQAg&usg=AOvVaw2ybazsFieKSmup-u8nxKRn",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Determinante \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Determinante",
+    "link": "https://de.wikipedia.org/wiki/Determinante",
+    "description": "Determinante \u00b7 Man darf eine Determinante nach einer beliebigen Spalte oder Zeile entwickeln, solange man das schachbrettartige Vorzeichenmuster einh\u00e4lt: \u00b7 Sie\u00a0...\nBegriffskl\u00e4rung \u00b7 Funktionaldeterminante \u00b7 Gramsche Determinante",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Determinante&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQFjAXegQIBxAB&usg=AOvVaw2kmH4efy1m0J9x2LiQhkUn",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Determinante \u2013 Schreibung, Definition, Bedeutung, Synonyme ...www.dwds.de \u203a W\u00f6rterbuch",
+    "link": "https://www.dwds.de/wb/Determinante",
+    "description": "08.11.2017 \u00b7 Berechnung von Determinanten einer 2\u00d72, 3\u00d73, 4\u00d74 und nxn\u2011Matrix [\u00dcberschrift] Eine Determinante ist eine Zahl die einer quadratischen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dwds.de/wb/Determinante&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQFjAYegQIBhAB&usg=AOvVaw0Lmpfmif6RZdBtvxDMoVFj",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Rechenregeln f\u00fcr Determinanten - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=jDerrYHsLcY",
+    "description": "29.12.2019 \u00b7 Die Determinante ist eine Kennzahl quadratischer Matrizen, mit deren Hilfe Aussagen ...Dauer: 13:02Gepostet: 29.12.2019",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DjDerrYHsLcY&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQtwIwGXoECAAQAQ&usg=AOvVaw0hUAiQpzje2ikWaVnFB7iX",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Determinante verst\u00e4ndlich erkl\u00e4rt - StudyHelp Online-Lernenwww.studyhelp.de \u203a Online-Lernen \u203a Mathe \u203a Mathematik f\u00fcr Ingenieure",
+    "link": "https://www.studyhelp.de/online-lernen/mathe/determinante/",
+    "description": "Die Determinante einer Matrix A ( det ( A ) oder | A | ) gibt an, wie sich das Volumen einer aus Eckpunkten zusammengesetzten Geometrie skaliert, wenn diese\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.studyhelp.de/online-lernen/mathe/determinante/&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQFjAaegQICBAB&usg=AOvVaw2c2-xmV0TKzURy7IQG9xPA",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Determinante berechnen \u2022 einfach erkl\u00e4rt \u00b7 [mit Video] - Studyflixstudyflix.de \u203a mathematik \u203a determinante-berechnen-2411",
+    "link": "https://studyflix.de/mathematik/determinante-berechnen-2411",
+    "description": "04.11.2020 \u00b7 Determinante einer Matrix berechnen \u2713 Determinante berechnen 2x2, 3x3 \u2713 Determinante ...Dauer: 3:43Gepostet: 04.11.2020",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/mathematik/determinante-berechnen-2411&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQtwIwG3oECAEQAQ&usg=AOvVaw2zZVd8O8wKUqoK53xqGxu3",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 3.11 Volumen und Determinanten - Website Fachbereich ...info.mathematik.uni-stuttgart.de \u203a HM-Stroppel-Material \u203a determinante",
+    "link": "https://info.mathematik.uni-stuttgart.de/HM-Stroppel-Material/determinante.pdf",
+    "description": "Z3.. . 4. Die Determinante ist alternierend: Wenn man zwei Zeilen vertauscht, \u00e4ndert sich das Vorzeichen. Zum Beispiel gilt det.",
+    "googleLink": "http://www.google.com/url?q=https://info.mathematik.uni-stuttgart.de/HM-Stroppel-Material/determinante.pdf&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQFjAcegQIBRAB&usg=AOvVaw2U7G-U_ACLjKeE-_953twa",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Determinanten | MassMaticswww.massmatics.de \u203a merkzettel",
+    "link": "https://www.massmatics.de/merkzettel/#!400:Determinanten",
+    "description": "Determinanten. Die Determinante ist eine wichtige Kennzahl einer quadratischen n\u00d7n - Matrix A. Man bezeichnet sie \u00fcblicherweise mit det(A) oder schreibt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.massmatics.de/merkzettel/%23!400:Determinanten&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQFjAdegQICxAB&usg=AOvVaw2QUZMl_PUKMwdx5DgrWgXA",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Zwei- und dreireihige Determinanten in Mathematik | Sch\u00fclerlexikon ...www.lernhelfer.de \u203a schuelerlexikon \u203a mathematik-abitur \u203a artikel \u203a zwei-...",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/zwei-und-dreireihige-determinanten",
+    "description": "Die Determinante (Bestimmende) ist eine Funktion, die jeder quadratischen Matrix (n Zeilen und n Spalten) eine reelle Zahl zuordnet (interaktives\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/mathematik-abitur/artikel/zwei-und-dreireihige-determinanten&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQFjAeegQIChAB&usg=AOvVaw1CVyn6_1mooDLh4HTiFmwH",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Determinanten - mathe onlinewww.mathe-online.at \u203a klaus.berger \u203a files \u203a Matrizen \u203a determinante",
+    "link": "https://www.mathe-online.at/materialien/klaus.berger/files/Matrizen/determinante.pdf",
+    "description": "Die Strategie bei der Berechnung der Determinante einer mxm Matrix. (m > 3) ist also die Entwicklung nach einer Spalte bzw. Zeile, um die Dimen- sion der Matrix\u200b,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-online.at/materialien/klaus.berger/files/Matrizen/determinante.pdf&sa=U&ved=2ahUKEwjpxY_4w4vxAhVRfX0KHcH2DtQQFjAfegQICRAB&usg=AOvVaw2J6xtKE8NmeFhboq8peLyX",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 18. Determinantenwww.mathematik.uni-kl.de \u203a class \u203a gdm-2019 \u203a gdm-2019-c18",
+    "link": "https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c18.pdf",
+    "description": "Determinanten haben sehr viele sch\u00f6ne Eigenschaften und k\u00f6n- ... Leider ist eine direkte Angabe der Determinante einer quadratischen Matrix A \u2208 Mat(n\u00d7n,\u200bK)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c18.pdf&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAB6BAgAEAE&usg=AOvVaw0oiKTEvGPjvUT1EQKkT9LR",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Kapitel 4 Determinanten - Mathematisches Institut - Universit\u00e4t Leipzigwww.math.uni-leipzig.de \u203a ~schueler \u203a linalg \u203a kapitel4",
+    "link": "http://www.math.uni-leipzig.de/~schueler/linalg/kapitel4",
+    "description": "Determinanten bilden ein \u00e4u\u00dferst wichtiges Hilfsmittel in der linearen Algebra. ... Definition 4.1 Eine Abbildung det: \u00c3n\u00d7n \u2192 \u00c3, A \u2192 detA, hei\u00dft Determinante,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uni-leipzig.de/~schueler/linalg/kapitel4&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAF6BAgIEAE&usg=AOvVaw2L5XB4OCFlacKUsUrBmcku",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Eigenschaften der Determinantestatistik.wu-wien.ac.at \u203a ~leydold \u203a MOK \u203a HTML \u203a node45",
+    "link": "http://statistik.wu-wien.ac.at/~leydold/MOK/HTML/node45.html",
+    "description": "Eigenschaften der Determinante. ... (1): die Determinante ist linear in jeder Spalte ... (2): die Determinante ist Null, falls zwei Spaltenvektoren gleich sind",
+    "googleLink": "http://www.google.com/url?q=http://statistik.wu-wien.ac.at/~leydold/MOK/HTML/node45.html&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAJ6BAgJEAE&usg=AOvVaw3lL9HgZ6F6rQGbdBLjXQmh",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Determinante - lernen mit Serlo!de.serlo.org \u203a mathe \u203a determinante",
+    "link": "https://de.serlo.org/mathe/2017/determinante",
+    "description": "Die Determinante ordnet einer quadratischen Matrix eine reelle Zahl zu. Um die Determinante einer Matrix zu schreiben, schreibt man entweder \u2026",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/mathe/2017/determinante&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAN6BAgHEAE&usg=AOvVaw2SP-Rxij7CMYFcaHiuEoBc",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Determinanten berechnen - lernen mit Serlo!de.serlo.org \u203a mathe \u203a determinanten-berechnen",
+    "link": "https://de.serlo.org/mathe/2019/determinanten-berechnen",
+    "description": "Je nach Gr\u00f6\u00dfe der Matrix entscheidet man sich f\u00fcr den Laplace'schen Entwicklungssatz oder die Regel von Sarrus zur Berechnung der Determinante \u2026",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/mathe/2019/determinanten-berechnen&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAR6BAgFEAE&usg=AOvVaw1yaJGk_82dGdCrJe0w22fA",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Folgerungen aus und Folgerungen f\u00fcr die Determinantewww.mathematik.de \u203a algebra \u203a 74-erste-hilfe \u203a algebra \u203a matrizen \u203a 2427...",
+    "link": "https://www.mathematik.de/algebra/74-erste-hilfe/algebra/matrizen/2427-folgerungen-aus-und-folgerungen-f%C3%BCr-die-determinante",
+    "description": "Hat eine Matrix Determinante 0, so wissen wir aus dem vorigen Abschnitt, dass sie nicht vollen Rang hat. Dann ist sie auch nicht invertierbar! Ebenso gilt, hat eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.de/algebra/74-erste-hilfe/algebra/matrizen/2427-folgerungen-aus-und-folgerungen-f%25C3%25BCr-die-determinante&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAV6BAgGEAE&usg=AOvVaw3XD7VnCS8u4cqbl4faZnsb",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Determinanten - Elektroniktutorwww.elektroniktutor.de \u203a fachmathematik \u203a determin",
+    "link": "https://www.elektroniktutor.de/fachmathematik/determin.html",
+    "description": "Mathematisch ist die Determinante eine Rechenoperation, um den Wert einer zugeordneten quadratischen Matrix zu bestimmen. Das Ergebnis ist eine skalare\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.elektroniktutor.de/fachmathematik/determin.html&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAZ6BAgDEAE&usg=AOvVaw3dMYzPGw_pOMF3rbuQsgl-",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Determinante \u2013 Wiktionaryde.wiktionary.org \u203a wiki \u203a Determinante",
+    "link": "https://de.wiktionary.org/wiki/Determinante",
+    "description": "Substantiv, fBearbeiten \u00b7 Singular \u00b7 Plural \u00b7 Nominativ, die Determinante, die Determinanten \u00b7 Genitiv, der Determinante, der Determinanten.",
+    "googleLink": "http://www.google.com/url?q=https://de.wiktionary.org/wiki/Determinante&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAd6BAgCEAE&usg=AOvVaw0z1Vc2k_L_mP4zBUMkbAtR",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Determinante berechnen - auf Frustfrei-Lernen.dewww.frustfrei-lernen.de \u203a mathematik \u203a determinante-berechnen",
+    "link": "https://www.frustfrei-lernen.de/mathematik/determinante-berechnen.html",
+    "description": "Mit Determinanten besch\u00e4ftigen wir uns in diesem Artikel der Mathematik. Dabei erkl\u00e4ren wir zun\u00e4chst, wof\u00fcr man diese \u00fcberhaupt braucht und gehen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.frustfrei-lernen.de/mathematik/determinante-berechnen.html&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAh6BAgEEAE&usg=AOvVaw1NGv5RnaSWcx7tFDMaK9Q1",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Determinanten - Lexikon der Biologie - Spektrumwww.spektrum.de \u203a Lexika \u203a Lexikon der Biologie",
+    "link": "https://www.spektrum.de/lexikon/biologie/determinanten/17633",
+    "description": "Determinanten [von *determinat -], 1) Immunologie: antigene Determinanten, Epitop. 2) Entwicklungsbiologie: cytoplasmatische Faktoren (z. B. RNA oder\u2026",
+    "googleLink": "http://www.google.com/url?q=https://www.spektrum.de/lexikon/biologie/determinanten/17633&sa=U&ved=2ahUKEwijn-v4w4vxAhVbXSsKHYuUDfE4ChAWMAl6BAgBEAE&usg=AOvVaw2LAidVtgGAqam2rH31nGB4",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Determinanten | SpringerLinklink.springer.com \u203a chapter",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-662-58832-1_2",
+    "description": "28.08.2019 \u00b7 (Determinante einer \\varvec{(2\\times 2)} -Matrix). Sei ... Verfahren zur Berechnung von Determinanten auch gr\u00f6\u00dferer Matrizen kennen gelernt.",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/chapter/10.1007/978-3-662-58832-1_2&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAB6BAgFEAE&usg=AOvVaw3UykMTfY6O25G_mLxZ9Srq",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Determinanten - Analysis und Lineare Algebra - ingenieurkurse.dewww.ingenieurkurse.de \u203a matrizen \u203a determinanten",
+    "link": "https://www.ingenieurkurse.de/hoehere-mathematik-analysis-lineare-algebra/matrizen/determinanten.html",
+    "description": "Unter einer Determinante versteht man einen eindeutigen Zahlenwert, der genau einer quadratischen Matrix zugeordnet wird. Ist die Matrix nicht quadratisch,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ingenieurkurse.de/hoehere-mathematik-analysis-lineare-algebra/matrizen/determinanten.html&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAF6BAgJEAE&usg=AOvVaw1fhlr1g1mo4PozlYyM3Ypi",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Determinanten \u2014 Grundwissen Mathematikwww.grund-wissen.de \u203a lineare-algebra-und-analytische-geometrie \u203a deter...",
+    "link": "https://www.grund-wissen.de/mathematik/lineare-algebra-und-analytische-geometrie/determinanten.html",
+    "description": "Determinanten stellen neben dem Gaussschen L\u00f6sungsverfahren ein weiteres n\u00fctzliches Werkzeug im Umgang mit linearen Gleichungssystemen dar.",
+    "googleLink": "http://www.google.com/url?q=https://www.grund-wissen.de/mathematik/lineare-algebra-und-analytische-geometrie/determinanten.html&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAJ6BAgHEAE&usg=AOvVaw2wnctEElLS7YfG2ivxtUSX",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "6. Determinantenwww.math.tu-cottbus.de \u203a ~froehner \u203a hmeiw1 \u203a mathe \u203a node29",
+    "link": "https://www.math.tu-cottbus.de/~froehner/hmeiw1/mathe/node29.html",
+    "description": "Matrizen: regul\u00e4r - singul\u00e4r. Berechnung des Ranges der Matrix; Berechnung der Determinante. Definition 6.1 Unter der Determinate $\\det A = \\vert A\\vert\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tu-cottbus.de/~froehner/hmeiw1/mathe/node29.html&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAN6BAgIEAE&usg=AOvVaw2b9NBcgnKmMHh5S7BnPz0q",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Rechenregeln | Determinanten - NetMathnetmath.vcrp.de \u203a Skripte \u203a Schell \u203a Mathe1 \u203a 15-Determinanten \u203a rechenr...",
+    "link": "https://netmath.vcrp.de/downloads/Skripte/Schell/Mathe1/15-Determinanten/rechenregeln.html",
+    "description": "Navigation \u00fcberspringen. Determinanten. Men\u00fc. Determinanten \u00b7 Beispiele \u00b7 Rechenregeln \u00b7 Determinanten von Matrizen h\u00f6herer Ordnung \u00b7 Beispiel 1\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://netmath.vcrp.de/downloads/Skripte/Schell/Mathe1/15-Determinanten/rechenregeln.html&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAR6BAgEEAE&usg=AOvVaw0yPwqDL9NxLlJfepnoIdK_",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Algebra - Matrizen - Determinanten | Maths2Mindwww.maths2mind.com \u203a formelsammlungen \u203a algebra-matrizen-determina...",
+    "link": "https://www.maths2mind.com/formelsammlungen/algebra-matrizen-determinanten",
+    "description": "Determinante einer 3x3 Matrix - Regel von Sarrus. Die Determinante 3. Ordnung ist ein Zahlenwert (ein Skalar), den man von quadratischen 3x3 Matrizen bilden\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maths2mind.com/formelsammlungen/algebra-matrizen-determinanten&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAV6BAgDEAE&usg=AOvVaw13ttq9xeuMhrDTChykL1zE",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Determinanten - TU Freibergtu-freiberg.de \u203a sites \u203a default \u203a files \u203a media \u203a tochten \u203a det_n",
+    "link": "http://tu-freiberg.de/sites/default/files/media/fakultaet-fuer-mathematik-und-informatik-fakultaet-1-9277/tochten/det_n.pdf",
+    "description": "Definition der Determinante f\u00fcr 2 \u25ca 2-Matrizen. \u2022 Regel von Sarrus f\u00fcr 3 \u25ca 3-\u200bDeterminanten. \u2022 Entwicklungssatz von Laplace. \u2022 Rechenregel (Summe, Produkt\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://tu-freiberg.de/sites/default/files/media/fakultaet-fuer-mathematik-und-informatik-fakultaet-1-9277/tochten/det_n.pdf&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAZ6BAgCEAE&usg=AOvVaw2mzdmhcL56NpbGa31rG-5k",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Determinanten des Gl\u00fccks: Lebenszufriedenheit in Europa ...www.wsi.de \u203a wsi-mitteilungen-determinanten-des-gluecks-lebenszufrieden...",
+    "link": "https://www.wsi.de/de/wsi-mitteilungen-determinanten-des-gluecks-lebenszufriedenheit-in-europa-12225.htm",
+    "description": "Kohler, Ulrich / B\u00f6hnke, Petra : Determinanten des Gl\u00fccks: Lebenszufriedenheit in Europa. Ausgabe 07/2007. Im Mittelpunkt dieses Beitrags steht das subjektive\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wsi.de/de/wsi-mitteilungen-determinanten-des-gluecks-lebenszufriedenheit-in-europa-12225.htm&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAd6BAgGEAE&usg=AOvVaw3g_DFiBHr4QpQACWCQv85_",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Determinante (Informatik) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Determinante_(Informatik)",
+    "link": "https://de.wikipedia.org/wiki/Determinante_(Informatik)",
+    "description": "Eine Determinante ist ein Begriff der relationalen Entwurfstheorie, die sich mit dem konzeptuellen Entwurf der Schemata relationaler Datenbanken befasst.",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Determinante_(Informatik)&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAh6BAgBEAE&usg=AOvVaw1YhT2Xj1UbjCfI9ZphtO3P",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Rechner f\u00fcr Determinanten - Rechneronlinerechneronline.de \u203a lineare-algebra \u203a determinanten",
+    "link": "https://rechneronline.de/lineare-algebra/determinanten.php",
+    "description": "Berechnen von Determinanten bis zur f\u00fcnften Ordnung. Determinanten bestimmen die L\u00f6sbarkeit eines linearen Gleichungssystems.",
+    "googleLink": "http://www.google.com/url?q=https://rechneronline.de/lineare-algebra/determinanten.php&sa=U&ved=2ahUKEwjekZ35w4vxAhVMOSsKHVvLAt04FBAWMAl6BAgAEAE&usg=AOvVaw1OOGC1SXjW-OsEADyLddrE",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 9 Determinantengcsc.uni-frankfurt.de \u203a lectures-courses \u203a b-mbi-2 \u203a Kap9.1-9.3.pdf",
+    "link": "https://gcsc.uni-frankfurt.de/simulation-and-modelling/lectures-courses/b-mbi-2/Kap9.1-9.3.pdf",
+    "description": "genannten Determinanten einer Matrix (lat. determinare: \u201cabgrenzen\u201d, \u201c\u200bbestimmen\u201d) gef\u00fchrt, die ... man f\u00fcr 2 \u21e5 2 Matrizen die Determinante ein als det ( a11.",
+    "googleLink": "http://www.google.com/url?q=https://gcsc.uni-frankfurt.de/simulation-and-modelling/lectures-courses/b-mbi-2/Kap9.1-9.3.pdf&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAB6BAgAEAE&usg=AOvVaw0chPjdRbEd7FDBlQZ5pYEv",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Determinanten - IBMwww.ibm.com \u203a docs \u203a c_bp-definedeterminants",
+    "link": "https://www.ibm.com/docs/de/SSEP7J_10.2.2/com.ibm.swg.ba.cognos.ug_best.10.2.2.doc/c_bp-definedeterminants.html",
+    "description": "Sie k\u00f6nnen f\u00fcr diesen Datensatz drei Determinanten definieren: zwei Determinanten, f\u00fcr die Gruppieren nach ausgew\u00e4hlt ist (\"Year\" und \"Month\"), und eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ibm.com/docs/de/SSEP7J_10.2.2/com.ibm.swg.ba.cognos.ug_best.10.2.2.doc/c_bp-definedeterminants.html&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAF6BAgJEAE&usg=AOvVaw19sf54QRm4HKc5FGdzStev",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Inhomogene lineare Gleichungssysteme mit n Variablen und ...www.chemgapedia.de \u203a vlu \u203a vsc \u203a Page \u203a vsc \u203a ma_11_01_09.vscml.html",
+    "link": "http://www.chemgapedia.de/vsengine/vlu/vsc/de/ma/1/mc/ma_11/ma_11_01/ma_11_01_02.vlu/Page/vsc/de/ma/1/mc/ma_11/ma_11_01/ma_11_01_09.vscml.html",
+    "description": "Eine Determinante hat den Wert , wenn zwei Zeilen oder Spalten gleich sind (\u200bRegel 3 und 5):. Das Produkt zweier Determinanten ist gleich , d.h. der Determinante\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.chemgapedia.de/vsengine/vlu/vsc/de/ma/1/mc/ma_11/ma_11_01/ma_11_01_02.vlu/Page/vsc/de/ma/1/mc/ma_11/ma_11_01/ma_11_01_09.vscml.html&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAJ6BAgIEAE&usg=AOvVaw06Fz4VxrQ-AhTef0h4eEdw",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Multiplikationssatz f\u00fcr Determinanten - LPlp.uni-goettingen.de \u203a get \u203a text",
+    "link": "https://lp.uni-goettingen.de/get/text/2583",
+    "description": "Multiplikationssatz f\u00fcr Determinanten. (383) Satz Sind A,B \\in \\mathrm{M}_{n \\\u200btimes n dann gilt. {\\det (AB) = (\\det A)\\,\\cdot. Insbesondere gilt: Ist A invertierbar, so\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://lp.uni-goettingen.de/get/text/2583&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAN6BAgHEAE&usg=AOvVaw1DasZZxKdshEw7MnTlCmLr",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Determinante | MatheGurumatheguru.com \u203a Lineare Algebra \u203a Determinante",
+    "link": "https://matheguru.com/lineare-algebra/determinante.html",
+    "description": "Die Determinante ist ein Wert der f\u00fcr eine quadratische Matrix (auch Quadratmatrix, n Zeilen und n Spalten) berechnet werden kann. Die Determinante wird vor\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://matheguru.com/lineare-algebra/determinante.html&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAR6BAgBEAE&usg=AOvVaw3gNH4gRnUdB03V0mnTYjI3",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Soziale Determinanten der ... - Universit\u00e4tsklinikum Heidelbergwww.klinikum.uni-heidelberg.de \u203a forschung \u203a schwerpunkte \u203a projekte",
+    "link": "https://www.klinikum.uni-heidelberg.de/kliniken-institute/institute/abteilung-allgemeinmedizin-und-versorgungsforschung/forschung/schwerpunkte/projekte/soziale-determinanten-der-gesundheit",
+    "description": "Mit sozialen Determinanten der Gesundheit sind, vereinfacht ausgedr\u00fcckt, all jene Bedingungen gemeint, in die Menschen hineingeboren werden, unter denen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.klinikum.uni-heidelberg.de/kliniken-institute/institute/abteilung-allgemeinmedizin-und-versorgungsforschung/forschung/schwerpunkte/projekte/soziale-determinanten-der-gesundheit&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAV6BAgFEAE&usg=AOvVaw1ZHLDl7EBsov0EgbR1x-87",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Matrizen und Determinantenwww.uni-magdeburg.de \u203a exph \u203a mathe_gl \u203a matrizen",
+    "link": "http://www.uni-magdeburg.de/exph/mathe_gl/matrizen.pdf",
+    "description": "Die Determinante ist eindeutig, d.h. jeder quadratischen Matrix wird genau eine Determinante (Zahl) zugeordnet. 2. Determinante einer 3x3 Matrix - die Zuordnung\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.uni-magdeburg.de/exph/mathe_gl/matrizen.pdf&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAZ6BAgGEAE&usg=AOvVaw3jHSBqK6jFNKAnrCItpuhn",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Determinanten \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c \u2013 Wikibooks ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Determinanten",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Determinanten",
+    "description": "Determinanten \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c. Sprache; Beobachten \u00b7 Bearbeiten \u00b7 UnderCon icon.svg. Diese Seite ist noch im Entstehen und noch nicht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Determinanten&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAd6BAgDEAE&usg=AOvVaw3KG5GxUsV3Xmd2culpXMkf",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Determinante | Rechtschreibung, Bedeutung, Definition ... - Dudenwww.duden.de \u203a W\u00f6rterbuch",
+    "link": "https://www.duden.de/rechtschreibung/Determinante",
+    "description": "Definition, Rechtschreibung, Synonyme und Grammatik von 'Determinante' auf Duden online nachschlagen. W\u00f6rterbuch der deutschen Sprache.",
+    "googleLink": "http://www.google.com/url?q=https://www.duden.de/rechtschreibung/Determinante&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAh6BAgEEAE&usg=AOvVaw3khwNme9o2g3JJftxd88pJ",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Epitop - DocCheck Flexikonflexikon.doccheck.com \u203a Determinante",
+    "link": "https://flexikon.doccheck.com/de/Determinante",
+    "description": "von griechisch: \u1f10\u03c0\u03af (epi) - auf, \u00fcber; \u03c4\u03cc\u03c0\u03bf\u03c2 (topos) - Ort Synonym: antigene Determinante. 1 Definition. Epitope sind die Molek\u00fclabschnitte eines Antigens, die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://flexikon.doccheck.com/de/Determinante&sa=U&ved=2ahUKEwiL58_5w4vxAhXBcn0KHe07BFk4HhAWMAl6BAgCEAE&usg=AOvVaw0V1GRRiym3hqLTi8UU1CvP",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Berechnung von Determinanten einer 2\u00d72, 3\u00d73, 4\u00d74 und nxn-Matrix ...www.virtual-maxim.de \u203a determinante-berechnen-2x2-3x3-nxn",
+    "link": "https://www.virtual-maxim.de/determinante-berechnen-2x2-3x3-nxn/",
+    "description": "06.07.2010 \u00b7 Determinante einer n x n-Matrix: F\u00fcr Matrizen mit n>3 gibt es keine einfache Regel zur Determinantenberechnung (Sarrus Regel geht nicht!). Um\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.virtual-maxim.de/determinante-berechnen-2x2-3x3-nxn/&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAB6BAgGEAE&usg=AOvVaw0Hdc8mYRqqb_M3gQZDCtmo",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Determinanten von Gesundheit | \u00bbdie initiative \u00ac Gesundheit ...www.dieinitiative.de \u203a glossar-begriff \u203a determinanten-von-gesundheit",
+    "link": "https://www.dieinitiative.de/glossar-begriff/determinanten-von-gesundheit/",
+    "description": "Determinanten von Gesundheit umfassen das \u201eSpektrum an pers\u00f6nlichen, sozialen, \u00f6konomischen und umweltbedingten Faktoren, die den\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dieinitiative.de/glossar-begriff/determinanten-von-gesundheit/&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAF6BAgHEAE&usg=AOvVaw01ljtRw4gNMhtl5dzgk-ZU",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Determinanten und Volumenwww.math.kit.edu \u203a iag2 \u203a lehre \u203a media \u203a detvol",
+    "link": "http://www.math.kit.edu/iag2/lehre/la1inf2011w/media/detvol.pdf",
+    "description": "Woher kommen Determinanten? Historisch gesehen wurden Determinanten von Gottfried. Wilhelm Leibniz eingef\u00fchrt, um geschlossene Formeln f\u00fcr die.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.kit.edu/iag2/lehre/la1inf2011w/media/detvol.pdf&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAJ6BAgIEAE&usg=AOvVaw3NakaLvkMwWxGciCWzywm0",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Determinanten - Mathepediamathepedia.de \u203a Determinanten",
+    "link": "https://mathepedia.de/Determinanten.html",
+    "description": "Determinanten. Die Determinante eine multilineare Funktion, die einer quadratischen Matrix oder einem linearen Endomorphismus eine Zahl zuordnet. Im\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathepedia.de/Determinanten.html&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAN6BAgJEAE&usg=AOvVaw1IuaV1GwD_WBhAgi_lTckg",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Die Determinante einer Matrix berechnen \u2013 Schritt f\u00fcr Schritt erkl\u00e4rtwww.sofatutor.com \u203a lineare-algebra-und-analytische-geometrie \u203a matrizen",
+    "link": "https://www.sofatutor.com/mathematik/lineare-algebra-und-analytische-geometrie/matrizen/determinante-einer-matrix",
+    "description": "Grundlagen zur Determinante \u2713 Laplace Entwicklung \u2713 Gau\u00df Algorithmus \u2713 Regel von Sarrus \u2713 Anwendung: Cramersche Regel zur L\u00f6sung von LGS.",
+    "googleLink": "http://www.google.com/url?q=https://www.sofatutor.com/mathematik/lineare-algebra-und-analytische-geometrie/matrizen/determinante-einer-matrix&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAR6BAgAEAE&usg=AOvVaw3eIcA-JqJUc5O9xV67Dioj",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Determinante - Wirtschaftslexikonwww.wirtschaftslexikon24.com \u203a determinante \u203a determinante",
+    "link": "http://www.wirtschaftslexikon24.com/d/determinante/determinante.htm",
+    "description": "Determinante. Determinanten sind Daten, die die betrieblichen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.wirtschaftslexikon24.com/d/determinante/determinante.htm&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAV6BAgCEAE&usg=AOvVaw1b3ODRjfo6JTrhxl0XB03A",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Berechnung von Determinanten - von Arndt Br\u00fcnnerarndt-bruenner.de \u203a mathe \u203a scripts \u203a determinanten",
+    "link": "https://arndt-bruenner.de/mathe/scripts/determinanten.htm",
+    "description": "\u00dcber ein kleines Javascript k\u00f6nnen hier Determinanten von im Grunde beliebig gro\u00dfen (quadratischen) Matrizen berechnet werden. Die Gr\u00f6\u00dfe wird weniger\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arndt-bruenner.de/mathe/scripts/determinanten.htm&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAZ6BAgFEAE&usg=AOvVaw1YGWYOusdBAktRhwolE2aB",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Determinanten - Matheretterwww.matheretter.de \u203a wiki \u203a determinanten",
+    "link": "https://www.matheretter.de/wiki/determinanten",
+    "description": "Determinanten sind schematisierte lineare Gleichungssysteme. ... wird schematisch als sogenannte Determinante angeordnet, indem nur die Koeffizienten des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matheretter.de/wiki/determinanten&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAd6BAgEEAE&usg=AOvVaw3Jdf4SiaBWogPnJUfR_E9y",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Determinanten einer Matrix 2. und 3. Ordnungwww.statistics4u.com \u203a fundstat_germ \u203a cc_matrix_deter_howto",
+    "link": "http://www.statistics4u.com/fundstat_germ/cc_matrix_deter_howto.html",
+    "description": "08.10.2012 \u00b7 Die Determinante l\u00e4\u00dft sich aus dem Produkt der Hauptdiagonalen minus dem Produkt der anderen Diagonalen berechnen: a11 a22 - a12 a21.",
+    "googleLink": "http://www.google.com/url?q=http://www.statistics4u.com/fundstat_germ/cc_matrix_deter_howto.html&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAh6BAgBEAE&usg=AOvVaw0jYl1D3vIzqogP2Y7Wue3p",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Determinante: Bedeutung, Definition, \u00dcbersetzung - Wortbedeutung ...www.wortbedeutung.info \u203a Determinante",
+    "link": "https://www.wortbedeutung.info/Determinante/",
+    "description": "Determinante bei Wortbedeutung.info: \u2713 Bedeutung, \u2713 Definition, \u2713 \u00dcbersetzung, \u2713 Herkunft, \u2713 Rechtschreibung, \u2713 Beispiele.",
+    "googleLink": "http://www.google.com/url?q=https://www.wortbedeutung.info/Determinante/&sa=U&ved=2ahUKEwiulYT6w4vxAhUWdCsKHXS4Bl44KBAWMAl6BAgDEAE&usg=AOvVaw0ISeoCr-MA_lgJL_ghgNnP",
+    "page": 4,
+    "index": 9
+  }
+]

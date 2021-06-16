@@ -1,0 +1,314 @@
+[
+  {
+    "name": "",
+    "link": "https://de.wikipedia.org/wiki/Abbildungsmatrix?sa=X&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQ9QF6BAgEEAI",
+    "description": "Eine Abbildungs- oder Darstellungsmatrix ist eine Matrix (also eine rechteckige Anordnung von Zahlen), die in der linearen Algebra verwendet wird, um eine lineare Abbildung zwischen zwei endlichdimensionalen Vektorr\u00e4umen zu beschreiben.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Der Zusammenhang zwischen linearen Abbildungen und Matrizenwww.mathematik.uni-muenchen.de \u203a ~jeblick \u203a abbundmat",
+    "link": "https://www.mathematik.uni-muenchen.de/~jeblick/abbundmat.pdf",
+    "description": "a) Jede Matrix A \u2208 Rm\u00d7n liefert eine lineare Abbildung \u2113A : Rn. \u2192 R ... Matrix hei\u00dft darstellende Matrix von f bez\u00fcglich der Basen v1,...,vn und w1,...,wm.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.uni-muenchen.de/~jeblick/abbundmat.pdf&sa=U&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQFjADegQIARAB&usg=AOvVaw10_MlbUSPrERRtcgNKEmN0",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Lineare Abbildung und darstellende Matrix \u2013 Serlo \u201eMathe f\u00fcr Nicht ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Lineare_Abbildung_un...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Lineare_Abbildung_und_darstellende_Matrix",
+    "description": "Lineare Abbildung und darstellende Matrix \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c. Sprache; Beobachten \u00b7 Bearbeiten\u00a0...\nDefiniton \u00b7 Eine Matrix auf einen ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Lineare_Abbildung_und_darstellende_Matrix&sa=U&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQFjAUegQIBRAB&usg=AOvVaw3Llk6ux3YTdlVrfb6eL_N4",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[Lineare Algebra und Geometrie] Die darstellende Matrix einer ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=OOnPEb3KGUA",
+    "description": "04.08.2016 \u00b7 Jede Matrix definiert eine lineare Abbildung, jede lineare Abbildung in endlich ...Dauer: 11:36Gepostet: 04.08.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DOOnPEb3KGUA&sa=U&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQtwIwFXoECAsQAQ&usg=AOvVaw1VWeMJ3rxs23jGBqNwsC7n",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Wie berechne ich die darstellende Matrix?www3.math.tu-berlin.de \u203a Materialien \u203a darstellende_matrizen",
+    "link": "https://www3.math.tu-berlin.de/Vorlesungen/SS13/LinAlg1/Materialien/darstellende_matrizen.pdf",
+    "description": "Vorgegeben: Eine lineare Abbildung F : V \u2192 W, wobei V und W zwei endlich-\u200bdimensionale. Vektorr\u00e4ume \u00fcber einem K\u00f6rper K mit Basen B = (v1,...,vn) und B =.",
+    "googleLink": "http://www.google.com/url?q=https://www3.math.tu-berlin.de/Vorlesungen/SS13/LinAlg1/Materialien/darstellende_matrizen.pdf&sa=U&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQFjAWegQIBxAB&usg=AOvVaw2HY2kHYhNUd--FqHTdzRhZ",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Abbildungsmatrix \u2014 Darstellungsmatrix | abiturmaabiturma.de \u203a ... \u203a Geometrie \u203a Matrizenrechnung \u203a Abbildungsmatrix",
+    "link": "https://abiturma.de/mathe-lernen/geometrie/matrizenrechnung/abbildungsmatrix",
+    "description": "20.02.2018 \u00b7 Wie du aus einer linearen Abbildung eine Abbildungsmatrix erstellst. Was ist eine lineare Abbildung? Eine Abbildung f:\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://abiturma.de/mathe-lernen/geometrie/matrizenrechnung/abbildungsmatrix&sa=U&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQFjAXegQICRAB&usg=AOvVaw2xV0IQ0gIWPAmwg57i4EZD",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "MP: \u00dcber Darstellende Matrizen (Matroids Matheplanet)www.matheplanet.com \u203a matheplanet \u203a nuke \u203a html \u203a article",
+    "link": "https://www.matheplanet.com/matheplanet/nuke/html/article.php?sid=368",
+    "description": "18.02.2003 \u00b7 Lineare Abbildungen. Definition: Lineare Abbildung Eine Abbildung f: V->W zwischen Vektorr\u00e4umen hei\u00dft linear, wenn sie additiv und homogen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matheplanet.com/matheplanet/nuke/html/article.php%3Fsid%3D368&sa=U&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQFjAYegQIABAB&usg=AOvVaw1a1M32XTtO0CWN4oSlqq2Z",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Lineare Abbildungen und Matrizen - Mathematics TU Grazwww.math.tugraz.at \u203a ~ganster \u203a lv_lineare_algebra_phy \u203a 10_lineare...",
+    "link": "https://www.math.tugraz.at/~ganster/lv_lineare_algebra_phy/10_lineare_abbildungen_und_matrizen.pdf",
+    "description": "(F) hei\u00dft die der linearen Abbildung F bzgl. der Basen A und B zugeordnete Matrix (bzw. die darstellende Matrix von F bzgl. A und B) . Ist v\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tugraz.at/~ganster/lv_lineare_algebra_phy/10_lineare_abbildungen_und_matrizen.pdf&sa=U&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQFjAZegQIAhAB&usg=AOvVaw0ki3c--5FGzcYDr5c6tGyl",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] \u00a72 Die Darstellung linearer Abbildungen durch Matrizenwww.uni-regensburg.de \u203a Mat4 \u203a waldi \u203a skriptlinalg \u203a kapIII_para2",
+    "link": "https://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Mat4/waldi/skriptlinalg/kapIII_para2.pdf",
+    "description": "Zusammenhang zwischen Matrizen und linearen Abbildungen. 1) Spezialfall: V = Kn, ... j = 1,...,n hei\u00dft darstellende Matrix von F bez\u00fcglich der Basen B und B . 2\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Mat4/waldi/skriptlinalg/kapIII_para2.pdf&sa=U&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQFjAaegQICBAB&usg=AOvVaw2_ezqFunxXquzhOe8q-mZ-",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] \u00a718. Die Darstellungsmatrix einer linearen Abbildungmath-www.uni-paderborn.de \u203a ~chris \u203a Index27",
+    "link": "http://math-www.uni-paderborn.de/~chris/Index27/V/par18a.pdf",
+    "description": "(18.1) DEF: Sei f : Kn \u2212\u2192 Km eine K\u2013lineare Abbildung. {e1,e2,...,en} sei die kanonische Basis von Kn. Dann hei\u00dft die (m \u00d7 n)\u2013Matrix, die aus den n\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://math-www.uni-paderborn.de/~chris/Index27/V/par18a.pdf&sa=U&ved=2ahUKEwi228fCx4vxAhX7xzgGHaNlBwMQFjAbegQIBhAB&usg=AOvVaw3loSnL_OTXfllVSDqB3U38",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Bestimmen Sie die darstellende Matrix MBB (\u03c6) der linearen Matrix ...www.mathelounge.de \u203a bestimmen-die-darstellende-matrix-mbb-der-linear...",
+    "link": "https://www.mathelounge.de/753260/bestimmen-die-darstellende-matrix-mbb-der-linearen-matrix",
+    "description": "Wohl so: Matrix MBB (\u03c6) der linearen ABBILDUNG \u03c6 : V \u2192 V, A \u2192 M \u00b7 A. In den Spalten dieser Matrix stehen die Koeffizienten, die man braucht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/753260/bestimmen-die-darstellende-matrix-mbb-der-linearen-matrix&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAB6BAgFEAE&usg=AOvVaw31BAZzi9RmAXMrPapyLHfh",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Darstellende Matrix aus Basen bestimmen | Matheloungewww.mathelounge.de \u203a darstellende-matrix-aus-basen-bestimmen",
+    "link": "https://www.mathelounge.de/635433/darstellende-matrix-aus-basen-bestimmen",
+    "description": "Also von A nach E - dann Abbildung von E nach E - dann von E nach B ( in der Matrixgleichung gelesen von rechts nach links)... Was eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/635433/darstellende-matrix-aus-basen-bestimmen&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAF6BAgIEAE&usg=AOvVaw19HZQCkVGHH4rVsUKcsncO",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Die darstellende Matrix und die zugeh\u00f6rige Basis - PDF Kostenfreier ...docplayer.org \u203a 20639449-Die-darstellende-matrix-und-die-zugehoerige-b...",
+    "link": "https://docplayer.org/20639449-Die-darstellende-matrix-und-die-zugehoerige-basis.html",
+    "description": "Man kann aber auch das Wissen ausnutzen, dass die Multiplikation mit einer Matrix eine lineare Abbildung darstellt und daher nur zu pr\u00fcfen ist, ob die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/20639449-Die-darstellende-matrix-und-die-zugehoerige-basis.html&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAJ6BAgJEAE&usg=AOvVaw3n-B40zEeJqtOvciE2FNE5",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Lineare Abbildungen - MatheInfowww.matheinfo.de \u203a solutions \u203a abbild",
+    "link": "http://www.matheinfo.de/solutions/abbild.pdf",
+    "description": "5. Welche darstellende Matrix hat die Summe von zwei linearen Abbildungen F + G? L\u00f6sung: Die Spaltenvektoren der Matrix sind die Bilder der Basisvektoren.",
+    "googleLink": "http://www.google.com/url?q=http://www.matheinfo.de/solutions/abbild.pdf&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAN6BAgHEAE&usg=AOvVaw0cE68WFo8KqeU0ufbbeRRk",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Lineare Algebra-Teilwww.math.uni-bielefeld.de \u203a teach \u203a alte-vorles \u203a ueb \u203a LinA",
+    "link": "https://www.math.uni-bielefeld.de/~frettloe/teach/alte-vorles/ueb/LinA.pdf",
+    "description": "Darstellende Matrix der linearen Abbildung bzgl. der neuen Basis. Basiswechsel alt neu. Lineare Abbildung in alten. Koordinaten. Basiswechsel.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-bielefeld.de/~frettloe/teach/alte-vorles/ueb/LinA.pdf&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAR6BAgDEAE&usg=AOvVaw3JnD-g_Z6IzO7Pf2vuc4T9",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Lineare Abbildungenwww.math.uni-frankfurt.de \u203a ~acoghlan \u203a linadi \u203a slides \u203a lec_linear",
+    "link": "https://www.math.uni-frankfurt.de/~acoghlan/linadi/slides/lec_linear.pdf",
+    "description": "Wir nennen A die darstellende Matrix von f . Page 4. Lineare Abbildungen. 1. 1 a\u200b=1.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-frankfurt.de/~acoghlan/linadi/slides/lec_linear.pdf&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAV6BAgEEAE&usg=AOvVaw3gZXTu9CAZ4GO-M-4BLG4v",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Lineare Algebra: Probeklausurwww.mathematik.uni-ulm.de \u203a mitarbeiter \u203a bouw \u203a files \u203a Blaetter",
+    "link": "http://www.mathematik.uni-ulm.de/ReineMath/mitarbeiter/bouw/ws06/files/Blaetter/Lsg_probeklausur-2x1.pdf",
+    "description": "Sei f : R3 \u2192 R3 die lineare Abbildung definiert durch x \u21a6\u2192 A \u00b7 x. F\u00fcr welche a \u2208 R ... Also sieht die darstellende Matrix wie folgt aus: A := B. BM(T) = \u239b. \u23a2. \u23a2.",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-ulm.de/ReineMath/mitarbeiter/bouw/ws06/files/Blaetter/Lsg_probeklausur-2x1.pdf&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAZ6BAgGEAE&usg=AOvVaw1fR92r6ypQQUO-uwTU2R0S",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Lineare Abbildungen - FHNWweb.fhnw.ch \u203a lineare-algebra-hs1011 \u203a ubungen \u203a loes_serie10",
+    "link": "https://web.fhnw.ch/personenseiten/roger.burkhardt/lehre-an-der-fhnw/lineare-algebra-hs1011/ubungen/loes_serie10",
+    "description": "Gib f\u00fcr die folgenden linearen Abbildungen die Matrixdarstellung in der ... (a) Gib eine lineare Abbildung f : R3 \u2192 R3 an, deren Bild durch die Vektoren v1 = (1,2\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://web.fhnw.ch/personenseiten/roger.burkhardt/lehre-an-der-fhnw/lineare-algebra-hs1011/ubungen/loes_serie10&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAd6BAgBEAE&usg=AOvVaw3H3x97O3EPzkPUOQr515A-",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Lineare Abbildung, Polynome, Darstellende Matrix - OnlineMathe ...www.onlinemathe.de \u203a forum \u203a Lineare-Abbildung-Polynome-Darstellend...",
+    "link": "https://www.onlinemathe.de/forum/Lineare-Abbildung-Polynome-Darstellende-Matrix",
+    "description": "06.01.2018 \u00b7 Im Mathe-Forum OnlineMathe.de wurden schon tausende Fragen zur Mathematik beantwortet. So auch zum Thema Lineare Abbildung,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinemathe.de/forum/Lineare-Abbildung-Polynome-Darstellende-Matrix&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAh6BAgAEAE&usg=AOvVaw1brBrp87y6S8oopvyKSoIr",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Grundlagen der Mathematik, Teil IIivv5hpp.uni-muenster.de \u203a lehre \u203a Math-f-Phys-II \u203a Math-f-Ph-2",
+    "link": "https://ivv5hpp.uni-muenster.de/u/raimar/lehre/SS14/Math-f-Phys-II/Math-f-Ph-2.pdf",
+    "description": "37. 37 Bild und Kern einer linearen Abbildung . . . . . . . . . . . . . 39. 38 Die darstellende Matrix einer linearen Abbildung . . . . . . . 42. 39 Multiplikation von Matrizen .",
+    "googleLink": "http://www.google.com/url?q=https://ivv5hpp.uni-muenster.de/u/raimar/lehre/SS14/Math-f-Phys-II/Math-f-Ph-2.pdf&sa=U&ved=2ahUKEwiU9I3Dx4vxAhWRwzgGHck-Bzo4ChAWMAl6BAgCEAE&usg=AOvVaw3mKZxKS_boTwbUnBp27DNQ",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Erste Hilfe in Linearer Algebra | Index \u2013 Oliver Deiser | aleph1www.aleph1.info \u203a ...",
+    "link": "https://www.aleph1.info/?call=Puc&permalink=ela1_Index",
+    "description": "darstellende Matrix. Darstellung linearer Abbildungen. Darstellungssatz. Dedekind-Peano-Axiome. definiert. Definitheit. Definitionsbereich. De-Morgan-\u200bRegeln.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.aleph1.info/%3Fcall%3DPuc%26permalink%3Dela1_Index&ved=2ahUKEwiX64DFx4vxAhUOxzgGHVq3D584HhAWMAB6BAgFEAE&usg=AOvVaw00PnRzPYQZmu4DZklUMGzH",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "7.3.2 Berechnung der darstellenden Matrix Teil I aus Lineare Algebrawww.onlinetutorium.com \u203a product_info",
+    "link": "https://www.onlinetutorium.com/product_info.php?products_id=501",
+    "description": "In diesem Video stellen wir ein Verfahren vor, mit welchem die darstellende Matrix einer linearen Abbildung berechnet werden kann. Notwendige Grundlagen:.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.onlinetutorium.com/product_info.php%3Fproducts_id%3D501&ved=2ahUKEwiX64DFx4vxAhUOxzgGHVq3D584HhAWMAF6BAgIEAE&usg=AOvVaw0Vsu93f8j1wBRHwQFsBFOe",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Kapitel 2.1info.mathematik.uni-stuttgart.de \u203a Vorlesungen \u203a Kapitel2.1.pdf",
+    "link": "https://info.mathematik.uni-stuttgart.de/LAAG-Henke-SS20/Vorlesungen/Kapitel2.1.pdf",
+    "description": "Multiplikation mit einer Matrix A ist der. Prototyp ... lineare Abbildung ber\u00fcnglich verschiedener Rosen studieren ... Dann gilt f\u00fcr die darstellende Matrix. MpCT) =.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://info.mathematik.uni-stuttgart.de/LAAG-Henke-SS20/Vorlesungen/Kapitel2.1.pdf&ved=2ahUKEwiX64DFx4vxAhUOxzgGHVq3D584HhAWMAJ6BAgJEAE&usg=AOvVaw25_nraKHTu_kutlhMgwGC5",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "3.2 Matrixdarstellung (Koordinaten; darstellende Matrix ...docplayer.fi \u203a 158965103-3-2-matrixdarstellung-koordinaten-darstellende-...",
+    "link": "http://docplayer.fi/158965103-3-2-matrixdarstellung-koordinaten-darstellende-matrix-basiswechsel.html",
+    "description": "68 Kapitel 3 Lineare Abbildungen Beweis \u00dcbungskapitel 33 3 Matrixdarstellung (\u200bKoordinaten; darstellende Matrix; Basiswechsel; Koordinatentransformation;\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Stetigkeit - RWTH Aachenwww.rwth-aachen.de \u203a global \u203a show_document",
+    "link": "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaabddrpu&download=1",
+    "description": "Jede lineare Abbildung wird aber durch eine eindeutig bestimmte Matrix aus beschrieben. Wir nennen diese. Matrix. , die darstellende Matrix von bez\u00fcglich der\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.rwth-aachen.de/global/show_document.asp%3Fid%3Daaaaaaaaabddrpu%26download%3D1&ved=2ahUKEwiX64DFx4vxAhUOxzgGHVq3D584HhAWMAR6BAgDEAE&usg=AOvVaw3FZ0gfK4_64eVLfk0W-5Ro",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Linearen Abbildung durch ... - www.mathefragen.dewww.mathefragen.de \u203a frage \u203a linearen-abbildung-durch-darstellungsmatri...",
+    "link": "https://www.mathefragen.de/frage/q/d821351592/linearen-abbildung-durch-darstellungsmatrix-bestimmen/",
+    "description": "Da man keine expliziete Lineare Abbildung gegeben hat, nur die Darstellende Matrix M B<-C. Im Tutorium haben wir auf Grundlage der\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.mathefragen.de/frage/q/d821351592/linearen-abbildung-durch-darstellungsmatrix-bestimmen/&ved=2ahUKEwiX64DFx4vxAhUOxzgGHVq3D584HhAWMAV6BAgEEAE&usg=AOvVaw2qFHkXh5skUn3BwwTwRPVX",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Musterl\u00f6sung zu Blatt 12, Vektor- und Matrizenrechnung I Aufgabe ...www.mathematik.uni-dortmund.de \u203a scheer \u203a aufgabe36",
+    "link": "http://www.mathematik.uni-dortmund.de/scheer/aufgabe36.pdf",
+    "description": "Aufgabe 36: (a) Zeigen Sie, dass die nach Lemma (6.5) zu einer linearen Abbildung f : Kn \u2192 Km geh\u00f6rende Matrix A \u2208 K(m,n) genau die darstellende Matrix\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Lineare Algebra 2 Sommersemester 2019 - Uni Freiburghome.mathematik.uni-freiburg.de \u203a arithgeom \u203a lehre",
+    "link": "https://home.mathematik.uni-freiburg.de/arithgeom/lehre/ss19/la2.pdf",
+    "description": "20.07.2019 \u00b7 darstellende Matrix als Diagonalmatrix gew\u00e4hlt werden. Leider ist dies ... ben sie durch Matrizen, \u00e4hnlich zum Fall von linearen Abbildungen.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://home.mathematik.uni-freiburg.de/arithgeom/lehre/ss19/la2.pdf&ved=2ahUKEwiX64DFx4vxAhUOxzgGHVq3D584HhAWMAd6BAgCEAE&usg=AOvVaw0RBkfNeYdFPI_CaC6BlQ-s",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 1 Schnellkurs Lineare Algebra \u2013 was bisher ge- schah... - Wiley-VCHapplication.wiley-vch.de \u203a books \u203a sample",
+    "link": "https://application.wiley-vch.de/books/sample/3527530215_c01.pdf",
+    "description": "hineingehen. Es freut mich, dass Sie noch mehr \u00fcber lineare Algebra lernen m\u00f6chten. ... Bestimmen Sie die darstellende Matrix DM(F) f\u00fcr die lineare Abbildung.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://application.wiley-vch.de/books/sample/3527530215_c01.pdf&ved=2ahUKEwiX64DFx4vxAhUOxzgGHVq3D584HhAWMAh6BAgBEAE&usg=AOvVaw1CUwRf3zej3w_V0mycODS-",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Basiswissen \u00fcber Bilinearformen mit Betrachtung symmetrischer ...www.math.uni-konstanz.de \u203a ~infusino \u203a Zhelun-Handout",
+    "link": "http://www.math.uni-konstanz.de/~infusino/ProseminarLA-WS16-17/Zhelun-Handout.pdf",
+    "description": "Eine BLF ist eine Abbildung, welche linear in jedem Argu- ment ist. Page 3. 1 DIE DARSTELLENDE MATRIX DER BILINEARFORM. 2. Aus der linearen Algebra\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.uni-konstanz.de/~infusino/ProseminarLA-WS16-17/Zhelun-Handout.pdf&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAB6BAgBEAE&usg=AOvVaw0Ieiv-pprD8mubF3vVrN21",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "\u00dcbungsaufgaben - LPlp.uni-goettingen.de \u203a get \u203a text",
+    "link": "https://lp.uni-goettingen.de/get/text/2547",
+    "description": "Aufgabe Lineare Abbildung gegeben durch 2\\times 3 ... die Standardabbildung zur Matrix ... Berechne die darstellenden Matrizen \\mathrm{M}_{\\mathcal{B}}^{\\\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://lp.uni-goettingen.de/get/text/2547&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAF6BAgJEAE&usg=AOvVaw1PO9g0kaKtvwkLguAkzRtW",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Mathematik f\u00fcr Wirtschaftswissenschaftler im WS 2013/14 L\u00f6sungen ...silo.tips \u203a download \u203a mathematik-fr-wirtschaftswissenschaftler-im-ws...",
+    "link": "https://silo.tips/download/mathematik-fr-wirtschaftswissenschaftler-im-ws-2013-14-lsungen-zu-den-bungsaufga",
+    "description": "Aufgabe 27 Sei eine lineare Abbildung f : R4 \u2192 R3 gegeben durch f(x1,x2,x3) = (\u200b2x1 \u2212 3x2 + x3 ... a) Geben Sie die darstellende Matrix A an. b) Bestimmen Sie\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://silo.tips/download/mathematik-fr-wirtschaftswissenschaftler-im-ws-2013-14-lsungen-zu-den-bungsaufga&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAJ6BAgIEAE&usg=AOvVaw123w2wYxLu49w-SrYxEvza",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "reading - Wiley-VCH eBookswiley-vch.e-bookshelf.de \u203a title \u203a Wiley-Schnellkurs+Lineare+Algebra+II",
+    "link": "https://wiley-vch.e-bookshelf.de/products/reading-epub/product-id/3984927/title/Wiley-Schnellkurs%2BLineare%2BAlgebra%2BII.html",
+    "description": "In der darstellenden Matrix stehen dann spaltenweise die Bilder der Basis C, und ... Bestimmen Sie die darstellende Matrix DM(F) f\u00fcr die lineare Abbildung F\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiley-vch.e-bookshelf.de/products/reading-epub/product-id/3984927/title/Wiley-Schnellkurs%252BLineare%252BAlgebra%252BII.html&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAN6BAgHEAE&usg=AOvVaw1UnLrWcuB1zFX9UeawnKd7",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] 4. \u00a8Ubungsblatt Aufgaben mit L\u00f6sungenwww.math.kit.edu \u203a iana2 \u203a lehre \u203a media \u203a loesungen4",
+    "link": "https://www.math.kit.edu/iana2/lehre/am22013s/media/loesungen4.pdf",
+    "description": "(b) Bestimmen Sie die Darstellungsmatrix der Spiegelung an W bez\u00fcglich der ... Abbildungsmatrix A der linearen Abbildung \u03a6 mit \u03a6(e1) = b1, \u03a6(e2) = b2, \u03a6(e3)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.kit.edu/iana2/lehre/am22013s/media/loesungen4.pdf&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAR6BAgDEAE&usg=AOvVaw21jelHMs_G9FP9uJRpvZok",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "\u00dcbungsblatt 11 - TH Mittelhessen Homepage-Server - Technische ...homepages.thm.de \u203a ~bjst71 \u203a Veranstaltungen \u203a Vergangen \u203a Dokumente",
+    "link": "https://homepages.thm.de/~bjst71/Veranstaltungen/Vergangen/Lineare_Algebra_fur_Informatiker_SS2016/Dokumente/%C3%9Cbungsblatt11LA.pdf",
+    "description": "Welches ist die darstellende Matrix B mit G \u25e6 F(x) = B \u00b7 x f\u00fcr alle x \u2208 R3 ? Aufgabe 3. F : R3 \u2192 R3 sei die lineare Abbildung, die die x-y-Ebene um 90 Grad\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://homepages.thm.de/~bjst71/Veranstaltungen/Vergangen/Lineare_Algebra_fur_Informatiker_SS2016/Dokumente/%25C3%259Cbungsblatt11LA.pdf&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAV6BAgFEAE&usg=AOvVaw3MzZFI_ftO3kAuhR3z8dkJ",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Lineare Abbildungen des R2 in den R2, erste ... - Mathekursmathekurs.ch \u203a lineare-algebra \u203a 513-06-lineare-abb \u203a file",
+    "link": "https://mathekurs.ch/weitere-themen/lineare-algebra/513-06-lineare-abb/file.html",
+    "description": "10.12.2018 \u00b7 Untersucht werden speziell lineare Abbildungen \u03d5, wobei die Linearit\u00e4t ... Eine lineare Abbildung mit der darstellenden Matrix A ist genau\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathekurs.ch/weitere-themen/lineare-algebra/513-06-lineare-abb/file.html&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAZ6BAgAEAE&usg=AOvVaw3nPWvz38Ui6tfV__rXOJQg",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Lineare Algebra fuer Ingenieure SoSe 2006 6. Maple-Worksheet ...www.maplesoft.com \u203a content \u203a MemberPhotos \u203a recovered \u203a 0_mapleueb6",
+    "link": "http://www.maplesoft.com/content/MemberPhotos/recovered/0_mapleueb6.mw",
+    "description": "Maple-Worksheet: Lineare Abbildungen, darstellende Matrizen und ... bezeichnet die Inverse einer Matrix. restart:with(LinearAlgebra): Lineare Abbildung Wir\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.maplesoft.com/content/MemberPhotos/recovered/0_mapleueb6.mw&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAd6BAgCEAE&usg=AOvVaw2NJwtS0fralnDKkbohjzkC",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Forum \"Lineare Algebra - Matrizen\" - Basis, Darstellende Matrix ...matheraum.de \u203a forum \u203a Basis_Darstellende_Matrix",
+    "link": "https://matheraum.de/forum/Basis_Darstellende_Matrix/t1008992",
+    "description": "Forum \"Lineare Algebra - Matrizen\" - Basis, Darstellende Matrix - MatheRaum ... Du sollst in b) nun die darstellende Matrix dieser Abbildung bzgl der Basis B\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://matheraum.de/forum/Basis_Darstellende_Matrix/t1008992&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAh6BAgGEAE&usg=AOvVaw11pAafGfdCLzpV94fkSp6L",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] LINEARE ALGEBRA II - Uni-DUEwww.uni-due.de \u203a knoop \u203a Linal2",
+    "link": "https://www.uni-due.de/~hn213me/sk/knoop/Linal2.pdf",
+    "description": "Eine IK\u2013lineare Abbildung F\u2217 : W \u2192 V hei\u00dft die zu F adjungierte Abbildung, ... existiert, da\u00df die darstellende Matrix von F bez\u00fcglich dieser Basis orthogonal\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-due.de/~hn213me/sk/knoop/Linal2.pdf&sa=U&ved=2ahUKEwimoLLFx4vxAhW4zDgGHTJiBlA4KBAWMAl6BAgEEAE&usg=AOvVaw2VnvhJB0xE1fmX9Kndi3nr",
+    "page": 4,
+    "index": 9
+  }
+]

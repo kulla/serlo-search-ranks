@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Methoden und Funktionen - Index ofdoc.et.ethz.ch \u203a latest \u203a p_java4_TH",
+    "link": "https://doc.et.ethz.ch/latest/p_java4_TH.pdf",
+    "description": "Methoden mit R\u00fcckgabewert werden verwendet, um ein Resultat aus den Anweisungen in der Methode zu gewinnen. Der Datentyp des R\u00fcckgabewerts steht dabei direkt vor dem Methodennamen. In der Methode selbst muss sichergestellt werden, dass in jedem Fall ein Wert vom entsprechenden Typ zur\u00fcckgegeben wird.",
+    "googleLink": "http://www.google.com/url?q=https://doc.et.ethz.ch/latest/p_java4_TH.pdf&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQFnoECAUQAg&usg=AOvVaw1zr45LRXSIU2Lqo-Vyj6KF",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Die R\u00fcckgabewerte von Java Methoden - Java Programmierungmein-javablog.de \u203a java-methoden-rueckgabe",
+    "link": "https://mein-javablog.de/java-methoden-rueckgabe/",
+    "description": "Du kannst dir einen fixen Wert zur\u00fcck geben lassen. public class MethodenRueckgabe { //Die Methode gibt einen fixen Wahrheitswert zur\u00fcck public static boolean\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mein-javablog.de/java-methoden-rueckgabe/&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQFjACegQIBxAB&usg=AOvVaw2r2u5Ng1j7m6bdFKCp0qrT",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Java-Kurs: Methoden - Arnold Willemerwww.willemer.de \u203a informatik \u203a java \u203a methoden",
+    "link": "http://www.willemer.de/informatik/java/methoden.htm",
+    "description": "Parameter und R\u00fcckgabewert. Einer Methode k\u00f6nnen \u00fcber die Parameter Werte \u00fcbergeben werden. Ein\u00a0...\nAnatomie einer Methode \u00b7 Parameter und R\u00fcckgabewert",
+    "googleLink": "http://www.google.com/url?q=http://www.willemer.de/informatik/java/methoden.htm&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQFjALegQIARAB&usg=AOvVaw0KaTOZW0Sbu5xNGxOGLCJZ",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Methoden - R\u00fcckgabewert \u2668\udb40\udd02\u200d\udb40\uddb7 Java - Hilfe | Java-Forum.orgwww.java-forum.org \u203a ... \u203a Java Basics - Anf\u00e4nger-Themen",
+    "link": "https://www.java-forum.org/thema/rueckgabewert.181524/",
+    "description": "20.05.2018 \u00b7 Methoden R\u00fcckgabewert. Themenstarter ... Was bringt mir ein R\u00fcckgabewert und wie benutze ich diesen (Bitte auch ein einfaches Beispiel)",
+    "googleLink": "http://www.google.com/url?q=https://www.java-forum.org/thema/rueckgabewert.181524/&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQFjAMegQIChAB&usg=AOvVaw22BKMjZpj751PFBjoasIPq",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Was ist ein R\u00fcckgabewert? - R\u00fcckgabewerte in Programmiersprachenwww.inztitut.de \u203a blog \u203a glossar \u203a rueckgabewert",
+    "link": "https://www.inztitut.de/blog/glossar/rueckgabewert/",
+    "description": "Dies kann ein Datentyp oder void sein. <R\u00fcckgabetyp> <Methodenname>. //\u200bmehr Quellcode. return <R\u00fcckgabewert>;. Wof\u00fcr werden R\u00fcckgabewerte ben\u00f6tigt?",
+    "googleLink": "http://www.google.com/url?q=https://www.inztitut.de/blog/glossar/rueckgabewert/&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQFjANegQIBhAB&usg=AOvVaw05fzGzngMX9KO41Ywauy_q",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Einfache Methoden (Mit R\u00fcckgabetyp) - Funktionen in Java 2 Gehe ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=qQ79aq7HZ-U",
+    "description": "27.11.2016 \u00b7 ... zu den Einfachen Methoden geht's um Methoden mit R\u00fcckgabetyp! ... Java Tutorial ...Dauer: 6:20Gepostet: 27.11.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DqQ79aq7HZ-U&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQtwIwDnoECAAQAQ&usg=AOvVaw2Hg5orFtW-WF_LyAGD-F62",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "22 Methoden in Java II - mit R\u00fcckgabewert - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=18VhYDkwNuM",
+    "description": "15.01.2017 \u00b7 Wir beginnen hier bei null, so dass Du keinerlei Vorkenntnisse im Programmieren ...Dauer: 7:37Gepostet: 15.01.2017",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D18VhYDkwNuM&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQtwIwD3oECAQQAQ&usg=AOvVaw33EPK-BYSHW8Kh62xVRSdA",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "R\u00fcckgabewerte in Java | informatikZentralewww.informatikzentrale.de \u203a rueckgabewerte-java",
+    "link": "https://www.informatikzentrale.de/rueckgabewerte-java.html",
+    "description": "11.04.2012 \u00b7 r\u00fcckgabewert, r\u00fcckgabetyp, return, java, aufgaben, \u00fcbungen, ... public Konto() { } // Methoden public void abheben(int abgehobenerBetrag)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.informatikzentrale.de/rueckgabewerte-java.html&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQFjAQegQICRAB&usg=AOvVaw0_eWIhqTrs8-c3WQfJ66iX",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] R\u00fcckgabewert mit return - informatikZentralewww.informatikzentrale.de \u203a _files \u203a java12_rueckgabewert",
+    "link": "https://www.informatikzentrale.de/_files/16java/java12_rueckgabewert.pdf",
+    "description": "public int addieren(int a, int b). { int c = a + b; return c;. } Computer \u201emerkt\u201c sich den Wert von c. Andere Methoden k\u00f6nnen mit c arbeiten. R\u00fcckgabetyp \u2013 Beispiel\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.informatikzentrale.de/_files/16java/java12_rueckgabewert.pdf&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQFjARegQICBAB&usg=AOvVaw3y6PXIX8jnY7AWuz_CRwlt",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "C# - Methoden mit R\u00fcckgabewert | easy-programmiereneasy-programmieren.de \u203a c-grundlagen \u203a methoden-mit-rueckgabewert",
+    "link": "https://easy-programmieren.de/c-grundlagen/methoden-mit-rueckgabewert/",
+    "description": "\u00dcber Methoden mit R\u00fcckgabewert kannst Du direkt aus der Methode einen Wert beziehen und diesen weiter verarbeiten. Wir zeigen, wie es geht.",
+    "googleLink": "http://www.google.com/url?q=https://easy-programmieren.de/c-grundlagen/methoden-mit-rueckgabewert/&sa=U&ved=2ahUKEwjHqd-1zIvxAhW3wzgGHa7pCcoQFjASegQIAhAB&usg=AOvVaw1GSmpOB-_MKGlDHIP3IwMx",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Kapitel 4: Methoden Methoden: Einf\u00fchrung Methoden ohne ...www.dbs.ifi.lmu.de \u203a Lehre \u203a Info2 \u203a Skript \u203a Kap-4_pdf_2",
+    "link": "http://www.dbs.ifi.lmu.de/Lehre/Info2/SS02/Skript/Kap-4_pdf_2.pdf",
+    "description": "printHeader ();. Aufruf der obigen Methode \u2026 } } printHeader(): Methode hat keine Parameter void: Methode liefert keinen Wert zur\u00fcck static: Methode wird statisch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.dbs.ifi.lmu.de/Lehre/Info2/SS02/Skript/Kap-4_pdf_2.pdf&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAB6BAgCEAE&usg=AOvVaw1VyT_v66hWO5fg0kq-KK63",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Methoden \u2013 C#-Programmierhandbuch | Microsoft Docsdocs.microsoft.com \u203a ... \u203a Programmierhandbuch \u203a Klassen und Strukturen",
+    "link": "https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-structs/methods",
+    "description": "08.03.2021 \u00b7 Eine Methode in C# ist ein Codeblock, der eine Reihe von ... B. abstract oder sealed , der R\u00fcckgabewert, der Name der Methode und die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-structs/methods&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAF6BAgHEAE&usg=AOvVaw1pFLDgQBAa_xCkeNWd3Afk",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Methoden (Leitfaden f\u00fcr C#) | Microsoft Docsdocs.microsoft.com \u203a Docs \u203a .NET \u203a Leitfaden f\u00fcr C#",
+    "link": "https://docs.microsoft.com/de-de/dotnet/csharp/methods",
+    "description": "16.03.2021 \u00b7 Der R\u00fcckgabewert oder void , wenn die Methode keinen besitzt. Der Methodenname. Jede Methodenparameter. Methodenparameter werden\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/dotnet/csharp/methods&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAJ6BAgIEAE&usg=AOvVaw39shmFLeDNECWAcDbzsOJ0",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Methoden mit R\u00fcckgabewert - lernen mit Serlo!de.serlo.org \u203a informatik \u203a methoden-mit-r\u00fcckgabewert",
+    "link": "https://de.serlo.org/informatik/186798/methoden-mit-r%C3%BCckgabewert",
+    "description": "L\u00e4sst man Objekte Methoden ausf\u00fchren, so f\u00fchren sie alles aus, was im Rumpf der Methode beschrieben wird. Zus\u00e4tzlich dazu kann die Methode \u2026",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/186798/methoden-mit-r%25C3%25BCckgabewert&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAN6BAgJEAE&usg=AOvVaw1gIKITLNGgpCj75qAUOnwu",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Variablen, Variablen, Methoden-Parameter, R\u00fcckgabewerte Parwww.swisseduc.ch \u203a practices \u203a programming \u203a javakara \u203a docs \u203a jav...",
+    "link": "https://www.swisseduc.ch/informatik/120-lektionen/practices/programming/javakara/docs/javakara-programmieren-variablen-parameter-aufgaben.pdf",
+    "description": "Man muss darauf achten, dass eine Methode mit einem. R\u00fcckgabewert immer mit einem entsprechenden return verlassen wird. Einfache Methoden ohne einen\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.swisseduc.ch/informatik/120-lektionen/practices/programming/javakara/docs/javakara-programmieren-variablen-parameter-aufgaben.pdf&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAR6BAgGEAE&usg=AOvVaw2bVLF43jif5eRvuqn5Jg6z",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Methoden in Java - Was sind Methoden und wie werden sie ...www.programmierenlernenhq.de \u203a Java",
+    "link": "https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/",
+    "description": "In diesem Beitrag m\u00f6chten wir uns den vier Themen widmen: Methodendefinition\u200b; Aufrufen von Methoden; Parameterliste; R\u00fcckgabewert von Methoden.",
+    "googleLink": "http://www.google.com/url?q=https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAV6BAgAEAE&usg=AOvVaw2cXeB1ezxWgvy4JA81RBjJ",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Rheinwerk Computing :: Java ist auch eine Insel \u2013 2.8 Methoden ...openbook.rheinwerk-verlag.de \u203a javainsel9 \u203a javainsel_02_008",
+    "link": "https://openbook.rheinwerk-verlag.de/javainsel9/javainsel_02_008.htm",
+    "description": "Eine return-Anweisung gibt einen Wert zur\u00fcck. Beispiel Eine statische Methode bildet den Mittelwert und gibt diesen zur\u00fcck: static\u00a0...\n\nMethode: Ohne R\u00fcckgabewert\nOhne Parameter: System.out.println()\nMit Parameter: System.out.println(4)",
+    "googleLink": "http://www.google.com/url?q=https://openbook.rheinwerk-verlag.de/javainsel9/javainsel_02_008.htm&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAZ6BAgEEAE&usg=AOvVaw1gocyG9ZzOdE4_34I6dq4Q",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "1.2 Methodenkopfmoodle.oncampus.de \u203a modules \u203a demo \u203a 01methoden \u203a kopf",
+    "link": "https://moodle.oncampus.de/modules/demo/ir018/P1DMET/01methoden/kopf.shtml",
+    "description": "An diese Methode werden zwei Parameter \u00fcbergeben: wert und stellen. Der R\u00fcckgabewert der Methode ist vom Typ float. Die allgemeine Syntax des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://moodle.oncampus.de/modules/demo/ir018/P1DMET/01methoden/kopf.shtml&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAd6BAgBEAE&usg=AOvVaw2TV2LKI2a9BFMHHNuWJu7T",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "JAVA (4) Methoden und Verzweigungen - Fachbereich Mathematikwww.math.uni-hamburg.de \u203a ... \u203a MIN-Fakult\u00e4t \u203a Mathematik \u203a Java-Kurs",
+    "link": "https://www.math.uni-hamburg.de/projekte/java/kurs/JavaKurs4.html",
+    "description": "f ist der Bezeichner der Methode, x der Parameter. Das erste double kenzeichnet den Typ des R\u00fcckgabewertes. Mit return wird der R\u00fcckgabewert der Methode\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-hamburg.de/projekte/java/kurs/JavaKurs4.html&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAh6BAgDEAE&usg=AOvVaw2tYVeV9xgop5fiee8wwV3c",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "R\u00fcckgabewerte funktionaler Methoden - ABAP ... - SAP Help Portalhelp.sap.com \u203a doc \u203a de-DE \u203a abentyping_return_values",
+    "link": "https://help.sap.com/doc/abapdocu_751_index_htm/7.51/de-DE/abentyping_return_values.htm",
+    "description": "Der R\u00fcckgabewert einer funktionalen Methode ist immer vollst\u00e4ndig typisiert und wird immer als Wert \u00fcbergeben. An den R\u00fcckgabewert kann wie folgt ein\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://help.sap.com/doc/abapdocu_751_index_htm/7.51/de-DE/abentyping_return_values.htm&sa=U&ved=2ahUKEwjX7J62zIvxAhUvzDgGHVy8A5U4ChAWMAl6BAgFEAE&usg=AOvVaw1_X3Fc3dUEdz7T_1dHo-QS",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "1.10 Methoden \u2013 Dr. Daniel Appeldrdanielappel.de \u203a 1-einstieg-ins-programmieren-mit-java \u203a 09-methoden",
+    "link": "https://drdanielappel.de/informatik/mein-kleines-java-tutorium/1-einstieg-ins-programmieren-mit-java/09-methoden/",
+    "description": "28.12.2016 \u00b7 Motivation; Methoden ohne R\u00fcckgabewert; Methoden mit einem Parameter; Methoden ...Dauer: 12:26Gepostet: 28.12.2016",
+    "googleLink": "http://www.google.com/url?q=https://drdanielappel.de/informatik/mein-kleines-java-tutorium/1-einstieg-ins-programmieren-mit-java/09-methoden/&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBC3AjAAegQIBBAB&usg=AOvVaw0fwlMwntn9sni6b-JI7vTe",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "R\u00fcckgabewert bei Funktionen: Aufbau und Stoplersteinewww.python-lernen.de \u203a rueckgabewert-funktionen",
+    "link": "https://www.python-lernen.de/rueckgabewert-funktionen.htm",
+    "description": "Funktionen liefern R\u00fcckgabewerte. Der Inhalt von Variablen innerhalb einer Funktion ist anders als au\u00dferhalb: dazu auch global und nonlocal.",
+    "googleLink": "http://www.google.com/url?q=https://www.python-lernen.de/rueckgabewert-funktionen.htm&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBAWMAF6BAgHEAE&usg=AOvVaw1ap49KzWmOr1ZZPNhnrtaX",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Objekt Methode - Beckhoff Information System - Germaninfosys.beckhoff.com \u203a content \u203a tc3_plc_intro",
+    "link": "https://infosys.beckhoff.com/content/1031/tc3_plc_intro/2530307467.html",
+    "description": "Methoden k\u00f6nnen wie Funktionen einen R\u00fcckgabewert zur\u00fcckliefern. Gem\u00e4\u00df der Norm IEC 61131-3 k\u00f6nnen Methoden wie normale Funktionen zus\u00e4tzliche\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://infosys.beckhoff.com/content/1031/tc3_plc_intro/2530307467.html&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBAWMAJ6BAgJEAE&usg=AOvVaw1fynbk92ghd8zCQekUYtD4",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Java return-Anweisung Java R\u00fcckgabe Java R\u00fcckgabeanweisung ...www.purl.org \u203a stefan_ram \u203a pub \u203a java_wertrueckgabe_de",
+    "link": "http://www.purl.org/stefan_ram/pub/java_wertrueckgabe_de",
+    "description": "Die R\u00fcckgabespezifikation einer Methode legt den Typ des Aufrufs jener Methode fest, lautet sie \u00bbvoid\u00ab, so hat der Aufruf keinen Wert. In der folgenden\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.purl.org/stefan_ram/pub/java_wertrueckgabe_de&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBAWMAN6BAgIEAE&usg=AOvVaw0gb8DeDT4e2r1tJKsJXRBj",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Java Methoden \u00fcberschreiben oder \u00fcberladen. Was ist der ...www.codeadventurer.de \u203a ...",
+    "link": "https://www.codeadventurer.de/?p=2839",
+    "description": "Methodenname; Parameterliste; R\u00fcckgabewert. Wenn wir eine Methode \u00fcberladen bedeutet das, dass wir mindestens zwei Methoden vom gleichem Namen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.codeadventurer.de/%3Fp%3D2839&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBAWMAR6BAgGEAE&usg=AOvVaw25l94vlTXJASp6t3HnX-5V",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Methoden mit R\u00fcckgabewert Array-Algorithmen: Maximumsuche ? 8lehrerfortbildung-bw.de \u203a 13_maximum \u203a 13_alg_maximumsuche",
+    "link": "https://lehrerfortbildung-bw.de/u_matnatech/imp/gym/bp2016/fb2/i02_alg/2_vorlagen/13_maximum/13_alg_maximumsuche.pdf",
+    "description": "Methoden mit R\u00fcckgabewert ermitteln ein Ergebnis und geben dieses an die aufrufende. Methode zur\u00fcck. Dazu dient der Befehl return. Die aufrufende Methode\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://lehrerfortbildung-bw.de/u_matnatech/imp/gym/bp2016/fb2/i02_alg/2_vorlagen/13_maximum/13_alg_maximumsuche.pdf&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBAWMAV6BAgAEAE&usg=AOvVaw1Rtqb11II5fbS639atTLsO",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Java Methoden erstellen und aufrufen - falconbyte.netfalconbyte.net \u203a java-methoden",
+    "link": "https://falconbyte.net/java-methoden.php",
+    "description": "Einfache Beispiele hierf\u00fcr sind: Text auf der Konsole ausgeben, das Ergebnis einer Berechnung zur\u00fcckliefern oder den Wert von Instanzvariablen ver\u00e4ndern. Wir\u00a0...\n\nDatum: 20.11.2018\nAutor: Stefan",
+    "googleLink": "http://www.google.com/url?q=https://falconbyte.net/java-methoden.php&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBAWMAZ6BAgCEAE&usg=AOvVaw14fYR2stl4H9sDzHb2pBtT",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "void (Schl\u00fcsselwort) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Void_(Schl\u00fcsselwort)",
+    "link": "https://de.wikipedia.org/wiki/Void_(Schl%C3%BCsselwort)",
+    "description": "Methoden ohne R\u00fcckgabewert (sog. Prozeduren) benutzt. In diesen Sprachen muss syntaktisch f\u00fcr jede Funktion bzw. Methode ein R\u00fcckgabetyp angegeben\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Void_(Schl%25C3%25BCsselwort)&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBAWMAd6BAgBEAE&usg=AOvVaw11zdmrTyoCgq5KtIgqQ9iP",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "R\u00fcckgabewert der Methode - Englisch-\u00dcbersetzung \u2013 Linguee ...www.linguee.de \u203a deutsch-englisch \u203a uebersetzung \u203a r\u00fcckgabewert+der+met...",
+    "link": "https://www.linguee.de/deutsch-englisch/uebersetzung/r%C3%BCckgabewert+der+methode.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"R\u00fcckgabewert der Methode\" \u2013 Englisch- Deutsch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von Englisch- \u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/deutsch-englisch/uebersetzung/r%25C3%25BCckgabewert%2Bder%2Bmethode.html&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBAWMAh6BAgFEAE&usg=AOvVaw3u6uO-5hMTOKzYW_eyjEqB",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Java Methoden \u2022 Aufbau, Aufruf und Getter Setter \u00b7 [mit Video]studyflix.de \u203a informatik \u203a java-methoden-1901",
+    "link": "https://studyflix.de/informatik/java-methoden-1901",
+    "description": "01.04.2020 \u00b7 Java Methoden : Aufbau einer Methode und Methodenaufruf \u2713 Parameter und R\u00fcckgabewerte \u2713 \u00dcberladen und Getter Setter \u2713 mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/informatik/java-methoden-1901&sa=U&ved=2ahUKEwiGrNG2zIvxAhUy4zgGHW6BAmc4FBAWMAl6BAgDEAE&usg=AOvVaw2Lkh1jxIQ8gG48AnIRStER",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Python - Objektorientierte Programmierungwww.luis.uni-hannover.de \u203a python \u203a python22_InstanzMethoden",
+    "link": "https://www.luis.uni-hannover.de/fileadmin/kurse/material/python/python22_InstanzMethoden.pdf",
+    "description": "Methoden. \u25ab \u201eFunktionen\u201e eines Objektes. \u25ab Definition innerhalb einer Klasse. \u25ab Konstruktion ... Der R\u00fcckgabewert der Methode wird einer Variablen mit Hilfe.",
+    "googleLink": "http://www.google.com/url?q=https://www.luis.uni-hannover.de/fileadmin/kurse/material/python/python22_InstanzMethoden.pdf&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAB6BAgBEAE&usg=AOvVaw0RnfY7M8pDvjvj4-PVR4nf",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Schreiben von Methoden mit R\u00fcckgabewert? (Programmieren, Java)www.gutefrage.net \u203a frage \u203a schreiben-von-methoden-mit-rueckgabewert",
+    "link": "https://www.gutefrage.net/frage/schreiben-von-methoden-mit-rueckgabewert",
+    "description": "Was du brauchst ist. (Zugangsschl\u00fcsselwort) (R\u00fcckgabedatentyp) ( Methodenname) {. ///.... (R\u00fcckgabe) R\u00fcckgabewert;. } Also bspw. public String getTask(){.",
+    "googleLink": "http://www.google.com/url?q=https://www.gutefrage.net/frage/schreiben-von-methoden-mit-rueckgabewert&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAF6BAgIEAE&usg=AOvVaw3vf-ZT8aXyWJqdy5UuuGaS",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Methoden starten und R\u00fcckgabewert - DV-Treff-Communitywww.dv-treff-community.de \u203a Methoden-starten-und-Ruckgabewert-t19590",
+    "link": "https://www.dv-treff-community.de/sap-hilfe/Methoden-starten-und-Ruckgabewert-t19590",
+    "description": "Hallo zusammen, ich habe folgendes Problem, ich habe mir eine Methode erstellt die mir die entsprechende Kostenstelle einer Banf-Position ausliest.",
+    "googleLink": "http://www.google.com/url?q=https://www.dv-treff-community.de/sap-hilfe/Methoden-starten-und-Ruckgabewert-t19590&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAJ6BAgJEAE&usg=AOvVaw2rzhkUaBaV8IhgbJ80NAC7",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "einleitung:methoden [Projektlabor Robotik MINTgr\u00fcn]www.mintgruen.tu-berlin.de \u203a robotikWiki \u203a doku \u203a id=einleitung:methoden",
+    "link": "https://www.mintgruen.tu-berlin.de/robotikWiki/doku.php?id=einleitung:methoden",
+    "description": "Die Arduino-Plattform bringt schon viele Methoden/Funktionen mit, die benutzt werden ... Ein Beispiel f\u00fcr eine Methode ohne Parameter und R\u00fcckgabewert:",
+    "googleLink": "http://www.google.com/url?q=https://www.mintgruen.tu-berlin.de/robotikWiki/doku.php%3Fid%3Deinleitung:methoden&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAN6BAgHEAE&usg=AOvVaw2EkVfIlE2F4FHrexwnS90e",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "C# Tutorial - Eigene Methoden - Csharpme.dewww.csharpme.de \u203a eigene_methoden",
+    "link": "http://www.csharpme.de/eigene_methoden.php",
+    "description": "Methoden ohne Parameter und R\u00fcckgabewert. Bei dieser Art wird keine Variable an die Methode \u00fcbermittelt, wie es zum Beispiel bei WriteLine(string) passiert.",
+    "googleLink": "http://www.google.com/url?q=http://www.csharpme.de/eigene_methoden.php&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAR6BAgCEAE&usg=AOvVaw3xaYwOu_yyg69u6OzdVujj",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Highscore - Programmieren in Java: Einf\u00fchrung - Funktionenwww.highscore.de \u203a java \u203a einfuehrung \u203a funktionen",
+    "link": "http://www.highscore.de/java/einfuehrung/funktionen.html",
+    "description": "Im Gegensatz zum R\u00fcckgabewert kann eine Methode auch mehrere Parameter erwarten. public class MyApplication { public static void main(String[] args) { int x =\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.highscore.de/java/einfuehrung/funktionen.html&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAV6BAgFEAE&usg=AOvVaw0HtKs0UEZaHCoV8kFYAVka",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 6-5 Codebeispiele f\u00fcr Operationen - SOPHIST GmbHwww.sophist.de \u203a Publikationen \u203a UML2_glasklar \u203a 4._Auflage \u203a 6-5...",
+    "link": "https://www.sophist.de/fileadmin/user_upload/Bilder_zu_Seiten/Publikationen/UML2_glasklar/4._Auflage/6-5_Codebeispiele_fuer_Operationen.pdf",
+    "description": "Die C++-Syntax fordert zur Realisierung f\u00fcr jede Methode, die eine Operation aus ... wird in C++ f\u00fcr alle Methoden, die keinen R\u00fcckgabewert definieren, das\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sophist.de/fileadmin/user_upload/Bilder_zu_Seiten/Publikationen/UML2_glasklar/4._Auflage/6-5_Codebeispiele_fuer_Operationen.pdf&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAZ6BAgDEAE&usg=AOvVaw2V1nGe6Zf2d2wtSLHFXGsE",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Informatik: Einf\u00fchrung in Java R\u00fcckgabewertewww.gierhardt.de \u203a informatik \u203a info11 \u203a Rueckgabe",
+    "link": "http://www.gierhardt.de/informatik/info11/Rueckgabe.pdf",
+    "description": "Bei der Methode zaehle wird deutlich, dass Methoden in Java als Funktionen ( wie in der Mathematik) angesehen werden k\u00f6nnen. Der Parameter laenge ist das\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.gierhardt.de/informatik/info11/Rueckgabe.pdf&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAd6BAgGEAE&usg=AOvVaw0QqOKkEo05vEJG7NNTUzAv",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "9.2 Polymorphie beim \u00dcberschreiben | Scalingbitswww.scalingbits.com \u203a java \u203a javakurs1 \u203a polymorphie \u203a ueberschreiben",
+    "link": "http://www.scalingbits.com/java/javakurs1/polymorphie/ueberschreiben",
+    "description": "Man spricht hier vom \u00dcberschreiben von Methoden wenn die folgende Definition ... mit der Signatur und dem R\u00fcckgabewert der Methode einer Oberklasse sein.",
+    "googleLink": "http://www.google.com/url?q=http://www.scalingbits.com/java/javakurs1/polymorphie/ueberschreiben&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAh6BAgEEAE&usg=AOvVaw1Gyj64Am3QfbOHarPuXK_h",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Methoden - auf Java-Tutorial.orgwww.java-tutorial.org \u203a methoden",
+    "link": "https://www.java-tutorial.org/methoden.html",
+    "description": "Der R\u00fcckgabewert einer Methode kann allerdings einen beliebigen Datentyp annehmen, so dass man gegebenenfalls auch Arrays oder Objekte als\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.java-tutorial.org/methoden.html&sa=U&ved=2ahUKEwi16vi3zIvxAhUzzzgGHVeRCwM4KBAWMAl6BAgAEAE&usg=AOvVaw36AaJiO9YyIF_KWCMB9PkN",
+    "page": 4,
+    "index": 9
+  }
+]

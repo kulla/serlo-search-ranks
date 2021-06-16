@@ -1,0 +1,394 @@
+[
+  {
+    "name": "4.3: Divergence of a Series - Mathematics LibreTextsmath.libretexts.org \u203a ... \u203a 4: Convergence of Sequences and Series",
+    "link": "https://math.libretexts.org/Bookshelves/Analysis/Book%3A_Real_Analysis_(Boman_and_Rogers)/04%3A_Convergence_of_Sequences_and_Series/4.03%3A_Divergence_of_a_Series",
+    "description": "To show divergence we must show that the sequence satis\ufb01es the negation of the de\ufb01nition of convergence. That is, we must show that for every r\u2208R there is an \u03b5>0 such that for every N\u2208R, there is an n>N with |n\u2212r|\u2265\u03b5.",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Analysis/Book%253A_Real_Analysis_(Boman_and_Rogers)/04%253A_Convergence_of_Sequences_and_Series/4.03%253A_Divergence_of_a_Series&sa=U&ved=2ahUKEwjhwYbcuYvxAhUIb30KHb-mBTkQFnoECAoQAg&usg=AOvVaw1J5oKynjh4hPZ1zz9J-xL_",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "proving divergence - Mathematics Stack Exchangemath.stackexchange.com \u203a questions \u203a proving-dive...",
+    "link": "https://math.stackexchange.com/questions/1741601/proving-divergence",
+    "description": "A general criterion is the following: A sequence (an)n\u22650 is divergent iff it is not a Cauchy sequence, that is to say: Iff there are an \u03f50>0 and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/1741601/proving-divergence&sa=U&ved=2ahUKEwjhwYbcuYvxAhUIb30KHb-mBTkQFjACegQIAhAB&usg=AOvVaw2U_ABvgDM6Sc5xc8KM6bn2",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "How to prove convergence and divergence \u2013 Serlo \u2013 Wikibooks ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_How_to_pro...",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_How_to_prove_convergence_and_divergence",
+    "description": "Be aware that for proving convergence or divergence, there is no \"cooking recipe\u200b\", which will always lead you to a working proof! There is rather a collection of\u00a0...\nProving convergence \u00b7 An example problem \u00b7 Conducting proofs for ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_How_to_prove_convergence_and_divergence&sa=U&ved=2ahUKEwjhwYbcuYvxAhUIb30KHb-mBTkQFjADegQIAxAB&usg=AOvVaw30r9hqUXYMj3tzU5wJZxDw",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[Proof] Sequence is divergent - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=02lVfY0oYlA",
+    "description": "02.04.2016 \u00b7 Prove a given sequence is divergent.Thanks for watching!!Dauer: 7:48Gepostet: 02.04.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D02lVfY0oYlA&sa=U&ved=2ahUKEwjhwYbcuYvxAhUIb30KHb-mBTkQtwIwCnoECAcQAQ&usg=AOvVaw0BVOkugizschCwoUw4CTy_",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Calculus II - Convergence/Divergence of Seriestutorial.math.lamar.edu \u203a classes \u203a calcii \u203a converge...",
+    "link": "https://tutorial.math.lamar.edu/classes/calcii/convergenceofseries.aspx",
+    "description": "31.05.2018 \u00b7 We will also give the Divergence Test for series in this section. ... be able to prove the convergence of these two series in a couple of sections.",
+    "googleLink": "http://www.google.com/url?q=https://tutorial.math.lamar.edu/classes/calcii/convergenceofseries.aspx&sa=U&ved=2ahUKEwjhwYbcuYvxAhUIb30KHb-mBTkQFjALegQIABAB&usg=AOvVaw1MrneGLt5EiaVPpI4RNUcf",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Divergence theorem proof (part 1) (video) | Khan Academywww.khanacademy.org \u203a multivariable-calculus \u203a di...",
+    "link": "https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-proof/v/divergence-theorem-proof-part-1",
+    "description": "25.03.2021 \u00b7 Setting up the proof for the divergence theorem. ... let's now prove the divergence theorem ...Dauer: 8:29Gepostet: 25.03.2021",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-proof/v/divergence-theorem-proof-part-1&sa=U&ved=2ahUKEwjhwYbcuYvxAhUIb30KHb-mBTkQtwIwDHoECAgQAQ&usg=AOvVaw2uNCH6qHETDuJCxY-0aHN9",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "[PDF] proof of the divergence of the Harmonic seriesweb.williams.edu \u203a Mathematics \u203a harmonic",
+    "link": "https://web.williams.edu/Mathematics/lg5/harmonic.pdf",
+    "description": "diverges. The standard proof involves grouping larger and larger numbers of consecutive terms, and showing that each grouping exceeds 1/2. This proof is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://web.williams.edu/Mathematics/lg5/harmonic.pdf&sa=U&ved=2ahUKEwjhwYbcuYvxAhUIb30KHb-mBTkQFjANegQIARAB&usg=AOvVaw3Qxmy88_ztd2C-7VFncnHr",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Divergence theorem - Wikipediaen.wikipedia.org \u203a wiki \u203a Divergence_theorem",
+    "link": "https://en.wikipedia.org/wiki/Divergence_theorem",
+    "description": "At right the two subvolumes are separated to show the flux out of the different surfaces. See the diagram. A closed, bounded volume V is divided into two volumes\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Divergence_theorem&sa=U&ved=2ahUKEwjhwYbcuYvxAhUIb30KHb-mBTkQFjAOegQIBBAB&usg=AOvVaw0HZ8_0Kl-uvrMLcePAwne6",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Harmonic series (mathematics) - Wikipediaen.wikipedia.org \u203a wiki \u203a Harmonic_series_(mathe...",
+    "link": "https://en.wikipedia.org/wiki/Harmonic_series_(mathematics)",
+    "description": "Comparison test[edit]. One way to prove divergence is to compare the harmonic series with another divergent series, where each denominator is replaced with the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Harmonic_series_(mathematics)&sa=U&ved=2ahUKEwjhwYbcuYvxAhUIb30KHb-mBTkQFjAVegQIBRAB&usg=AOvVaw0Ds8LvXaG1R7a7b3whAyq3",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Divergence Test for Series - Expiiwww.expii.com \u203a divergence-test-for-series-355",
+    "link": "https://www.expii.com/t/divergence-test-for-series-355",
+    "description": "(The nth term test for divergence.) Suppose the sequence an does not converge to 0. Then the series \u2211\u221en=1an diverges. For a proof of this theorem, please\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.expii.com/t/divergence-test-for-series-355&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAB6BAgBEAE&usg=AOvVaw0_0YBekTc8tDnAM9nJ_DwB",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Testing for Convergence or Divergence - CSUSMwww.csusm.edu \u203a mathlab \u203a documents \u203a SeriesConvergeDiverge",
+    "link": "https://www.csusm.edu/mathlab/documents/SeriesConvergeDiverge.pdf",
+    "description": "Testing for Convergence or Divergence of a Series. Many of the ... whether a series is convergent or divergent. If n ... integral, the integral test may prove useful\u200b:.",
+    "googleLink": "http://www.google.com/url?q=https://www.csusm.edu/mathlab/documents/SeriesConvergeDiverge.pdf&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAF6BAgIEAE&usg=AOvVaw0Zi2d8HrgXqnzAUHLlQydc",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Divergence Test - Oregon State Universitysites.science.oregonstate.edu \u203a SandS \u203a SeriesTests",
+    "link": "http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/SandS/SeriesTests/divergence.html",
+    "description": "If the limit of a[n] is not zero, or does not exist, then the sum diverges. For instance\u200b, the sum. the sum over n from 1\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/SandS/SeriesTests/divergence.html&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAJ6BAgJEAE&usg=AOvVaw2Wi0tYoUF-VmgEdU9rVv0i",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "[PDF] M PROOF OF THE DIVERGENCE THEOREM AND STOKES ...www.math.ncku.edu.tw \u203a ~rchen \u203a divergence theorem",
+    "link": "http://www.math.ncku.edu.tw/~rchen/Advanced%20Calculus/divergence%20theorem.pdf",
+    "description": "Proof of the Divergence Theorem. Let F be a smooth vector field defined on a solid region V with boundary surface A oriented outward. We wish to show that.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.ncku.edu.tw/~rchen/Advanced%2520Calculus/divergence%2520theorem.pdf&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAN6BAgHEAE&usg=AOvVaw1-_DyPtdM9S0lysJIrfUb1",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "5.3 The Divergence and Integral Tests - Calculus Volume 2 | OpenStaxopenstax.org \u203a books \u203a calculus-volume-2 \u203a pages",
+    "link": "https://openstax.org/books/calculus-volume-2/pages/5-3-the-divergence-and-integral-tests",
+    "description": "Consequently, although we can use the divergence test to show that a series diverges, we cannot use it to prove that a series converges. Specifically, if\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://openstax.org/books/calculus-volume-2/pages/5-3-the-divergence-and-integral-tests&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAR6BAgGEAE&usg=AOvVaw1OmQlWqEuZ2d7xyG9ShA6t",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "A Simplified Proof of the Divergence Theorem - jstorwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2312320",
+    "description": "620 PROOF OF THE DIVERGENCE THEOREM [June-July regular element of surface; moreover, if we change variables direction of the exterior normal v(x) to SI\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2312320&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAV6BAgCEAE&usg=AOvVaw3_Gb8BGY45MteigLoZfYrJ",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Divergence Theorem - Statement, Proof and Example - Byjusbyjus.com \u203a Maths \u203a Math Article",
+    "link": "https://byjus.com/maths/divergence-theorem/",
+    "description": "Divergence Theorem Proof. The divergence theorem-proof is given as follows: Assume that \u201cS\u201d be a closed surface and any line drawn parallel to coordinate axes\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://byjus.com/maths/divergence-theorem/&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAZ6BAgFEAE&usg=AOvVaw3A1J7tul81JW2pYmYbcZjm",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Proof of the Divergence Theorem - MIT OpenCourseWareocw.mit.edu \u203a mathematics \u203a part-b-flux-and-the-divergence-theorem",
+    "link": "https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-86-proof-of-the-divergence-theorem/MIT18_02SC_MNotes_v10.2.pdf",
+    "description": "Proof of the divergence theorem. We give an argument assuming first that the vector field F has only a k -component: F = P (x, y\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-86-proof-of-the-divergence-theorem/MIT18_02SC_MNotes_v10.2.pdf&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAd6BAgEEAE&usg=AOvVaw3HJL6ojUf9SOI1hYCNqIII",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "The Divergence and Integral Tests \u2013 Calculus Volume 2opentextbc.ca \u203a chapter \u203a the-divergence-and-integr...",
+    "link": "https://opentextbc.ca/calculusv2openstax/chapter/the-divergence-and-integral-tests/",
+    "description": "This test is known as the divergence test because it provides a way of proving that a series diverges. Divergence Test. If \\underset{n\\to \\infty }{\\text{lim}} or \\\u200bunderset\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://opentextbc.ca/calculusv2openstax/chapter/the-divergence-and-integral-tests/&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAh6BAgAEAE&usg=AOvVaw2Fk2-X-EMpSmx0QyNlQDrH",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] The Harmonic Series Diverges Again and Againscipp.ucsc.edu \u203a ~haber \u203a archives \u203a harmapa",
+    "link": "http://scipp.ucsc.edu/~haber/archives/physics116A10/harmapa.pdf",
+    "description": "Notice that the fact that Sn \u2265 1/2 is enough to show that the sequence of partial sums {Hn} is not a Cauchy sequence and is therefore divergent. Proof 5.",
+    "googleLink": "http://www.google.com/url?q=http://scipp.ucsc.edu/~haber/archives/physics116A10/harmapa.pdf&sa=U&ved=2ahUKEwjCh8DduYvxAhXUAnIKHZL4B0Y4ChAWMAl6BAgDEAE&usg=AOvVaw3KOLJrJsBqwoDMUPY2tsIl",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Divergence Analysiswww.cs.cmu.edu \u203a jair \u203a pub \u203a volume4 \u203a section3_3",
+    "link": "https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/walsh96a-html/section3_3.html",
+    "description": "The initial problem is recognizing when the proof is diverging. Various properties of rewrite rules have been identified which cause divergence like, for example,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/walsh96a-html/section3_3.html&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAB6BAgEEAE&usg=AOvVaw15pXnuLTjndBQW1xWCMFQT",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Lectures 11 - 13 : Infinite Series, Convergence tests, Leibniz's theoremhome.iitk.ac.in \u203a ~psraj \u203a mth101 \u203a lecture_notes \u203a Lecture11-13",
+    "link": "http://home.iitk.ac.in/~psraj/mth101/lecture_notes/Lecture11-13.pdf",
+    "description": "Proof : Note that under the hypothesis, (Sn) is an increasing sequence. ... Let us determine the convergence or the divergence of a series by comparing it to one\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://home.iitk.ac.in/~psraj/mth101/lecture_notes/Lecture11-13.pdf&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAF6BAgIEAE&usg=AOvVaw0rBmd7CzgcvSpY9f-z8Ifp",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Series Convergence and Divergence Proofs - Mathonlinemathonline.wikidot.com \u203a series-convergence-and-d...",
+    "link": "http://mathonline.wikidot.com/series-convergence-and-divergence-proofs",
+    "description": "We will now look at some examples of proving/disproving statements regarding the convergence/divergence of a series. Example 1. Prove or disprove: If the series\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/series-convergence-and-divergence-proofs&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAJ6BAgHEAE&usg=AOvVaw0gHOdK7SptRzHPPWlGEGnf",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Figure 7 | Two approaches that prove divergence free nature of non ...link.springer.com \u203a article \u203a epjc \u203a figures",
+    "link": "https://link.springer.com/article/10.1140/epjc/s10052-021-08940-0/figures/7",
+    "description": "From: Two approaches that prove divergence free nature of non-local gravity. Fig. 7. Distribution function in terms of temperature with \\(G=m=k=1\\), and \\(\\lambda\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/article/10.1140/epjc/s10052-021-08940-0/figures/7&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAN6BAgJEAE&usg=AOvVaw2FkhiscO_UZoAscj48dLPw",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "16.5 Divergence and Curlwww.whitman.edu \u203a mathematics \u203a section16.05.html",
+    "link": "https://www.whitman.edu/mathematics/calculus_online/section16.05.html",
+    "description": "Divergence is a scalar, that is, a single number, while curl is itself a vector. The magnitude of the curl ... Ex 16.5.7 Prove theorem 16.5.1. Ex 16.5.8 Prove theorem \u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.whitman.edu/mathematics/calculus_online/section16.05.html&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAR6BAgAEAE&usg=AOvVaw0M-tRzBRhq3LQkd0pnaz-B",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Divergence Theory \u2013 Proof of the Theorem - Vedantuwww.vedantu.com \u203a maths \u203a divergence-theory",
+    "link": "https://www.vedantu.com/maths/divergence-theory",
+    "description": "State and Prove the Gauss's Divergence theorem. To state the Gauss's divergence theorem in an easier way, let's break it into parts. The surface integral of a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.vedantu.com/maths/divergence-theory&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAV6BAgDEAE&usg=AOvVaw34MqxfZiWXWPH7QMLlsahV",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Some convergence and divergence theorems for Hermite-Pad ...www.sciencedirect.com \u203a science \u203a article \u203a pii \u203a pdf",
+    "link": "https://www.sciencedirect.com/science/article/pii/037704279400035Y/pdf?md5=973db43f4a876f9e513375994b8474db&pid=1-s2.0-037704279400035Y-main.pdf",
+    "description": "also prove that the separation property convergence theorem of Baker et al. ( 1988) is sharp by proving a divergence theorem. In addition, we prove their\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/037704279400035Y/pdf%3Fmd5%3D973db43f4a876f9e513375994b8474db%26pid%3D1-s2.0-037704279400035Y-main.pdf&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAZ6BAgCEAE&usg=AOvVaw1k580CqGiRDGuc8EOlfbow",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] M342 PDE: THE DIVERGENCE THEOREM Let R be a bounded ...www.maths.ed.ac.uk \u203a ~jmf \u203a Teaching \u203a Lectures \u203a divthm",
+    "link": "http://www.maths.ed.ac.uk/~jmf/Teaching/Lectures/divthm.pdf",
+    "description": "X\u00b7nds where we have used (2). 4. THE DIVERGENCE THEOREM IN 3 DIMENSIONS. We shall give a 'proof' of this theorem in stages. 4.1. The\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.maths.ed.ac.uk/~jmf/Teaching/Lectures/divthm.pdf&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAd6BAgFEAE&usg=AOvVaw26pMDGsi0dj4SlGoqfupY-",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Gauss's Divergence Theoremwww.math.utah.edu \u203a lectures \u203a math2210",
+    "link": "https://www.math.utah.edu/lectures/math2210/31PostNotes.pdf",
+    "description": "This integral is called \"flux of F across a surface \u2202S \". F can be any vector field, not necessarily a velocity field. Gauss's Divergence Theorem tells us that the flux of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.utah.edu/lectures/math2210/31PostNotes.pdf&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAh6BAgGEAE&usg=AOvVaw2WOIslGRq6bCM4ZC8Kury2",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Lecture 23: Gauss' Theorem or The divergence theorem. states that ...math.ucsd.edu \u203a ~lni",
+    "link": "http://math.ucsd.edu/~lni/math20e/l23.pdf",
+    "description": "We will prove the divergence theorem for convex domains V . Since F = F1i +. F3j+F3k the theorem follows from proving the theorem for each of the three vector .",
+    "googleLink": "http://www.google.com/url?q=http://math.ucsd.edu/~lni/math20e/l23.pdf&sa=U&ved=2ahUKEwjl2ofeuYvxAhWOZd4KHWx0B544FBAWMAl6BAgBEAE&usg=AOvVaw1Ur1vlHvM-qwwEAJqsYTaD",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] A Caution on the Alternating Series Test - UC Davis Mathwww.math.ucdavis.edu \u203a ~saito \u203a courses \u203a alternatingseriestest",
+    "link": "https://www.math.ucdavis.edu/~saito/courses/21C.w11/alternatingseriestest.pdf",
+    "description": "series divergent? Yes, it is divergent since lim n\u2192\u221e. (\u22121) n+1un does not exist (\u200bi.e., the nth Term Test for Divergence holds). This is a correct reasoning to show.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.ucdavis.edu/~saito/courses/21C.w11/alternatingseriestest.pdf&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAB6BAgBEAE&usg=AOvVaw0ueYuPix1xVnB4M8oetw4j",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "The Divergence and Integral Tests \u00b7 Calculusphilschatz.com \u203a calculus-book \u203a contents",
+    "link": "https://philschatz.com/calculus-book/contents/m53754.html",
+    "description": "Consequently, although we can use the divergence test to show that a series diverges, we cannot use it to prove that a series converges. Specifically, if an\u21920,. the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://philschatz.com/calculus-book/contents/m53754.html&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAF6BAgHEAE&usg=AOvVaw2_5oSLSh78R0fQCRmFCiBb",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Proof of the Ratio Test | The Infinite Series Module - UBC Blogsblogs.ubc.ca \u203a infiniteseriesmodule \u203a appendices \u203a p...",
+    "link": "https://blogs.ubc.ca/infiniteseriesmodule/appendices/proof-of-the-ratio-test/proof-of-the-ratio-test/",
+    "description": "Proof of 2 (if L > 1, then the series diverges). Our aim here is to show that the series must be divergent using the Divergence Test. If. then the ratio. will eventually\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://blogs.ubc.ca/infiniteseriesmodule/appendices/proof-of-the-ratio-test/proof-of-the-ratio-test/&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAJ6BAgJEAE&usg=AOvVaw0nx4ryXzDLl3wOScVjNjPI",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Part of the Proof of the Divergence Theorem - LTCC Onlineltcconline.net \u203a greenl \u203a courses \u203a vectorIntegration",
+    "link": "https://ltcconline.net/greenl/courses/202/vectorIntegration/divergenceTheorem.htm",
+    "description": "Since the solid is a sphere of radius 1 we get p. Part of the Proof of the Divergence Theorem. As usual, we will make some simplifying remarks and then prove part\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ltcconline.net/greenl/courses/202/vectorIntegration/divergenceTheorem.htm&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAN6BAgIEAE&usg=AOvVaw3XM4SHpOPt-RdJyDYVEkYU",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Divergence test - xaktly.comxaktly.com \u203a DivergenceTest",
+    "link": "https://xaktly.com/DivergenceTest.html",
+    "description": "Show that $\\sum_{n = 1}^{\\infty} \\frac{n}{2n + 1}$ diverges. Solution : The divergence test simply asks whether the nth term of the series has a non-zero limit.",
+    "googleLink": "http://www.google.com/url?q=https://xaktly.com/DivergenceTest.html&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAR6BAgFEAE&usg=AOvVaw2eHmxovtJgzgQCmN1JTS-V",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Proving Termination by Divergence | IEEE Conference Publication ...ieeexplore.ieee.org \u203a document",
+    "link": "https://ieeexplore.ieee.org/document/4343927/",
+    "description": "Proving Termination by Divergence. Abstract: We describe a simple and efficient algorithm for proving the termination of a class of loops with nonlinear\u00a0...\n\nDate Added to IEEE Xplore: 15 October 2007\nDOI: 10.1109/SEFM.2007.32",
+    "googleLink": "http://www.google.com/url?q=https://ieeexplore.ieee.org/document/4343927/&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAV6BAgEEAE&usg=AOvVaw1ovDCwZpLuKP8XnBl9SIl4",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Divergence Test - ProofWikiproofwiki.org \u203a wiki \u203a Divergence_Test",
+    "link": "https://proofwiki.org/wiki/Divergence_Test",
+    "description": "22.09.2018 \u00b7 Theorem. Let \u27e8an\u27e9 be a sequence in R. If limk\u2192\u221eak\u22600, then \u221e\u2211i=1an diverges. Proof. We know that Terms in Convergent Series\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Divergence_Test&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAZ6BAgGEAE&usg=AOvVaw1Unc5eR2SaiPMCpy09MaxM",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Show that the divergence of the curl of a vector is zero. - Ques10www.ques10.com \u203a show-that-the-divergence-of-the...",
+    "link": "https://www.ques10.com/p/21621/show-that-the-divergence-of-the-curl-of-a-vector-1/",
+    "description": "For any field \u2192B the divergence of a curl of \u2192B is written as. \u2192\u2207.(\u2192\u2207.",
+    "googleLink": "http://www.google.com/url?q=https://www.ques10.com/p/21621/show-that-the-divergence-of-the-curl-of-a-vector-1/&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAd6BAgDEAE&usg=AOvVaw1BQxkKA-9nfxqsiVgxCqWi",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "5.5. the Divergence Theoremwww.math.toronto.edu \u203a notes \u203a Chapter5 \u203a S5.5.html",
+    "link": "http://www.math.toronto.edu/courses/mat237y1/20189/notes/Chapter5/S5.5.html",
+    "description": "Most of these applications are of a rather theoretical character, such as proving theorems about properties of solutions of partial differential equations from\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.toronto.edu/courses/mat237y1/20189/notes/Chapter5/S5.5.html&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAh6BAgAEAE&usg=AOvVaw3CTsLEv6Un7tLECcp8SgCJ",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "104 ANOTHER ELEMENTARY PROOF OF THE ... - Project Euclidprojecteuclid.org \u203a journals \u203a volume-16 \u203a issue-2 \u203a Another-Elementary-...",
+    "link": "https://projecteuclid.org/journals/missouri-journal-of-mathematical-sciences/volume-16/issue-2/Another-Elementary-Proof-of-the-Convergence-Divergence-of-p-Series/10.35834/2004/1602104.pdf",
+    "description": "Recently Khan [2] gave a simple proof of the convergence-divergence of the p-\u200bseries \u2211\u221e n=1 1/np. The divergence of this series for p \u2264 1 was shown by con-.",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/journals/missouri-journal-of-mathematical-sciences/volume-16/issue-2/Another-Elementary-Proof-of-the-Convergence-Divergence-of-p-Series/10.35834/2004/1602104.pdf&sa=U&ved=2ahUKEwjR05XfuYvxAhVF-2EKHd8nAG84HhAWMAl6BAgCEAE&usg=AOvVaw1CeOPjHOj2QaJF74qZTPeD",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Divergence measures and message passing - Harvard SEASwww.seas.harvard.edu \u203a courses \u203a papers \u203a minka-divergence",
+    "link": "https://www.seas.harvard.edu/courses/cs281/papers/minka-divergence.pdf",
+    "description": "12. 8 Tree-reweighted message passing. 12. 9 Choosing a divergence measure. 13. 10 Future work. 14. A Ali-Silvey divergences. 15. B Proof of Theorem 1. 16.",
+    "googleLink": "http://www.google.com/url?q=https://www.seas.harvard.edu/courses/cs281/papers/minka-divergence.pdf&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAB6BAgAEAE&usg=AOvVaw0Y9CwCbJEeSyeZQ8STeIW5",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] 15.9 The Divergence Theorem F \u00b7 n ds = \u2207 \u00b7 F dAwww.math.uci.edu \u203a ~ndonalds \u203a 16-9divergence",
+    "link": "https://www.math.uci.edu/~ndonalds/math2e/16-9divergence.pdf",
+    "description": "The flux of F across C is equal to the integral of the divergence over its interior. ... We prove for different types of regions then ... Proof of Divergence Theorem.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uci.edu/~ndonalds/math2e/16-9divergence.pdf&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAF6BAgHEAE&usg=AOvVaw0zy4DIveP0Smpnb7RhhsIS",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Divergence -- from Wolfram MathWorldmathworld.wolfram.com \u203a Divergence",
+    "link": "https://mathworld.wolfram.com/Divergence.html",
+    "description": "Divergence. The divergence of a vector field F , denoted div(F) or del \u00b7F (the notation used in this work)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/Divergence.html&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAJ6BAgJEAE&usg=AOvVaw36dHtZl3OuCZk0r92y_U_U",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Proving Termination by Divergence - SOAR Labsoarlab.org \u203a papers \u203a 2007_sefm_bchr",
+    "link": "https://soarlab.org/papers/2007_sefm_bchr.pdf",
+    "description": "cally prove the termination of loops that cannot be handled using previous ... Section 2.4 presents how we use the divergence information to prove termina-.",
+    "googleLink": "http://www.google.com/url?q=https://soarlab.org/papers/2007_sefm_bchr.pdf&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAN6BAgIEAE&usg=AOvVaw2-QhzBoUUQuaTdzlGIv7Zr",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Prove that the divergence of a curl is always zero. :: Homework Help ...www.slader.com \u203a ... \u203a Physics question & answer",
+    "link": "https://www.slader.com/discussion/question/prove-that-the-divergence-of-a-curl-is-always-zero/",
+    "description": "Solved: Prove that the divergence of a curl is always zero. - Slader.",
+    "googleLink": "http://www.google.com/url?q=https://www.slader.com/discussion/question/prove-that-the-divergence-of-a-curl-is-always-zero/&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAR6BAgDEAE&usg=AOvVaw0i9t6OqZ8XPtMTCSqX9K3i",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "A divergence critic for inductive proof | Journal of Artificial ...dl.acm.org \u203a citation",
+    "link": "https://dl.acm.org/citation.cfm?id=1622747",
+    "description": "Inductive theorem provers often diverge. This paper describes a simple critic, a computer program which monitors the construction of inductive proofs attempting\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dl.acm.org/citation.cfm%3Fid%3D1622747&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAV6BAgGEAE&usg=AOvVaw3RZNxAIRwyzYj0HAoqF9aY",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Series Convergence Tests Math 122 Calculus IIImathcs.clarku.edu \u203a ~djoyce \u203a posseries",
+    "link": "https://mathcs.clarku.edu/~djoyce/ma122/posseries.pdf",
+    "description": "Question 1: given a series does it converge or diverge? Question 2: if it ... The term test can be used to show that the following series don't converge. \u2211 n n + 1.",
+    "googleLink": "http://www.google.com/url?q=https://mathcs.clarku.edu/~djoyce/ma122/posseries.pdf&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAZ6BAgEEAE&usg=AOvVaw1mKnWKliqsZ3bPHSHSyX6y",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "The divergence test - Ximeraximera.osu.edu \u203a mooculus \u203a calculus2 \u203a digInDive...",
+    "link": "https://ximera.osu.edu/mooculus/calculus2/divergenceTest/digInDivergenceTest",
+    "description": "If , then we can show that does not exist and hence diverges. This test gives us a quick way to determine if some series diverge. Determine if the series converges\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ximera.osu.edu/mooculus/calculus2/divergenceTest/digInDivergenceTest&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAd6BAgBEAE&usg=AOvVaw3cV3yETwchT_M_wC6Kh5yY",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Divergence of vector field - MATLAB divergence - MathWorkswww.mathworks.com \u203a ... \u203a Mathematics \u203a Calculus",
+    "link": "https://www.mathworks.com/help/symbolic/divergence.html",
+    "description": "Show that the divergence of the curl of the vector field is 0. divergence(curl(field,\u200bvars),vars). ans = 0. Find the divergence of the gradient of this scalar function.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathworks.com/help/symbolic/divergence.html&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAh6BAgCEAE&usg=AOvVaw1ChNp0P4XHWOUWUQYXSF_i",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Proving ergodicity via divergence of time averagesAllwww.impan.pl \u203a studia-mathematica \u203a all \u203a proving-...",
+    "link": "https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/all/248/2/112492/proving-ergodicity-via-divergence-of-ergodic-sums",
+    "description": "06.03.2019 \u00b7 A classical fact in ergodic theory is that ergodicity is equivalent to almost everywhere divergence of ergodic sums of all nonnegative integrable\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/all/248/2/112492/proving-ergodicity-via-divergence-of-ergodic-sums&sa=U&ved=2ahUKEwibspvguYvxAhXh-GEKHas7AlM4KBAWMAl6BAgFEAE&usg=AOvVaw33CB58lIwIUb3PiYZOYEMv",
+    "page": 4,
+    "index": 9
+  }
+]

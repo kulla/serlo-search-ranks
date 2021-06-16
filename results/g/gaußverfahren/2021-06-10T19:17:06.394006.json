@@ -1,0 +1,402 @@
+[
+  {
+    "name": "",
+    "link": "https://de.serlo.org/mathe/1581/gau%C3%9Fverfahren?sa=X&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQ9QF6BAgEEAI",
+    "description": "Das Gau\u00dfverfahren ist ein Verfahren, um lineare Gleichungssysteme zu l\u00f6sen. Dabei wird das Additionsverfahren auf die erweiterte Koeffizientenmatrix angewandt. Mit dieser Form lassen sich nun ganz einfach von unten nach oben die Eintr\u00e4ge des L\u00f6sungsvektors berechnen.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Gau\u00dfverfahren, Beispiel, Gaussalgorithmus | Mathe by Daniel Jung ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=eEtfsc9UaKc",
+    "description": "04.12.2016 \u00b7 Gau\u00dfverfahren, Beispiel, GaussalgorithmusWenn noch spezielle Fragen sind: https://www ...Dauer: 7:31Gepostet: 04.12.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DeEtfsc9UaKc&sa=U&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQtwIwA3oECAwQAQ&usg=AOvVaw3R5b0-fXE-eNDCuMK5HRSd",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Gau\u00df-Verfahren (aka Gau\u00df-Algorithmus zum L\u00f6sen von linearen ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=BPkwxWp1qNk",
+    "description": "02.02.2019 \u00b7 Beim Gau\u00df-Verfahren darfst du Zeilen vertauschen, Zeilen durchmultiplizieren und ...Dauer: 5:07Gepostet: 02.02.2019",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DBPkwxWp1qNk&sa=U&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQtwIwDXoECAoQAQ&usg=AOvVaw079zuS--BgxmzkhG4pUYX8",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Gau\u00dfsches Eliminationsverfahren \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Gau\u00dfsches_Eliminationsverfahren",
+    "link": "https://de.wikipedia.org/wiki/Gau%C3%9Fsches_Eliminationsverfahren",
+    "description": "Das gau\u00dfsche Eliminationsverfahren oder einfach Gau\u00df-Verfahren (nach Carl Friedrich Gau\u00df) ist ein Algorithmus aus den mathematischen Teilgebieten der\u00a0...\nErkl\u00e4rung \u00b7 Pivotisierung \u00b7 LR-Zerlegung \u00b7 Eigenschaften des ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Gau%25C3%259Fsches_Eliminationsverfahren&sa=U&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQFjAWegQIBRAB&usg=AOvVaw2ag8P1gFudSaF9Z6tbqsBk",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Gau\u00df-Algorithmus bzw. Gau\u00df-Verfahren - Gut-Erkl\u00e4rtwww.gut-erklaert.de \u203a mathematik \u203a gauss-verfahren-gauss-algorithmus",
+    "link": "https://www.gut-erklaert.de/mathematik/gauss-verfahren-gauss-algorithmus.html",
+    "description": "Das Ziel mit dem Gau\u00df-Verfahren besteht darin, dass ein Gleichungssystem entsteht, bei dem in der ersten Zeile alle Variablen enthalten sind und in jeder\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gut-erklaert.de/mathematik/gauss-verfahren-gauss-algorithmus.html&sa=U&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQFjAXegQIBxAB&usg=AOvVaw16EFncXGBhSRRN-SmMKSyY",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Das Gauss-Verfahrenwww.fg.vs.schule-bw.de \u203a public \u203a faecher \u203a mathe \u203a kam_ks \u203a Gauss",
+    "link": "http://www.fg.vs.schule-bw.de/public/faecher/mathe/kam_ks/Gauss.html",
+    "description": "Das Gauss-Verfahren stellt ein derartiges Verfahren dar. Da sehr viele Fragestellungen in der analytischen Geometrie auf das L\u00f6sen linearer Gleichungssysteme\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.fg.vs.schule-bw.de/public/faecher/mathe/kam_ks/Gauss.html&sa=U&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQFjAYegQIAhAB&usg=AOvVaw3WQEM1uQhqwOcNDXg7mw1K",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Gau\u00df-Verfahren (Eliminationsverfahren) - Matheretterwww.matheretter.de \u203a wiki \u203a gaussverfahren",
+    "link": "https://www.matheretter.de/wiki/gaussverfahren",
+    "description": "Mit dem Gau\u00df-Verfahren (kurz f\u00fcr \"Gau\u00dfsches Eliminationsverfahren\") lassen sich L\u00f6sungen von beliebig gro\u00dfen linearen Gleichungssystemen bestimmen.",
+    "googleLink": "http://www.google.com/url?q=https://www.matheretter.de/wiki/gaussverfahren&sa=U&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQFjAZegQIARAB&usg=AOvVaw3ye1ui4Ld6R6Gmclwo2OQ-",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Gau\u00df-Verfahren - Abitur-Vorbereitung - Online-Kurse - Abiweb.dewww.abiweb.de \u203a loesen-lineares-gleichungssystem \u203a gauss-verfahren",
+    "link": "https://www.abiweb.de/mathematik-analytische-geometrie-lineare-algebra-agla/lineares-gleichungssystem/loesen-lineares-gleichungssystem/gauss-verfahren.html",
+    "description": "Ziel beim Gau\u00df-Verfahren ist es, das LGS durch Umformungen auf Stufenform zu bekommen und anschlie\u00dfend \u201evon unten nach oben\u201c aufzul\u00f6sen. Dieses\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.abiweb.de/mathematik-analytische-geometrie-lineare-algebra-agla/lineares-gleichungssystem/loesen-lineares-gleichungssystem/gauss-verfahren.html&sa=U&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQFjAaegQIBhAB&usg=AOvVaw1TBXVBuzHh-dvAwso-Rc3C",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Gau\u00dfverfahren - matheabi-bwwww.matheabi-bw.de \u203a ... \u203a Lineare Gleichungssysteme",
+    "link": "http://www.matheabi-bw.de/index.php/analytische-geometrie-ohne-gtr28/lineare-gleichungssysteme21/gaussverfahren",
+    "description": "... Zum Abitur ab 2017 \u00b7 Abitur 2020. Aktuelle Seite: Home; Analytische Geometrie ohne GTR; Lineare Gleichungssysteme; Gau\u00dfverfahren. Gau\u00dfverfahren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.matheabi-bw.de/index.php/analytische-geometrie-ohne-gtr28/lineare-gleichungssysteme21/gaussverfahren&sa=U&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQFjAbegQICRAB&usg=AOvVaw2NZZGEMVA0PTxygpH3b5JC",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Gau\u00df-Verfahren online lernen - Sofatutorwww.sofatutor.com \u203a lineare-gleichungssysteme \u203a gauss-verfahren",
+    "link": "https://www.sofatutor.com/mathematik/terme-und-gleichungen/lineare-gleichungssysteme/gauss-verfahren",
+    "description": "Das Gau\u00df'sche Eliminationsverfahren oder auch kurz das Gau\u00df-Verfahren oder der Gau\u00df-Algorithmus ist ein Verfahren zur Bestimmung von L\u00f6sungen linearer\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sofatutor.com/mathematik/terme-und-gleichungen/lineare-gleichungssysteme/gauss-verfahren&sa=U&ved=2ahUKEwjU8LT5yI3xAhV4qJUCHR1xDkgQFjAcegQIABAB&usg=AOvVaw1dt17QPXl7du4VNzlgcgHZ",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Gau\u00dfverfahren zur L\u00f6sung von linearen Gleichungssystemenwww.lernort-mint.de \u203a Mathematik \u203a Gleichungen bzw. Ungleichungen",
+    "link": "https://www.lernort-mint.de/mathematik/gleichungen/gleichung-gaussverfahren/",
+    "description": "Gau\u00df-Verfahren (f\u00fcr zwei und mehr Variablen, lineares Gleichungssystem) und; Quadratische Erg\u00e4nzung (f\u00fcr eine Variable, quadratisches Gleichungssystem).",
+    "googleLink": "http://www.google.com/url?q=https://www.lernort-mint.de/mathematik/gleichungen/gleichung-gaussverfahren/&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAB6BAgBEAE&usg=AOvVaw0PwkfAhj9zv18UAMyjq1PU",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "LGS - Gau\u00dfverfahren \u2013 GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/ket9yazm",
+    "description": "LGS - Gau\u00dfverfahren. ... LGS - Gau\u00dfverfahren. Autor: J. van L\u00fcck. GeoGebra Applet Dr\u00fccke die Eingabetaste um die Aktivit\u00e4t zu starten\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/ket9yazm&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAF6BAgHEAE&usg=AOvVaw3pKRV5tst19wf6Qr0hBT09",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Gau\u00df-Algorithmus / Gau\u00df-Verfahren | Mathematik - Welt der BWLwelt-der-bwl.de \u203a Gau\u00df-Algorithmus",
+    "link": "https://welt-der-bwl.de/Gau%C3%9F-Algorithmus",
+    "description": "Gau\u00df-Algorithmus Definition. Mit dem Gau\u00df-Algorithmus k\u00f6nnen lineare Gleichungssysteme mit mehr als 2 Variablen und Gleichungen gel\u00f6st werden (es geht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://welt-der-bwl.de/Gau%25C3%259F-Algorithmus&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAJ6BAgIEAE&usg=AOvVaw2x9MXnzBFS5DroSxKFsu0w",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Gauss-Verfahren - Dieter Heidornwww.dieter-heidorn.de \u203a Mathematik \u203a K3_Gleichungssysteme \u203a K32_Gauss",
+    "link": "http://www.dieter-heidorn.de/Mathematik/RP_LA_AG1/K3_Gleichungssysteme/K32_Gauss/Gauss.html",
+    "description": "Das Gau\u00df-Verfahren zum L\u00f6sen eines linearen Gleichungssystems besteht nun aus den zwei Schritten: 1. Umformung des Gleichungssystems durch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.dieter-heidorn.de/Mathematik/RP_LA_AG1/K3_Gleichungssysteme/K32_Gauss/Gauss.html&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAN6BAgJEAE&usg=AOvVaw3Aw-rJgziB4xBqRBIEhdYr",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Gau\u00df Verfahren - Sch\u00fclerhilfewww.schuelerhilfe.de \u203a 67-analysis \u203a 668-gleichungssysteme-l\u00f6sen",
+    "link": "https://www.schuelerhilfe.de/online-lernen/1-mathematik/9-qualifikationsphase/67-analysis/343-bestimmung-von-funktionstermen-steckbriefaufgaben/668-gleichungssysteme-l%C3%B6sen",
+    "description": "Gau\u00df Verfahren in Gleichungssystemen jetzt online lernen \u27a4 Mit ... Lineare Gleichungssysteme (LGS) l\u00f6st man mit dem Gau\u00df-Verfahren: Eine Zeile wird\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.schuelerhilfe.de/online-lernen/1-mathematik/9-qualifikationsphase/67-analysis/343-bestimmung-von-funktionstermen-steckbriefaufgaben/668-gleichungssysteme-l%25C3%25B6sen&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAR6BAgGEAE&usg=AOvVaw1vWTCX44ToTmKwNTq7JhOa",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Gau\u00dfverfahren (Mathematik) - [ Deutscher Bildungsserver ]www.bildungsserver.de \u203a Suche \u203a Onlineressourcen",
+    "link": "https://www.bildungsserver.de/onlineressource.html?onlineressourcen_id=55964",
+    "description": "29.10.2014 \u00b7 Das Gau\u00dfverfahren ist ein Verfahren, um lineare Gleichungssysteme zu l\u00f6sen. Dabei werden mit dem Additionsverfahren der Reihe nach\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.bildungsserver.de/onlineressource.html%3Fonlineressourcen_id%3D55964&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAV6BAgEEAE&usg=AOvVaw1lMy5AbBEUVEi2r8zQd8HJ",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Gau\u00df Verfahren - Lineare Gleichungssysteme - was ist wichtig?www.oberprima.com \u203a gauss-verfahren",
+    "link": "https://www.oberprima.com/gauss-verfahren/",
+    "description": "10.11.2018 \u00b7 Das Gleichungssystem, das in der Schule am h\u00e4ufigsten mit diesem Verfahren gel\u00f6st wird, ist das mit drei Gleichungen und drei Variablen. Mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oberprima.com/gauss-verfahren/&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAZ6BAgDEAE&usg=AOvVaw0kbwrqKLjZZH4NUXoRvCOF",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "L\u00f6sungsverfahren, L\u00f6sungsvektor, Gau\u00df, Gauss, Gau\u00df-Verfahren ...www.mathe-seite.de \u203a oberstufe \u203a matrizen-lgs \u203a gauss-verfahren",
+    "link": "https://www.mathe-seite.de/oberstufe/matrizen-lgs/gauss-verfahren/",
+    "description": "02 | LGS: L\u00f6sung mit Gau\u00df-Verfahren. Das g\u00e4ngigste L\u00f6sungsverfahren f\u00fcr ein Lineares Gleichungssystem ist das Gau\u00df-Verfahren. Daf\u00fcr stellt man sich die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-seite.de/oberstufe/matrizen-lgs/gauss-verfahren/&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAd6BAgFEAE&usg=AOvVaw23x_1zH55FIW1LYKY0p_8H",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "L\u00f6sung des linearen Gleichungssystemes (LGS) onlinematrixcalc.org \u203a slu",
+    "link": "https://matrixcalc.org/de/slu.html",
+    "description": "... die Anzahl der L\u00f6sungen zu bestimmen, ein lineares Gleichungssystem (LGS) mit dem Gau\u00df-Verfahren, mithilfe der Kehrmatrix oder dem Cramer-Verfahren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://matrixcalc.org/de/slu.html&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAh6BAgAEAE&usg=AOvVaw1ufdasVnAza2QIYF4OLvFh",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "5.1 Das Gau\u00df-Verfahren - L\u00f6sen von linearen Gleichungssystemen ...fliptheclassroom.de \u203a gauss-verfahren",
+    "link": "https://fliptheclassroom.de/gauss-verfahren/",
+    "description": "Das Gau\u00df-Verfahren sollte man auf jeden Fall kennen. Und das Sch\u00f6ne ist, es ist ganz leicht! Aber man verrechnet sich leicht, wenn man zu hektisch vorgeht\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://fliptheclassroom.de/gauss-verfahren/&sa=U&ved=2ahUKEwjz6oX6yI3xAhXDq5UCHTwABLY4ChAWMAl6BAgCEAE&usg=AOvVaw1aFD0e_T-xrr5iLcyzto2x",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Gau\u00df-Algorithmus - Mathebibel.dewww.mathebibel.de \u203a ... \u203a Algebra \u203a Lineare Gleichungssysteme (LGS)",
+    "link": "https://www.mathebibel.de/gauss-algorithmus",
+    "description": "Der Gau\u00df-Algorithmus ist ein Verfahren zum L\u00f6sen linearer Gleichungssysteme. Neben der Berechnung linearer Gleichungssysteme kann man mit Hilfe des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathebibel.de/gauss-algorithmus&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAB6BAgFEAE&usg=AOvVaw1EkvDEkq9vqPnb6aEICseU",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Gau\u00df Verfahren \u21d2 einfach erkl\u00e4rt mit Lernvideos! - Mathe Lerntippswww.mathe-lerntipps.de \u203a gauss-verfahren",
+    "link": "https://www.mathe-lerntipps.de/gauss-verfahren/",
+    "description": "Gau\u00df Verfahren \u00b7 Dividiere die erste Zeile durch die erste Zahl in dieser Zeile. \u00b7 Subtrahiere von der zweiten Zeile ein Vielfaches der ersten Zeile so, dass als\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-lerntipps.de/gauss-verfahren/&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAF6BAgIEAE&usg=AOvVaw3rarnyqe3-x1g_UmdRN4Cl",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Gleichungssysteme - Mathematikaufgaben - Mathe in Smartieswww.mathe-in-smarties.de \u203a oberstufe \u203a gleichungssysteme",
+    "link": "https://www.mathe-in-smarties.de/oberstufe/gleichungssysteme/",
+    "description": "Download. Basistext - Gau\u00df Verfahren. Basistext-Gau\u00df_Verfahren.pdf. Adobe Acrobat Dokument 64.1 KB. Download \u00b7 Download. Aufgaben - Gau\u00df Verfahren.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathe-in-smarties.de/oberstufe/gleichungssysteme/&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAJ6BAgJEAE&usg=AOvVaw3gdiOf9OtcV1jQzBMkDiX-",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Interpretation von LGS - SchulLV - Dein digitales Lernverzeichniswww.schullv.de \u203a mathe \u203a basiswissen \u203a analytische_geometrie \u203a interpreta...",
+    "link": "https://www.schullv.de/mathe/basiswissen/analytische_geometrie/lgs/interpretation",
+    "description": "In der dritten Gleichung stehen nach dem Gau\u00dfverfahren lediglich Nullen. \u00dcber die \\(x_3\\) -Koordinate trifft dieses Gleichungssystem keine Aussage. F\u00fcr diese\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.schullv.de/mathe/basiswissen/analytische_geometrie/lgs/interpretation&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAN6BAgHEAE&usg=AOvVaw3n2UK_mN-Vc_t1re3syt_y",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Gau\u00dfsches Eliminationsverfahren : L\u00f6sen einer Matrix \u00b7 [mit Video]studyflix.de \u203a elektrotechnik \u203a gausssches-eliminationsverfahren-333",
+    "link": "https://studyflix.de/elektrotechnik/gausssches-eliminationsverfahren-333",
+    "description": "29.11.2018 \u00b7 Das Gau\u00dfsche Eliminationsverfahren ist ein Verfahren zur L\u00f6sung linearer Gleichungssysteme. Daf\u00fcr wird das Gleichungssystem zun\u00e4chst in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/elektrotechnik/gausssches-eliminationsverfahren-333&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAR6BAgEEAE&usg=AOvVaw2mnzjAADs1qjOxudZJvMCr",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Gleichungssystem l\u00f6sen mithilfe des Gau\u00dfverfahren | Matheloungewww.mathelounge.de \u203a gleichungssystem-losen-mithilfe-des-gaussverfahren",
+    "link": "https://www.mathelounge.de/681531/gleichungssystem-losen-mithilfe-des-gaussverfahren",
+    "description": "a) stur nach Schema: eine L\u00f6sung: (1,2,3,4). b) 2. Zeile verdoppeln minus 3. Zeile; steht im Widerspruch zur 1. Zeile: L={ }. c) stur nach Gauss:.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/681531/gleichungssystem-losen-mithilfe-des-gaussverfahren&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAV6BAgCEAE&usg=AOvVaw2oq594bfLqNg7i96MvT2rB",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Gau\u00df-Verfahren - G. Roolfsgroolfs.de \u203a Vektorpdf2 \u203a GaussVerfahren",
+    "link": "http://groolfs.de/Vektorpdf2/GaussVerfahren.pdf",
+    "description": "Gau\u00df-Verfahren zur L\u00f6sung von Gleichungssystemen. Mit dieser Vorgehensweise k\u00f6nnen Gleichungssysteme (auch unbestimmte) \u00fcbersichtlich gel\u00f6st werden.",
+    "googleLink": "http://www.google.com/url?q=http://groolfs.de/Vektorpdf2/GaussVerfahren.pdf&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAZ6BAgAEAE&usg=AOvVaw1xUlaQ3JSCq37lF-rGBfAX",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Gau\u00df-Algorithmus \u2022 Mathe-Brinkmann123mathe.de \u203a ... \u203a Gau\u00df-Algorithmus \u2022 Mathe-Brinkmann",
+    "link": "https://123mathe.de/gauss-algorithmus",
+    "description": "09.05.2021 \u00b7 Regeln des Gau\u00df-Algorithmus, Tipps f\u00fcr blutige Anf\u00e4nger. Mit vielen anschaulichen Beispielen und Aufgaben.",
+    "googleLink": "http://www.google.com/url?q=https://123mathe.de/gauss-algorithmus&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAd6BAgBEAE&usg=AOvVaw0TWv0zEnjHw-Q84am3xZCt",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Gau\u00df-Verfahren - Lexikon der Mathematik - Spektrumwww.spektrum.de \u203a Lexika \u203a Lexikon der Mathematik",
+    "link": "https://www.spektrum.de/lexikon/mathematik/gauss-verfahren/3382",
+    "description": "Lexikon der Mathematik: Gau\u00df-Verfahren. Anzeige. vorheriger Artikel. n\u00e4chster Artikel. Gau\u00dfscher Algorithmus, Direkte L\u00f6sung linearer Gleichungssysteme.",
+    "googleLink": "http://www.google.com/url?q=https://www.spektrum.de/lexikon/mathematik/gauss-verfahren/3382&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAh6BAgGEAE&usg=AOvVaw2OHgXizEwmJDRp_ShKqUBQ",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Gaussverfahren - www.mathefragen.dewww.mathefragen.de \u203a frage \u203a gaussverfahren",
+    "link": "https://www.mathefragen.de/frage/q/a82d26a770/gaussverfahren/",
+    "description": "Gaussverfahren. Erste Frage Aufrufe: 129 Aktiv: 03.11.2020 um 19:17 folgen. 0. Hi ich komme bei den Schritten nicht weiter wo man Nullen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathefragen.de/frage/q/a82d26a770/gaussverfahren/&sa=U&ved=2ahUKEwifwcv6yI3xAhUwqJUCHZAuCCY4FBAWMAl6BAgDEAE&usg=AOvVaw2L05B5TsIpILw61EWmdC-c",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Aufgaben Gau\u00df Verfahren mit L\u00f6sungen | Koonys Schule #1777www.koonys.de \u203a Aufgaben-Gau\u00df-Verfahren",
+    "link": "https://www.koonys.de/1777/Aufgaben-Gau%C3%9F-Verfahren",
+    "description": "F\u00fcr lineare Gleichungssysteme mit mehr als nur zwei Gleichungen und Unbekannten gibt es einen Algorithmus mit dem man bequemer zur L\u00f6sung kommt.",
+    "googleLink": "http://www.google.com/url?q=https://www.koonys.de/1777/Aufgaben-Gau%25C3%259F-Verfahren&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAB6BAgAEAE&usg=AOvVaw0L7Gn5ZUM3ow6bTH-JZFIU",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Gau\u00df-Algorithmus - Matheaufgaben und \u00dcbungen | Mathegymmathegym.de \u203a mathe \u203a aufgabe \u203a gauss-algorithmus",
+    "link": "https://mathegym.de/mathe/aufgabe/184/gauss-algorithmus",
+    "description": "Gau\u00df-Verfahren. Ein lineares Gleichungssystem kann \u00fcbersichtlich gel\u00f6st werden, indem man es zun\u00e4chst auf Stufenform bringt. Dies bezeichnet man als\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathegym.de/mathe/aufgabe/184/gauss-algorithmus&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAF6BAgIEAE&usg=AOvVaw0d8RH7_AjxXDbAEvEWX8-U",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] 17. Das Gau\u00df-Verfahrenwww.mathematik.uni-kl.de \u203a class \u203a gdm-2019 \u203a gdm-2019-c17",
+    "link": "https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c17.pdf",
+    "description": "Das Gau\u00df-Verfahren. Nachdem wir jetzt viele Probleme der linearen Algebra (z. B. Basen von Vektorr\u00e4umen zu konstruie- ren, Morphismen durch lineare\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c17.pdf&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAJ6BAgJEAE&usg=AOvVaw2v9WNUFgD7Q9rD-lKCLyHN",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Lineare Gleichungssysteme: Das Gau\u00df-Verfahrenwww.matiska.de \u203a VorKursTotal \u203a daten \u203a lgs_4",
+    "link": "https://www.matiska.de/VorKursTotal/daten/lgs_4.html",
+    "description": "Lineare Gleichungssysteme: Das Gau\u00df-Verfahren. Bei der L\u00f6sung gr\u00f6\u00dferer linearer Gleichungssysteme, und gr\u00f6\u00dfer f\u00e4ngt bei 3 x 3 Systemen mit 3\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matiska.de/VorKursTotal/daten/lgs_4.html&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAN6BAgHEAE&usg=AOvVaw2HliWaVJwsUmba-XcixKXv",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Gauss Verfahren - Englisch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a deutsch-englisch \u203a uebersetzung \u203a gauss+verfahren",
+    "link": "https://www.linguee.de/deutsch-englisch/uebersetzung/gauss+verfahren.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"Gauss Verfahren\" \u2013 Englisch-Deutsch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von Englisch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/deutsch-englisch/uebersetzung/gauss%2Bverfahren.html&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAR6BAgGEAE&usg=AOvVaw1bmzJ5QTWGhjWKKss8MLr0",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Gau\u00df-Verfahren | springerprofessional.dewww.springerprofessional.de \u203a gauss-verfahren",
+    "link": "https://www.springerprofessional.de/gauss-verfahren/12208526",
+    "description": "Das Gau\u00df-Verfahren zum L\u00f6sen eines linearen Gleichungssystems beruht darauf, das Gleichungssystem durch \u00c4quivalenzumformungen so zu vereinfachen,",
+    "googleLink": "http://www.google.com/url?q=https://www.springerprofessional.de/gauss-verfahren/12208526&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAV6BAgFEAE&usg=AOvVaw1Qv-hKX7U9JL5nWTExgH7Y",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Der Mathe-Dschungelf\u00fchrer - Lineare Algebra: Das Gau\u00df-Verfahren ...www.amazon.de \u203a Mathe-Dschungelf\u00fchrer-Lineare-Algebra-Das-Gau\u00df-Verf...",
+    "link": "https://www.amazon.de/Mathe-Dschungelf%C3%BChrer-Lineare-Algebra-Das-Gau%C3%9F-Verfahren/dp/394044555X",
+    "description": "Der Mathe-Dschungelf\u00fchrer - Lineare Algebra: Das Gau\u00df-Verfahren | Kusserow, Thomas | ISBN: 9783940445551 | Kostenloser Versand f\u00fcr alle B\u00fccher mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.amazon.de/Mathe-Dschungelf%25C3%25BChrer-Lineare-Algebra-Das-Gau%25C3%259F-Verfahren/dp/394044555X&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAZ6BAgCEAE&usg=AOvVaw312-ehLuG1znX8pXB76LCb",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Schulentwicklung NRW - SINUS - Zur Materialdatenbank ...www.schulentwicklung.nrw.de \u203a sinus \u203a front_content",
+    "link": "https://www.schulentwicklung.nrw.de/sinus/front_content.php?idart=1857",
+    "description": "Selbstlernmaterial (nicht nur) zur Abiturvorbereitung. Gau\u00df-Verfahren. Hinweis: Der Selbsteinsch\u00e4tzungsbogen ist mit Musterl\u00f6sungen zu \u00dcbungsaufgaben\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.schulentwicklung.nrw.de/sinus/front_content.php%3Fidart%3D1857&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAd6BAgDEAE&usg=AOvVaw0B_bz-P079mK_HBYTF8f3i",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Abiturvorbereitung: analytische Geometrie/Lineare ... - ZUM-Wikiwiki.zum.de \u203a wiki \u203a Lineare_Gleichungssysteme",
+    "link": "https://wiki.zum.de/wiki/Abiturvorbereitung:_analytische_Geometrie/Lineare_Gleichungssysteme",
+    "description": "26.03.2019 \u00b7 Das Gau\u00df-Verfahren ist ein Algorithmus zum L\u00f6sen von linearen Gleichungssystemen. Ziel des Verfahrens ist das LGS in eine Stufenform\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.zum.de/wiki/Abiturvorbereitung:_analytische_Geometrie/Lineare_Gleichungssysteme&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAh6BAgEEAE&usg=AOvVaw3pqMwTJmKQU46o9y8-B2bh",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Lineare Gleichungssysteme l\u00f6sen - Gau\u00dfverfahren | Aufgabe mit ...www.max-academy.de \u203a contentPlayer",
+    "link": "https://www.max-academy.de/contentPlayer/5e6ba18409d601303d93252f/5e6bb06009d601303d932531",
+    "description": "Dies ist eine interaktive Aufgabe zu: Gau\u00dfverfahren mit praktischen Tipps zum L\u00f6sen und einer Zusammenfassung der n\u00f6tigen Theorie.",
+    "googleLink": "http://www.google.com/url?q=https://www.max-academy.de/contentPlayer/5e6ba18409d601303d93252f/5e6bb06009d601303d932531&sa=U&ved=2ahUKEwjfh4z7yI3xAhX5rZUCHS9_CRE4HhAWMAl6BAgBEAE&usg=AOvVaw0_eERy4RxuXfxnDvY24Nu9",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Gaussverfahren 12. Klasse Grundkurs - 4teachers.dewww.4teachers.de \u203a ...",
+    "link": "https://www.4teachers.de/?action=material&id=13690",
+    "description": "Stundenentwurf Lehrprobe. Die Sch\u00fcler lernen das Gauss-Verfahren zur L\u00f6sung von Linearen Gleichungssystemen mit 3 Gleichungen und 3 Variablen.",
+    "googleLink": "http://www.google.com/url?q=https://www.4teachers.de/%3Faction%3Dmaterial%26id%3D13690&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAB6BAgFEAE&usg=AOvVaw0PP98VMV2LNhErn4Td-GpU",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Gau\u00dfscher Algorithmus in Mathematik | Sch\u00fclerlexikon | Lernhelferwww.lernhelfer.de \u203a mathematik \u203a artikel \u203a gaussscher-algorithmus",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik/artikel/gaussscher-algorithmus",
+    "description": "Ein Verfahren zur L\u00f6sung linearer Gleichungssysteme mit drei und mehr Unbekannten ist der gau\u00dfsche Algorithmus (das gau\u00dfsche Elimierungsverfahren\u200b).",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/mathematik/artikel/gaussscher-algorithmus&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAF6BAgHEAE&usg=AOvVaw2YQvHFX3j95-yU35PnaNzA",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Mathe : Gleichungssysteme ; Ist das Gau\u00df-Verfahren das gleiche ...www.gutefrage.net \u203a frage \u203a mathe--gleichungssysteme--ist-das-gauss-verf...",
+    "link": "https://www.gutefrage.net/frage/mathe--gleichungssysteme--ist-das-gauss-verfahren-das-gleiche-wie-das-additions-verfahren-",
+    "description": "Beim Gau\u00dfverfahren machst du immer zwei Schritte auf einmal: Du multiplizierst eine Gleichung so, dass eine Addition die Eliminierung einer (bestimmten)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gutefrage.net/frage/mathe--gleichungssysteme--ist-das-gauss-verfahren-das-gleiche-wie-das-additions-verfahren-&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAJ6BAgJEAE&usg=AOvVaw0U3IgJMWVU76ZI9SbgTYIY",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Das Gau\u00df'sche Eliminationsverfahren - Feuerbachers Matheseitewww.feuerbachers-matheseite.de \u203a Gauss-Verfahren",
+    "link": "http://www.feuerbachers-matheseite.de/Gauss-Verfahren.pdf",
+    "description": "Gau\u00df-Verfahren: (f\u00fcr 3x3-LGS). Ersetze immer wieder eine Gleichung durch ein Vielfaches ihrer selbst oder durch die Summe / Differenz aus dieser und einer\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.feuerbachers-matheseite.de/Gauss-Verfahren.pdf&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAN6BAgIEAE&usg=AOvVaw0QUmrN0SkqywEzVNFzJoO7",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Gau\u00df-Verfahren | SpringerLinklink.springer.com \u203a chapter",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-662-48252-0_17",
+    "description": "08.04.2017 \u00b7 Das Gau\u00df-Verfahren zum L\u00f6sen eines linearen Gleichungssystems beruht darauf, das Gleichungssystem durch \u00c4quivalenzumformungen so\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/chapter/10.1007/978-3-662-48252-0_17&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAR6BAgEEAE&usg=AOvVaw2YAzn985jt0Gsqf9b1Oyji",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Gau\u00dfverfahren - Pr\u00e4sentation/GFS in Mathe - Know - Knowunityknowunity.de \u203a knows \u203a mathe-gauverfahren-54022",
+    "link": "https://knowunity.de/knows/mathe-gauverfahren-54022",
+    "description": "Gau\u00dfverfahren. Mathe. 11 12 13. Powerpoint, Handout, als auch Aufgaben mit L\u00f6sungsweg! Pr\u00e4sentation/GFS \u2022 25 Likes \u2022 361 Aufrufe \u2022 16.3.",
+    "googleLink": "http://www.google.com/url?q=https://knowunity.de/knows/mathe-gauverfahren-54022&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAV6BAgGEAE&usg=AOvVaw0WUNVJ2wgZPWhPCfjX8nLE",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "17. Das Gau\u00df-Verfahren - PDF Free Download - DocPlayer.orgdocplayer.org \u203a 49253742-17-das-gauss-verfahren",
+    "link": "http://docplayer.org/49253742-17-das-gauss-verfahren.html",
+    "description": "7 Das Gau\u00df-Verfahren 95 7 Das Gau\u00df-Verfahren Nachdem wir jetzt viele Probleme der linearen Algebra (z B Basen von Vektorr\u00e4umen zu konstruieren,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://docplayer.org/49253742-17-das-gauss-verfahren.html&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAZ6BAgBEAE&usg=AOvVaw3rUzjSEmiA50-PUosQkWN_",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "LGS mit Gau\u00dfverfahren - Matheboardwww.matheboard.de \u203a archive \u203a thread",
+    "link": "https://www.matheboard.de/archive/563906/thread.html",
+    "description": "Ich brauche dringend eure Hilfe... und zwar geht es um das Gau\u00dfverfahren, mit dem wir lineare Gleichungssysteme berechnen sollen.",
+    "googleLink": "http://www.google.com/url?q=https://www.matheboard.de/archive/563906/thread.html&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAd6BAgAEAE&usg=AOvVaw3Z_-i2hmfEIa8c3WDXgAmb",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Gaussverfahren (Java-Applikation) - Mathe L\u00f6sung bei mathetools.dewww.mathetools.de \u203a gauss",
+    "link": "https://www.mathetools.de/gauss/",
+    "description": "Dieses Tool demonstriert das Gauss-Verfahren zum L\u00f6sen von Gleichungen. Zur Bedienung siehe oben.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathetools.de/gauss/&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAh6BAgDEAE&usg=AOvVaw1NhV0koIppsXIWLK6xWg-q",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Gau\u00df Verfahren - Englisch \u00dcbersetzung - Deutsch Beispiele ...context.reverso.net \u203a \u00fcbersetzung \u203a deutsch-englisch \u203a Gau\u00df+Verfahren",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/Gau%C3%9F+Verfahren",
+    "description": "\u00dcbersetzung im Kontext von \u201eGau\u00df Verfahren\u201c in Deutsch-Englisch von Reverso Context:",
+    "googleLink": "http://www.google.com/url?q=https://context.reverso.net/%25C3%25BCbersetzung/deutsch-englisch/Gau%25C3%259F%2BVerfahren&sa=U&ved=2ahUKEwi-gMH7yI3xAhW8lZUCHSNaBY84KBAWMAl6BAgCEAE&usg=AOvVaw284PFo6_LiI7q1AKV7bFXK",
+    "page": 4,
+    "index": 9
+  }
+]

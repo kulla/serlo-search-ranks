@@ -1,0 +1,402 @@
+[
+  {
+    "name": "",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Russells_Antinomie_und_Klassen?sa=X&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQ9QF6BAgJEAI",
+    "description": "Russels Antinomie lehrt also, dass es echte Klassen gibt. Mit der Unterscheidung zwischen Klassen und Mengen konnten wir die Russellsche Antinomie aufl\u00f6sen. Der entscheidende Unterschied zwischen Mengen und Klassen liegt darin, dass Mengen als m\u00f6gliche Werte f\u00fcr Variable auftreten k\u00f6nnen, echte Klassen dagegen nicht.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "",
+    "link": "http://www.tydecks.info/online/themen_russellsche_antinomie.html",
+    "description": "Die Russellsche Antinomie ist ein von Bertrand Russell und Ernst Zermelo entdecktes Paradoxon der naiven Mengenlehre, das Russell 1903 publizierte und das daher seinen Namen tr\u00e4gt. Wikipedia",
+    "googleLink": "http://www.google.com/url?q=http://www.tydecks.info/online/themen_russellsche_antinomie.html&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQwW4wA3oECAoQAg&usg=AOvVaw3wKYC8ljwp9mQqBHh1hAID",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Russellsche Antinomie \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Russellsche_Antinomie",
+    "link": "https://de.wikipedia.org/wiki/Russellsche_Antinomie",
+    "description": "Oft wird die Russellsche Klasse auch als \u201eMenge aller Mengen, die sich nicht selbst als Element enthalten\u201c definiert; das entspricht der damaligen Mengenlehre,\u00a0...\nBegriff und Problematik \u00b7 Geschichte und L\u00f6sungen",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Russellsche_Antinomie&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQFjAGegQIBhAB&usg=AOvVaw2tMsRMcnCkKddl-DWjDE7M",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Russellsche Antinomie \u2013 GlossarWikiglossar.hs-augsburg.de \u203a Russellsche_Antinomie",
+    "link": "https://glossar.hs-augsburg.de/Russellsche_Antinomie",
+    "description": "Die sogenannte Russellklasse \\mathcal R := \\{x|x \\notin x\\} definiert die \u201eMenge\u201c aller Mengen, die sich nicht selbst enthalten. Als Menge\u00a0...\nDefinition \u00b7 Bedeutung der Antinomie \u00b7 Geschichte \u00b7 Formalere Beschreibung ...",
+    "googleLink": "http://www.google.com/url?q=https://glossar.hs-augsburg.de/Russellsche_Antinomie&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQFjAHegQICBAB&usg=AOvVaw2auKm5pA6FnEH8mlx41FsQ",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Russellsche Antinomiewww.biancahoegel.de \u203a mathe \u203a mengen \u203a russellsche_antinomie",
+    "link": "https://www.biancahoegel.de/mathe/mengen/russellsche_antinomie.html",
+    "description": "Russell bildete seine Antinomie mit Hilfe der \u201eKlasse aller Klassen, die sich nicht selbst als Element enthalten\u201c, die als Russellsche Klasse bezeichnet wird;\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.biancahoegel.de/mathe/mengen/russellsche_antinomie.html&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQFjAIegQIBxAB&usg=AOvVaw2yGtCrnAHtqEsrqPrfhlHG",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Die Russellsche Antinomie einfach erkl\u00e4rt (von Bertrand Russell ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=o-UOgbBuSSo",
+    "description": "04.02.2020 \u00b7 1,489 views \u2022 Feb 4, 2020 \u2022 Die Russellsche Antinomie (von 1903) oder das Widerlegen der ...Dauer: 20:50Gepostet: 04.02.2020",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3Do-UOgbBuSSo&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQtwIwCXoECAsQAQ&usg=AOvVaw0qH2K71haHdLry7yroPoSi",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Russellsche Antinomie und Paradoxien des Denkens - tydecks.infowww.tydecks.info \u203a online \u203a themen_russellsche_antinomie",
+    "link": "http://www.tydecks.info/online/themen_russellsche_antinomie.html",
+    "description": "04.07.2016 \u00b7 Die Russellsche Antinomie besch\u00e4ftigt seit ihrer Ver\u00f6ffentlichung im Jahre ... Klasse. Piaget nennt ein typisches Beispiel f\u00fcr die F\u00e4higkeit zum\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.tydecks.info/online/themen_russellsche_antinomie.html&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQFjAKegQIAhAB&usg=AOvVaw29Oqjao23qlCIePCeFUNyj",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Antinomien in Mathematik | Sch\u00fclerlexikon | Lernhelferwww.lernhelfer.de \u203a schuelerlexikon \u203a mathematik \u203a artikel \u203a antinomien",
+    "link": "https://www.lernhelfer.de/schuelerlexikon/mathematik/artikel/antinomien",
+    "description": "Das Barbier-Paradoxon geh\u00f6rt zur Gruppe der russellschen Antinomien. ... Struktur wie sie das Barbier-Paradoxon hat, werden russellsche Antinomien genannt. ... Hausaufgabenhilfe per WhatsApp; Original Klassenarbeiten mit L\u00f6sungen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.lernhelfer.de/schuelerlexikon/mathematik/artikel/antinomien&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQFjALegQIABAB&usg=AOvVaw3qVpsapORLogkNq76WeLul",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Widerspr\u00fcche in der naiven Mengenlehrewww2.math.uni-wuppertal.de \u203a ~volkert \u203a HandoutGoetz_Schwarz",
+    "link": "http://www2.math.uni-wuppertal.de/~volkert/HandoutGoetz_Schwarz.pdf",
+    "description": "Russell-Antinomie am Beispiel des flei\u00dfigen Barbiers. In einem Dorf ... Jede Menge ist eine Klasse, aber nicht jede Klasse ist eine Menge (Russell- Paradoxon).",
+    "googleLink": "http://www.google.com/url?q=http://www2.math.uni-wuppertal.de/~volkert/HandoutGoetz_Schwarz.pdf&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQFjAMegQIARAB&usg=AOvVaw3dbw7iEbta-OrthbUeWaXK",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Kapitel 1 Antinomien des naiven Mengenbegriffs und Auswegeftp.mi.fu-berlin.de \u203a usr \u203a raut \u203a Mengenlehre \u203a Kap1+2+3",
+    "link": "http://ftp.mi.fu-berlin.de/usr/raut/Mengenlehre/Kap1+2+3.pdf",
+    "description": "Mengen sind diejenigen Klassen, die Element wenigstens einer. Klasse ... tegie, der Russell'schen Antinomie so nahe wie m\u00f6glich zu kommen, als m\u00f6glichst.",
+    "googleLink": "http://www.google.com/url?q=http://ftp.mi.fu-berlin.de/usr/raut/Mengenlehre/Kap1%2B2%2B3.pdf&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQFjANegQIAxAB&usg=AOvVaw1IbIpQKd1DcLf6Ffc2_qYk",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Russellsche Antinomie - Wikipediawikipedia.de.nina.az \u203a wiki \u203a Russellsche_Antinomie",
+    "link": "http://wikipedia.de.nina.az/wiki/Russellsche_Antinomie",
+    "description": "Die Russellsche Antinomie ist ein von Bertrand Russell und Ernst Zermelo ... Beweis mit dieser Antinomie, dass die Russellsche Klasse keine Menge ist.",
+    "googleLink": "http://www.google.com/url?q=http://wikipedia.de.nina.az/wiki/Russellsche_Antinomie&sa=U&ved=2ahUKEwjT3peL7oPxAhVU4jgGHQ-sDoIQFjAOegQIBRAB&usg=AOvVaw2VwGYsz0LV5ICMOBmyX6uj",
+    "page": 0,
+    "index": 10
+  },
+  {
+    "name": "[PDF] Mathematische Grundlagen der Computerlinguistik I Russellsche ...www.cis.uni-muenchen.de \u203a kurse \u203a begleitmaterial \u203a Mengenlehre04",
+    "link": "http://www.cis.uni-muenchen.de/~micha/kurse/matheI-WS0809/begleitmaterial/Mengenlehre04.pdf",
+    "description": "29.10.2008 \u00b7 Die Russellsche Antinomie ist ein von Bertrand Russell formuliertes ... selbst enthalten, keine Menge sein kann, sondern eine Klasse bildet\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Russell'sche Antinomie - Academic dictionaries and encyclopediasde-academic.com \u203a dic.nsf \u203a dewiki",
+    "link": "https://de-academic.com/dic.nsf/dewiki/1209318",
+    "description": "Die Russellsche Antinomie ist ein von Bertrand Russell und Ernst Zermelo ... Russell bildete seine Antinomie mit Hilfe der \u201eKlasse aller Klassen, die sich nicht\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://de-academic.com/dic.nsf/dewiki/1209318&ved=2ahUKEwiDxNeM7oPxAhUWwTgGHdvhCdY4ChAWMAF6BAgHEAE&usg=AOvVaw1BHmeimG2mJ3R3BOT5MGsC",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Einf\u00fchrung in die Mathematik 2.2 | Die Russell-Zermelo-Antinomie ...www.aleph1.info \u203a ... \u203a 4. Mengenlehre \u203a 4. Die Axiome der Mengenlehre",
+    "link": "https://www.aleph1.info/?call=Puc&permalink=ema22_4_4_Z1",
+    "description": "Einf\u00fchrung in die Mathematik > Mengenlehre > Die Axiome der Mengenlehre > Die Russell-Zermelo-Antinomie. ... (Allklasse, mathematisches Universum).",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.aleph1.info/%3Fcall%3DPuc%26permalink%3Dema22_4_4_Z1&ved=2ahUKEwiDxNeM7oPxAhUWwTgGHdvhCdY4ChAWMAJ6BAgJEAE&usg=AOvVaw2Fu4hZVyjTC3341ykI7SRw",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "MP: Russellsche Antinomie und das moderne ...matheplanet.com \u203a Logik, Mengen & Beweistechnik \u203a Mengenlehre",
+    "link": "https://matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=239705",
+    "description": "In ZFC ist die Russel Antinomie u.a. durch das \"Aussonderungsaxiom\" ... F\u00fcr die Klasse R von Russel kann man schreiben: F\u00fcr R = menge(x|x ist Menge und x\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://matheplanet.com/matheplanet/nuke/html/viewtopic.php%3Ftopic%3D239705&ved=2ahUKEwiDxNeM7oPxAhUWwTgGHdvhCdY4ChAWMAN6BAgIEAE&usg=AOvVaw1Iv8FoTKDdgLy2J_pDJixH",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Alfred North Whitehead / Bertrand Russell: Principia Mathematicapeople.math.ethz.ch \u203a ~halorenz \u203a Literatur \u203a RussellPicardi",
+    "link": "https://people.math.ethz.ch/~halorenz/4students/Literatur/RussellPicardi.pdf",
+    "description": "Die bekannteste dieser Kontradiktionen ist. Russells Antinomie der Klasse 'von Klassen, die sich nicht selbst enthalten. Betrachten wir das Pr\u00e4dikat \u00bbx ist eine.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://people.math.ethz.ch/~halorenz/4students/Literatur/RussellPicardi.pdf&ved=2ahUKEwiDxNeM7oPxAhUWwTgGHdvhCdY4ChAWMAR6BAgGEAE&usg=AOvVaw1bJTzhM6DwphGFw4RjaxxW",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Russellsche Antinomie - Synonyme bei OpenThesauruswww.openthesaurus.de \u203a synonyme \u203a Russellsche+Antinomie",
+    "link": "https://www.openthesaurus.de/synonyme/Russellsche+Antinomie",
+    "description": "Wiktionary. Keine direkten Treffer. Wikipedia-Links. Bertrand Russell \u00b7 Ernst Zermelo \u00b7 Paradoxon \u00b7 Naive Mengenlehre \u00b7 Antinomie \u00b7 Klasse (Mengenlehre)\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.openthesaurus.de/synonyme/Russellsche%2BAntinomie&ved=2ahUKEwiDxNeM7oPxAhUWwTgGHdvhCdY4ChAWMAV6BAgFEAE&usg=AOvVaw3kzdL4sVOukp89I8R2MNAA",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Christian Thiel - Brillbrill.com \u203a downloadpdf \u203a book \u203a edcoll",
+    "link": "https://brill.com/downloadpdf/book/edcoll/9783957438201/B9783957438201_s011.xml",
+    "description": "Zermelo-Russellsche Antinomie, als brauchbare Beschreibung des wissen- ... durch den Ausdruck \u00bb{xIA(x)}\u00ab die Klasse oder Menge der durch die Bedin-.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://brill.com/downloadpdf/book/edcoll/9783957438201/B9783957438201_s011.xml&ved=2ahUKEwiDxNeM7oPxAhUWwTgGHdvhCdY4ChAWMAZ6BAgAEAE&usg=AOvVaw29ooddEa3oUD0pO9pUhnWZ",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "W. Orman Quine, Mengenlehre und ihre Logik \u00a9 Friedr. Vieweg + ...link.springer.com \u203a content \u203a pdf",
+    "link": "http://link.springer.com/content/pdf/10.1007%2F978-3-322-85943-3_12",
+    "description": "Wir dtirfen namlich nicht meinen, Klassen wiirden buchstliblich dadurch ... Wir wollen nun sehen, wie die Russellsche Antinomie in seiner Theorie vermieden.",
+    "googleLink": null,
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Russell, G\u00f6del und der L\u00fcgner - Dr. Wilhelm K. Essler, Professor ...www.w-k-essler.de \u203a pdfs \u203a Stefanie-Ucsnay \u203a diss_Ucsnay",
+    "link": "http://www.w-k-essler.de/pdfs/Stefanie-Ucsnay/diss_Ucsnay.pdf",
+    "description": "eine Klasse als Objekt aus Sicht der ontologischen Antinomien einer einstelli- ... 8Diese Darstellung der Antinomie von Russell als Spezialfall der Antinomie von\u200b\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 0046_DER_MENGENBILDUNGSPRO.pdfwww06.zkm.de \u203a zkmarchive \u203a www02_pewe \u203a html \u203a images \u203a stories",
+    "link": "http://www06.zkm.de/zkmarchive/www02_pewe/html/images/stories/pdf/1971/0046_DER_MENGENBILDUNGSPRO.pdf",
+    "description": "b) Uberabz\u00e4hlbarkeit der reellen Zahlen; NCR c) Der Satz von Cantor : \"mm d) Allmengen-Paradoxie. 3.) Die Russell'sche Antinomie. 4.) Ultimal-Klassen und\u00a0...",
+    "googleLink": null,
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Christian Thiel - Brillbrill.com \u203a downloadpdf \u203a book \u203a edcoll",
+    "link": "https://brill.com/downloadpdf/book/edcoll/9783957438201/B9783957438201_s011.xml",
+    "description": "Zermelo-Russellsche Antinomie, als brauchbare Beschreibung des wissen- ... durch den Ausdruck \u00bb{xIA(x)}\u00ab die Klasse oder Menge der durch die Bedin-.",
+    "googleLink": "http://www.google.com/url?q=https://brill.com/downloadpdf/book/edcoll/9783957438201/B9783957438201_s011.xml&sa=U&ved=2ahUKEwiWs4qN7oPxAhVhzTgGHcDJAkI4FBAWMAB6BAgHEAE&usg=AOvVaw2ByPEG6kmPJNCtJMrzbpzW",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Das Wahrheitsproblem und die Idee der Semantik, Eine Einf\u00fchrung ...www.readcube.com \u203a articles",
+    "link": "https://www.readcube.com/articles/10.1007%2F978-3-7091-3624-9_5",
+    "description": "Wir kehren zur Feststellung Tarskis zur\u00fcck, da\u00df bei der Konstruktion der Antinomien zwei Voraussetzungen gemacht wurden: die semantische Geschlossenheit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.readcube.com/articles/10.1007%252F978-3-7091-3624-9_5&sa=U&ved=2ahUKEwiWs4qN7oPxAhVhzTgGHcDJAkI4FBAWMAF6BAgAEAE&usg=AOvVaw1sUG1VvWmxkrDnymoHcNW6",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Vorlesung 7ivv5hpp.uni-muenster.de \u203a fjahn_01 \u203a logik18",
+    "link": "https://ivv5hpp.uni-muenster.de/u/fjahn_01/logik18/VL07.pdf",
+    "description": "Bemerkung: Die Russelsche Antinomie ist nun ein in 2FC beweisbar. ZFC F 7JX V2 2EX (die Klasse v aller Mengen ist keine. Menge). Bew:.",
+    "googleLink": "http://www.google.com/url?q=https://ivv5hpp.uni-muenster.de/u/fjahn_01/logik18/VL07.pdf&sa=U&ved=2ahUKEwiWs4qN7oPxAhVhzTgGHcDJAkI4FBAWMAJ6BAgJEAE&usg=AOvVaw2UuNInVX5YSb9rE1YwWJkp",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Gottlob Frege - Publikationsserver der Universit\u00e4t Regensburgepub.uni-regensburg.de \u203a ubr05469_ocr",
+    "link": "https://epub.uni-regensburg.de/12582/1/ubr05469_ocr.pdf",
+    "description": "griffe und Klassen, und zweitens um seine realistische Semantik, seine Konzeption der ... Russell hat verschiedene Wege zur Vermeidung der Antinomien vor-.",
+    "googleLink": "http://www.google.com/url?q=https://epub.uni-regensburg.de/12582/1/ubr05469_ocr.pdf&sa=U&ved=2ahUKEwiWs4qN7oPxAhVhzTgGHcDJAkI4FBAWMAN6BAgIEAE&usg=AOvVaw2mRn_h7YSw4JouDBKqB54Z",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Russellsche Antinomie - Wikipediawikipedia.de.nina.az \u203a wiki \u203a Russellsche_Antinomie",
+    "link": "http://wikipedia.de.nina.az/wiki/Russellsche_Antinomie",
+    "description": "Die Russellsche Antinomie ist ein von Bertrand Russell und Ernst Zermelo ... Beweis mit dieser Antinomie, dass die Russellsche Klasse keine Menge ist.",
+    "googleLink": "http://www.google.com/url?q=http://wikipedia.de.nina.az/wiki/Russellsche_Antinomie&sa=U&ved=2ahUKEwiWs4qN7oPxAhVhzTgGHcDJAkI4FBAWMAR6BAgBEAE&usg=AOvVaw2ssBgvx_NS13ypuV3PAMWR",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Grundlegungen der Mathematik in transzendentaler Kritikmeiner.de \u203a grundlegungen-der-mathematik-in-transzendentaler-kritik-108...",
+    "link": "https://meiner.de/grundlegungen-der-mathematik-in-transzendentaler-kritik-10816.html",
+    "description": "... Antinomien in den mengentheoretischen Grundlegungsversuchen entstand, aus ... Gottlob Freges Briefwechsel mit D. Hilbert, E. Husserl, B. Russell sowie.",
+    "googleLink": "http://www.google.com/url?q=https://meiner.de/grundlegungen-der-mathematik-in-transzendentaler-kritik-10816.html&sa=U&ved=2ahUKEwiWs4qN7oPxAhVhzTgGHcDJAkI4FBAWMAV6BAgGEAE&usg=AOvVaw0OHR4BmYawDPU_vS0BLXr6",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Fregewww.hs-wismar.de \u203a hs-wismar \u203a Vernetzung \u203a Gottlob-Frege-Zentrum",
+    "link": "https://www.hs-wismar.de/storages/hs-wismar/HSW_zentral/Vernetzung/Institute_und_Hochschulunternehmen/Gottlob-Frege-Zentrum/20JahreGFZ/MAX-20Jahre-Frege-Zentrum-20201111.pdf",
+    "description": "11.11.2020 \u00b7 Juni 1902: Brief von Russell an Frege (\u201eRussell-Antinomie\u201c, entdeckt ... Logik aus der \u00c4quivalenzklasse der m\u00f6glichen Axiomatisierungen der.",
+    "googleLink": "http://www.google.com/url?q=https://www.hs-wismar.de/storages/hs-wismar/HSW_zentral/Vernetzung/Institute_und_Hochschulunternehmen/Gottlob-Frege-Zentrum/20JahreGFZ/MAX-20Jahre-Frege-Zentrum-20201111.pdf&sa=U&ved=2ahUKEwiWs4qN7oPxAhVhzTgGHcDJAkI4FBAWMAZ6BAgFEAE&usg=AOvVaw0unsfA-OiZ8BW6dt1Po007",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] \u00dcber das Wahre in der Mathematik und das Reale in der Physik ...public.od.cm4allbusiness.de \u203a uro \u203a Verlag",
+    "link": "https://public.od.cm4allbusiness.de/.cm4all/uro/W4BOD0AVBUL2/Verlag/%C3%9Cber%20das%20Wahre%20in%20der%20Mathematik%20und%20das%20Reale%20in%20der%20Physik-Werner%20Ziemann.pdf?_=1626755bf15&cdp=a",
+    "description": "Antinomien sind teuflisch, man mu\u00df sie meiden, wo man nur kann; Paradoxien ... von Zermelo-Russel \u2013 und \u201edie Menge aller Mengen\u201c \u2013 die. Antinomie von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://public.od.cm4allbusiness.de/.cm4all/uro/W4BOD0AVBUL2/Verlag/%25C3%259Cber%2520das%2520Wahre%2520in%2520der%2520Mathematik%2520und%2520das%2520Reale%2520in%2520der%2520Physik-Werner%2520Ziemann.pdf%3F_%3D1626755bf15%26cdp%3Da&sa=U&ved=2ahUKEwiWs4qN7oPxAhVhzTgGHcDJAkI4FBAWMAd6BAgCEAE&usg=AOvVaw0AWLCWQ2DK5afQ0HF9g1lj",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Logik in der Informatik - Institut f\u00fcr Informatikwww2.informatik.hu-berlin.de \u203a loginf \u203a skript \u203a Kapitel-Einleitung",
+    "link": "https://www2.informatik.hu-berlin.de/logik/lehre/fm-lehre/regularly/loginf/skript/Kapitel-Einleitung.pdf",
+    "description": "25.10.2013 \u00b7 ... Satz von Seese \u00fcber Klassen von Graphen von beschr\u00e4nktem Grad . ... (vgl. die Russellsche Antinomie zur \u201cMenge aller Mengen, die sich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www2.informatik.hu-berlin.de/logik/lehre/fm-lehre/regularly/loginf/skript/Kapitel-Einleitung.pdf&sa=U&ved=2ahUKEwiWs4qN7oPxAhVhzTgGHcDJAkI4FBAWMAh6BAgDEAE&usg=AOvVaw0tI0wE3nzkOqw0e_xcYYrX",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Historische Einf\u00fchrung - an der Ruhr-Universit\u00e4t Bochumwww.ruhr-uni-bochum.de \u203a mathematik \u203a folder \u203a Thaele \u203a runde_1",
+    "link": "http://www.ruhr-uni-bochum.de/imperia/md/images/mathematik/folder/Thaele/runde_1.pdf",
+    "description": "04.01.2019 \u00b7 Russell'schen Antinomie zur\u00fcck publizierte keine ... definierbare Klasse von Mengen ist die Klasse der Elemente einer Menge. Mathematisch.",
+    "googleLink": "http://www.google.com/url?q=http://www.ruhr-uni-bochum.de/imperia/md/images/mathematik/folder/Thaele/runde_1.pdf&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAB6BAgBEAE&usg=AOvVaw1uYQVi461UrNq8wZSmC6F0",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Tag Archive | Russellsche Antinomie - HNF Blogblog.hnf.de \u203a tag \u203a russellsche-antinomie",
+    "link": "https://blog.hnf.de/tag/russellsche-antinomie/",
+    "description": "Tag: Russellsche Antinomie. Der Urvater der modernen Logik. Geschrieben am 08.11.2018 von HNF. Vor 170 Jahren, am 8. November 1848, wurde in Wismar\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://blog.hnf.de/tag/russellsche-antinomie/&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAF6BAgJEAE&usg=AOvVaw2fpQ_jajuI6Q4YFVcgM8A0",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Der Begriff der logischen Form in der analytischen Philosophied-nb.info \u203a ...",
+    "link": "http://d-nb.info/974174343/04",
+    "description": "Russells Antinomie der Propositionen: ein Versuch der ... Formulierung der Antinomie: Russells Annahmen und ... Russell (1905): die Nicht-Klassen-Theorie\u200b.",
+    "googleLink": "http://www.google.com/url?q=http://d-nb.info/974174343/04&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAJ6BAgHEAE&usg=AOvVaw1wd02aLl9EJFfnGdF3RMcD",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Bertrand Russell | Mormann, Thomas | Broschur - C.H. Beckwww.chbeck.de \u203a mormann-bertrand-russell \u203a product",
+    "link": "https://www.chbeck.de/mormann-bertrand-russell/product/19329",
+    "description": "2007. 978-3-406-45990-0. Bertrand Russell (1872 \u2013 1970) war einer der Begr\u00fcnder der analytischen Philosophie. Viele seiner Be\u2026",
+    "googleLink": "http://www.google.com/url?q=https://www.chbeck.de/mormann-bertrand-russell/product/19329&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAN6BAgIEAE&usg=AOvVaw12k-YCSIx5tjs8Pe5pk-3-",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] eine Einf\u00fchrung in die Sprachphilosophie.www.philosophie.uni-konstanz.de \u203a sprachphilosophie2",
+    "link": "https://www.philosophie.uni-konstanz.de/typo3temp/secure_downloads/92816/0/98481282e637afdb1c1c58aa84ef225721513b89/sprachphilosophie2.pdf",
+    "description": "Russell, der parallel zu Frege ebenfalls an einer Grundlegung der Mathematik arbeitete, entdeckte n\u00e4mlich zun\u00e4chst in seinem eigenen System eine Antinomie, stellte ... des vom Pr\u00e4dikat ausgedr\u00fcckten Begriffs, d.h. genauer, die Klasse aller.",
+    "googleLink": "http://www.google.com/url?q=https://www.philosophie.uni-konstanz.de/typo3temp/secure_downloads/92816/0/98481282e637afdb1c1c58aa84ef225721513b89/sprachphilosophie2.pdf&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAR6BAgFEAE&usg=AOvVaw1KAZTHjuW9pDlWueI7O2cj",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Paradoja del barbero (Antinomie des Barbiers) - wikipe.wikiwikies.wiki \u203a wiki \u203a Antinomie_des_Barbiers",
+    "link": "https://wikies.wiki/wiki/de/Antinomie_des_Barbiers",
+    "description": "La paradoja del barbero o la antinomia del barbero es una variante descriptiva de la antinomia de Russell en l\u00f3gica y teor\u00eda de conjuntos, que fue establecida\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wikies.wiki/wiki/de/Antinomie_des_Barbiers&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAV6BAgEEAE&usg=AOvVaw2StLNvFNeNNvA-HbkC42ep",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Das Wahrheitsproblem und die Idee der Semantik, Eine Einf\u00fchrung ...www.readcube.com \u203a articles",
+    "link": "https://www.readcube.com/articles/10.1007%2F978-3-7091-3624-9_5",
+    "description": "Wir kehren zur Feststellung Tarskis zur\u00fcck, da\u00df bei der Konstruktion der Antinomien zwei Voraussetzungen gemacht wurden: die semantische Geschlossenheit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.readcube.com/articles/10.1007%252F978-3-7091-3624-9_5&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAZ6BAgAEAE&usg=AOvVaw1F2Y5j4LfEHbuNs-SPDPXJ",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "\u201eDa Aristoteles die Gleichung %o \u00f6v \u013c \u00f6v und vollzieht, da ... - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/42570383",
+    "description": "wickelte Bertrand Russell seine ber\u00fchmte logische Antinomie von der. Menge aller ... gen sein k\u00f6nnen, und \u201eKlassen\", die diese F\u00e4higkeit nicht haben. Es zeigt\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/42570383&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAd6BAgCEAE&usg=AOvVaw0VSPfPrS93PEq_GUX94e-5",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Die heutigen Gegens\u00e4tze in der Grundlegung der ... - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/20011601",
+    "description": "n?mlich die Russell-Zerntelosche. Das disjunktive ... Klasse\", womit man f?r den letzteren ... Wenn wir bedenken, da? in eine Antinomie wie die Russellsche.",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/20011601&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAh6BAgDEAE&usg=AOvVaw0Wqi1eDaREgcmgyU1ypvN8",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Elementare Untersuchungen der Antinomien von Russell, Grelling\u00e2 ...onlinelibrary.wiley.com \u203a doi \u203a j.1755-2567.1953.tb01018.x \u203a pdf",
+    "link": "http://onlinelibrary.wiley.com/doi/10.1111/j.1755-2567.1953.tb01018.x/pdf",
+    "description": "Dieser Satz bedeutet, dass die paradoxale RussELLsche Klasse nicht existiert. Die einfache Deduzierbarkeit des Satzes (4) ist bisweilen erwiihnt worden.",
+    "googleLink": "http://www.google.com/url?q=http://onlinelibrary.wiley.com/doi/10.1111/j.1755-2567.1953.tb01018.x/pdf&sa=U&ved=2ahUKEwigkLKO7oPxAhWJyzgGHW24BSo4HhAWMAl6BAgGEAE&usg=AOvVaw04e_2pnbTsm_FMp02mBFEy",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "1. DIE PARADOXEN - De Gruyterwww.degruyter.com \u203a document \u203a doi \u203a pdf",
+    "link": "https://www.degruyter.com/document/doi/10.1515/9783110849219-002/pdf",
+    "description": "F\u00fcr Abgrenzungen des Begriffs der Paradoxie von dem der Antinomie vgl. ... 5 Z.B. gilt dies f\u00fcr Russells Typentheorie sowie f\u00f6r Tarskis Unterscheidung zwischen ... nicht, scheint eine sinnvolle Frage zu sein.13 Es gibt Klassen, die sich nicht.",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Professor Oberschlau hat recht? \"enth\u00e4lt die Klasse aller ...www.mathelounge.de \u203a professor-oberschlau-enthalt-kl...",
+    "link": "https://www.mathelounge.de/386387/professor-oberschlau-enthalt-klasse-klassen-element-enthalten",
+    "description": "22.10.2016 \u2014 Allerdings w\u00fcrde ich das genau so wie die Russelsche Antinomie erkl\u00e4ren. Und zwar agenommen, dass diese Klasse Element von sich ist:\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Der Erste Unvollst\u00e4ndigkeitssatz von Kurt G\u00f6del - GRINwww.grin.com \u203a document",
+    "link": "https://www.grin.com/document/113178",
+    "description": "Dadurch erh\u00e4lt auch jede \u00c4quivalenzklasse eine Kardinalzahl (Schreibweise: card ... In Russells Antinomie (1.2.2) wird die Menge aller Mengen M in zwei Teile\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Naive Mengenlehre - German Wikipedia - WikiDeckwp-de.wikideck.com \u203a Naive_Mengenlehre",
+    "link": "https://wp-de.wikideck.com/Naive_Mengenlehre",
+    "description": "Bekannte Antinomien, die auch als logische Paradoxien bezeichnet werden, ... Russellsche Klasse als echte Klassen gebildet werden k\u00f6nnen, aber nicht als\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Antinomien, die keine sind 1 - PDF Free Downloaddocplayer.org \u203a 18986470-Antinomien-die-keine-sind-1",
+    "link": "https://docplayer.org/18986470-Antinomien-die-keine-sind-1.html",
+    "description": "Die Russell sche Antinomie kommt dadurch zustande, dass diese ... Stufe (Bezirksolympiade) Klasse 1 Saison 1964/1965 Aufgaben und L\u00f6sungen 1 OJM 4.",
+    "googleLink": null,
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Russellsche Antinomie und Paradoxien des Denkenswww.philoso.de \u203a 000001Antinomien - innere Grenzen",
+    "link": "https://www.philoso.de/de_neu/000002themen/000003Rationalitaet/000013Antinomien/000001Antinomien%20-%20innere%20Grenzen/index.php",
+    "description": "27.07.2016 \u2014 Die Russellsche Antinomie besch\u00e4ftigt seit ihrer Ver\u00f6ffentlichung im ... Klasse von 90 auf 30% (Holger Dambeck Schulmathematik absurd in:\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Bertrand Russell \u00fcber Paradoxien \u2013 Lexikon der Argumentewww.philosophie-wissenschaft-kontroversen.de \u203a details",
+    "link": "https://www.philosophie-wissenschaft-kontroversen.de/details.php?id=253815&a=t&autor=Russell&vorname=Bertrand&thema=Paradoxien",
+    "description": "I X Wahrheit/Begriff/Sein/Klasse/Russell/G\u00f6del: > ... Siehe auch Antinomien, Russellsche Paradoxie, Widerspr\u00fcche, Reichweite, Konsistenz. ______",
+    "googleLink": null,
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Antinomie - Historisches W\u00f6rterbuch der Philosophie onlinewww.schwabeonline.ch \u203a elibrary \u203a start \u203a *[@attr_id='ve...",
+    "link": "https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?start=%2F%2F*%5B%40attr_id%3D%27verw.antinomie%27%20and%20%40outline_id%3D%27hwph_verw.antinomie%27%5D",
+    "description": "Antinomie 5776 10.24894/HWPh.5776Norbert HinskeFranz von Kutschera ... L\u00fcgner Russellsche Antinomie1 399ff Wohlordnungssatz1 398 Richardsche Antinomie1 ... Denn gegr\u00fcndete Klassen sind auch fundiert, und transitive und fundierte\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Institut f\u00fcr Mathematik: Besuchsangebote - Uni Kasselwww.uni-kassel.de \u203a informationen-fuer-studienintressierte",
+    "link": "https://www.uni-kassel.de/fb10/institute/mathematik/studium-und-lehre/informationen-fuer-studienintressierte/besuchsangebote.html",
+    "description": "Schulklassen sind gern zu einem Besuch unseres Fachbereichs willkommen. ... Kuriosit\u00e4ten wie das Hilbertsche Hotel und die Russelsche Antinomie werden\u00a0...",
+    "googleLink": null,
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Selbstreflexive Paradoxa. \"Ein Mann verschwindet\" von ...edoc.hu-berlin.de \u203a handle \u203a adachi-rabe",
+    "link": "https://edoc.hu-berlin.de/bitstream/handle/18452/7415/adachi-rabe.pdf?sequence=1&isAllowed=y",
+    "description": "von K Adachi-Rabe \u00b7 2010 \u2014 da w als die \u201cKlasse all jener Klassen\u201d definiert ist, wozu auch w selbst gez\u00e4hlt werden mu\u00df. Russells Antinomie verdeutlicht, da\u00df das L\u00fcgner- und.",
+    "googleLink": null,
+    "page": 4,
+    "index": 9
+  }
+]

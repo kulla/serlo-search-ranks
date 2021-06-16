@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Linear combination - Wikipediaen.wikipedia.org \u203a wiki \u203a Linear_combination",
+    "link": "https://en.wikipedia.org/wiki/Linear_combination",
+    "description": "In mathematics, a linear combination is an expression constructed from a set of terms by multiplying each term by a constant and adding the results (e.g. a linear combination of x and y would be any expression of the form ax + by, where a and b are constants).",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Linear_combination&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQFnoECAQQAg&usg=AOvVaw2iwFQJ2KjLSxK3xrdwvthJ",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Linear combinations and span (video) | Khan Academywww.khanacademy.org \u203a math \u203a vectors-and-spaces",
+    "link": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span",
+    "description": "23.03.2021 \u00b7 If you have n vectors, but just one of them is a linear combination of the others, then you have n ...Dauer: 20:35Gepostet: 23.03.2021",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQtwIwFHoECAcQAQ&usg=AOvVaw1VCtcHNC7CqBDf222N-R3W",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Linear Combinations of Vectors - The Basics - MathBootCampswww.mathbootcamps.com \u203a linear-combinations-ve...",
+    "link": "https://www.mathbootcamps.com/linear-combinations-vectors/",
+    "description": "These \u201csomethings\u201d could be \u201ceveryday\u201d variables like x and y (3x + 2y is a linear combination of x and y for instance) or something more complicated like\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathbootcamps.com/linear-combinations-vectors/&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQFjAVegQIABAB&usg=AOvVaw3Wt2lq0s5n2zcEwRKR6pP4",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Linear combinations - StatLectwww.statlect.com \u203a matrix-algebra \u203a linear-combina...",
+    "link": "https://www.statlect.com/matrix-algebra/linear-combinations",
+    "description": "Definition. Let us start by giving a formal definition of linear combination. ... In other words, if you take a set of matrices, you multiply each of them by a scalar, and\u00a0...\nDefinition \u00b7 Linear combinations of ... \u00b7 Solved exercises \u00b7 Exercise 1",
+    "googleLink": "http://www.google.com/url?q=https://www.statlect.com/matrix-algebra/linear-combinations&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQFjAWegQIBRAB&usg=AOvVaw19gb8PH51v5ea_ol9VE2JW",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Linear combinations, span, and basis vectors | Chapter 2, Essence ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=k7RM-ot2NWY",
+    "description": "06.08.2016 \u00b7 The fundamental concepts of span, linear combinations, linear dependence, and bases.Help ...Dauer: 9:59Gepostet: 06.08.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3Dk7RM-ot2NWY&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQtwIwF3oECAgQAQ&usg=AOvVaw1_KZzJBnIUYxbrpbMgh00Z",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[Linear Algebra] Linear Combinations - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=OYp6XbibVt4",
+    "description": "07.09.2015 \u00b7 We discuss linear combinations in linear algebra. Visit our website: http://bit.ly ...Dauer: 13:37Gepostet: 07.09.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DOYp6XbibVt4&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQtwIwGHoECAYQAQ&usg=AOvVaw1NeWRFxkeHIvAs9V1YXGl0",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "What is a linear combination? - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=KwBNpMqc2mU",
+    "description": "15.09.2015 \u00b7 What is a linear combination? ... Author's note: Back in 2015 I did not put the little \"vector ...Dauer: 5:40Gepostet: 15.09.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DKwBNpMqc2mU&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQtwIwGXoECAoQAQ&usg=AOvVaw1aE8NQxbvtK4aeVkqHs4XG",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Introducing Linear Combinations & Span - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=WJlQzgS_itI",
+    "description": "16.05.2018 \u00b7 We saw Vector Addition & Scalar Multiplication in 1.3 Part I. Now we take arbitrary combinations ...Dauer: 9:34Gepostet: 16.05.2018",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DWJlQzgS_itI&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQtwIwGnoECAkQAQ&usg=AOvVaw0K9rJdb-mtUu9FBLCf4XPU",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Linear Combinations and Span - Cliffs Noteswww.cliffsnotes.com \u203a real-euclidean-vector-spaces",
+    "link": "https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/linear-combinations-and-span",
+    "description": "Example 1: The vector v = (\u22127, \u22126) is a linear combination of the vectors v1 = (\u200b\u22122, 3) and v2 = (1, 4), since v = 2 v1 \u2212 3 v2. The zero vector is also a linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/real-euclidean-vector-spaces/linear-combinations-and-span&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQFjAbegQIARAB&usg=AOvVaw2QAxR9LxrhV7jvIZFrhSq_",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "9.1 Standardized Linear Combinations - SFB 649sfb649.wiwi.hu-berlin.de \u203a tutorials \u203a mvahtmlnode61",
+    "link": "http://sfb649.wiwi.hu-berlin.de/fedc_homepage/xplore/tutorials/mvahtmlnode61.html",
+    "description": "We call (9.1) a standardized linear combination (SLC). Which SLC should we choose? One aim is to maximize the variance of the projection $\\delta^{\\top}X$\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sfb649.wiwi.hu-berlin.de/fedc_homepage/xplore/tutorials/mvahtmlnode61.html&sa=U&ved=2ahUKEwi9nKP524rxAhX9CTQIHWXYC-gQFjAcegQIAhAB&usg=AOvVaw3g0GptinysV-ie2lvjBdSy",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Linear combinations \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Linear_combinations",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Linear_combinations",
+    "description": "The main property of vectors is that one can take linear combinations with them. In this chapter you will learn exactly what this is.",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Linear_combinations&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAB6BAgDEAE&usg=AOvVaw1AEWMfm80Mag3xa8GPUfkq",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "linear combination in nLabncatlab.org \u203a nlab \u203a show \u203a linear+combination",
+    "link": "https://ncatlab.org/nlab/show/linear+combination",
+    "description": "27.10.2015 \u00b7 Linear combinations are the most general operations in the operads for modules over a rig (including modules over a ring and vector spaces\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ncatlab.org/nlab/show/linear%2Bcombination&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAF6BAgHEAE&usg=AOvVaw1k12sOYHkxzdCRIhT33RpV",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "What is a linear combination, exactly? - Mathematics Stack Exchangemath.stackexchange.com \u203a questions \u203a what-is-a-lin...",
+    "link": "https://math.stackexchange.com/questions/1202973/what-is-a-linear-combination-exactly",
+    "description": "If you now understand what a linear combination is above, the general way to write the definition of a linear combination of, say {2,x} with scalars as polynomials\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/1202973/what-is-a-linear-combination-exactly&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAJ6BAgIEAE&usg=AOvVaw0aCEaEmlgjLvowQi6dZGAj",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Linear Algebra: Linear combination of Vectors | Master Data Sciencedatahacker.rs \u203a linear-combination-of-vectors",
+    "link": "https://datahacker.rs/linear-combination-of-vectors/",
+    "description": "20.03.2020 \u00b7 A collection of n linearly independent n -vectors (i.e., a collection of linearly independent vectors of the maximum possible size) is called a basis. If\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://datahacker.rs/linear-combination-of-vectors/&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAN6BAgJEAE&usg=AOvVaw33p85i_2VgWkGEMtfqTrL1",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Chapter 6 Linear Combinations - Isopteraisoptera.lcsc.edu \u203a hamoon \u203a files \u203a ApplInspiredLACh6",
+    "link": "http://isoptera.lcsc.edu/hamoon/files/Math340S19/ApplInspiredLACh6.pdf",
+    "description": "solution set to a system of linear equations. 6.1 Linear Combination. We begin this section by defining arithmetic combinations more precisely. Definition 6.1.1.",
+    "googleLink": "http://www.google.com/url?q=http://isoptera.lcsc.edu/hamoon/files/Math340S19/ApplInspiredLACh6.pdf&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAR6BAgFEAE&usg=AOvVaw0f-EPBgsAgBmjLJXdIG5G_",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Regression and Linear Combinations \u2013 Math \u2229 Programmingjeremykun.com \u203a 2021/03/29 \u203a regression-and-linea...",
+    "link": "https://jeremykun.com/2021/03/29/regression-and-linear-combinations/",
+    "description": "29.03.2021 \u00b7 a linear combination of the vectors is a choice of some coefficients a_i ... But no, linear combinations truly lie at the heart of many practical\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://jeremykun.com/2021/03/29/regression-and-linear-combinations/&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAV6BAgGEAE&usg=AOvVaw0G-cnVdcDCpyZi8Tm4hwlX",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Section LC Linear Combinations - A First Course in Linear Algebralinear.ups.edu \u203a ... \u203a Vectors",
+    "link": "http://linear.ups.edu/html/section-LC.html",
+    "description": "When a definition or theorem employs a linear combination, think about the nature of the objects that go into its creation (lists of scalars and vectors), and the type\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://linear.ups.edu/html/section-LC.html&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAZ6BAgCEAE&usg=AOvVaw1AZb5b5MqrHrn_EiZe0vUs",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Numpy, Matplotlib & Scipy Tutorial: Linear Combinationswww.python-course.eu \u203a linear_combinations",
+    "link": "https://www.python-course.eu/linear_combinations.php",
+    "description": "Linear Combination. Definitions. Weights, based on Public Domain image. A linear combination in mathematics is an expression constructed from a set of terms\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.python-course.eu/linear_combinations.php&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAd6BAgBEAE&usg=AOvVaw2BVYQUhvNp9ICq3eEx2Usu",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "3. Vector spaces & linear combinations | Micha\u0142 Korch - MIMUWwww.mimuw.edu.pl \u203a ~m_korch \u203a 3-vector-spaces-l...",
+    "link": "https://www.mimuw.edu.pl/~m_korch/3-vector-spaces-linear-combinations/",
+    "description": "10.10.2015 \u00b7 How to check that a given set of vectors is linearly independent? Obviously we have to calculate the coefficients of their linear combination giving\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mimuw.edu.pl/~m_korch/3-vector-spaces-linear-combinations/&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAh6BAgEEAE&usg=AOvVaw3wILWUJLRhmU9mXbp9fm3P",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Linear Combination - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a linear-combination",
+    "link": "https://www.sciencedirect.com/topics/mathematics/linear-combination",
+    "description": "Linear combination: Let V be a vector space over a field of real numbers R. Also, let S be a nonempty subset of V. Then an x \u2208 V is said to be a linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/mathematics/linear-combination&sa=U&ved=2ahUKEwjgtd_524rxAhVGFjQIHd-zBYY4ChAWMAl6BAgAEAE&usg=AOvVaw1IK-bHWHj76iVdo3ClHtLx",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "findLinearCombos: Determine linear combinations in a matrix in ...rdrr.io \u203a CRAN \u203a caret",
+    "link": "https://rdrr.io/cran/caret/man/findLinearCombos.html",
+    "description": "matrix function in the subselect package can also be used to accomplish the same goal. Value. a list with elements: linearCombos. If there are linear combinations,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://rdrr.io/cran/caret/man/findLinearCombos.html&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAB6BAgBEAE&usg=AOvVaw2iKPvO89irvSJVAU5v8_F9",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Solving Systems of Equations Using Linear Combinationswww.algebra-class.com \u203a System of Equations",
+    "link": "https://www.algebra-class.com/systems-of-equations.html",
+    "description": "Steps for Using Linear Combinations (Addition Method) \u00b7 Arrange the equations with like terms in columns. \u00b7 Analyze the coefficients of x or y. \u00b7 Add the equations\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.algebra-class.com/systems-of-equations.html&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAF6BAgIEAE&usg=AOvVaw1n5E0QNsRjZMCU-QPNmttu",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Linear Combination Visualizer \u2013 GeoGebrawww.geogebra.org \u203a WShmQvQU",
+    "link": "https://www.geogebra.org/m/WShmQvQU",
+    "description": "Linear Combination Visualizer: This applet allows for the exploration of the concept of linear combinations. [math]w=c_1 u + c_2 v[/math]",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/WShmQvQU&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAJ6BAgJEAE&usg=AOvVaw0QLblvIzM9cGfkBBmpU7Ys",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Photonics | Free Full-Text | Linear Combinations of the Complex ...www.mdpi.com \u203a ...",
+    "link": "https://www.mdpi.com/2304-6732/8/5/146",
+    "description": "We propose a method for structuring the spatial coherence state of light via mixed linear combinations of N complex degrees of coherence (CDC) and specify\u00a0...\n\nPhotonics: 2021\n8: (5), 146; https://doi.org/10.3390/photonics8050146",
+    "googleLink": "http://www.google.com/url?q=https://www.mdpi.com/2304-6732/8/5/146&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAN6BAgHEAE&usg=AOvVaw2HbAavQ6xeNdB69fR4p8Rv",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Linear Combinations of Multiple Diagnostic Markers - JSTORwww.jstor.org \u203a stable",
+    "link": "https://www.jstor.org/stable/2291276",
+    "description": "With no restriction on covariance matrices, we also provide a solution of the best linear combination of markers in the sense that the area under the ROC curve of\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jstor.org/stable/2291276&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAR6BAgDEAE&usg=AOvVaw1atWMK4DcOx7Xo0wb4gzHV",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Asymptotic Distribution of Linear Combinations of Functions of Order ...projecteuclid.org \u203a volume-38 \u203a issue-1 \u203a aoms",
+    "link": "https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-38/issue-1/Asymptotic-Distribution-of-Linear-Combinations-of-Functions-of-Order-Statistics/10.1214/aoms/1177699058.short",
+    "description": "February, 1967 Asymptotic Distribution of Linear Combinations of Functions of Order Statistics with Applications to Estimation. Herman Chernoff, Joseph L.",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-38/issue-1/Asymptotic-Distribution-of-Linear-Combinations-of-Functions-of-Order-Statistics/10.1214/aoms/1177699058.short&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAV6BAgGEAE&usg=AOvVaw2iZ_Yqlbz0sl72Ai_kYUMX",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Optimal Linear Combinations of Neural Networks - PubMedpubmed.ncbi.nlm.nih.gov \u203a ...",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/12662858/",
+    "description": "Typically, one of the trained networks is chosen as best, while the rest are discarded. [Hashem and Schmeiser (1995)] proposed using optimal linear combinations\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://pubmed.ncbi.nlm.nih.gov/12662858/&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAZ6BAgCEAE&usg=AOvVaw2r29HdOjhAIQzLV3qy8HBM",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "5.6 Linear combinations of random variables | An Introduction to ...bookdown.org \u203a kevin_davisross \u203a probsim-book",
+    "link": "https://bookdown.org/kevin_davisross/probsim-book/linear-combinations-of-random-variables.html",
+    "description": "A linear rescaling transforms the mean in the same way the individual values are transformed. Adding a constant to a random variable does not affect its standard\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://bookdown.org/kevin_davisross/probsim-book/linear-combinations-of-random-variables.html&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAd6BAgAEAE&usg=AOvVaw2OAS-XkbHXKRCqIRWaIXYD",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "VEC-0040: Linear Combinations of Vectors - Ximeraximera.osu.edu \u203a LinearAlgebra \u203a VEC-M-0040",
+    "link": "https://ximera.osu.edu/la/LinearAlgebra/VEC-M-0040/main",
+    "description": "Geometry of Linear Combinations. Express as a linear combination of and . Interpret your results geometrically. We need to find scalars and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ximera.osu.edu/la/LinearAlgebra/VEC-M-0040/main&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAh6BAgEEAE&usg=AOvVaw1whmlApkirZHP4o-0X-njK",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Linear Combination of Vectors: Definition - Stat Trekstattrek.com \u203a statistics \u203a dictionary \u203a definition=line...",
+    "link": "https://stattrek.com/statistics/dictionary.aspx?definition=linear_combination_of_vectors",
+    "description": "Linear Combination of Vectors. If one vector is equal to the sum of scalar multiples of other vectors, it is said to be a linear combination of the other vectors. For\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://stattrek.com/statistics/dictionary.aspx%3Fdefinition%3Dlinear_combination_of_vectors&sa=U&ved=2ahUKEwiQmIb624rxAhXVJzQIHciTA9U4FBAWMAl6BAgFEAE&usg=AOvVaw2GOXj15Esbcl5wledvkLF9",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Vectors and Linear Combinations - TU Delft OCWocw.tudelft.nl \u203a course-lectures \u203a vectors-linear-com...",
+    "link": "https://ocw.tudelft.nl/course-lectures/vectors-linear-combinations/",
+    "description": "Vectors and Linear Combinations. Course subject(s) Linear Algebra. In this video you will learn about vector equations. You will learn how to add vectors in R^n,\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://ocw.tudelft.nl/course-lectures/vectors-linear-combinations/&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAB6BAgCEAE&usg=AOvVaw1wiRmth5rXI2Hpt0mPgt3W",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Linear Combinations of Unordered Data Vectorsarxiv.org \u203a cs",
+    "link": "https://arxiv.org/abs/1610.01470",
+    "description": "Computer Science > Logic in Computer Science. arXiv:1610.01470 (cs). [\u200bSubmitted on 5 Oct 2016]. Title:Linear Combinations of Unordered Data Vectors.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://arxiv.org/abs/1610.01470&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAF6BAgHEAE&usg=AOvVaw2zc9bfqGfcBwd3SLNc3yOL",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] LINEAR COMBINATIONS AND SUBSPACESwww.dcs.warwick.ac.uk \u203a people \u203a academic \u203a Steve.Russ \u203a NOTE5",
+    "link": "https://www.dcs.warwick.ac.uk/people/academic/Steve.Russ/cs131/NOTE5.PDF",
+    "description": "Express the vector (6,6) as a linear combination of (0,3) and. (2,1). ... We can similarly define linear combinations of more than two vectors and of vectors in Rn\u200b.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.dcs.warwick.ac.uk/people/academic/Steve.Russ/cs131/NOTE5.PDF&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAJ6BAgIEAE&usg=AOvVaw2GMFnc1_DIy4Ah9sav3s8e",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "IV.\u2014On Least Squares and Linear Combination of Observations ...www.cambridge.org \u203a core \u203a journals \u203a article \u203a ivo...",
+    "link": "https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh/article/ivon-least-squares-and-linear-combination-of-observations/7106C26F19F2EBF75BCEE7FA285780B9",
+    "description": "(ii) The linear combinations are to be such as would reproduce any set of values that were already values of a polynomial of degree not higher than the kth.\n\nInformation: Proceedings of the Royal Society of Edinburgh, Volume 55, 1936, pp. 42 - 48 DOI: https://doi.org/10.1017/S0370164...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh/article/ivon-least-squares-and-linear-combination-of-observations/7106C26F19F2EBF75BCEE7FA285780B9&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAN6BAgJEAE&usg=AOvVaw2eO586stlC66qUnsqE8Ma9",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Learning Non-Linear Combinations of Kernels - NIPS Proceedingspapers.nips.cc \u203a paper \u203a 3692-learning-non-linear-c...",
+    "link": "https://papers.nips.cc/paper/3692-learning-non-linear-combinations-of-kernels",
+    "description": "Learning Non-Linear Combinations of Kernels ... paper studies the general problem of learning kernels based on a polynomial combination of base kernels.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://papers.nips.cc/paper/3692-learning-non-linear-combinations-of-kernels&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAR6BAgEEAE&usg=AOvVaw1L3UC7sRm_ratnvenPV5op",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Linear Combination: Definition & Examples | Study.comstudy.com \u203a Courses \u203a English Courses",
+    "link": "https://study.com/academy/lesson/linear-combination-definition-examples.html",
+    "description": "Linear Combination Definition. Have you ever wished that you could make a variable disappear? If so, then linear combination may be for you. Linear combination\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://study.com/academy/lesson/linear-combination-definition-examples.html&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAV6BAgGEAE&usg=AOvVaw3ZNM1KzpauZ_rFQBkqekyi",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Reliable Integer Ambiguity Resolution with Multi ... - mediaTUMmediatum.ub.tum.de \u203a doc",
+    "link": "https://mediatum.ub.tum.de/doc/1078617/1078617.pdf",
+    "description": "Multi-Frequency Code Carrier Linear Combinations. P. Henkel\u2217 and C. ... L2 linear combination with a wavelength of 14.65 m was found. However, the\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://mediatum.ub.tum.de/doc/1078617/1078617.pdf&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAZ6BAgBEAE&usg=AOvVaw0aA8fDw_C0X6HhA7gevuzV",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Linear Combination -- from Wolfram MathWorldmathworld.wolfram.com \u203a LinearCombination",
+    "link": "https://mathworld.wolfram.com/LinearCombination.html",
+    "description": "Linear Combination. A sum of the elements from some set with constant coefficients placed in front of each. For example, a linear combination of the vectors x , y\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://mathworld.wolfram.com/LinearCombination.html&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAd6BAgAEAE&usg=AOvVaw38lYST4HPJQvHRnfLUw1zh",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "definition of Linear combinations by The Free Dictionarywww.thefreedictionary.com \u203a Linear+combinations",
+    "link": "https://www.thefreedictionary.com/Linear+combinations",
+    "description": "Also found in: Encyclopedia. Related to Linear combinations: Spanning set. linear combination. n. An expression of first order, composed of the sums and\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.thefreedictionary.com/Linear%2Bcombinations&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAh6BAgDEAE&usg=AOvVaw0SichSfheXM45KXbVaTVOU",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Definition of Linear Combination by Merriam-Websterwww.merriam-webster.com \u203a dictionary \u203a linear co...",
+    "link": "https://www.merriam-webster.com/dictionary/linear%20combination",
+    "description": "Linear combination definition is - a mathematical entity (such as 4x + 5y + 6z) which is composed of sums and differences of elements (such as variables,\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.merriam-webster.com/dictionary/linear%2520combination&ved=2ahUKEwi2wdL624rxAhW1JzQIHaW9B5I4HhAWMAl6BAgFEAE&usg=AOvVaw2dG4P4GrX2Y0C9OFVA33Gg",
+    "page": 3,
+    "index": 9
+  }
+]

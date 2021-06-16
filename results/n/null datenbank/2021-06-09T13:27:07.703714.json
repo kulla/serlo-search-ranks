@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Nullwert \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Nullwert",
+    "link": "https://de.wikipedia.org/wiki/Nullwert",
+    "description": "In Datenbanken haben Felder, die noch nicht bearbeitet wurden (oder die aus anderen Gr\u00fcnden keinen Wert enthalten), den Wert NULL . Sobald man gezielt\u00a0...\nBeispiel 1 \u00b7 Darstellung im Computer \u00b7 NULL in SQL-Datenbanken \u00b7 Verschiedene ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Nullwert&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjAAegQIBhAB&usg=AOvVaw0Rue4ABvzv0_BKYr9qnDcR",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "",
+    "link": "https://www.naderio.de/nullwerte-in-excel-2010-2013-ausblenden/",
+    "description": "Als Nullwert bezeichnet man in der Informatik einen Zustand, der das Fehlen eines Wertes anzeigen soll. Nach Edgar F. Codd unterscheidet man zwei Arten von NULL: die Abwesenheit eines Wertes, weil keiner existiert, oder die Abwesenheit, da man den... Wikipedia",
+    "googleLink": "http://www.google.com/url?q=https://www.naderio.de/nullwerte-in-excel-2010-2013-ausblenden/&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQwW4wAXoECAgQAg&usg=AOvVaw23aegG51QrEx42EcBsvFTq",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "NULL \u2014 Zweck, Vergleiche, NULL in Ausdr\u00fccken ... - Modern SQLmodern-sql.com \u203a konzept \u203a null",
+    "link": "https://modern-sql.com/de/konzept/null",
+    "description": "Abweichungen: Oracle und SQL Server Datenbanken. Die Oracle-Datenbank behandelt den Leerstring wie Null und umgekehrt. Einerseits ist '' IS NULL true,\u00a0...\nVergleiche mit Null \u00b7 Null breitet sich durch ... \u00b7 Null in Aggregatfunktionen ...",
+    "googleLink": "http://www.google.com/url?q=https://modern-sql.com/de/konzept/null&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjAEegQICRAB&usg=AOvVaw0i7GOvGUm20erb8tTuIi_v",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "NULL oder NOT NULL: Das ist hier die Frage! - Oraclewww.oracle.com \u203a ocom \u203a groups \u203a public \u203a documents \u203a webcontent",
+    "link": "https://www.oracle.com/ocom/groups/public/@otn/documents/webcontent/496011.html",
+    "description": "Das Verhalten von SQL NULL (nicht nur) in der Oracle-Datenbank f\u00fchrt immer wieder zu Erstaunen und zu \u00dcberraschungen ... und dabei ist das eigentlich alles\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oracle.com/ocom/groups/public/%40otn/documents/webcontent/496011.html&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjANegQICxAB&usg=AOvVaw0tTGi8r57PnEErKLRZrwyD",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "MySQL - SQL - Grundlagen - NULL - Peter Kropffwww.peterkropff.de \u203a site \u203a mysql \u203a null",
+    "link": "https://www.peterkropff.de/site/mysql/null.htm",
+    "description": "Diese Anweisung bedeutet, dass der Wohnort von diesem zwielichtigen Typ unbekannt ist. Ein NULL ist also nichts anderes als das Eingest\u00e4ndnis eigener\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.peterkropff.de/site/mysql/null.htm&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjAOegQIBRAB&usg=AOvVaw2iCHZt-9LYbE9bawDXF1F9",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Behandlung von NULL-Werten - ADO.NET Provider for SQL Server ...docs.microsoft.com \u203a ... \u203a SQL Server-Datentypen und ADO.NET",
+    "link": "https://docs.microsoft.com/de-de/sql/connect/ado-net/sql/handle-null-values",
+    "description": "15.08.2019 \u00b7 Ein NULL-Wert wird in einer relationalen Datenbank verwendet, wenn der Wert in einer Spalte unbekannt ist oder fehlt. Ein NULL-Wert ist\u00a0...\nNULL-Werte und SqlBoolean \u00b7 Zuweisen von NULL-Werten \u00b7 Zuweisen von NULL ...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/sql/connect/ado-net/sql/handle-null-values&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjAPegQIBxAB&usg=AOvVaw3xhByxLeKRqJpxsK5A5q8b",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Null in SQLwww.purl.org \u203a stefan_ram \u203a pub \u203a null_sql",
+    "link": "http://www.purl.org/stefan_ram/pub/null_sql",
+    "description": "Der Wert \u00bbNULL\u00ab in SQL. Obwohl man die Verwendung eines NULL-Wertes aus der Sicht der Theorie der relationalen Datenbanken ablehnen k\u00f6nnte, kommt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.purl.org/stefan_ram/pub/null_sql&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjAQegQIARAB&usg=AOvVaw1YjnyxU4MF7kiPxB4gLoWj",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Einf\u00fchrung in Datenbanken, Kapitel 8: Nullwerte in SQL - Uni Halleusers.informatik.uni-halle.de \u203a ~brass \u203a print \u203a d8_sqnul",
+    "link": "http://users.informatik.uni-halle.de/~brass/db18/print/d8_sqnul.pdf",
+    "description": "Tupel/Tabellenzeilen k\u00f6nnen einen Nullwert enthalten. (falls dies nicht mit NOT NULL f\u00fcr das Attribut/die Spalte in der Tabellendeklaration ausgeschlossen wurde)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://users.informatik.uni-halle.de/~brass/db18/print/d8_sqnul.pdf&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjARegQIBBAB&usg=AOvVaw2lh7tGRgSpAY9YOiL85Bc0",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "7.2.2 Tabellen mit Attributen \u2013 NOT NULL - elearn.inf.tu-dresden.deelearn.inf.tu-dresden.de \u203a sqlkurs \u203a lektion07 \u203a 07_02_02_attribute not null",
+    "link": "https://elearn.inf.tu-dresden.de/sqlkurs/lektion07/07_02_02_attribute%20not%20null.html",
+    "description": "So etwas macht wenig Sinn und darf in unserer Datenbank nicht vorkommen. Dazu kann in der CREATE TABLE -Anweisung angegeben werden, ob ein Attribut\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://elearn.inf.tu-dresden.de/sqlkurs/lektion07/07_02_02_attribute%2520not%2520null.html&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjASegQIAxAB&usg=AOvVaw2D39VfNcgjyUWGKpGdbxz2",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Relationale Datenbanken \u00bb Exkurs - Nullwerte und ... - inf-schulewww.inf-schule.de \u203a datenbanksysteme \u203a gbuch \u203a relationaledb \u203a exkurs_n...",
+    "link": "https://www.inf-schule.de/information/datenbanksysteme/gbuch/relationaledb/exkurs_nullwerte",
+    "description": "In einigen Datens\u00e4tzen steht f\u00fcr das Attribut GebDat der Wert NULL . Dieses ist aber ein Attribut mit dem Datentyp \"Datum\", so dass keine Texte dort erlaubt sind\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/information/datenbanksysteme/gbuch/relationaledb/exkurs_nullwerte&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjATegQIAhAB&usg=AOvVaw38KRAe1wT2vskPRRP9F4dz",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "NULL in der Oracle Datenbank: Noch komischer als anderswouse-the-index-luke.com \u203a sql \u203a where \u203a null-in-oracle",
+    "link": "https://use-the-index-luke.com/de/sql/where/null-in-oracle",
+    "description": "Der SQL-Standard definiert NULL nicht als Wert, sondern als Platzhalter f\u00fcr einen ... Die Oracle Datenbank behandelt einen leeren String aber wie NULL :",
+    "googleLink": "http://www.google.com/url?q=https://use-the-index-luke.com/de/sql/where/null-in-oracle&sa=U&ved=2ahUKEwiQ05vtuIrxAhV0DjQIHQCpARIQFjAUegQIChAB&usg=AOvVaw3dm1j5ZUkRORCAVwvRCuN3",
+    "page": 0,
+    "index": 10
+  },
+  {
+    "name": "Datenbanken und SQL #12 - NULL Werte - YouTubehttps://www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=k02NxeUrkBo",
+    "description": "Kostenlos die Programmier-Einsteiger-Serie sichern:\u25bb\u25bb\u25bb https://programmieren-starten.de/pev-lp1/In diesem ...",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Warum fehlt die f\u00fchrende Null (0), nachdem ich die Datenbank in ...support.brother.com \u203a faqend",
+    "link": "https://support.brother.com/g/b/faqend.aspx?c=de&lang=de&prod=rj3050euk&faqid=faqp00001390_000",
+    "description": "14.02.2019 \u00b7 Warum fehlt die f\u00fchrende Null (0), nachdem ich die Datenbank in die P-touch Editor-Anwendung importiert habe?",
+    "googleLink": "http://www.google.com/url?q=https://support.brother.com/g/b/faqend.aspx%3Fc%3Dde%26lang%3Dde%26prod%3Drj3050euk%26faqid%3Dfaqp00001390_000&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAB6BAgGEAE&usg=AOvVaw2aSBGZ3BZsm5bgsDe8Gl0R",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "pass NULL - Deutsch \u00dcbersetzung - Englisch Beispiele | Reverso ...context.reverso.net \u203a \u00fcbersetzung \u203a englisch-deutsch \u203a pass+NULL",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/englisch-deutsch/pass+NULL",
+    "description": "Indicator variables are used to pass NULL values to and from the database. Indikatorvariable werden zum \u00dcbergeben von NULL in die und aus der Datenbank\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://context.reverso.net/%25C3%25BCbersetzung/englisch-deutsch/pass%2BNULL&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAF6BAgJEAE&usg=AOvVaw0tBX2gswPaivIsrf_uoMFA",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Datenbank der gemeldeten Biozidprodukte (offene Suche ... - BAuAwww.baua.de \u203a Biozid-Meldeverordnung \u203a Offen \u203a offen",
+    "link": "https://www.baua.de/DE/Biozid-Meldeverordnung/Offen/offen.html",
+    "description": "Bundesanstalt f\u00fcr Arbeitsschutz und Arbeitsmedizin - Datenbank gemeldetete Biozidprodukte, ... 00 null null AktivGel 4in1 - Fresh Pine, N-96368, 31.12.2024\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.baua.de/DE/Biozid-Meldeverordnung/Offen/offen.html&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAJ6BAgIEAE&usg=AOvVaw21pJlY9OYJWT6EvNKm-Zc1",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "null key - German translation \u2013 Lingueewww.linguee.com \u203a english-german \u203a translation \u203a null+key",
+    "link": "https://www.linguee.com/english-german/translation/null+key.html",
+    "description": "Many translated example sentences containing \"null key\" \u2013 German-English ... Standardwert, Prim\u00e4rschl\u00fcssel, eindeutigen Schl\u00fcssel und pflegt Datenbank [...].",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.com/english-german/translation/null%2Bkey.html&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAN6BAgHEAE&usg=AOvVaw3Neiq7I-lYeBzlAFS1jEJw",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Datenbankproblem im SNM Forum - Spur Null Magazinwww.spurnull-magazin.de \u203a datenbank-supergau-in-snm-forum",
+    "link": "https://www.spurnull-magazin.de/in-eigener-sache/datenbank-supergau-in-snm-forum/",
+    "description": "28.09.2020 \u00b7 Datenbank Problem. Durch einen Fehler in der Datenbank sind am Montagmorgen, den 28.9.2020 eine gro\u00dfe Zahl von Nutzeraccounts\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.spurnull-magazin.de/in-eigener-sache/datenbank-supergau-in-snm-forum/&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAR6BAgBEAE&usg=AOvVaw252ZFOh4QE0aiNHTy9Ql51",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "MySQL Datenbankhandbuch: MySQL-Sprachreferenz mit vielen ...edu.elektronikschule.de \u203a ~amann \u203a mysql \u203a mysql-110",
+    "link": "https://edu.elektronikschule.de/~amann/mysql/mysql-110.html",
+    "description": "create_definition: col_name type [NOT NULL | NULL] [DEFAULT default_value] ... CREATE TABLE erstellt eine neue Tabelle in der aktuellen Datenbank\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://edu.elektronikschule.de/~amann/mysql/mysql-110.html&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAV6BAgFEAE&usg=AOvVaw3-E0_BgS79DQEfKmwAiluW",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Nullwert - Banner biancahoegel.dewww.biancahoegel.de \u203a computer \u203a daten \u203a typen \u203a nullwert",
+    "link": "https://www.biancahoegel.de/computer/daten/typen/nullwert.html",
+    "description": "Als Nullwert (kurz NULL, NIL oder ()) bezeichnet man in der Informatik einen ... Folgendes Beispiel verdeutlicht die Bedeutung von NULL in Datenbanken und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.biancahoegel.de/computer/daten/typen/nullwert.html&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAZ6BAgEEAE&usg=AOvVaw1b9rI4297zwSUe7D8cT_X8",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Die Dokumentation zu xt:Commerce - xt:Commerce wikixtcommerce.atlassian.net \u203a wiki \u203a spaces \u203a MANUAL \u203a pages \u203a Fehlermeld...",
+    "link": "https://xtcommerce.atlassian.net/wiki/spaces/MANUAL/pages/9961568/Fehlermeldungen+MySQL+Datenbank%2C+PHP+und+Smarty",
+    "description": "11.09.2019 \u00b7 Fehlermeldungen MySQL Datenbank, PHP und Smarty ... cannot be null] in EXECUTE(\"INSERT INTO xt_products_description, mysql.",
+    "googleLink": "http://www.google.com/url?q=https://xtcommerce.atlassian.net/wiki/spaces/MANUAL/pages/9961568/Fehlermeldungen%2BMySQL%2BDatenbank%252C%2BPHP%2Bund%2BSmarty&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAd6BAgAEAE&usg=AOvVaw0jvSQDQQUJVUBuu9TujLOn",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Shopware 5 - Tutorials & FAQs - SQL Tipps & Tricksdocs.shopware.com \u203a shopware-5-de \u203a tutorials-und-faq \u203a sql-tipps-tricks",
+    "link": "https://docs.shopware.com/de/shopware-5-de/tutorials-und-faq/sql-tipps-tricks",
+    "description": "Diese erm\u00f6glicht die graphische Darstellung der Datenbank und erleichtert die ... r LEFT JOIN s_articles_details d ON d.id = r.article_id WHERE d.id IS NULL;.",
+    "googleLink": "http://www.google.com/url?q=https://docs.shopware.com/de/shopware-5-de/tutorials-und-faq/sql-tipps-tricks&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAh6BAgCEAE&usg=AOvVaw2OOivhFYt_IB6MP2v68Y7I",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "TwinCAT Database Server :SQL Compact Datenbank - Beckhoff ...infosys.beckhoff.com \u203a tcdbserverce \u203a html \u203a TcDBServer_MobileDatabase",
+    "link": "https://infosys.beckhoff.com/content/1031/tcdbserverce/html/TcDBServer_MobileDatabase.htm",
+    "description": "Microsoft SQL Server 2005 Compact Edition stellt eine kompakte Datenbank dar, die ... Timestamp datetime NOT NULL, Name ntext NOT NULL, Value float NOT\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://infosys.beckhoff.com/content/1031/tcdbserverce/html/TcDBServer_MobileDatabase.htm&sa=U&ved=2ahUKEwik89PvuIrxAhUENH0KHUlZD6U4HhAWMAl6BAgDEAE&usg=AOvVaw2UZCOTy_-PxfBIjmSh3AcT",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Null-Werte Der Umgang mit Null-Werten in Datenbanken ist im Allstudylibde.com \u203a Ingenieurwissenschaft \u203a Informatik \u203a Datenbank",
+    "link": "https://studylibde.com/doc/3230580/null-werte-der-umgang-mit-null-werten-in-datenbanken-ist-...",
+    "description": "SQL Null-Werte Der Umgang mit Null-Werten in Datenbanken ist im Allgemeinen nicht trivial, Insbesondere bei den Aggregatfunktionen und Vergleichen sind\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://studylibde.com/doc/3230580/null-werte-der-umgang-mit-null-werten-in-datenbanken-ist-...&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAB6BAgCEAE&usg=AOvVaw1FlvrBPXazjXiDEImQwnUG",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Java ist auch eine Insel \u2013 24.6 ... - Rheinwerk Computingopenbook.rheinwerk-verlag.de \u203a javainsel9 \u203a javainsel_24_006",
+    "link": "https://openbook.rheinwerk-verlag.de/javainsel9/javainsel_24_006.htm",
+    "description": "24.6.6 Eine SQL-NULL und \u00bbwasNull()\u00ab bei ResultSet. Pfeil ... Ist ein Eintrag in der Datenbank mit NULL belegt, so liefert die Methode eine null-Referenz.",
+    "googleLink": "http://www.google.com/url?q=https://openbook.rheinwerk-verlag.de/javainsel9/javainsel_24_006.htm&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAF6BAgHEAE&usg=AOvVaw0JKG7kpJjTPPoYZYy_hyld",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "TD-4410D FAQs Warum fehlt die f\u00fchrende Null (0), nachdem ich die ...www.brother.de \u203a Service und Support \u203a TD-4410D \u203a Probleml\u00f6sung",
+    "link": "https://www.brother.de/support/td-4410d/faqs/troubleshooting/faqp00001390_000",
+    "description": "Finden Sie hier alle FAQs TD-4410D. Warum fehlt die f\u00fchrende Null (0), nachdem ich die Datenbank in die P-touch Editor-Anwendung importiert habe?",
+    "googleLink": "http://www.google.com/url?q=https://www.brother.de/support/td-4410d/faqs/troubleshooting/faqp00001390_000&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAJ6BAgJEAE&usg=AOvVaw3D-TAc98LZjhZYvQ-9Jmhm",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "NULL-Werteverarbeitung \u2012 QlikView - Qlik | Helphelp.qlik.com \u203a Content \u203a QV_QlikView \u203a Scripting \u203a null-value-handling",
+    "link": "https://help.qlik.com/de-DE/qlikview/April2020/Subsystems/Client/Content/QV_QlikView/Scripting/null-value-handling.htm",
+    "description": "Werden beim Einlesen einer Datenbank oder bei einem Join f\u00fcr ein Feld keine Werte gefunden, f\u00fchrt dies \u00fcblicherweise zu NULL -Werten. QlikView liefert in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://help.qlik.com/de-DE/qlikview/April2020/Subsystems/Client/Content/QV_QlikView/Scripting/null-value-handling.htm&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAN6BAgIEAE&usg=AOvVaw1UC9DwTMXnqxwEyJjULwvj",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Datenbank/Fortgeschrittene Jointechniken \u2013 SELFHTML-Wikiwiki.selfhtml.org \u203a wiki \u203a Datenbank \u203a Fortgeschrittene_Jointechniken",
+    "link": "https://wiki.selfhtml.org/wiki/Datenbank/Fortgeschrittene_Jointechniken",
+    "description": "05.01.2021 \u00b7 Sinnvollerweise nutzt man in solchen F\u00e4llen die Spalte, die keine NULL-Werte enthalten. Zusammenfassung[Bearbeiten]. Mehrfachjoins sind\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.selfhtml.org/wiki/Datenbank/Fortgeschrittene_Jointechniken&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAR6BAgAEAE&usg=AOvVaw0cKwx81ANTHPmYF1Yrfc7z",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "SQL-Kommandos - Torsten Hornwww.torsten-horn.de \u203a techdocs \u203a sql-examples",
+    "link": "https://www.torsten-horn.de/techdocs/sql-examples.htm",
+    "description": "Bitte verfahren Sie zur Installation Ihrer Datenbank, wie in der zur Datenbank ... Aber in anderen Datenbanken (z.B. MySQL) gibt es sowohl \"NULL\"-Werte als\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.torsten-horn.de/techdocs/sql-examples.htm&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAV6BAgGEAE&usg=AOvVaw3YE7CXsuvSoxyl5p4zCSOP",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Reglementierte Berufe - BERUFENET - Berufsinformationen einfach ...berufenet.arbeitsagentur.de \u203a berufenet \u203a faces \u203a reglementierteBerufe",
+    "link": "https://berufenet.arbeitsagentur.de/berufenet/faces/index?path=null/reglementierteBerufe",
+    "description": "Ergebnissen 1 - 30 von 422 \u00b7 Die Datenbank f\u00fcr Ausbildungs- und T\u00e4tigkeitsbeschreibungen der Bundesagentur f\u00fcr Arbeit.",
+    "googleLink": "http://www.google.com/url?q=https://berufenet.arbeitsagentur.de/berufenet/faces/index%3Fpath%3Dnull/reglementierteBerufe&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAZ6BAgEEAE&usg=AOvVaw2tmHixP1_appCB9JmB7pF8",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "SQL int NULL Wert - Datenbanken - Fachinformatiker.dewww.fachinformatiker.de \u203a Fachliche Foren \u203a Administration \u203a Datenbanken",
+    "link": "https://www.fachinformatiker.de/topic/152512-sql-int-null-wert/",
+    "description": "24.10.2014 \u00b7 Und wenn es keinen Wert hat, ist dort der Wert NULL. Das darf eben ... Wie w\u00e4re es, wenn Du statt die Datenbank, das Resultset ver\u00e4nderst?",
+    "googleLink": "http://www.google.com/url?q=https://www.fachinformatiker.de/topic/152512-sql-int-null-wert/&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAd6BAgBEAE&usg=AOvVaw2fIrh8iP_75mNbx76FpyBj",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "geon.de Premium Hosting- Auszug unserer Null Euro Liste.geon.de \u203a null-euro",
+    "link": "https://geon.de/null-euro/",
+    "description": "Premium Webhosting alles f\u00fcr Null Euro Umgezogen? Wir aktualisieren f\u00fcr Sie die Domaininhaberangaben Ihrer Domains in allen Datenbanken der Registrys.",
+    "googleLink": "http://www.google.com/url?q=https://geon.de/null-euro/&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAh6BAgFEAE&usg=AOvVaw2dwdfoxpvvFqSJZzIH6SdB",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Null-Werte bei SELECT abfangen in MySQL und MSSQLwww.backslash.ch \u203a blog \u203a Null-Werte-bei-SELECT-abfangen",
+    "link": "https://www.backslash.ch/blog/2006/1/11/Null-Werte-bei-SELECT-abfangen",
+    "description": "11.01.2006 \u00b7 Grad heute bin ich wieder auf das Problem mit Null-Werten bei Datenbank-\u200bAbfragen gestossen und halte deshalb auch die L\u00f6sung fest.",
+    "googleLink": "http://www.google.com/url?q=https://www.backslash.ch/blog/2006/1/11/Null-Werte-bei-SELECT-abfangen&sa=U&ved=2ahUKEwin6vnvuIrxAhXDN30KHXfzD1A4KBAWMAl6BAgDEAE&usg=AOvVaw0y4fdl1Mp3O2jA9fvPqAPd",
+    "page": 4,
+    "index": 9
+  }
+]

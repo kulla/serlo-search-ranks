@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Grundwissen Informatik - Enth\u00e4lt-Beziehung - Tobias Stork, Klavierwww.tobias-stork.de \u203a informatik \u203a grundwissen \u203a Enthaelt-Beziehung",
+    "link": "http://www.tobias-stork.de/gymnasium/informatik/grundwissen/Enthaelt-Beziehung.html",
+    "description": "Enth\u00e4lt-Beziehung ... Die Enth\u00e4lt-Beziehung liegt vor, wenn Objekte einer Klasse Objekte einer anderen Klasse enthalten k\u00f6nnen. Beispiele: Ein Textdokument\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.tobias-stork.de/gymnasium/informatik/grundwissen/Enthaelt-Beziehung.html&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjAAegQIARAB&usg=AOvVaw1YleYBztPG_OgPEE9ADSyk",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Enth\u00e4lt-Beziehung - lernen mit Serlo!de.serlo.org \u203a informatik \u203a enth\u00e4lt-beziehung",
+    "link": "https://de.serlo.org/informatik/64636/enth%C3%A4lt-beziehung",
+    "description": "Objekte einer Klasse k\u00f6nnen Objekte weiterer Klassen enthalten. Eine solche Beziehung zwischen Objekten nennt man \\Beispiele TEXTDOKUMENT \u2026",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/64636/enth%25C3%25A4lt-beziehung&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjABegQIBxAB&usg=AOvVaw1Lz3BNAoOJjMlmR4j9TghF",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Enth\u00e4lt-Beziehung in Textdokumenten - lernen mit Serlo!de.serlo.org \u203a informatik \u203a enth\u00e4lt-beziehung-in-textdokumenten",
+    "link": "https://de.serlo.org/informatik/64627/enth%C3%A4lt-beziehung-in-textdokumenten",
+    "description": "Diese Objekte enthalten wiederrum keine, eine oder mehrere Objekte der Klassen ZEICHEN und TABULATOR. Es handelt sich um eine \"Enth\u00e4lt-\u200bBeziehung\".",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/64627/enth%25C3%25A4lt-beziehung-in-textdokumenten&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjAKegQICBAB&usg=AOvVaw2L7sRGVT3bjZMZGnayrvsq",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Die Enth\u00e4lt-Beziehung im Textdokumentjoachimhofmann.org \u203a Klasse6 \u203a 07_L_EnthaeltBeziehung",
+    "link": "http://joachimhofmann.org/Klasse6/3%20Textdokumente/07_L_EnthaeltBeziehung.pdf",
+    "description": "Klasse COMPUTERRAUM enth\u00e4lt Objekte anderer Klassen (z.B. TAFEL, TISCH, etc.). Die. Enth\u00e4lt-Beziehung beschreibt diesen Zusammenhang und kann\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://joachimhofmann.org/Klasse6/3%2520Textdokumente/07_L_EnthaeltBeziehung.pdf&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjALegQIChAB&usg=AOvVaw1orBzw9l_Inifgn-NkZA_C",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Grundwissen Informatik der Jahrgangsstufe 6 - Gymnasium Dorfenwww.gymnasiumdorfen.de \u203a Dokumente \u203a Unterricht \u203a Faecher \u203a Gr...",
+    "link": "https://www.gymnasiumdorfen.de/fileadmin/Inhalte/Dokumente/Unterricht/Faecher/Informatik/GrundwissenInfo6.pdf",
+    "description": "In Textdokumenten findet man auch stets Objekte der Klasse ABSATZ. Objekte der Klassen. ABSATZ und ZEICHEN stehen in einer Enth\u00e4lt-Beziehung zueinander\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gymnasiumdorfen.de/fileadmin/Inhalte/Dokumente/Unterricht/Faecher/Informatik/GrundwissenInfo6.pdf&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjAMegQICRAB&usg=AOvVaw3tTWK81wipK3wiET4lY2_t",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Inhaltsverzeichnis Grundwissen 6. Jahrgangsstufe - Gymnasium ...www.gymnasium-oberhaching.de \u203a default \u203a files \u203a inline-attachments",
+    "link": "https://www.gymnasium-oberhaching.de/sites/default/files/inline-attachments/gw6.pdf",
+    "description": "So kann zum Beispiel ein Absatz Objekte wie Buchstaben, Zahlen oder Satzzeichen enthalten. Wichtiger ist die Enth\u00e4lt-Beziehung f\u00fcr Klassen. Die Enth\u00e4lt-\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gymnasium-oberhaching.de/sites/default/files/inline-attachments/gw6.pdf&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjANegQIABAB&usg=AOvVaw2AZYcHNi6fZK_1DumUbBLL",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "HAT-Beziehungu-helmich.de \u203a inf \u203a lexikon \u203a HAT",
+    "link": "http://u-helmich.de/inf/lexikon/E-K/HAT.html",
+    "description": "Das \u00fcbergeordnete, besitzende Objekt enth\u00e4lt dann Objekte, die f\u00fcr sich alleine nicht existieren k\u00f6nnen. Ein h\u00e4ufig zitiertes Beispiel ist die Klasse Golfplatz, die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://u-helmich.de/inf/lexikon/E-K/HAT.html&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjAOegQIBRAB&usg=AOvVaw3OU797eQiMYI-pS0TJWyn_",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] (= Beziehungen zw. Objekten/Klassen, auch ... - informatikZentralewww.informatikzentrale.de \u203a _files",
+    "link": "https://www.informatikzentrale.de/_files/16java/java32b_assoziationen.pdf",
+    "description": "Wir modellieren die Beziehungen zwischen Klassen, um sie anschlie\u00dfend sinnvoll ... (nichts:) Keine Beziehung angegeben ... Artikel sie enth\u00e4lt, oder:.",
+    "googleLink": "http://www.google.com/url?q=https://www.informatikzentrale.de/_files/16java/java32b_assoziationen.pdf&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjAPegQIAhAB&usg=AOvVaw3ROrsjR0xJEWpFa_0scYvg",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Informatik \u2013 Grundwissen Klasse 6/7 - Informatische Grundbildungwww.informatische-grundbildung.com \u203a app \u203a download \u203a 2009-bay...",
+    "link": "https://www.informatische-grundbildung.com/app/download/5764718164/2009-bayern-grundwissen-Informatik.pdf?t=1494773954",
+    "description": "Ein Objekt der Klasse ABSATZ enth\u00e4lt. Objekte der Klasse ... Die Enth\u00e4lt-\u200bBeziehung beschreibt ... d. h., er kann sogar Objekte seiner eigenen Klasse enthalten.",
+    "googleLink": "http://www.google.com/url?q=https://www.informatische-grundbildung.com/app/download/5764718164/2009-bayern-grundwissen-Informatik.pdf%3Ft%3D1494773954&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjAQegQIAxAB&usg=AOvVaw2D5mraxKkDdzcqNMDfC0xw",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Grundwissen 6. Klasse \u2014 SGM - Staffelsee-Gymnasiumsgm.tcs.ifi.lmu.de \u203a faecher \u203a informatik \u203a grundwissen-6.-klasse",
+    "link": "http://sgm.tcs.ifi.lmu.de/faecher/informatik/grundwissen-6.-klasse",
+    "description": "Enth\u00e4lt-Beziehung: Objekte k\u00f6nnen andere Objekte enthalten. Enthaelt Leserichtung >: \u201eEin Textdokument enth\u00e4lt kein, ein oder mehrere Abs\u00e4tze. Ein Absatz\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sgm.tcs.ifi.lmu.de/faecher/informatik/grundwissen-6.-klasse&sa=U&ved=2ahUKEwjWwPif24rxAhWEGDQIHTSBDCQQFjARegQIBBAB&usg=AOvVaw2nQ7OSmfvhiqE3qTKitqk6",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Klassendiagramm (Class Diagram) - Enterprise Architectwww.sparxsystems.de \u203a ressourcen \u203a literatur \u203a klassendiagramm-class-diag...",
+    "link": "https://www.sparxsystems.de/ressourcen/literatur/leseprobe-zu-projektabwicklung-mit-uml-und-enterprise-architect/klassendiagramm-class-diagram/",
+    "description": "Eine zweite modellierbare Beziehung ist die Aufnahme einer Klasse in eine ... zu ihrem Typ, einen Initialwert, Eigenschaftswerte und Zusicherungen enthalten.",
+    "googleLink": "http://www.google.com/url?q=https://www.sparxsystems.de/ressourcen/literatur/leseprobe-zu-projektabwicklung-mit-uml-und-enterprise-architect/klassendiagramm-class-diagram/&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAB6BAgEEAE&usg=AOvVaw11TDZwD3nQNNo_0yNsNkAi",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Assoziation (UML) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Assoziation_(UML)",
+    "link": "https://de.wikipedia.org/wiki/Assoziation_(UML)",
+    "description": "Eine Assoziation (engl. association) ist ein Modellelement in der Unified Modeling Language (UML), einer Modellierungssprache f\u00fcr Software und andere Systeme. Beispiel f\u00fcr eine bin\u00e4re Assoziation. Beispiel f\u00fcr eine reflexive Assoziation. Eine Assoziation beschreibt eine Beziehung zwischen zwei oder mehr ... das als Ganzes Teile enth\u00e4lt, f\u00fcr die Existenz der Teile\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Assoziation_(UML)&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAF6BAgHEAE&usg=AOvVaw3twpw4edo2YAG5pIx16OsT",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "[PDF] \u00dcbungsaufgaben Informatik - Kronberg Gymnasiumwww.kronberg-gymnasium.de \u203a files \u203a g8_06_nt_inf_ueb_5628",
+    "link": "https://www.kronberg-gymnasium.de/files/g8_06_nt_inf_ueb_5628.pdf",
+    "description": "(Hinweis: Eine \u00e4hnliche Beziehung besteht zwischen den Klassen ELLIPSE ... Die Enth\u00e4lt-Beziehungen zwischen den Klassen AUTO und RAD kannst du wie in.",
+    "googleLink": "http://www.google.com/url?q=https://www.kronberg-gymnasium.de/files/g8_06_nt_inf_ueb_5628.pdf&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAJ6BAgIEAE&usg=AOvVaw3vip3ONnH51TMK6C87QaJG",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Nut-Informatik 6 \u2013 RMG-Wikirmgwiki.zum.de \u203a wiki \u203a Nut-Informatik_6",
+    "link": "https://rmgwiki.zum.de/wiki/Nut-Informatik_6",
+    "description": "17.02.2021 \u00b7 1 enth\u00e4lt-Beziehung; 2 Klassen in Textverarbeitungsprogrammen ... Erstelle ein Objektdiagramm mit den enth\u00e4lt-Beziehungen zu deiner\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://rmgwiki.zum.de/wiki/Nut-Informatik_6&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAN6BAgJEAE&usg=AOvVaw1mi9ilPNXcjfqLVlCKjrct",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Dreieckstheorie der Liebe: Welche Komponenten enth\u00e4lt deine ...www.brigitte.de \u203a Liebe \u203a Beziehung",
+    "link": "https://www.brigitte.de/liebe/beziehung/dreieckstheorie-der-liebe--welche-komponenten-enthaelt-deine-beziehung--12195980.html",
+    "description": "05.10.2020 \u00b7 Laut Dreieckstheorie der Liebe h\u00e4ngt die Art unserer Beziehungen von ... Dreieckstheorie der Liebe Erf\u00fcllt deine Beziehung DIESE Kriterien?",
+    "googleLink": "http://www.google.com/url?q=https://www.brigitte.de/liebe/beziehung/dreieckstheorie-der-liebe--welche-komponenten-enthaelt-deine-beziehung--12195980.html&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAR6BAgAEAE&usg=AOvVaw2Fv7e0C-A8wUDmBVaXTcha",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Erstellen von Listenbeziehungen mithilfe von eindeutigen Spalten ...support.microsoft.com \u203a de-de \u203a office \u203a erstellen-von-listenbeziehungen-...",
+    "link": "https://support.microsoft.com/de-de/office/erstellen-von-listenbeziehungen-mithilfe-von-eindeutigen-spalten-und-nachschlagespalten-80a3e0a6-8016-41fb-ad09-8bf16d490632",
+    "description": "Sie k\u00f6nnen Beziehungen zwischen Listen erstellen, indem Sie eine Kombination ... sowie Listenbeziehungen verwalten, wenn Listen viele Elemente enthalten.",
+    "googleLink": "http://www.google.com/url?q=https://support.microsoft.com/de-de/office/erstellen-von-listenbeziehungen-mithilfe-von-eindeutigen-spalten-und-nachschlagespalten-80a3e0a6-8016-41fb-ad09-8bf16d490632&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAV6BAgFEAE&usg=AOvVaw2_rI29L-EtxOaxng-PlFbs",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Arbeiten mit Beziehungen in PivotTables - Excel - Microsoft Supportsupport.microsoft.com \u203a de-de \u203a office \u203a arbeiten-mit-beziehungen-in-pivo...",
+    "link": "https://support.microsoft.com/de-de/office/arbeiten-mit-beziehungen-in-pivottables-f64ea03b-435a-448d-bc35-3b252bd1233a",
+    "description": "Nachdem Sie die Beziehung erstellt haben, kombiniert die PivotTable die Daten aus der ... Excel 2013 enth\u00e4lt Technologien, die von Microsoft Research (MSR)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://support.microsoft.com/de-de/office/arbeiten-mit-beziehungen-in-pivottables-f64ea03b-435a-448d-bc35-3b252bd1233a&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAZ6BAgCEAE&usg=AOvVaw3P2sBBUbw8t_VLkie6kFke",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Objektbeziehungen \u2013 \u00dcbersicht - Salesforce Helphelp.salesforce.com \u203a apex \u203a HTViewHelpDoc",
+    "link": "https://help.salesforce.com/apex/HTViewHelpDoc?id=sf.overview_of_custom_object_relationships.htm&language=de",
+    "description": "Erstellen Sie Beziehungen, um Objekte miteinander zu verkn\u00fcpfen, damit ... die Master-Detail-Beziehung, bevor ein benutzerdefiniertes Objekt Daten enth\u00e4lt.",
+    "googleLink": "http://www.google.com/url?q=https://help.salesforce.com/apex/HTViewHelpDoc%3Fid%3Dsf.overview_of_custom_object_relationships.htm%26language%3Dde&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAd6BAgBEAE&usg=AOvVaw2SEDMMmY8F2s9D1EoKWlRl",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Was sind Relationen? | BIM | Grundlagen | Baunetz_Wissenwww.baunetzwissen.de \u203a bim \u203a fachwissen \u203a was-sind-relationen-5286271",
+    "link": "https://www.baunetzwissen.de/bim/fachwissen/grundlagen/was-sind-relationen-5286271",
+    "description": "Steht nun ein Objekt 1 mit einem anderen Objekt 2 in Beziehung, wird eine ... Die T\u00fcrliste enth\u00e4lt damit zwei Fremdschl\u00fcssel, die sich jeweils auf einen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.baunetzwissen.de/bim/fachwissen/grundlagen/was-sind-relationen-5286271&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAh6BAgGEAE&usg=AOvVaw2MtlWJ-LGtY9B8fZprcJdW",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Erl\u00e4uterung von Beziehungen - FileMaker Profmhelp.filemaker.com \u203a help \u203a fmp \u203a FMP_Help \u203a relationships",
+    "link": "https://fmhelp.filemaker.com/help/16/fmp/de/FMP_Help/relationships.html",
+    "description": "Bezugstabellen erstellen Sie, indem Sie eine Beziehung zwischen zwei Tabellen ... Beispielsweise kann ein Abgleichsfeld Datumswerte enthalten, die beim\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://fmhelp.filemaker.com/help/16/fmp/de/FMP_Help/relationships.html&sa=U&ved=2ahUKEwiL1aeg24rxAhUfJDQIHSgxCGE4ChAWMAl6BAgDEAE&usg=AOvVaw2o1A9Q7Kn3mxJG9B3wPics",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Was ist ein Use Case-Diagramm? \u2013 Wissen online - microTOOL  www.microtool.de \u203a wissen-online \u203a was-ist-ein-use-case-diagramm",
+    "link": "https://www.microtool.de/wissen-online/was-ist-ein-use-case-diagramm/",
+    "description": "Was ist ein Use Case-Diagramm? \u2013 Wissen online - microTOOL",
+    "googleLink": "http://www.google.com/url?q=https://www.microtool.de/wissen-online/was-ist-ein-use-case-diagramm/&sa=U&ved=2ahUKEwjW58qg24rxAhXVJjQIHcPEBQI4FBAWMAF6BAgKEAE&usg=AOvVaw02uhxS9PPqx6Q38968HnUy",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Erstellen von Master/Detail-Beziehungen - IBM  www.ibm.com \u203a t_cr_rptstd_modrep_create_master_detail_relationship",
+    "link": "https://www.ibm.com/docs/de/SSEP7J_10.2.2/com.ibm.swg.ba.cognos.ug_cr_rptstd.10.2.2.doc/t_cr_rptstd_modrep_create_master_detail_relationship.html",
+    "description": "Erstellen von Master/Detail-Beziehungen - IBM",
+    "googleLink": "http://www.google.com/url?q=https://www.ibm.com/docs/de/SSEP7J_10.2.2/com.ibm.swg.ba.cognos.ug_cr_rptstd.10.2.2.doc/t_cr_rptstd_modrep_create_master_detail_relationship.html&sa=U&ved=2ahUKEwjW58qg24rxAhXVJjQIHcPEBQI4FBAWMAJ6BAgJEAE&usg=AOvVaw2e9qP-be2p1lGCmlAg-ApZ",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Beziehungstypen \u2013 GlossarWiki  glossar.hs-augsburg.de \u203a Beziehungstypen",
+    "link": "https://glossar.hs-augsburg.de/Beziehungstypen",
+    "description": "Beziehungstypen \u2013 GlossarWiki",
+    "googleLink": "http://www.google.com/url?q=https://glossar.hs-augsburg.de/Beziehungstypen&sa=U&ved=2ahUKEwjW58qg24rxAhXVJjQIHcPEBQI4FBAWMAN6BAgIEAE&usg=AOvVaw3022-jlpT-sCitOdOqsaL-",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Eine lange und harmonische Stillbeziehung f\u00f6rdert die Mutter-Kind ...  www.philips.de \u203a c-dam \u203a avent_hub \u203a Breastfeeding_factsheet_DE",
+    "link": "https://www.philips.de/c-dam/b2bhc/de/alle-produkte/mutterundkind/avent_hub/Breastfeeding_factsheet_DE.pdf",
+    "description": "[PDF] Eine lange und harmonische Stillbeziehung f\u00f6rdert die Mutter-Kind ...",
+    "googleLink": "http://www.google.com/url?q=https://www.philips.de/c-dam/b2bhc/de/alle-produkte/mutterundkind/avent_hub/Breastfeeding_factsheet_DE.pdf&sa=U&ved=2ahUKEwjW58qg24rxAhXVJjQIHcPEBQI4FBAWMAR6BAgHEAE&usg=AOvVaw0-tHryhNqru4gxGsH4wjGm",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "OOP - Klassenbeziehungen II - OSZ Handel 1  www.oszhandel.de \u203a faecher \u203a informatik \u203a ooa-ood \u203a beziehungen_2",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/ooa-ood/beziehungen_2.htm",
+    "description": "OOP - Klassenbeziehungen II - OSZ Handel 1",
+    "googleLink": "http://www.google.com/url?q=https://www.oszhandel.de/gymnasium/faecher/informatik/ooa-ood/beziehungen_2.htm&sa=U&ved=2ahUKEwjW58qg24rxAhXVJjQIHcPEBQI4FBAWMAV6BAgCEAE&usg=AOvVaw24FvNIpNMaxJ3eykgJ0A1q",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "\u2022 Liebe, Partnerschaft & Beziehungsleben | Statista  de.statista.com \u203a Leben \u203a Sexualit\u00e4t",
+    "link": "https://de.statista.com/statistik/studie/id/11764/dokument/liebe-partnerschaft-und-beziehungsleben--statista-dossier/",
+    "description": "\u2022 Liebe, Partnerschaft & Beziehungsleben | Statista",
+    "googleLink": "http://www.google.com/url?q=https://de.statista.com/statistik/studie/id/11764/dokument/liebe-partnerschaft-und-beziehungsleben--statista-dossier/&sa=U&ved=2ahUKEwjW58qg24rxAhXVJjQIHcPEBQI4FBAWMAZ6BAgFEAE&usg=AOvVaw1Lmd0rfwmWidrjHyCym3OA",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Kennt-Beziehung / Hat-Beziehung \u00bb Fachkonzept ... - inf-schule  www.inf-schule.de \u203a beziehungen \u203a kennthatbeziehung \u203a konzept_kennthat",
+    "link": "https://www.inf-schule.de/modellierung/ooppython/spiele/beziehungen/kennthatbeziehung/konzept_kennthat",
+    "description": "Kennt-Beziehung / Hat-Beziehung \u00bb Fachkonzept ... - inf-schule",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/modellierung/ooppython/spiele/beziehungen/kennthatbeziehung/konzept_kennthat&sa=U&ved=2ahUKEwjW58qg24rxAhXVJjQIHcPEBQI4FBAWMAd6BAgDEAE&usg=AOvVaw2JwUOY8sD0fJHQVaoSqYjK",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Bearbeiten von Baugruppenbeziehungen und Fehlerbehebung ...  knowledge.autodesk.com \u203a caas \u203a cloudhelp \u203a DEU \u203a Inventor-Help \u203a files",
+    "link": "https://knowledge.autodesk.com/de/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2019/DEU/Inventor-Help/files/GUID-DFA9CE53-1281-4360-87DE-F3E0C5FA688E-htm.html",
+    "description": "Bearbeiten von Baugruppenbeziehungen und Fehlerbehebung ...",
+    "googleLink": "http://www.google.com/url?q=https://knowledge.autodesk.com/de/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2019/DEU/Inventor-Help/files/GUID-DFA9CE53-1281-4360-87DE-F3E0C5FA688E-htm.html&sa=U&ved=2ahUKEwjW58qg24rxAhXVJjQIHcPEBQI4FBAWMAh6BAgEEAE&usg=AOvVaw3eNMruNL76akjIL0zZJ0no",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] UML - Klassendiagramme Assoziation Aggregation Komposition ...  www.informatik.uni-leipzig.de \u203a ~stjaenicke \u203a mup1",
+    "link": "https://www.informatik.uni-leipzig.de/~stjaenicke/mup1/s2.pdf",
+    "description": "[PDF] UML - Klassendiagramme Assoziation Aggregation Komposition ...",
+    "googleLink": "http://www.google.com/url?q=https://www.informatik.uni-leipzig.de/~stjaenicke/mup1/s2.pdf&sa=U&ved=2ahUKEwjW58qg24rxAhXVJjQIHcPEBQI4FBAWMAl6BAgBEAE&usg=AOvVaw3GVhHU0_trE6FoZBVX33Tj",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Bearbeiten von Baugruppenbeziehungen und Fehlerbehebung ...knowledge.autodesk.com \u203a caas \u203a cloudhelp \u203a DEU \u203a Inventor-Help \u203a files",
+    "link": "https://knowledge.autodesk.com/de/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2019/DEU/Inventor-Help/files/GUID-DFA9CE53-1281-4360-87DE-F3E0C5FA688E-htm.html",
+    "description": "19.04.2021 \u00b7 Dieses Dialogfeld enth\u00e4lt eine Liste der in Konflikt stehenden Beziehungen. Klicken Sie auf eine Beziehung, um sie im Grafikfenster\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://knowledge.autodesk.com/de/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2019/DEU/Inventor-Help/files/GUID-DFA9CE53-1281-4360-87DE-F3E0C5FA688E-htm.html&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAB6BAgBEAE&usg=AOvVaw3X7wg6JsWMuplCkvFu90EG",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] UML - Klassendiagramme Assoziation Aggregation Komposition ...www.informatik.uni-leipzig.de \u203a ~stjaenicke \u203a mup1",
+    "link": "https://www.informatik.uni-leipzig.de/~stjaenicke/mup1/s2.pdf",
+    "description": "St\u00e4rkere Beziehung als Assoziation, assoziiert Besitz. Beziehung der Art. \"besitzt ein/e\". Beispiele A/B: Auto/Fahrer. Restaurant/Kunde. Mannschaft/Spieler\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.informatik.uni-leipzig.de/~stjaenicke/mup1/s2.pdf&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAF6BAgIEAE&usg=AOvVaw1PvIRqBIT17Dj-vMuUHOE2",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "HAT-Beziehung und KENNT-Beziehung - von Tino Hempelwww.tinohempel.de \u203a info \u203a info \u203a softwareentwicklung \u203a beziehung1",
+    "link": "https://www.tinohempel.de/info/info/softwareentwicklung/beziehung1.htm",
+    "description": "Die Hat-Beziehung existiert streng genommen nur zwischen Objekten. Dennoch wird sie f\u00fcr Klassen benutzt. In der eigentlichen HAT-Beziehung (Komposition,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tinohempel.de/info/info/softwareentwicklung/beziehung1.htm&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAJ6BAgHEAE&usg=AOvVaw0GlRs7BZAzrQhYQs8ViSJk",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Arbeitshilfe Beziehungskennzeichnungen: Beziehungen zwischen ...wiki.dnb.de \u203a download \u203a attachments",
+    "link": "https://wiki.dnb.de/download/attachments/106042227/AH-018.pdf",
+    "description": "Beziehungskennzeichnungen: Beziehungen zwischen Werken, Expressionen, ... September 2017), Korrekturversion enth\u00e4lt \u00c4nderungen zur Version 1.5.",
+    "googleLink": "http://www.google.com/url?q=https://wiki.dnb.de/download/attachments/106042227/AH-018.pdf&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAN6BAgJEAE&usg=AOvVaw1SGpYb1GuZcpH0zJZUUz2B",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Objektorientierte ... - Wissensdatenbank Wirtschaftsrechtwdb.fh-sm.de \u203a ObjProg05Beziehungen",
+    "link": "http://wdb.fh-sm.de/ObjProg05Beziehungen",
+    "description": "Objektorientierte Programmierung - Kapitel 5 - Objekt-Beziehungen ... Bei der Initialisierung eines Objektes, das Teilobjekte enth\u00e4lt, sind mehrere Konstruktoren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://wdb.fh-sm.de/ObjProg05Beziehungen&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAR6BAgGEAE&usg=AOvVaw0FYJcBLP3jFcAPGCBscW3P",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Allgemeine Einf\u00fchrung: Beziehungen in Baugruppe eingebensupport.ptc.com \u203a asm_one_sub \u203a About_Enter_Relations_in_Assembly",
+    "link": "http://support.ptc.com/help/creo/creo_pma/german/assembly/asm/asm_one_sub/About_Enter_Relations_in_Assembly.html",
+    "description": "Die Datei f\u00fcr Beziehungen enth\u00e4lt eine Tabelle, in der sich die Sitzungs-ID f\u00fcr jedes Teil befindet. Beispielsweise werden Parameter in einer Baugruppe f\u00fcr ein\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://support.ptc.com/help/creo/creo_pma/german/assembly/asm/asm_one_sub/About_Enter_Relations_in_Assembly.html&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAV6BAgEEAE&usg=AOvVaw2lM_8JKXE-23EcM0MJrrMe",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Fragen zu Beziehungen, zum Datenmodell und zu Datenquellen ...help.tableau.com \u203a pro \u203a desktop \u203a de-de \u203a datasource_datamodel_faq",
+    "link": "https://help.tableau.com/current/pro/desktop/de-de/datasource_datamodel_faq.htm",
+    "description": "Sie k\u00f6nnen nur Verkn\u00fcpfungen zwischen physischen Tabellen verwenden, die in einer logischen Tabelle enthalten sind. Doppelklicken Sie auf eine logische\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://help.tableau.com/current/pro/desktop/de-de/datasource_datamodel_faq.htm&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAZ6BAgCEAE&usg=AOvVaw2UOXZKqaAiyK9soGnnwdlF",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Beziehungen zwischen Elementen in Klassendiagrammen \u2013 RAD ...docwiki.embarcadero.com \u203a RADStudio \u203a Sydney \u203a UML_1.5-Beziehunge...",
+    "link": "http://docwiki.embarcadero.com/RADStudio/Sydney/de/UML_1.5-Beziehungen_in_Klassendiagrammen",
+    "description": "Eine Beziehung ist eine Verbindung zwischen Elementen. In der ... Bei Assoziationsklassen und Assoziationsendebeziehungen enth\u00e4lt der Eintrag Custom des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://docwiki.embarcadero.com/RADStudio/Sydney/de/UML_1.5-Beziehungen_in_Klassendiagrammen&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAd6BAgDEAE&usg=AOvVaw0oCjYeygudEI5T0JIgWAH9",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Beziehungsbotschaft - Magic Pointwww.magic-point.net \u203a kommunikation \u203a beziehungsb \u203a beziehungsb",
+    "link": "https://www.magic-point.net/fingerzeig/grundlagen-deutsch/kommunikation/beziehungsb/beziehungsb.html",
+    "description": "Zum anderen enth\u00e4lt die Beziehungsseite aber auch eine Botschaft dar\u00fcber, wie der Sender die Beziehung zwischen sich und dem Empf\u00e4nger sieht (,,so\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.magic-point.net/fingerzeig/grundlagen-deutsch/kommunikation/beziehungsb/beziehungsb.html&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAh6BAgAEAE&usg=AOvVaw21zt8FPaDioEIIqrSciEjf",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Natur und Technik - Lehrplan - Bayern.dewww.gym8-lehrplan.bayern.de \u203a contentserv \u203a 3.1.neu \u203a g8.de",
+    "link": "https://www.gym8-lehrplan.bayern.de/contentserv/3.1.neu/g8.de/id_26433.html",
+    "description": "Sie verstehen wichtige Beziehungen zwischen K\u00f6rperbau und Lebensweise bei ... Sie erkennen, dass hierarchische Ordnungen durch die Enth\u00e4lt-Beziehung\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.gym8-lehrplan.bayern.de/contentserv/3.1.neu/g8.de/id_26433.html&sa=U&ved=2ahUKEwjV_PCg24rxAhUdCTQIHQa3CZM4HhAWMAl6BAgFEAE&usg=AOvVaw0o2nvkrdIQhATzpZgj5wnM",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Gewalt in der Beziehung erkennen - Wege finden | HelloBetterhellobetter.de \u203a blog \u203a gewalt-in-der-beziehung",
+    "link": "https://hellobetter.de/blog/gewalt-in-der-beziehung/",
+    "description": "19.02.2021 \u00b7 Triggerwarnung: Dieser Artikel enth\u00e4lt Beispiele von Gewalt in der Beziehung. Bei manchen Menschen k\u00f6nnen diese zu belastenden\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://hellobetter.de/blog/gewalt-in-der-beziehung/&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAB6BAgGEAE&usg=AOvVaw2N8SSnp-10JibHpcK2l4TF",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Beispiele zum ER-Modell - RoRo-Seitenwww.roro-seiten.de \u203a info \u203a ERModell2",
+    "link": "http://www.roro-seiten.de/info/db/04ERModell2/ERModell2.html",
+    "description": "Die Beziehung \"enth\u00e4lt\" ist auch eine N:M-Beziehung, da jede CD mehrere Songs enthalten kann, jeder Song aber auch auf mehreren CDs vorhanden sein\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.roro-seiten.de/info/db/04ERModell2/ERModell2.html&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAF6BAgJEAE&usg=AOvVaw3p98idTwAEAqTeliYDK3Kl",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "2.6. Internationale Beziehungen der SED zu Staaten und Parteien ...www.argus.bstu.bundesarchiv.de \u203a ...",
+    "link": "http://www.argus.bstu.bundesarchiv.de/dy30bho/index.htm?kid=66b339e5-5830-421b-80ce-eab1011e1119",
+    "description": "enth\u00e4lt: Informationen an Erich Honecker, v.a. zur Entwicklung der Kommunistischen Partei Argentiniens.- Hinweise \u00fcber die Situation in Chile.- Vermerke von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.argus.bstu.bundesarchiv.de/dy30bho/index.htm%3Fkid%3D66b339e5-5830-421b-80ce-eab1011e1119&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAJ6BAgIEAE&usg=AOvVaw03PuM3vD_Ix9C4Le-7j_jL",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Lagebeziehungen - Ebenen und Geraden - StudyHelpwww.studyhelp.de \u203a Online-Lernen \u203a Mathe \u203a Geometrie",
+    "link": "https://www.studyhelp.de/online-lernen/mathe/lagebeziehungen/",
+    "description": "Lagebeziehungen von Geraden und Ebenen geh\u00f6ren zu dem \u00fcbergeordneten Thema der Vektorrechnung und wird dir fr\u00fcher oder sp\u00e4ter in der Schule begegnen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.studyhelp.de/online-lernen/mathe/lagebeziehungen/&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAN6BAgHEAE&usg=AOvVaw1ZyhtbgPjLlS8Act_YkJuO",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Grundbegriffe der Mengenlehrewww.fb10.uni-bremen.de \u203a khwagner \u203a grundkurs2 \u203a kapitel5",
+    "link": "http://www.fb10.uni-bremen.de/khwagner/grundkurs2/kapitel5.aspx",
+    "description": "Die Elementbeziehung ist Element von wird durch , die Beziehung ist nicht Element von ... Die Beziehung ist enthalten wird durch das Zeichen \u2286 symbolisiert.",
+    "googleLink": "http://www.google.com/url?q=http://www.fb10.uni-bremen.de/khwagner/grundkurs2/kapitel5.aspx&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAR6BAgCEAE&usg=AOvVaw112Zefcy4D3uBv_H2EGKFx",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Hessisches Kultusministeriumkultusministerium.hessen.de \u203a files \u203a media \u203a la20-informatik-glossar",
+    "link": "https://kultusministerium.hessen.de/sites/default/files/media/la20-informatik-glossar.pdf",
+    "description": "welche abstrakte Methoden enth\u00e4lt, die erst in abgeleiteten Unterklassen implementiert ... Eine Assoziation beschreibt eine Beziehung zwischen zwei Klassen.",
+    "googleLink": "http://www.google.com/url?q=https://kultusministerium.hessen.de/sites/default/files/media/la20-informatik-glossar.pdf&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAV6BAgAEAE&usg=AOvVaw21wDhjDG0ePAXOPOUok56E",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "4-Ohren-Modell einfach erkl\u00e4rt - Vier Seiten einer Nachrichtwww.studienkreis.de \u203a Online Lernen \u203a Deutsch \u00dcbungen",
+    "link": "https://www.studienkreis.de/deutsch/vier-ohren-vier-seiten-modell/",
+    "description": "Die Beziehung. Die Seite der Beziehung enth\u00e4lt Informationen dar\u00fcber, was der Sender von dem Empf\u00e4nger h\u00e4lt und wie er zu ihm steht. Dies wird in der Art und\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.studienkreis.de/deutsch/vier-ohren-vier-seiten-modell/&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAZ6BAgDEAE&usg=AOvVaw3TZrSfoRtXxR_lPLnV2Bas",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Objektorientierte Programmierungvu.fernuni-hagen.de \u203a html \u203a se-beziehungen_zwischen_anwendungsfaellen",
+    "link": "https://vu.fernuni-hagen.de/lvuweb/lvu/file/FeU/EITech/2005WS/20022/oeffentlich/schnupperzugang/ke/ke1/html/se-beziehungen_zwischen_anwendungsfaellen.html",
+    "description": "Beispiel 3.5-1: Beziehungen zwischen Anwendungsf\u00e4llen. In Abb. ... Die enth\u00e4lt-\u200bBeziehung erlaubt es uns, auf anschauliche Weise bestimmte Abl\u00e4ufe, die in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://vu.fernuni-hagen.de/lvuweb/lvu/file/FeU/EITech/2005WS/20022/oeffentlich/schnupperzugang/ke/ke1/html/se-beziehungen_zwischen_anwendungsfaellen.html&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAd6BAgFEAE&usg=AOvVaw3k7N7flbmb0HlaMe1mNBt0",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Der Einsatz von Object-Draw und EOS im ... - Pabst-Softwarewww.pabst-software.de \u203a lib \u203a exe \u203a fetch",
+    "link": "https://www.pabst-software.de/lib/exe/fetch.php?media=programme:eos:sequenz_object-draw_eos.pdf",
+    "description": "Da auch der Inhalt \u201eEnth\u00e4lt-Beziehung zwischen Objekten\u201c schon angeschnitten wird, ist die Dauer von 10 Stunden sicher zu verantworten. Die Zeitangaben sind\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.pabst-software.de/lib/exe/fetch.php%3Fmedia%3Dprogramme:eos:sequenz_object-draw_eos.pdf&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAh6BAgBEAE&usg=AOvVaw3IVdYsewYEx6hasUZbAmU9",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Das Kommunikationsmodell nach Schulz von Thunwww.aocfrei.com \u203a pdfs \u203a kommunikation",
+    "link": "https://www.aocfrei.com/pdfs/kommunikation/5n21a.pdf",
+    "description": "Die Beziehungsseite enth\u00e4lt aber auch eine Botschaft dar\u00fcber, wie die sprechende Person die Beziehung zwischen sich und ihrem Gegen\u00fcber sieht.",
+    "googleLink": "http://www.google.com/url?q=https://www.aocfrei.com/pdfs/kommunikation/5n21a.pdf&sa=U&ved=2ahUKEwj_4JSh24rxAhUiPn0KHeoIAGI4KBAWMAl6BAgEEAE&usg=AOvVaw3BXoOAmJ9yRdUPWXyQaPUz",
+    "page": 4,
+    "index": 9
+  }
+]

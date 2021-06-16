@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Nebenklassen eines Unterraums \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Nebenklassen_eines_U...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Nebenklassen_eines_Unterraums",
+    "description": "Herleitung der Menge der Nebenklassen eines UnterraumsBearbeiten. Bsp im \\R\u200b^2: zwei verschiedene Verschiebungen, die zum gleichen affinen Unterraum\u00a0...\nHerleitung Nebenklasse ... \u00b7 Definition Nebenklasse ... \u00b7 Herleitung der Menge der ...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Nebenklassen_eines_Unterraums&ved=2ahUKEwi2iOWY_I3xAhU-zzgGHdIlAosQFjAAegQIBRAB&usg=AOvVaw24m8a-kr5jr8HIYkTw0o4-",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Nebenklassen von Untervektorr\u00e4umen - Mathe Vitalwww.mathe-vital.de \u203a LinAlg1",
+    "link": "http://www.mathe-vital.de/LinAlg1/16-1.html",
+    "description": "nennt man die Nebenklassen des Vektorraums U U . Die Menge aller Nebenklassen nennt man den Quotientenvektorraum von V V\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Nebenklassen von Untervektorr\u00e4umen - M10 - Lehrstuhlwww-m10.ma.tum.de \u203a bin \u203a view \u203a Lehre \u203a Bsp18_1",
+    "link": "https://www-m10.ma.tum.de/bin/view/Lehre/Bsp18_1.html",
+    "description": "nennt man die Nebenklassen des Vektorraums $U$ . Die Menge aller Nebenklassen nennt man den Quotientenvektorraum von $V$ nach $U$. \\[ V/U \\;:\u200b=\\;\\{v+U.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www-m10.ma.tum.de/bin/view/Lehre/Bsp18_1.html&ved=2ahUKEwi2iOWY_I3xAhU-zzgGHdIlAosQFjACegQIChAB&usg=AOvVaw3utrw3YrPBGDvoKZDZSpm1",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Version: Test \u00a9Raddy 2000 Vektorr\u00e4ume VI ZUR\u00dcCK ...www.mathematik.net \u203a vek-raum",
+    "link": "http://www.mathematik.net/vek-raum/vr6s2.htm",
+    "description": "der Nebenklasse v+U sind die Vektoren v+u1 , v+u2 , v+u3 , .... a-absatz.pcx (280 Byte) Definition der Nebenklasse Sei U ein Unterraum von V. Addiert man\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Faktorraum \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Faktorraum",
+    "link": "https://de.wikipedia.org/wiki/Faktorraum",
+    "description": "Der Quotientenvektorraum, auch kurz Quotientenraum oder Faktorraum genannt, ist ein Begriff aus der linearen Algebra, einem Teilgebiet der Mathematik. Er ist derjenige Vektorraum, der als Bild einer Parallelprojektion entlang eines Untervektorraums entsteht. ... Die \u00c4quivalenzklassen werden auch als Nebenklassen bezeichnet (dieser\u00a0...\nDefinition \u00b7 Eigenschaften \u00b7 Anwendung in der ... \u00b7 Beispiele",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://de.wikipedia.org/wiki/Faktorraum&ved=2ahUKEwi2iOWY_I3xAhU-zzgGHdIlAosQFjAEegQICBAB&usg=AOvVaw1Q6sMScpHR2fkss4FXWla-",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Affiner Unterraum \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Affiner_Unterraum",
+    "link": "https://de.wikipedia.org/wiki/Affiner_Unterraum",
+    "description": "In der linearen Algebra ist ein affiner Unterraum eines Vektorraums eine Teilmenge, die durch Verschiebung aus einem Untervektorraum hervorgeht.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://de.wikipedia.org/wiki/Affiner_Unterraum&ved=2ahUKEwi2iOWY_I3xAhU-zzgGHdIlAosQFjAFegQIAhAB&usg=AOvVaw3e6T5XfmTVfPxo8npJz6wr",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Quotientenraumwww.math.uni-bremen.de \u203a Lehrveranstaltungen \u203a LinA1_WS05 \u203a Q...",
+    "link": "http://www.math.uni-bremen.de/~michaelh/Lehrveranstaltungen/LinA1_WS05/Quotientenraum.pdf",
+    "description": "Sei V ein Vektorraum \u00fcber einem K\u00f6rper K und U\u2282V ein Unterraum. Zu x\u2208V definiert man die Nebenklasse x:=x  U :={x  u\u2223u\u2208U } und den Quotientenraum.",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] \u00a7 9 Die affine Geometrie eines Vektorraums 124www.math.fu-berlin.de \u203a ~schulz \u203a Lina \u203a lina1_sec9",
+    "link": "http://www.math.fu-berlin.de/~schulz/Lina/lina1_sec9.pdf",
+    "description": "9.1 Definition: Lineare Mannigfaltigkeit, affiner Unterraum. Sei V ein ... Die linearen Mannigfaltigkeiten der Form a + U sind ja auch Nebenklassen nach.",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "3 Vektorraumelink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-3-322-89448-9_3.pdf",
+    "description": "selbst wieder einen K-Vektorraum bildet, einen Unterraum von V. Die obige Aussage ... aller Nebenklassen beziiglich eines Unterraums U. Zuerst stell en wir die\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://link.springer.com/content/pdf/10.1007%252F978-3-322-89448-9_3.pdf&ved=2ahUKEwi2iOWY_I3xAhU-zzgGHdIlAosQFjAIegQIBBAB&usg=AOvVaw1th_n-j4ebaK6KP3wOylSt",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Der Faktorraumwww.mathematik-netz.de \u203a pdf \u203a Faktorraum",
+    "link": "http://www.mathematik-netz.de/pdf/Faktorraum.pdf",
+    "description": "Elemente der Faktorr\u00e4ume nennt man Nebenklassen. Doch alles der Reihe ... Wir k\u00f6nnen genau bestimmen, ob eine Nebenklasse ein Unterraum ist, oder nicht.",
+    "googleLink": null,
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Erste Hilfe in Linearer Algebra | 3.11 Quotientenr\u00e4ume \u2013 Oliver ...www.aleph1.info \u203a Erste Hilfe in Linearer Algebra \u203a 3. Vektorr\u00e4ume",
+    "link": "https://www.aleph1.info/?call=Puc&permalink=ela1_3.11",
+    "description": "Sei V ein K-Vektorraum, und sei U ein Unterraum von V. Dann definieren wir eine ... Eine \u00c4quivalenzklasse [ v ] nennen wir auch eine Nebenklasse von V bzgl.",
+    "googleLink": "http://www.google.com/url?q=https://www.aleph1.info/%3Fcall%3DPuc%26permalink%3Dela1_3.11&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAB6BAgEEAE&usg=AOvVaw32F4JxHNnJuN9cvCL2dAfJ",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Verst\u00e4ndnisfrage 6 \u2013 Thema: Nebenklassen \u2013 Rhombusrhombus.blsq.org \u203a 2018/05/04 \u203a verstaendnisfrage-6-thema-nebenklassen",
+    "link": "https://rhombus.blsq.org/2018/05/04/verstaendnisfrage-6-thema-nebenklassen/",
+    "description": "04.05.2018 \u00b7 Sei U ein Unterraum des Vektorraums V . Welche Aussagen sind dann richtig? (1\u200b) Jede Nebenklasse ist ein Unterraum. (2) Jeder Unterraum ist\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://rhombus.blsq.org/2018/05/04/verstaendnisfrage-6-thema-nebenklassen/&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAF6BAgHEAE&usg=AOvVaw2w-Sn32M29G4_P9CtFCLMK",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Unterraum, Nebenklasse - www.mathefragen.dewww.mathefragen.de \u203a frage \u203a unterraum-nebenklasse",
+    "link": "https://www.mathefragen.de/frage/q/c2ac3d2d87/unterraum-nebenklasse/",
+    "description": "16.01.2021 \u00b7 Unterraum, Nebenklasse. ... (a) Bestimmen Sie alle Elemente der Nebenklasse [(\u200b1, 0, 0)] in V/U. Wie ich die Aufgabe verstehe muss man nur\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathefragen.de/frage/q/c2ac3d2d87/unterraum-nebenklasse/&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAJ6BAgIEAE&usg=AOvVaw35vzQxhRt7W6bsy_0kFPrF",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "2.2 Nebenklassen, Normalteiler und Faktorgruppen - PDF Free ...docplayer.org \u203a 15925912-2-2-nebenklassen-normalteiler-und-faktorgrup...",
+    "link": "https://docplayer.org/15925912-2-2-nebenklassen-normalteiler-und-faktorgruppen.html",
+    "description": "Algebra I c Rudolf Scharlau, Nebenklassen, Normalteiler und Faktorgruppen Bei ... oder a einelementig und B ein Unterraum; die Definition gilt aber allgemein).",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/15925912-2-2-nebenklassen-normalteiler-und-faktorgruppen.html&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAN6BAgJEAE&usg=AOvVaw2100zU1rFkE9wwdrzG4YHK",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "MP: Vektorraum Nebenklassen Beweise (Forum Matroids ...www.matheplanet.com \u203a matheplanet \u203a nuke \u203a html \u203a viewtopic",
+    "link": "https://www.matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=69192",
+    "description": "... dass der Mengendurchschnitt (v^>+U)\\cut\\ (v^>+W) die Nebenklasse von v^> bez\u00fcglich des Unterraums U\\cut\\ W ist. Die anderen zwei Teilaufgaben poste ich\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matheplanet.com/matheplanet/nuke/html/viewtopic.php%3Ftopic%3D69192&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAR6BAgBEAE&usg=AOvVaw3HwbxHGOQbQACsKAD7is66",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "MP: Anzahl von Nebenklassen (Forum Matroids Matheplanet)matheplanet.com \u203a Lineare Algebra \u203a Vektorr\u00e4ume",
+    "link": "https://matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=171174",
+    "description": "22.07.2012 \u00b7 ... einem K\u00f6rper K mit q Elementen, und U ein k-dimensionaler Unterraum von V. Dann gibt es genau q^n-k Nebenklassen von U in U. (Richtig\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://matheplanet.com/matheplanet/nuke/html/viewtopic.php%3Ftopic%3D171174&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAV6BAgGEAE&usg=AOvVaw3tr9UqPhcEyetsiKk3nxVC",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Verst\u00e4ndnisproblem bei Links- bzw. Rechtstransversalenwww.matheboard.de \u203a archive \u203a thread",
+    "link": "https://www.matheboard.de/archive/543482/thread.html",
+    "description": "Nebenklassen zerlegen die Gruppe disjunkt, also enth\u00e4lt genau eine ... und der Faktorraum (Quotientenraum) nach einem Unterraum.",
+    "googleLink": "http://www.google.com/url?q=https://www.matheboard.de/archive/543482/thread.html&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAZ6BAgCEAE&usg=AOvVaw0gnXsGhVZvsSEF_ycdZNL3",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Michael L\u00f6sch Sommersemester 2021 Lineare Algebra Ihome.mathematik.uni-freiburg.de \u203a loesch \u203a lehre",
+    "link": "http://home.mathematik.uni-freiburg.de/loesch/lehre/ss21/Blatt%200.pdf",
+    "description": "26.04.2021 \u00b7 H\u00e4ngt es von den Repr\u00e4sentanten der. Nebenklassen ab? (b) Beschreibe den Unterraum U \u2229 Lin((vi)i\u2208I) von V . (c) Zeige, dass die Menge\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://home.mathematik.uni-freiburg.de/loesch/lehre/ss21/Blatt%25200.pdf&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAd6BAgFEAE&usg=AOvVaw3-KKPWnkwdhPneIQUiFXVo",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Nebenklasse - OnlineMathe - das mathe-forumwww.onlinemathe.de \u203a forum \u203a Nebenklasse",
+    "link": "https://www.onlinemathe.de/forum/Nebenklasse",
+    "description": "hey, ich habe noch ein weiteres problem. Sei \u2212 \u00e9R Teilmenge R\u00b44. Zeigen Sie: ist Nebenklasse eines Unterraums Teilmenge R\u00b44. Geben Sie eine Basis von",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinemathe.de/forum/Nebenklasse&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAh6BAgDEAE&usg=AOvVaw2YJYcaTYGG1X1SgCELRexO",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Algebrawww.mathematik.uni-regensburg.de \u203a gubler \u203a Lehre \u203a algebra1",
+    "link": "http://www.mathematik.uni-regensburg.de/gubler/Lehre/ws0910/algebra1.pdf",
+    "description": "29.04.2010 \u00b7 18. KAPITEL I. GRUPPENTHEORIE. I.2 Nebenklassen. In diesem Abschnitt ist G eine Gruppe und H eine Untergruppe von G. Unser Ziel ist es,.",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-regensburg.de/gubler/Lehre/ws0910/algebra1.pdf&sa=U&ved=2ahUKEwj6sviZ_I3xAhVjyzgGHWvUB2w4ChAWMAl6BAgAEAE&usg=AOvVaw2RXQzI2xTvw50CoqjT-7jT",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Faktorraum - Banner biancahoegel.dewww.biancahoegel.de \u203a mathe \u203a raum \u203a faktorraum",
+    "link": "https://www.biancahoegel.de/mathe/raum/faktorraum.html",
+    "description": "\u201eparallele\u201c affine Unterraum durch v . Die \u00c4quivalenzklassen werden auch als Nebenklassen bezeichnet; dieser Begriff stammt aus der Gruppentheorie.",
+    "googleLink": "http://www.google.com/url?q=https://www.biancahoegel.de/mathe/raum/faktorraum.html&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAB6BAgAEAE&usg=AOvVaw1HCqhsbKwLsjcb4jwvCgFa",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "9.7. Affine Unterr\u00e4ume - mathprojectwww.mathproject.de \u203a LineareAlgebra",
+    "link": "http://www.mathproject.de/LineareAlgebra/9_7.html",
+    "description": "Wir setzen die Dimension eines affinen Unterraums fest durch: dim \u2061 a + W = dim ... werden in diesem Zusammenhang auch Nebenklassen von W genannt.",
+    "googleLink": "http://www.google.com/url?q=http://www.mathproject.de/LineareAlgebra/9_7.html&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAF6BAgIEAE&usg=AOvVaw2lcYbj6MjkWp9FEDkEnPED",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Geometriemyfsr.de \u203a dokuwiki \u203a lib \u203a exe \u203a fetch",
+    "link": "https://myfsr.de/dokuwiki/lib/exe/fetch.php?media=studium:skripte:geo_geometrie_200910ws_mhamann_skript.pdf",
+    "description": "Bezeichnung: s+U ist Nebenklasse, affiner Unterraum (sp\u00e4ter). \u2022 Beispiel: V, {x} f\u00fcr x \u2208 V sind Nebenklassen. \u2022 Ist t \u2208 V , so gilt:.",
+    "googleLink": "http://www.google.com/url?q=https://myfsr.de/dokuwiki/lib/exe/fetch.php%3Fmedia%3Dstudium:skripte:geo_geometrie_200910ws_mhamann_skript.pdf&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAJ6BAgHEAE&usg=AOvVaw1_mVjwZIxZcbsrrJLHdq2s",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 3.2 Unterr\u00e4umefma2.math.uni-magdeburg.de \u203a laag2010 \u203a skript_kap3_kap4",
+    "link": "http://fma2.math.uni-magdeburg.de/~mathww/laag2010/skript_kap3_kap4.pdf",
+    "description": "Der Schnitt von beliebigen Unterr\u00e4umen ist wieder ein Unterraum. Die Ver- ... Die Menge der Nebenklassen von U bezeichnet man als V/U (V modulo U).",
+    "googleLink": "http://www.google.com/url?q=http://fma2.math.uni-magdeburg.de/~mathww/laag2010/skript_kap3_kap4.pdf&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAN6BAgJEAE&usg=AOvVaw3IqaRLZhjfOipKaJguatpP",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "File:Nebenklasse von (1,1) in F3^2 auf Torus.svg - Wikimedia ...commons.wikimedia.org \u203a wiki \u203a File:Nebenklasse_...",
+    "link": "https://commons.wikimedia.org/wiki/File:Nebenklasse_von_(1,1)_in_F3%5E2_auf_Torus.svg",
+    "description": "08.09.2020 \u00b7 Der durch (1,1) aufgespannte Unterraum ist violett hervorgehoben. Die beiden Nebenklassen dieses Unterraums sind in rot und blau\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://commons.wikimedia.org/wiki/File:Nebenklasse_von_(1,1)_in_F3%255E2_auf_Torus.svg&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAR6BAgDEAE&usg=AOvVaw1DOOkS1AJLgVOKr1DokeQm",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] 5.6 Inhomogene lineare Gleichungssy- stemewww.mathematik.uni-kl.de \u203a ~lassueur \u203a teaching \u203a AGSWS1819",
+    "link": "https://www.mathematik.uni-kl.de/~lassueur/en/teaching/AGSWS1819/Vektorr%C3%A4ume(29+31Jan).pdf",
+    "description": "l\u00e4sst sich L schreiben als die Nebenklasse. L = c + U =  . 1 ... Definition 5.6.6 Ein affiner Unterraum von V ist eine Ne- ... L\u00f6sungsmenge der affine Unterraum.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.uni-kl.de/~lassueur/en/teaching/AGSWS1819/Vektorr%25C3%25A4ume(29%2B31Jan).pdf&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAV6BAgGEAE&usg=AOvVaw0y-1xqtjOm8fHZOejWBt9p",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Lineare Algebra I 0102 - Fernuni Hagenwww.fernuni-hagen.de \u203a FACHSCHINF \u203a 1102_Unger",
+    "link": "https://www.fernuni-hagen.de/FACHSCHINF/1102/1102_Unger.pdf",
+    "description": "14.09.2006 \u00b7 xr eine Basis von Un W. Da Un W ein Unterraum von U ist, k\u00f6nnen wir x1, \u2026, xr durch u1, \u2026, us ... Wie sind denn die Nebenklassen definiert?",
+    "googleLink": "http://www.google.com/url?q=https://www.fernuni-hagen.de/FACHSCHINF/1102/1102_Unger.pdf&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAZ6BAgBEAE&usg=AOvVaw1yTcNTAhZAxaYtLV7It1yS",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Forum \"Lineare Algebra - Moduln und Vektorr\u00e4ume\" - Bestimmen ...mathe-raum.de \u203a forum \u203a Bestimmen_einer_Basis",
+    "link": "https://mathe-raum.de/forum/Bestimmen_einer_Basis/t993738",
+    "description": "27.11.2013 \u00b7 a) Zeigen Sie: M ist eine Nebenklasse eines Unterraums U ... Wie kann man eine Basis von einer Menge von Nebenklassen bestimmen?",
+    "googleLink": "http://www.google.com/url?q=https://mathe-raum.de/forum/Bestimmen_einer_Basis/t993738&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAd6BAgFEAE&usg=AOvVaw0Iv1qTnEiGI0KI8nwwWNC0",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 15 Lineare Algebra II (SS 2005) 2. eitere Grundbegriffe2 Faktorraum ...www.math.uni-bielefeld.de \u203a ~sek \u203a linalg \u203a leit2-2",
+    "link": "https://www.math.uni-bielefeld.de/~sek/linalg/leit2-2.pdf",
+    "description": "ein Vektorraum und ein Unterraum gegeben ist; faur die Dualraum-Bildung muss ... dieser Nebenklassen: Die Reprtasentanten der Nebenklasse U + v sind\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-bielefeld.de/~sek/linalg/leit2-2.pdf&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAh6BAgCEAE&usg=AOvVaw2ccRxyArKeRVkmj_oJMXbm",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Forum \"Uni-Lineare Algebra\" - lineare Mannigfaltigkeit - MatheRaum ...matheraum.de \u203a forum \u203a lineare_Mannigfaltigkeit",
+    "link": "https://matheraum.de/forum/lineare_Mannigfaltigkeit/t42180",
+    "description": "Der Faktorraum ist einfach die Menge aller Nebenklassen zum Unterraum U, also die Menge aller Mengen v+U mit v aus V. Ich hoffe, ich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://matheraum.de/forum/lineare_Mannigfaltigkeit/t42180&sa=U&ved=2ahUKEwjBia2a_I3xAhUXxTgGHTaiAfw4FBAWMAl6BAgEEAE&usg=AOvVaw0dHwWF7eEOJrrx1JXGMUR9",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Gruppentheorie - Mathematik-Online-Kursmo.mathematik.uni-stuttgart.de \u203a kurse \u203a kurs36 \u203a index_full",
+    "link": "https://mo.mathematik.uni-stuttgart.de/kurse/kurs36/index_full.html",
+    "description": "14.11.2008 \u00b7 Nebenklassen \u00b7 Faktorgruppe \u00b7 Gruppen vom Index 2 \u00b7 Satz von ... zu einem G-\u200binvarianten Unterraum \u00b7 Direktes Produkt von Darstellungen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mo.mathematik.uni-stuttgart.de/kurse/kurs36/index_full.html&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAB6BAgEEAE&usg=AOvVaw2kZKyN2SkQkya077nhiyfl",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Elemente der Algebra - Uni Ulmwww.uni-ulm.de \u203a website_uni_ulm \u203a mawi.inst.zawa \u203a lehre \u203a Skript",
+    "link": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.zawa/lehre/11elalg/Skript.pdf",
+    "description": "1.7 Nebenklassen, Normalteiler und Faktorgruppen . . . . . . . . . . . . . . . . . . . . . . ... eindimensionale Unterraum (Gerade) ohne den Nullvektor. Es ist StabG( v) = {1}.",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.zawa/lehre/11elalg/Skript.pdf&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAF6BAgJEAE&usg=AOvVaw1x4ZIX6LqPZmuB2i5eREmy",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Einf\u00fchrung in die Kodierungstheorie - staff.uni-mainz.dewww.staff.uni-mainz.de \u203a amalevic \u203a files",
+    "link": "https://www.staff.uni-mainz.de/amalevic/files/[Malevich]Einf%C3%BChrungKodierungstheorie_script_de.pdf",
+    "description": "als Nachrichten nur Elemente c eines sorgf\u00e4ltig gew\u00e4hlten Unterraumes C von ... sogenannten Nebenklassen von C in V, oder affine Unterr\u00e4ume parallel zu C\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.staff.uni-mainz.de/amalevic/files/%5BMalevich%5DEinf%25C3%25BChrungKodierungstheorie_script_de.pdf&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAJ6BAgHEAE&usg=AOvVaw2Nx3nRHW0XfSxx-a9CFc97",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "affiner Raum mit Definition einer Summe | Matheloungewww.mathelounge.de \u203a affiner-raum-mit-definition-einer-summe",
+    "link": "https://www.mathelounge.de/556627/affiner-raum-mit-definition-einer-summe",
+    "description": "... Unterraum \" ( vornehmes Wort ) nichts weiter als eine Nebenklasse ... Und wenn; dann h\u00e4tte ich doch das Recht, Nebenklassen dieses |R \u00b2\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/556627/affiner-raum-mit-definition-einer-summe&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAN6BAgIEAE&usg=AOvVaw0g0SdKig372tIyARffyQoj",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Magische Quadrate und Sudokussilo.tips \u203a download \u203a magische-quadrate-und-sudokus",
+    "link": "https://silo.tips/download/magische-quadrate-und-sudokus",
+    "description": "31.03.2016 \u00b7 Es verbleibt zu zeigen, dass magisch in den Nebenklassen von und ist. Eine Zahl ... Die Eintr\u00e4ge innerhalb jeder Nebenklasse des Unterraums.",
+    "googleLink": "http://www.google.com/url?q=https://silo.tips/download/magische-quadrate-und-sudokus&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAR6BAgBEAE&usg=AOvVaw20JpM_-zgY6iWEUH139JeD",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "[PDF] \u00a8Ubung 1 - TU Chemnitzwww.tu-chemnitz.de \u203a discrete \u203a lehre \u203a LinaUebWS2014",
+    "link": "https://www.tu-chemnitz.de/mathematik/discrete/lehre/LA/w14/LinaUebWS2014.pdf",
+    "description": "24.10.2014 \u00b7 eine L\u00f6sung (x, y) \u2208 R2 hat, einen linearen Unterraum des R2 bildet. 42. ... Wie kann man allgemein die Gleichheit zweier Nebenklassen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tu-chemnitz.de/mathematik/discrete/lehre/LA/w14/LinaUebWS2014.pdf&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAV6BAgDEAE&usg=AOvVaw2p2bCyKucPK20XRzYzIsv2",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] ANALYTISCHE GEOMETRIEwww.mathematik.uni-wuerzburg.de \u203a ~mutzbauer \u203a angeo",
+    "link": "http://www.mathematik.uni-wuerzburg.de/~mutzbauer/angeo.pdf",
+    "description": "der Geometrie. 9.1. Affine R\u00e4ume. Sei V ein K-Vektorraum mit Unterraum U. Eine Teilmenge A = a + U. V hei\u00dft Nebenklasse, und ein beliebiger Vektor aus A,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-wuerzburg.de/~mutzbauer/angeo.pdf&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAZ6BAgGEAE&usg=AOvVaw381sQcc4l7A9_4IGuimvfX",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "\u00dcbung zum Thema Nebenklassen von Vektorr\u00e4umenfiles.leon01.de \u203a fhkl \u203a LAGUebung03aspeziellzuNebenklassen",
+    "link": "https://files.leon01.de/fhkl/LAGUebung03aspeziellzuNebenklassen.pdf",
+    "description": "Aufgabe. Unter einer Nebenklasse N(v,U) eines Untervektorraumes U des Vektorraumes V versteht ... Satz: Sei U ein Unterraum von V. Zwei Nebenklassen.",
+    "googleLink": "http://www.google.com/url?q=https://files.leon01.de/fhkl/LAGUebung03aspeziellzuNebenklassen.pdf&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAd6BAgAEAE&usg=AOvVaw0koBQgfFp9SEffuMH40mQn",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Nebenklasse (Mathematik) - Academic dictionaries and encyclopediasde-academic.com \u203a dic.nsf \u203a dewiki",
+    "link": "https://de-academic.com/dic.nsf/dewiki/1006706",
+    "description": "Nebenklasse (Mathematik). Nebenklasse (Mathematik) ... Er ist derjenige Vektorraum, der als Bild einer Parallelprojektion entlang eines Unterraumes entsteht.",
+    "googleLink": "http://www.google.com/url?q=https://de-academic.com/dic.nsf/dewiki/1006706&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAh6BAgCEAE&usg=AOvVaw3xNxagEWwXeGvkZ9waHRbS",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Algebra und Geometrie Sommersemester 2008www.minet.uni-jena.de \u203a skripten \u203a AlgebraGeometrie3-Green-SS08",
+    "link": "https://www.minet.uni-jena.de/algebra/skripten/AlgebraGeometrie3-Green-SS08.pdf",
+    "description": "04.02.2009 \u00b7 3 Nebenklassen und Quotientengruppen. 8 ... Transformation des (n\u22121)-\u200bdimensionalen Unterraums v\u22a5. Das Ergebnis folgt per. Induktion\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.minet.uni-jena.de/algebra/skripten/AlgebraGeometrie3-Green-SS08.pdf&sa=U&ved=2ahUKEwiO9dya_I3xAhXwxzgGHeldCyg4HhAWMAl6BAgFEAE&usg=AOvVaw3PHHwhGC5ejG63KhQbplFF",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Faktorraum - de.LinkFang.orgde.linkfang.org \u203a wiki \u203a Faktorraum",
+    "link": "https://de.linkfang.org/wiki/Faktorraum",
+    "description": "anschaulich der zu U \u201eparallele\u201c affine Unterraum durch v . Die \u00c4quivalenzklassen werden auch als Nebenklassen bezeichnet (dieser Begriff stammt aus der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.linkfang.org/wiki/Faktorraum&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAB6BAgGEAE&usg=AOvVaw0on6rok0IpxayjpQhBjaQO",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Ein K-Vektorraum \u00fcber einem K\u00f6rper K ist q eine abelsche Gruppe ...www.yumpu.com \u203a document \u203a view \u203a ein-k-vektorraum-uber-einem-kor...",
+    "link": "https://www.yumpu.com/de/document/view/21733184/ein-k-vektorraum-uber-einem-korper-k-ist-q-eine-abelsche-gruppe-",
+    "description": "ist Unterraum,. wenn f\u00fcr alle x, y \u2208 ... Urbild f \u20131 (U) eines Unterraums U von W. ist Unterraum von V ... einem Unterraum U : Die Nebenklassen x + U bilden mit.",
+    "googleLink": "http://www.google.com/url?q=https://www.yumpu.com/de/document/view/21733184/ein-k-vektorraum-uber-einem-korper-k-ist-q-eine-abelsche-gruppe-&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAF6BAgHEAE&usg=AOvVaw3hYAFM_-trOYQtyCHyRAk7",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Codierungstheorie - Uni Trierwww.uni-trier.de \u203a TIN \u203a Miscellaneous \u203a CodierungstheorieWS0506",
+    "link": "https://www.uni-trier.de/fileadmin/fb4/prof/INF/TIN/Miscellaneous/CodierungstheorieWS0506.pdf",
+    "description": "Sei K ein endlicher K\u00f6rper und n \u2208 N. Ein linearer Code C ist ein Unterraum ... C hat 220 viele Nebenklassen, jeder Nebenklassenf\u00fchrer besteht aus 70 Bits.",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-trier.de/fileadmin/fb4/prof/INF/TIN/Miscellaneous/CodierungstheorieWS0506.pdf&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAJ6BAgJEAE&usg=AOvVaw2m2lEQ3lwdmS5UomKccr9I",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Mathematik f\u00fcr Informatiker 1 \u2013 Tutorium - TU Dortmundls5-www.cs.tu-dortmund.de \u203a cms \u203a lehre \u203a lehrveranstaltungen \u203a 201...",
+    "link": "http://ls5-www.cs.tu-dortmund.de/cms/de/lehre/lehrveranstaltungen/ws2013-14/Mathematik_f__r_Informatiker_1/Tutoriumsfolien/2014-01-30-tutorium.pdf",
+    "description": "30.01.2014 \u00b7 Analog zur Faktorgruppe (Nebenklassen der Normalteiler). Faktorring. Sei \u3008R,\u2295 ... Kern ist (wie \u00fcblich) Unterstruktur (Unterraum). M. Isberner.",
+    "googleLink": "http://www.google.com/url?q=http://ls5-www.cs.tu-dortmund.de/cms/de/lehre/lehrveranstaltungen/ws2013-14/Mathematik_f__r_Informatiker_1/Tutoriumsfolien/2014-01-30-tutorium.pdf&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAN6BAgIEAE&usg=AOvVaw267-ex4itH7WSnHTEVrxb2",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Skript zur Vorlesung Algebra - FAUbox - Friedrich-Alexander ...faubox.rrze.uni-erlangen.de \u203a inline",
+    "link": "https://faubox.rrze.uni-erlangen.de/dl/fi4PVDr3zrrmGXGQm9q63RrT/?inline",
+    "description": "02.05.2019 \u00b7 eines Untervektorraums eine Untergruppe H \u2286 G zu betrachten. ... Die Nebenklassen einer Permutation \u03c0 \u2208 Sn sind also gegeben durch.",
+    "googleLink": "http://www.google.com/url?q=https://faubox.rrze.uni-erlangen.de/dl/fi4PVDr3zrrmGXGQm9q63RrT/%3Finline&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAR6BAgAEAE&usg=AOvVaw0W7h62oMd0uVVWMHlKI1lJ",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Definition. Eine Menge B heisst Teilmenge der Menge A ... - metaphormetaphor.ethz.ch \u203a dokumente \u203a Zusammenfassung20161130",
+    "link": "http://metaphor.ethz.ch/x/2016/hs/401-1151-00L/dokumente/Zusammenfassung20161130.pdf",
+    "description": "30.11.2016 \u00b7 Definition. Gegeben ein endlich-dim. Vektorraum V \u00fcber K, ein Unterraum W \u2282 V und ein Vektor v \u2208 V . Wir definieren die Nebenklasse von W\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://metaphor.ethz.ch/x/2016/hs/401-1151-00L/dokumente/Zusammenfassung20161130.pdf&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAV6BAgDEAE&usg=AOvVaw1GHSJtk_6Dil1AC4MJAqAN",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Achtdimensionale lokalkompakte Translationsebenen mit ... - COREcore.ac.uk \u203a download \u203a pdf",
+    "link": "https://core.ac.uk/download/pdf/147550665.pdf",
+    "description": "P: = PuN der reinen Quaternionen entspricht dann dem Unterraum {0} x R 3 von ~4. ... betrachten wir das System der Nebenklassen des Unterraums. Ph = (Pu\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://core.ac.uk/download/pdf/147550665.pdf&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAZ6BAgCEAE&usg=AOvVaw1lVDX8dQSdCD24Cxwr92-S",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] 4 Lineare Algebrawww.math.uni-hamburg.de \u203a home \u203a samaga \u203a uebungen \u203a kap4",
+    "link": "https://www.math.uni-hamburg.de/home/samaga/uebungen/kap4.pdf",
+    "description": "k\u00fcrzer Unterraum. ... muss der Nullvektor in jedem Unterraum enthalten sein. ... Ebenen sind Nebenklassen der zweidimensionalen Untervektorr\u00e4ume, es gilt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-hamburg.de/home/samaga/uebungen/kap4.pdf&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAd6BAgBEAE&usg=AOvVaw1VbIgCOf-YmBtnPtwjRr_I",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Algebra - TU Wiendmg.tuwien.ac.at \u203a winkler \u203a skripten \u203a algebra-maerz21",
+    "link": "https://dmg.tuwien.ac.at/winkler/skripten/algebra-maerz21.pdf",
+    "description": "02.03.2021 \u00b7 Alle Nebenklassen haben die gleiche M\u00e4chtigkeit wie die Untergruppe ... Unterraum, ebenso die Menge U1\u2228U2 := [U1\u222aU2] (die lineare H\u00fclle\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dmg.tuwien.ac.at/winkler/skripten/algebra-maerz21.pdf&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAh6BAgFEAE&usg=AOvVaw2Merz5p_y7AMzRDlFnYELm",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Anhang E - Hilbertr\u00e4umewww2.math.uni-wuppertal.de \u203a ~fritzsch \u203a lectures \u203a mgf \u203a sp_anh2",
+    "link": "http://www2.math.uni-wuppertal.de/~fritzsch/lectures/mgf/sp_anh2.pdf",
+    "description": "Sei E ein Hilbertraum, U \u2282 E ein beliebiger linearer Unterraum. Dann ist das ... Gelegentlich braucht man auch Rechts-Nebenklassen Ha = {ha : h \u2208 H}. Die.",
+    "googleLink": "http://www.google.com/url?q=http://www2.math.uni-wuppertal.de/~fritzsch/lectures/mgf/sp_anh2.pdf&sa=U&ved=2ahUKEwiXqrqb_I3xAhWyyDgGHZtPDcs4KBAWMAl6BAgEEAE&usg=AOvVaw0vKjZGquhfcBgbPRJdJeUA",
+    "page": 4,
+    "index": 9
+  }
+]

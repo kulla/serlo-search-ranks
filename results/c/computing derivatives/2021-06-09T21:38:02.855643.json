@@ -1,0 +1,330 @@
+[
+  {
+    "name": "",
+    "link": "https://study.com/academy/lesson/how-to-compute-derivatives.html?sa=X&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQ9QF6BAgFEAI",
+    "description": "Basically, we can compute the derivative of f(x) using the limit definition of derivatives with the following steps:",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "2: Computing Derivatives - Mathematics LibreTextsmath.libretexts.org \u203a Bookshelves \u203a Calculus \u203a 2:_C...",
+    "link": "https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Active_Calculus_(Boelkins_et_al)/2%3A_Computing_Derivatives",
+    "description": "20.12.2020 \u00b7 The limit definition of the derivative leads to patterns among certain families of functions that enable us to compute derivative formulas without\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Calculus/Book%253A_Active_Calculus_(Boelkins_et_al)/2%253A_Computing_Derivatives&sa=U&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQFjALegQIChAB&usg=AOvVaw0q37fideZipRAfdSVd8BFg",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Derivative Calculator \u2022 With Steps!www.derivative-calculator.net",
+    "link": "https://www.derivative-calculator.net/",
+    "description": "The Derivative Calculator supports computing first, second, \u2026, fifth derivatives as well as differentiating functions with many variables (partial derivatives),\u00a0...\n\nDifferentiation variable: ax_____abcdfghjklmnopqrstuvwxyz\nDifferentiate how many times?: 1 2 3 4 5\nDependent variable: (will be treated as a function): ax_____abcdfghjklmnopqrstuvwxyz",
+    "googleLink": "http://www.google.com/url?q=https://www.derivative-calculator.net/&sa=U&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQFjAMegQICBAB&usg=AOvVaw3UIoq1PUQSuN_Dgpo1WymR",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Computing Derivatives: Techniques of Differentiation | SparkNoteswww.sparknotes.com \u203a math \u203a calcbc1 \u203a section2",
+    "link": "https://www.sparknotes.com/math/calcbc1/computingderivatives/section2/",
+    "description": "Computing Derivatives quizzes about important details and events in every section of the book.",
+    "googleLink": "http://www.google.com/url?q=https://www.sparknotes.com/math/calcbc1/computingderivatives/section2/&sa=U&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQFjANegQIBxAB&usg=AOvVaw2w8vCg9dwZrZYxhF4YF95Y",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Computing derivatives - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=h_mZYbFTMOw",
+    "description": "05.10.2012 \u00b7 Computing derivatives. 984 views984 views. \u2022 Oct 5, 2012. 6. 0. Share. Save. 6. 0\u200b. Share. Save ...Dauer: 4:58Gepostet: 05.10.2012",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3Dh_mZYbFTMOw&sa=U&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQtwIwDnoECAQQAQ&usg=AOvVaw0Gr5tcX7HKWXndhDd7pxiT",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Derivative - Wikipediaen.wikipedia.org \u203a wiki \u203a Derivative",
+    "link": "https://en.wikipedia.org/wiki/Derivative",
+    "description": "Differentiation is the action of computing a derivative. The derivative of a function y = f(x) of a variable x is a measure of the rate at which the value\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Derivative&sa=U&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQFjAPegQIABAB&usg=AOvVaw3qQkT-9WSOhyNlvQC5Opw8",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Numerical differentiation - Wikipediaen.wikipedia.org \u203a wiki \u203a Numerical_differentiation",
+    "link": "https://en.wikipedia.org/wiki/Numerical_differentiation",
+    "description": "The complex-step derivative formula is only valid for calculating first-order derivatives. A generalization of the above for calculating derivatives of any order\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Numerical_differentiation&sa=U&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQFjAQegQIAhAB&usg=AOvVaw28-mm2-Nt_67ooFJgiYTkU",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] unit 17 computing derivativesweb.stanford.edu \u203a class \u203a assets \u203a unit_17_computing_derivatives",
+    "link": "http://web.stanford.edu/class/cs205l/assets/unit_17_computing_derivatives.pdf",
+    "description": "(units 17-18) Computing/Avoiding Derivatives. \u2022 (unit 19) Hack 1.0: \u201cI ... Even methods that don't require derivatives struggle when functions are discontinuous.",
+    "googleLink": "http://www.google.com/url?q=http://web.stanford.edu/class/cs205l/assets/unit_17_computing_derivatives.pdf&sa=U&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQFjARegQIARAB&usg=AOvVaw3R8DQpoRn0KC6UaWfxtwNq",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Computing Derivatives of Computer Programs - CiteSeerXciteseerx.ist.psu.edu \u203a viewdoc \u203a download",
+    "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.7496&rep=rep1&type=pdf",
+    "description": "Here, we will discuss another powerful technique called automatic differentiation (AD) for computing derivative information, say, gradients or Hessians. AD has\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://citeseerx.ist.psu.edu/viewdoc/download%3Fdoi%3D10.1.1.140.7496%26rep%3Drep1%26type%3Dpdf&sa=U&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQFjASegQIBhAB&usg=AOvVaw0hYGtRmStT3jmanH_YXdgq",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Computing Derivatives Introduction | Shmoopwww.shmoop.com \u203a study-guides \u203a math \u203a computi...",
+    "link": "https://www.shmoop.com/study-guides/math/computing-derivatives",
+    "description": "Computing Derivatives Introduction. We've already been through the formal derivative definition. Sure, it's fun to be formal once in a while. Have a meal way\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.shmoop.com/study-guides/math/computing-derivatives&sa=U&ved=2ahUKEwjXguDKpovxAhVKFogKHRS7DugQFjATegQICRAB&usg=AOvVaw1PI7DA8HHzdbU5RDFzizx5",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Session 6: Calculating Derivatives | Part A: Definition and Basic ...ocw.mit.edu \u203a mathematics \u203a 1.-differentiation \u203a ses...",
+    "link": "https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/",
+    "description": "Finding derivatives of varied functions requires a variety of tools. This session uses the main formula to find the derivative of the sum of two functions. Lecture\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChAWMAB6BAgEEAE&usg=AOvVaw1jYf_qmBZo66s4h4FIcWWY",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Complexity of computing derivatives - MathOverflowmathoverflow.net \u203a questions \u203a complexity-of-comp...",
+    "link": "https://mathoverflow.net/questions/73596/complexity-of-computing-derivatives",
+    "description": "The complexity is O(nT). Look up \"automatic differentiation\" in Wikipedia. This is taking your statement about computing f(x) in T arithmetic operations literally: the\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/73596/complexity-of-computing-derivatives&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChAWMAF6BAgIEAE&usg=AOvVaw1YfT6uBGOuKs6YxPJfx_sB",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Computing Derivatives | Teaching Calculusteachingcalculus.com \u203a videos \u203a derivatives",
+    "link": "https://teachingcalculus.com/videos/derivatives/",
+    "description": "09.06.2016 \u00b7 Computing Derivatives 1 Basic forms Notes Limits and Continuity 1 Computing Derivatives 2 ...Dauer: 16:26Gepostet: 09.06.2016",
+    "googleLink": "http://www.google.com/url?q=https://teachingcalculus.com/videos/derivatives/&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChC3AjACegQICRAB&usg=AOvVaw0Qq-etZ7PZ1kHA-eZCvowJ",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "3. Rules for Finding Derivativeswww.whitman.edu \u203a calculus_online \u203a chapter03",
+    "link": "https://www.whitman.edu/mathematics/calculus_online/chapter03.html",
+    "description": "It is tedious to compute a limit every time we need to know the derivative of a function. Fortunately, we can develop a small collection of examples and rules that\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.whitman.edu/mathematics/calculus_online/chapter03.html&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChAWMAN6BAgHEAE&usg=AOvVaw01pl-m23QzCgr4Inx_9OMY",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "(PDF) Computing Derivatives of Computer Programs - ResearchGatewww.researchgate.net \u203a publication \u203a 2240552_Co...",
+    "link": "https://www.researchgate.net/publication/2240552_Computing_Derivatives_of_Computer_Programs",
+    "description": "Derivatives play a crucial role not only in quantum chemistry but in numerical computing in general. Examples include the solution of nonlinear systems of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/2240552_Computing_Derivatives_of_Computer_Programs&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChAWMAR6BAgDEAE&usg=AOvVaw20qQSoNjrIirAY3HhCW_aJ",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "(PDF) Review and Unification of Methods for Computing Derivatives ...www.researchgate.net \u203a publication \u203a 259195539_Review_and_Unificatio...",
+    "link": "https://www.researchgate.net/publication/259195539_Review_and_Unification_of_Methods_for_Computing_Derivatives_of_Multidisciplinary_Computational_Models",
+    "description": "14.03.2021 \u00b7 PDF | This paper presents a review of all existing discrete methods for computing the derivatives of computational models within a unified\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/259195539_Review_and_Unification_of_Methods_for_Computing_Derivatives_of_Multidisciplinary_Computational_Models&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChAWMAV6BAgFEAE&usg=AOvVaw2f0Nafcq5iUm6bi_uby20q",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Derivatives - Wolfram|Alpha Exampleswww.wolframalpha.com \u203a calculus-and-analysis \u203a d...",
+    "link": "https://www.wolframalpha.com/examples/mathematics/calculus-and-analysis/derivatives/",
+    "description": "Answers to calculus derivatives problems. Compute derivatives, higher-order and partial derivatives, directional derivatives and derivatives of abstract functions.",
+    "googleLink": "http://www.google.com/url?q=https://www.wolframalpha.com/examples/mathematics/calculus-and-analysis/derivatives/&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChAWMAZ6BAgBEAE&usg=AOvVaw0-MnjeJBs69B5AiEz94q3_",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Computing derivatives of computer programs | Semantic Scholarwww.semanticscholar.org \u203a paper \u203a Computing-deri...",
+    "link": "https://www.semanticscholar.org/paper/Computing-derivatives-of-computer-programs-Bischof-Buecker/de6244d59fd638a37c123e6bc347b0a19ffc5698",
+    "description": "c \u00a9 2000 by John von Neumann Institute for Computing Permission to make digital or hard copies of portions of this work for personal or classroom use is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.semanticscholar.org/paper/Computing-derivatives-of-computer-programs-Bischof-Buecker/de6244d59fd638a37c123e6bc347b0a19ffc5698&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChAWMAd6BAgAEAE&usg=AOvVaw2g5JdDzSGXeWo31zU4LaqO",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Perlin Noise: Part 2 (Computing Derivatives) - Scratchapixelwww.scratchapixel.com \u203a lessons \u203a perlin-noise-com...",
+    "link": "https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2/perlin-noise-computing-derivatives",
+    "description": "Figure 1: computing the noise function variation along the horizontal and vertical axis using a discrete approach. Derivatives of any function (whether it is a one-,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2/perlin-noise-computing-derivatives&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChAWMAh6BAgGEAE&usg=AOvVaw2NiPvYhrbv6M7_D7k3Vfuf",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Review and Unification of Methods for Computing Derivatives of ...arc.aiaa.org \u203a doi",
+    "link": "https://arc.aiaa.org/doi/10.2514/1.J052184",
+    "description": "This paper presents a review of all existing discrete methods for computing the derivatives of computational models within a unified mathematical framework.",
+    "googleLink": "http://www.google.com/url?q=https://arc.aiaa.org/doi/10.2514/1.J052184&sa=U&ved=2ahUKEwinxKrLpovxAhXDBIgKHeZaAOE4ChAWMAl6BAgCEAE&usg=AOvVaw18bVLUTUVeXlN_bimnMz0P",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Computing derivatives of computer programs | Semantic Scholarwww.semanticscholar.org \u203a paper \u203a Computing-deri...",
+    "link": "https://www.semanticscholar.org/paper/Computing-derivatives-of-computer-programs-Bischof-Buecker/de6244d59fd638a37c123e6bc347b0a19ffc5698",
+    "description": "c \u00a9 2000 by John von Neumann Institute for Computing Permission to make digital or hard copies of portions of this work for personal or classroom use is\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.semanticscholar.org/paper/Computing-derivatives-of-computer-programs-Bischof-Buecker/de6244d59fd638a37c123e6bc347b0a19ffc5698&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBAWMAB6BAgBEAE&usg=AOvVaw1mdyKqtH178P3eRZNj3zVT",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Computing Derivatives | Teaching Calculusteachingcalculus.com \u203a videos \u203a derivatives",
+    "link": "https://teachingcalculus.com/videos/derivatives/",
+    "description": "09.06.2016 \u00b7 Computing Derivatives 1 Basic forms Notes Limits and Continuity 1 Computing Derivatives 2 ...Dauer: 16:26Gepostet: 09.06.2016",
+    "googleLink": "http://www.google.com/url?q=https://teachingcalculus.com/videos/derivatives/&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBC3AjABegQICRAB&usg=AOvVaw37wcIuiNRjyyYKsBWllzbA",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] How to compute a derivative - Deep Learning, CMUdeeplearning.cs.cmu.edu \u203a document \u203a slides \u203a How to compute a der...",
+    "link": "https://deeplearning.cs.cmu.edu/S20/document/slides/How%20to%20compute%20a%20derivative.pdf",
+    "description": "Computing derivatives of complicated functions. \u2022 How do you compute the derivatives in an LSTM or GRU cell? \u2022 How do you compute derivatives of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://deeplearning.cs.cmu.edu/S20/document/slides/How%2520to%2520compute%2520a%2520derivative.pdf&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBAWMAJ6BAgIEAE&usg=AOvVaw2Nx2gvKLrwjifmpVF0Dlbe",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Derivatives: how to find derivatives | Calculus | Khan Academywww.khanacademy.org \u203a math \u203a calculus-all-old \u203a t...",
+    "link": "https://www.khanacademy.org/math/calculus-all-old/taking-derivatives-calc",
+    "description": "The big idea of differential calculus is the concept of the derivative, which essentially gives us the direction, or rate of change, of a function at any of its points.",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/calculus-all-old/taking-derivatives-calc&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBAWMAN6BAgHEAE&usg=AOvVaw0h6atoyOwI8ZN-b_rPy7d9",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Review and Unification of Methods for Computing Derivatives of ...www.umich.edu \u203a ~mdolaboratory \u203a pdf",
+    "link": "http://www.umich.edu/~mdolaboratory/pdf/Martins2013a.pdf",
+    "description": "Abstract This paper presents a review of all existing discrete methods for computing the derivatives of computational models within a unified mathematical\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.umich.edu/~mdolaboratory/pdf/Martins2013a.pdf&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBAWMAR6BAgDEAE&usg=AOvVaw2m1o4DNurK8cOEBU3WBhSK",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "On the errors incurred calculating derivatives using Chebyshev ...www.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/0021999192902743",
+    "description": "The source of the error is found to be magnification of roundoff error by the recursion equation, which links coefficients of a function to those of its derivative. Tight\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/0021999192902743&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBAWMAV6BAgFEAE&usg=AOvVaw13-r6abmYaSM09TsMWjAFz",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Review and Unification of Methods for Computing Derivatives of ...arc.aiaa.org \u203a doi",
+    "link": "https://arc.aiaa.org/doi/10.2514/1.J052184",
+    "description": "This paper presents a review of all existing discrete methods for computing the derivatives of computational models within a unified mathematical framework.",
+    "googleLink": "http://www.google.com/url?q=https://arc.aiaa.org/doi/10.2514/1.J052184&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBAWMAZ6BAgGEAE&usg=AOvVaw2zoZ3uqFpTfguM2SSKjPqR",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] COMPUTING DERIVATIVES OF COMPUTER PROGRAMS 1 ...ftp.mcs.anl.gov \u203a pub \u203a tech_reports \u203a reports",
+    "link": "https://ftp.mcs.anl.gov/pub/tech_reports/reports/P813.pdf",
+    "description": "Derivatives play a crucial role not only in quantum chemistry but in numerical computing in general. Examples include the solution of nonlinear systems of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ftp.mcs.anl.gov/pub/tech_reports/reports/P813.pdf&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBAWMAd6BAgEEAE&usg=AOvVaw2Gxa5N3FPFm8uFbmZLmlaO",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Computing second derivatives in feed-forward networks: a review ...ieeexplore.ieee.org \u203a document",
+    "link": "https://ieeexplore.ieee.org/document/286919",
+    "description": "Computing second derivatives in feed-forward networks: a review. Abstract: The calculation of second derivatives is required by recent training and analysis\u00a0...\n\nDOI: 10.1109/72.286919",
+    "googleLink": "http://www.google.com/url?q=https://ieeexplore.ieee.org/document/286919&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBAWMAh6BAgAEAE&usg=AOvVaw280b4tyU_MT0nrHXEwu1yR",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Output time derivative of input - Simulink - MathWorkswww.mathworks.com \u203a ... \u203a Continuous",
+    "link": "https://www.mathworks.com/help/simulink/slref/derivative.html",
+    "description": "The Derivative block approximates the derivative of the input signal u with respect to the simulation time t. You obtain the approximation of. d u d t ,. by computing\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathworks.com/help/simulink/slref/derivative.html&sa=U&ved=2ahUKEwiAtubLpovxAhXD7WEKHU3rBXg4FBAWMAl6BAgCEAE&usg=AOvVaw1abAqb0yrUuka0phNHS37U",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Computing derivatives of computer programs - RWTH AACHEN ...www.itc.rwth-aachen.de \u203a fddi \u203a file",
+    "link": "https://www.itc.rwth-aachen.de/go/id/fddi/file/111492?mobile=1",
+    "description": "Computing derivatives of computer programs. Bischof, Christian; B\u00fccker, Martin. J\u00fclich / NIC (2000) [Buchbeitrag, Beitrag zu einem Tagungsband]. Modern\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.itc.rwth-aachen.de/go/id/fddi/file/111492%3Fmobile%3D1&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAB6BAgFEAE&usg=AOvVaw0n-XFrbp8vqoZDydqcNx_U",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Computing derivatives in interval type-2 fuzzy logic systems | IEEE ...dl.acm.org \u203a citation",
+    "link": "https://dl.acm.org/citation.cfm?id=2235153",
+    "description": "It explains why computing such derivatives is much more challenging than it is for a type-1 fuzzy logic system. It provides derivative calculations that are\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dl.acm.org/citation.cfm%3Fid%3D2235153&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAF6BAgJEAE&usg=AOvVaw3O-CiuiFvDQTKLSfeHfy0K",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "An efficient overloaded method for computing derivatives of ...dl.acm.org \u203a doi",
+    "link": "https://dl.acm.org/doi/10.1145/2450153.2450155",
+    "description": "An object-oriented method is presented that computes without truncation the error derivatives of functions defined by MATLAB computer codes. The method\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dl.acm.org/doi/10.1145/2450153.2450155&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAJ6BAgIEAE&usg=AOvVaw03krxMOuazr1chYYQdiOKr",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Computing Derivatives for PETSc Adjoint Solvers using Algorithmic ...arxiv.org \u203a cs",
+    "link": "https://arxiv.org/abs/1909.02836",
+    "description": "06.09.2019 \u00b7 Alternatively, one may compute Jacobians using algorithmic differentiation (AD), yielding the same derivatives as an analytic derivation, with\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1909.02836&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAN6BAgHEAE&usg=AOvVaw2BsedUQVflYAzoRbsOFBTc",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Computing derivatives in interval type-2 fuzzy logic systems trained ...ieeexplore.ieee.org \u203a document",
+    "link": "https://ieeexplore.ieee.org/document/8015381",
+    "description": "A switch machine is an electromechanical device that allows railway trains to be guided from one track to another. Among all possible faults that can occur in a.\n\nDate Added to IEEE Xplore: 24 August 2017\nDOI: 10.1109/FUZZ-IEEE.2017.8015381",
+    "googleLink": "http://www.google.com/url?q=https://ieeexplore.ieee.org/document/8015381&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAR6BAgCEAE&usg=AOvVaw02j0KaF2BZT7TNBVnPATJd",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Computing Higher Order Derivatives of Matrix and Tensor Expressionsproceedings.neurips.cc \u203a paper \u203a hash",
+    "link": "https://proceedings.neurips.cc/paper/2018/hash/0a1bf96b7165e962e90cb14648c9462d-Abstract.html",
+    "description": "Therefore, frameworks for computing derivatives are an active area of machine learning research. Surprisingly, as of yet, no existing framework is capable of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proceedings.neurips.cc/paper/2018/hash/0a1bf96b7165e962e90cb14648c9462d-Abstract.html&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAV6BAgBEAE&usg=AOvVaw0Fc0blI3Oi04sQKNmsVJoC",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Computing Derivatives of Eigenvectors Corresponding to Multiple ...www.degruyter.com \u203a document \u203a doi \u203a html",
+    "link": "https://www.degruyter.com/document/doi/10.1515/9783112313923-055/html",
+    "description": "Computing Derivatives of Eigenvectors Corresponding to Multiple Eigenvalues of Nonsymmetric Matrix Functions. De Gruyter | 1998. https://doi.org/10.1515/\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.degruyter.com/document/doi/10.1515/9783112313923-055/html&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAZ6BAgDEAE&usg=AOvVaw1sRSdeRujcwTNaRbm-_z9g",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] ( ) = eu \u00d7 ( ) = ( ) =www.avon-schools.org \u203a lib02 \u203a Computing Derivatives - SOLUTIONS",
+    "link": "https://www.avon-schools.org/cms/lib02/IN01001885/Centricity/Domain/3490/Computing%20Derivatives%20-%20SOLUTIONS.pdf",
+    "description": "Computing Derivatives Solutions. We have intentionally included more material than can be covered in most Student Study. Sessions to account for groups that\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.avon-schools.org/cms/lib02/IN01001885/Centricity/Domain/3490/Computing%2520Derivatives%2520-%2520SOLUTIONS.pdf&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAd6BAgAEAE&usg=AOvVaw0xivqHGZ6UfzcAiUo8Jesd",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Computing Derivatives Handout.pdfmslc.osu.edu \u203a sites \u203a default \u203a files \u203a Computing Derivatives Handout",
+    "link": "https://mslc.osu.edu/sites/default/files/Computing%20Derivatives%20Handout.pdf",
+    "description": "MSLC Computing Derivatives Handout. 1. Definition of the Derivative: The derivative of a function f is another function f \u2032 whose value at any number a is: ( ).",
+    "googleLink": "http://www.google.com/url?q=https://mslc.osu.edu/sites/default/files/Computing%2520Derivatives%2520Handout.pdf&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAh6BAgEEAE&usg=AOvVaw0q4uly7UkTlb0s4uFKYbKT",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Derivatives in Spectroscopy, Part III: Computing the Derivative (PDF)www.spectroscopyonline.com \u203a view \u203a derivatives-s...",
+    "link": "https://www.spectroscopyonline.com/view/derivatives-spectroscopy-part-iii-computing-derivative-pdf",
+    "description": "30.11.2003 \u00b7 This series about derivatives in spectroscopy continues with a discussion about some of the practical aspects of computing the derivative.",
+    "googleLink": "http://www.google.com/url?q=https://www.spectroscopyonline.com/view/derivatives-spectroscopy-part-iii-computing-derivative-pdf&sa=U&ved=2ahUKEwi5yZvMpovxAhWWbN4KHQNRCJ84HhAWMAl6BAgGEAE&usg=AOvVaw3yv9tkUYanMqcO4sjVmUY_",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Differentiating using multiple rules: strategy (video) | Khan ...https://www.khanacademy.org \u203a di...",
+    "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-5b/v/differentiating-using-multiple-rules-strategy",
+    "description": "Selecting procedures for calculating derivatives: multiple rules ... Conceptually i'm comfortable but I am ...",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  }
+]

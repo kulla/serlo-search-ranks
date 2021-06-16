@@ -1,0 +1,394 @@
+[
+  {
+    "name": "",
+    "link": "https://www.cliffsnotes.com/study-guides/algebra/algebra-ii/sequences-and-series/definition-and-examples-of-sequences?sa=X&ved=2ahUKEwiFg_2I2I3xAhXMq5UCHfAfAJUQ9QF6BAgGEAI",
+    "description": "A sequence is an ordered list of numbers . The three dots mean to continue forward in the pattern established. Each number in the sequence is called a term. In the sequence 1, 3, 5, 7, 9, \u2026, 1 is the first term, 3 is the second term, 5 is the third term, and so on.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Sequences - Math is Funwww.mathsisfun.com \u203a algebra \u203a sequences-series",
+    "link": "https://www.mathsisfun.com/algebra/sequences-series.html",
+    "description": "Example: 1, 4, 7, 10, 13, 16, 19, 22, 25, ... This sequence has a difference of 3 between each number. ... In General we can write an arithmetic sequence like this: {a,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathsisfun.com/algebra/sequences-series.html&sa=U&ved=2ahUKEwiFg_2I2I3xAhXMq5UCHfAfAJUQFjALegQIABAB&usg=AOvVaw2rRmp-vS4YtPGySnvHYob8",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Sequence - Wikipediaen.wikipedia.org \u203a wiki \u203a Sequence",
+    "link": "https://en.wikipedia.org/wiki/Sequence",
+    "description": "Other examples of sequences include those made up of rational numbers, real numbers and complex numbers. The sequence (.9\u00a0...\nExamples and notation \u00b7 Limits and convergence \u00b7 Series \u00b7 Use in other fields of ...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Sequence&sa=U&ved=2ahUKEwiFg_2I2I3xAhXMq5UCHfAfAJUQFjASegQICBAB&usg=AOvVaw1I17J24U1_Llex8nRYludb",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Number Sequence \u2013 Explanation & Exampleswww.storyofmathematics.com \u203a number-sequences",
+    "link": "https://www.storyofmathematics.com/number-sequences",
+    "description": "Bewertung  5,0  (19)",
+    "googleLink": "http://www.google.com/url?q=https://www.storyofmathematics.com/number-sequences&sa=U&ved=2ahUKEwiFg_2I2I3xAhXMq5UCHfAfAJUQFjATegQIBxAB&usg=AOvVaw2C7XKuDJZqzUSHpPPj6pra",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Examples of sequences - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=PgbPkGw24ms",
+    "description": "22.12.2012 \u00b7 To get a feel for how infinite sequences behave, let's look at some examples. Some of these ...Dauer: 10:11Gepostet: 22.12.2012",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DPgbPkGw24ms&sa=U&ved=2ahUKEwiFg_2I2I3xAhXMq5UCHfAfAJUQtwIwFHoECAMQAQ&usg=AOvVaw3a-pavj1u_iDYRRWmCaV5t",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Sequence and Series-Definition, Types, Formulas and Examplesbyjus.com \u203a Maths \u203a Math Article",
+    "link": "https://byjus.com/maths/sequence-and-series/",
+    "description": "Sequence and Series Examples \u00b7 : If \u00b7 : Given sequence is, 4,7,10,13,16,19,22\u2026 \u2026 \u00b7 a) The common difference = \u00b7 b) The nth term of the arithmetic sequence is\u00a0...\n\nSequence: a, a+d, a+2d,\u2026\u2026,a+(n-1)d,\u2026\nCommon Difference or Ratio: Successive term \u2013 Preceding term Common difference = d = a2 \u2013 a1\nGeneral Term (nth Term): an = a + (n-1)d\nNth term from the last term: an = l \u2013 (n-1)d",
+    "googleLink": "http://www.google.com/url?q=https://byjus.com/maths/sequence-and-series/&sa=U&ved=2ahUKEwiFg_2I2I3xAhXMq5UCHfAfAJUQFjAVegQIBRAB&usg=AOvVaw0c82K1ezXgaZ4UDE18wHct",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Sequences and Series | Boundless Algebracourses.lumenlearning.com \u203a chapter \u203a sequences-a...",
+    "link": "https://courses.lumenlearning.com/boundless-algebra/chapter/sequences-and-series/",
+    "description": "A mathematical sequence is an ordered list of objects, often numbers. ... Sequences can be finite, as in this example, or infinite, such as the sequence of all even\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://courses.lumenlearning.com/boundless-algebra/chapter/sequences-and-series/&sa=U&ved=2ahUKEwiFg_2I2I3xAhXMq5UCHfAfAJUQFjAWegQIAhAB&usg=AOvVaw1IsFvS4-EtNtpvKJ2YwxiW",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "CREATE SEQUENCEdocs.oracle.com \u203a server.102 \u203a statements_6015",
+    "link": "https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_6015.htm",
+    "description": "You can use sequences to automatically generate primary key values. When a ... Creating a Sequence: Example The following statement creates the sequence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_6015.htm&sa=U&ved=2ahUKEwiFg_2I2I3xAhXMq5UCHfAfAJUQFjAXegQICRAB&usg=AOvVaw0G0FZ_Dqv4eBzgVLFYXPbP",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "tf.train.SequenceExample | TensorFlow Core v2.5.0www.tensorflow.org \u203a api_docs \u203a python \u203a train \u203a SequenceExample",
+    "link": "https://www.tensorflow.org/api_docs/python/tf/train/SequenceExample",
+    "description": "A SequenceExample is a format for representing one or more sequences and some context.",
+    "googleLink": "http://www.google.com/url?q=https://www.tensorflow.org/api_docs/python/tf/train/SequenceExample&sa=U&ved=2ahUKEwiFg_2I2I3xAhXMq5UCHfAfAJUQFjAYegQIBBAB&usg=AOvVaw1cQxq6QGEok3ARHCb5bzDM",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "CREATE SEQUENCEdocs.oracle.com \u203a server.102 \u203a statements_6015",
+    "link": "https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_6015.htm",
+    "description": "You can use sequences to automatically generate primary key values. When a ... Creating a Sequence: Example The following statement creates the sequence\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_6015.htm&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAB6BAgDEAE&usg=AOvVaw1OO_NGTQZ719poSGf3geKW",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "PostgreSQL CREATE SEQUENCE examples - PostgreSQL Tutorialwww.postgresqltutorial.com \u203a postgresql-sequences",
+    "link": "https://www.postgresqltutorial.com/postgresql-sequences/",
+    "description": "In this tutorial, you will learn about the PostgreSQL sequences and how to use a sequence object to generate a sequence of numbers.",
+    "googleLink": "http://www.google.com/url?q=https://www.postgresqltutorial.com/postgresql-sequences/&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAF6BAgIEAE&usg=AOvVaw2vGVgZbHS9qWW2a187PqYH",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Arithmetic Sequence: Definition and Basic Examples - ChiliMathwww.chilimath.com \u203a lessons \u203a intermediate-algebra",
+    "link": "https://www.chilimath.com/lessons/intermediate-algebra/arithmetic-sequence-definition-and-basic-examples/",
+    "description": "an example of increasing arithmetic sequence is 5, 9, 13, 17, . With this basic idea in mind, you can now solve basic arithmetic sequence problems.",
+    "googleLink": "http://www.google.com/url?q=https://www.chilimath.com/lessons/intermediate-algebra/arithmetic-sequence-definition-and-basic-examples/&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAJ6BAgHEAE&usg=AOvVaw3BReUpqaz9GOnKvUvkkxxK",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "A ten-minute introduction to sequence-to-sequence learning in Kerasblog.keras.io \u203a a-ten-minute-introduction-to-sequen...",
+    "link": "https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html",
+    "description": "29.09.2017 \u00b7 Sequence-to-sequence learning (Seq2Seq) is about training models to ... This is the case in this example script that shows how to teach a RNN\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAN6BAgJEAE&usg=AOvVaw0MfylXo9DBzcITKznxgI8u",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "mermaid - Markdownish syntax for generating flowcharts, sequence ...mermaidjs.github.io",
+    "link": "https://mermaidjs.github.io/",
+    "description": "Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams ... In depth guides and examples can be found in Getting Started and Usage.",
+    "googleLink": "http://www.google.com/url?q=https://mermaidjs.github.io/&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAR6BAgFEAE&usg=AOvVaw0rqN69-lMJUf2NIwS8TsY-",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Sequence of Events Examplesexamples.yourdictionary.com \u203a sequence-of-events-...",
+    "link": "https://examples.yourdictionary.com/sequence-of-events-examples.html",
+    "description": "What is a sequence of events? It's simply the order in which events take place in a story. See sequence examples in plain English to understand the concept.",
+    "googleLink": "http://www.google.com/url?q=https://examples.yourdictionary.com/sequence-of-events-examples.html&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAV6BAgGEAE&usg=AOvVaw2Pu53F90ryHc1-oVHJhbuQ",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Sequence Diagram syntax and features - PlantUMLplantuml.com \u203a Language specification",
+    "link": "https://plantuml.com/sequence-diagram",
+    "description": "Basic examples. The sequence -> is used to draw a message between two participants. Participants do not have to be explicitly\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://plantuml.com/sequence-diagram&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAZ6BAgBEAE&usg=AOvVaw0M9ZHsI4kz3_RJ4Na_RPxp",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Sequence | Knativeknative.dev \u203a docs \u203a eventing \u203a flows \u203a sequence",
+    "link": "https://knative.dev/docs/eventing/flows/sequence/",
+    "description": "Sequence CRD provides a way to define an in-order list of functions that will be ... For the first example, we'll use a 3 Step Sequence that is wired directly into the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://knative.dev/docs/eventing/flows/sequence/&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAd6BAgEEAE&usg=AOvVaw03On29qHDB1SlYKSNxrcUv",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Sequence - Paragraphs - Academic Guides at Walden Universityacademicguides.waldenu.edu \u203a writingcenter \u203a sequ...",
+    "link": "https://academicguides.waldenu.edu/writingcenter/paragraphs/sequence",
+    "description": "Example: In the early 21st century, housing loans were often given to individuals ... Explanation: In these sentences, the author is drawing on sequence or time,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://academicguides.waldenu.edu/writingcenter/paragraphs/sequence&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAh6BAgAEAE&usg=AOvVaw02WBiSBjbjgA4MOY47H6LR",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Clustal Omega < Multiple Sequence Alignment < EMBL-EBIwww.ebi.ac.uk \u203a Tools \u203a msa \u203a clustalo",
+    "link": "https://www.ebi.ac.uk/Tools/msa/clustalo/",
+    "description": "Clustal Omega is a multiple sequence alignment program. It produces ... Use a example sequence | Clear sequence | See more example inputs. STEP 2 - Set\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ebi.ac.uk/Tools/msa/clustalo/&sa=U&ved=2ahUKEwja2tiK2I3xAhVNqpUCHS6hB7M4ChAWMAl6BAgCEAE&usg=AOvVaw0YcmPl7sIWqAYzAQ1bJW_z",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Sequences and Series - Worked Exampleswww.math.toronto.edu \u203a we_1_sequences",
+    "link": "https://www.math.toronto.edu/preparing-for-calculus/9_sequences/we_1_sequences.html",
+    "description": "Part 1: Arithmetic Sequences. The sequence we saw in the previous paragraph is an example of what's called an arithmetic sequence: each term is obtained by\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.toronto.edu/preparing-for-calculus/9_sequences/we_1_sequences.html&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBAWMAB6BAgGEAE&usg=AOvVaw1o-rw6lmQAdIfRnja_Pusc",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "XML Schema sequence Element - W3Schoolswww.w3schools.com \u203a xml \u203a el_sequence",
+    "link": "https://www.w3schools.com/xml/el_sequence.asp",
+    "description": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java,\u00a0...\n\nAttribute: Description\nAny attributes: Optional. Specifies any other attributes with non-schema namespace\nId: Optional. Specifies a unique ID for the element",
+    "googleLink": "http://www.google.com/url?q=https://www.w3schools.com/xml/el_sequence.asp&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBAWMAF6BAgHEAE&usg=AOvVaw2d7yhtpDCNnLqTqUJueZ4V",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "The RING finger domain: a recent example of a sequence\u2014structure ...www.sciencedirect.com \u203a science \u203a article \u203a pii",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0959440X96800601",
+    "description": "In the past 18 months, two RING finger structures have been solved. They represent the first reported structures for this novel zinc-binding sequence motif.",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/science/article/pii/S0959440X96800601&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBAWMAJ6BAgJEAE&usg=AOvVaw0mKhHNf5t1rTzpbGk2ej2k",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Lifecycle hooks - Angularangular.io \u203a guide \u203a lifecycle-hooks",
+    "link": "https://angular.io/guide/lifecycle-hooks",
+    "description": "For example, the OnInit interface has a hook method named ngOnInit() . ... The following examples demonstrate the call sequence and relative frequency of the\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://angular.io/guide/lifecycle-hooks&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBAWMAN6BAgIEAE&usg=AOvVaw3PHmXa4AolaULoFmlmaKsF",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "UML Sequence Diagram Tutorial | Lucidchartwww.lucidchart.com \u203a pages \u203a uml-sequence-diagram",
+    "link": "https://www.lucidchart.com/pages/uml-sequence-diagram",
+    "description": "The Ultimate Guide to Sequence Diagrams in UML - Includes a general overview\u200b, benefits and scenarios, basic symbols and components, examples, and more!",
+    "googleLink": "http://www.google.com/url?q=https://www.lucidchart.com/pages/uml-sequence-diagram&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBAWMAR6BAgFEAE&usg=AOvVaw0f8np1FhtG423Fi9ySPOTp",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "How to design sgRNA sequences - Takara Biowww.takarabio.com \u203a gene-function \u203a gene-editing",
+    "link": "https://www.takarabio.com/learning-centers/gene-function/gene-editing/gene-editing-tools-and-information/how-to-design-sgrna-sequences",
+    "description": "30.08.2018 \u00b7 Choose the right target sequence for CRISPR/Cas9 gene editing. ... The target sequence can ...Dauer: 3:43Gepostet: 30.08.2018",
+    "googleLink": "http://www.google.com/url?q=https://www.takarabio.com/learning-centers/gene-function/gene-editing/gene-editing-tools-and-information/how-to-design-sgrna-sequences&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBC3AjAFegQIAxAB&usg=AOvVaw0bOjibw2OXEXFVV1FvbaDy",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Sequence-to-Sequence Classification Using Deep Learning ...www.mathworks.com \u203a help \u203a sequence-to-sequenc...",
+    "link": "https://www.mathworks.com/help/deeplearning/ug/sequence-to-sequence-classification-using-deep-learning.html",
+    "description": "This example shows how to classify each time step of sequence data using a long short-term memory (LSTM) network.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathworks.com/help/deeplearning/ug/sequence-to-sequence-classification-using-deep-learning.html&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBAWMAZ6BAgBEAE&usg=AOvVaw3_GbkfTjbnKCGMWXZNPXWn",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Documentation: 9.5: CREATE SEQUENCE - PostgreSQLwww.postgresql.org \u203a docs \u203a sql-createsequence",
+    "link": "https://www.postgresql.org/docs/9.5/sql-createsequence.html",
+    "description": "CREATE SEQUENCE -- define a new sequence generator ... For example, with a cache setting of 10, session A might reserve values 1..10 and return nextval =1\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.postgresql.org/docs/9.5/sql-createsequence.html&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBAWMAd6BAgAEAE&usg=AOvVaw1HOD4iesmQk3_AAIzqNkOn",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Sequence Models and Long Short-Term Memory Networks ...pytorch.org \u203a nlp \u203a sequence_models_tutorial",
+    "link": "https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html",
+    "description": "Another example is the conditional random field. A recurrent neural network is a network that maintains some kind of state. For example, its output could be used\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBAWMAh6BAgCEAE&usg=AOvVaw2iQmQm8MszE6nbDFkegtlt",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Oracle CREATE SEQUENCE Explained By Practical Exampleswww.oracletutorial.com \u203a oracle-sequence \u203a oracle-...",
+    "link": "https://www.oracletutorial.com/oracle-sequence/oracle-create-sequence/",
+    "description": "Let's take some example of using sequences. 1) Basic Oracle Sequence example. The following statement creates an ascending sequence called id_seq , starting\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oracletutorial.com/oracle-sequence/oracle-create-sequence/&sa=U&ved=2ahUKEwj6w96L2I3xAhXTpZUCHb8cCBY4FBAWMAl6BAgEEAE&usg=AOvVaw16Y69hhl4AXRQhxj9CbZNb",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "EXAMPLE 1: Sequence Classificationpeople.idsia.ch \u203a ~juergen \u203a zif \u203a node6",
+    "link": "https://people.idsia.ch/~juergen/zif/node6.html",
+    "description": "EXAMPLE 1: Sequence Classification. Outline. This section starts by describing a sequence classification task. The training sequences consist of relatively\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://people.idsia.ch/~juergen/zif/node6.html&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAB6BAgCEAE&usg=AOvVaw1l6naXE7vAnqMTNkPa2ttJ",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Introduction to SeqIO \u00b7 Biopythonbiopython.org \u203a wiki \u203a SeqIO",
+    "link": "https://biopython.org/wiki/SeqIO",
+    "description": "Examples. Input/Output Example - Filtering by sequence length. While you may simply want to convert a file (as shown above), a more\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://biopython.org/wiki/SeqIO&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAF6BAgIEAE&usg=AOvVaw2seMPrV8JeexPh1nRq-G0l",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Sequence | Definition of Sequence by Merriam-Websterwww.merriam-webster.com \u203a dictionary \u203a sequence",
+    "link": "https://www.merriam-webster.com/dictionary/sequence",
+    "description": "2 : to determine the sequence of chemical constituents (such as amino-acid residues or nucleic-acid bases) in. Synonyms & Antonyms More Example Sentences\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.merriam-webster.com/dictionary/sequence&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAJ6BAgJEAE&usg=AOvVaw2VgxnH8RArKLXCRg-0SGeX",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "5. Data Structures \u2014 Python 3.9.5 documentationdocs.python.org \u203a tutorial \u203a datastructures",
+    "link": "https://docs.python.org/3/tutorial/datastructures.html",
+    "description": "Equivalent to a[:] . An example that uses most of the list methods: > ... They are two examples of sequence data types (see Sequence Types \u2014 list, tuple, range).",
+    "googleLink": "http://www.google.com/url?q=https://docs.python.org/3/tutorial/datastructures.html&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAN6BAgHEAE&usg=AOvVaw0pz_sJ4t-22AGkDeXgVTUb",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Sequencing in algorithms - Sequencing - KS3 Computer Science ...www.bbc.co.uk \u203a bitesize \u203a guides \u203a revision",
+    "link": "https://www.bbc.co.uk/bitesize/guides/zsf8d2p/revision/1",
+    "description": "For example, a very simple algorithm for brushing teeth might consist of these steps: put toothpaste on toothbrush; use toothbrush to clean teeth; rinse toothbrush.",
+    "googleLink": "http://www.google.com/url?q=https://www.bbc.co.uk/bitesize/guides/zsf8d2p/revision/1&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAR6BAgFEAE&usg=AOvVaw2-danQZEGJZFfVaHa97PaP",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Understanding Success Criterion 1.3.2 [Meaningful Sequence]www.w3.org \u203a content-structure-separation-sequence",
+    "link": "http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html",
+    "description": "They could occur in either order in the programmatically determined reading sequence. As another example, a magazine article\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAV6BAgGEAE&usg=AOvVaw2y_hUBjxYOV4i6giZXoWpa",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "SQL Server: Sequences (Autonumber) - TechOnTheNetwww.techonthenet.com \u203a sql_server \u203a sequences",
+    "link": "https://www.techonthenet.com/sql_server/sequences.php",
+    "description": "Learn how to create and drop sequences in SQL Server (Transact-SQL) with syntax and examples. In SQL Server, you can create an autonumber field by using\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.techonthenet.com/sql_server/sequences.php&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAZ6BAgAEAE&usg=AOvVaw0VOmeFI9199mdlHtI5rKg3",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Sequences and Series: Basic Examples | Purplemathwww.purplemath.com \u203a modules \u203a series2",
+    "link": "https://www.purplemath.com/modules/series2.htm",
+    "description": "Provides worked examples of typical introductory exercises involving sequences and series. Demonstrates how to find the value of a term from a rule, how to\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.purplemath.com/modules/series2.htm&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAd6BAgEEAE&usg=AOvVaw0DsMfCxPS2SvX_VjNL2XiT",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "example of contractive sequence - PlanetMathplanetmath.org \u203a exampleofcontractivesequence",
+    "link": "https://planetmath.org/exampleofcontractivesequence",
+    "description": "Then it turns out that it's a question of a contractive sequence, whence it is by the parent entry (http://planetmath.org/ContractiveSequence) a Cauchy sequence.",
+    "googleLink": "http://www.google.com/url?q=https://planetmath.org/exampleofcontractivesequence&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAh6BAgDEAE&usg=AOvVaw1faqnuoRmV8dK1TbTztK-k",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Create a UML sequence diagram - Visio - Microsoft Supportsupport.microsoft.com \u203a en-us \u203a office \u203a create-a-u...",
+    "link": "https://support.microsoft.com/en-us/office/create-a-uml-sequence-diagram-c61c371b-b150-4958-b128-902000133b26",
+    "description": "It shows the messages that pass between participants and objects in the system, and the order in which they occur. A sample of a UML sequence diagram showing\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://support.microsoft.com/en-us/office/create-a-uml-sequence-diagram-c61c371b-b150-4958-b128-902000133b26&sa=U&ved=2ahUKEwjD7qaM2I3xAhUcqpUCHZ4fBsQ4HhAWMAl6BAgBEAE&usg=AOvVaw1oihWIL5xKy_EiM1vhDFT3",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "sequence pattern in a sentence | Sentence examples by Cambridge ...dictionary.cambridge.org \u203a example \u203a english \u203a seq...",
+    "link": "https://dictionary.cambridge.org/example/english/sequence-pattern",
+    "description": "02.06.2021 \u00b7 Examples of sequence pattern in a sentence, how to use it. 15 examples: Using the information analysis and sequence logo technique, the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dictionary.cambridge.org/example/english/sequence-pattern&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBAWMAB6BAgIEAE&usg=AOvVaw3SD4xFl1bHNTwAOu_w1QGN",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "RNAcentral: The non-coding RNA sequence databasernacentral.org",
+    "link": "https://rnacentral.org/",
+    "description": "RNAcentral is a comprehensive database of non-coding RNA sequences that ... 109,926 sequences. Example Updated. SGD logo. 209 sequences. Example.",
+    "googleLink": "http://www.google.com/url?q=https://rnacentral.org/&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBAWMAF6BAgJEAE&usg=AOvVaw1sgA7f7B7IH483ukYQ2xX1",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Global patterns of 16S rRNA diversity at a depth of millions of ...www.pnas.org \u203a content \u203a Supplement_1",
+    "link": "https://www.pnas.org/content/108/Supplement_1/4516",
+    "description": "15.03.2011 \u00b7 In particular, the coevolution of new sequencing platforms and new ... to sequence a diverse array of 25 environmental samples and three\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.pnas.org/content/108/Supplement_1/4516&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBAWMAJ6BAgFEAE&usg=AOvVaw1pgvoKR30q4Fcpn9hz_OX-",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Example Sequence \u2014 Collaborative Computational Project for NMRwww.ccpn.ac.uk \u203a example-sequence \u203a view",
+    "link": "https://www.ccpn.ac.uk/v2-software/software/tutorials/analysis-beginners/example-sequence/view",
+    "description": "File contents. LYS ALA SER SER PRO SER SER LEU THR TYR LYS GLU MET ILE LEU LYS SER MET PRO GLN LEU ASN ASP GLY LYS GLY SER SER ARG\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ccpn.ac.uk/v2-software/software/tutorials/analysis-beginners/example-sequence/view&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBAWMAN6BAgHEAE&usg=AOvVaw3x5iqtT-CiS233T4UHe8t0",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Example of a sequence diagram - IBMwww.ibm.com \u203a docs \u203a topics \u203a rexampleseqdiag",
+    "link": "https://www.ibm.com/docs/SS4JE2_7.5.5/com.ibm.xtools.sequence.doc/topics/rexampleseqdiag.html",
+    "description": "The following example shows a sequence diagram taken from the PiggyBank sample that is available in the Samples Gallery, which describes the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ibm.com/docs/SS4JE2_7.5.5/com.ibm.xtools.sequence.doc/topics/rexampleseqdiag.html&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBAWMAR6BAgCEAE&usg=AOvVaw2nWdpLzRnGf50iNz64P9gy",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Worked example: sequence convergence/divergence (video) | Khan ...www.khanacademy.org \u203a math \u203a bc-series-new \u203a id...",
+    "link": "https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-1/v/identifying-sequence-convergence-divergence",
+    "description": "14.08.2016 \u00b7 How can we tell if a sequence converges or diverges? See Sal in action, determining the ...Dauer: 3:53Gepostet: 14.08.2016",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-1/v/identifying-sequence-convergence-divergence&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBC3AjAFegQIABAB&usg=AOvVaw0EwAGKhBlJ-N0OBwyOhuzC",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Example: symmetric sequence of integerswww.inf.unibz.it \u203a lecture-notes \u203a uni10 \u203a node22",
+    "link": "https://www.inf.unibz.it/~calvanese/teaching/04-05-ip/lecture-notes/uni10/node22.html",
+    "description": "Example: symmetric sequence of integers. A sequence of integers that are all positive except for a single 0 in the central position is said to be symmetric if the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.inf.unibz.it/~calvanese/teaching/04-05-ip/lecture-notes/uni10/node22.html&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBAWMAZ6BAgDEAE&usg=AOvVaw0odQHYuucSwPwfSIZWl1Ly",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Number Sequences (video lessons, examples and solutions)www.onlinemathlearning.com \u203a number-sequence",
+    "link": "https://www.onlinemathlearning.com/number-sequence.html",
+    "description": "How to Find The Next Term In A Number Sequence, Number Sequences - number patterns and ordering, How to find the nth Term of an Arithmetic Sequence,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinemathlearning.com/number-sequence.html&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBAWMAd6BAgBEAE&usg=AOvVaw0gv0kDtnmRas83z4Tgrntj",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "What are the advantages of using tf.train.SequenceExample over tf ...stackoverflow.com \u203a questions \u203a what-are-the-advan...",
+    "link": "https://stackoverflow.com/questions/45634450/what-are-the-advantages-of-using-tf-train-sequenceexample-over-tf-train-example",
+    "description": "Here are the definitions of the Example and SequenceExample protocol buffers, and all the protos they may contain: message BytesList\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://stackoverflow.com/questions/45634450/what-are-the-advantages-of-using-tf-train-sequenceexample-over-tf-train-example&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBAWMAh6BAgGEAE&usg=AOvVaw1wHG5ez0JE9-WOvYi9eYai",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Next-Generation Sequencing (NGS) | Explore the technology - Illuminawww.illumina.com \u203a science \u203a next-generation-sequ...",
+    "link": "https://www.illumina.com/science/technology/next-generation-sequencing.html",
+    "description": "For example, NGS allows researchers to: Rapidly sequence whole genomes; Deeply sequence target regions; Utilize RNA sequencing (RNA-Seq) to discover\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.illumina.com/science/technology/next-generation-sequencing.html&sa=U&ved=2ahUKEwjs8bWN2I3xAhXXq5UCHVI_Cmg4KBAWMAl6BAgEEAE&usg=AOvVaw0rxxoJcFWt7igDso6TnmEk",
+    "page": 4,
+    "index": 9
+  }
+]

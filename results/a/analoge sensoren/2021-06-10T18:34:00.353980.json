@@ -1,0 +1,402 @@
+[
+  {
+    "name": "",
+    "link": "https://www.computer-automation.de/feldebene/sensoren/digital-statt-analog.115820.html?sa=X&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQ9QF6BAgHEAI",
+    "description": "Ein analoger Sensor \u00fcbertr\u00e4gt sein Signal als analoges Strom- oder Spannungssignal (beispielsweise 4 bis 20 mA oder 0 bis 10 V).",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Analoge Sensoren allgemein und Beispiele | Techniker-Forumwww.techniker-forum.de \u203a ... \u203a Steuerungs- und Regelungstechnik, SPS",
+    "link": "https://www.techniker-forum.de/thema/analoge-sensoren-allgemein-und-beispiele.90770/",
+    "description": "28.12.2013 \u00b7 W\u00e4hrend der Sensor analog, also quasi stufenlos alle beliebigen Werte als Strom (oder Spannung) \u00fcbermittelt, arbeitet eine SPS oder ein\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.techniker-forum.de/thema/analoge-sensoren-allgemein-und-beispiele.90770/&sa=U&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQFjALegQICBAB&usg=AOvVaw0T40z-70DlhkZtnENl2r9a",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Sensoren: Arten, Einsatz, Hersteller \u2013 induuxWikiwiki.induux.de \u203a Hauptseite \u203a Produkte \u203a Mess-_und_Pr\u00fcftechnik \u203a Sensoren",
+    "link": "https://wiki.induux.de/Kategorie:Sensoren",
+    "description": "Analoge Sensoren haben Ausgangssignale die mehr Informationen als 0 und 1 enthalten. Sie k\u00f6nnen z.B. als Wegmesssysteme Abst\u00e4nde und Wege erfassen.",
+    "googleLink": "http://www.google.com/url?q=https://wiki.induux.de/Kategorie:Sensoren&sa=U&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQFjAMegQICRAB&usg=AOvVaw1RG_-5D8TsY0V9oSFm7WGd",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Vergleich von digitalen und analogen Temperatursensoren ...www.te.com \u203a Sensoren von TE \u203a Einblicke",
+    "link": "https://www.te.com/deu-de/industries/sensor-solutions/insights/digital-over-analog.html",
+    "description": "Digitale vs. analoge Messung. Diagramm. Trend. Sieben Aspekte der Gegen\u00fcberstellung von \u201edigital\u201c und \u201eanalog\u201c ... Kriterienvergleich mit analogen Sensoren.",
+    "googleLink": "http://www.google.com/url?q=https://www.te.com/deu-de/industries/sensor-solutions/insights/digital-over-analog.html&sa=U&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQFjANegQIBhAB&usg=AOvVaw1-HN7ouf13DAu7WJiKeOSi",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Teil 5 analoge Sensoren - Kreative Kistewww.kreativekiste.de \u203a sonne-wind-regen-sensoren-in-der-hausautomation...",
+    "link": "https://www.kreativekiste.de/sonne-wind-regen-sensoren-in-der-hausautomation-mit-siemens-logo",
+    "description": "20.02.2019 \u00b7 Kurz gesagt sind analoge Eing\u00e4ngen stufenlose Signale. Bei einem Schalter gibt es zwei Zust\u00e4nde EIN und AUS, bei Sensoren gibt es\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.kreativekiste.de/sonne-wind-regen-sensoren-in-der-hausautomation-mit-siemens-logo&sa=U&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQFjAOegQIChAB&usg=AOvVaw0LBPzKMYFxOrhC7Ovgz4Xb",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "9. analoge sensoren - TigerJython4Kidswww.tigerjython4kids.ch \u203a navigation.inc.php \u203a iot \u203a analog.inc.php",
+    "link": "https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/iot/analog.inc.php",
+    "description": "9. ANALOGE SENSOREN \u00b7 DU LERNST HIER... \u00b7 MUSTERBEISPIELE \u00b7 Lichtsensoren (Lichtabh\u00e4ngige Widerst\u00e4nde, LDR) \u00b7 Thermistoren \u00b7 Linearisierte analoge\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.tigerjython4kids.ch/index.php%3Finhalt_links%3Drobotik/navigation.inc.php%26inhalt_mitte%3Drobotik/iot/analog.inc.php&sa=U&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQFjAPegQIAhAB&usg=AOvVaw3Zv2sOnms90jbnPIDratR2",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "[PDF] 1. Bin\u00e4re Sensoren 2. Analoge Sensoren 3. Sensor-Signale 4 ...www.carl-engler-schule.de \u203a labortechnik \u203a sensorik_und_aktorik",
+    "link": "http://www.carl-engler-schule.de/culm/culm/culm2/a_klassen/labortechnik/sensorik_und_aktorik.pdf",
+    "description": "Die Sensoren geben jeweils ein proportionales Stromsignal von 4mA bis 20mA ab. a) Am Boden befindet sich ein Drucksensor, der ein Signal proportional zum\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.carl-engler-schule.de/culm/culm/culm2/a_klassen/labortechnik/sensorik_und_aktorik.pdf&sa=U&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQFjAQegQIARAB&usg=AOvVaw0bqSov9f4P3AEKemWSwWSO",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "[PDF] ( ! ( Analoge(Sensoren ...www.cs.uni-potsdam.de \u203a ~mprz \u203a uploads \u203a Gruppenpuzzle-ABs",
+    "link": "https://www.cs.uni-potsdam.de/~mprz/uploads/Gruppenpuzzle-ABs.pdf",
+    "description": "Digitale und analoge Sensoren und Aktoren in der MyIG-Toolbox Gruppe 1. Analoge Sensoren. Im kommenden Unterrichtsverlauf werdet ihr Eure geplanten\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cs.uni-potsdam.de/~mprz/uploads/Gruppenpuzzle-ABs.pdf&sa=U&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQFjARegQIAxAB&usg=AOvVaw14jmyfraifjk9opj2xMn8W",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Sensoren in der Steuerungstechnikueba.elkonet.de \u203a EAT \u203a ET+3_04+at \u203a InfoPool \u203a Fachtexte \u203a Senso...",
+    "link": "https://ueba.elkonet.de/multimedia/MM_UEBA_V2/EAT/ET+3_04+at/InfoPool/Fachtexte/Sensoren+Steuerungstechnik/Sensoren+Steuerungstechnik-p-20021334.pdf",
+    "description": "Bei der Unterteilung der Sensoren nach ihrer Signalart werden zwischen analogen, digitalen und bin\u00e4- ren Sensoren unterschieden. \u2022. Analoge Signale k\u00f6nnen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ueba.elkonet.de/multimedia/MM_UEBA_V2/EAT/ET%2B3_04%2Bat/InfoPool/Fachtexte/Sensoren%2BSteuerungstechnik/Sensoren%2BSteuerungstechnik-p-20021334.pdf&sa=U&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQFjASegQIABAB&usg=AOvVaw0TPmRa_qRs_XSOws3R7JfM",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Umstellung von einem analogen Sensor auf einen digitalen Sensor ...visaya.solutions \u203a article \u203a umstellung-von-einem-analogen-sensor-auf-eine...",
+    "link": "https://visaya.solutions/de/article/umstellung-von-einem-analogen-sensor-auf-einen-digitalen-sensor-mit-memosens",
+    "description": "15.08.2019 \u00b7 Was ist ein Analogsensor? Ein analytischer Sensor muss sein \u201erohes\u201c Signal haben, das in einen lesbaren Messwert umgewandelt wird. F\u00fcr\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://visaya.solutions/de/article/umstellung-von-einem-analogen-sensor-auf-einen-digitalen-sensor-mit-memosens&sa=U&ved=2ahUKEwitnpmov43xAhWnrpUCHUpRBasQFjATegQIBRAB&usg=AOvVaw2OF_6-sV05pBdevw7jThu8",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Analogsignal \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Analogsignal",
+    "link": "https://de.wikipedia.org/wiki/Analogsignal",
+    "description": "Im Gegensatz zu einem Digitalsignal weist ein Analogsignal einen stufenlosen und beliebig feinen Verlauf auf und kann im Dynamikbereich theoretisch unendlich\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Analogsignal&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAB6BAgAEAE&usg=AOvVaw3vMbDN1jdTd-yPzJaF43fr",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Sensor \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Sensor",
+    "link": "https://de.wikipedia.org/wiki/Sensor",
+    "description": "Zudem ist der \u00dcbertragungsweg zum auswertenden System analog und damit st\u00f6ranf\u00e4llig. Einfache Sensoren f\u00fcr Druck und Temperatur besitzen daher einen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Sensor&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAF6BAgJEAE&usg=AOvVaw2HwYBQ7iqfH3MajGwE4Mvr",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Digitaler vs. analoger Temperatursensor | Die Temperatur Profistemperatur-profis.de \u203a wissen \u203a temperaturfuehler \u203a digital-vs-analog",
+    "link": "https://temperatur-profis.de/wissen/temperaturfuehler/digital-vs-analog/",
+    "description": "Vor- und Nachteile digitaler Temperatursensoren. W\u00e4hrend analoge Temperaturf\u00fchler an der Messstelle lediglich mit dem eigentlichen Messelement best\u00fcckt\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://temperatur-profis.de/wissen/temperaturfuehler/digital-vs-analog/&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAJ6BAgHEAE&usg=AOvVaw0pi0xTbeh6vYJ3TcpZ4ISY",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Analoge Sensoren sind im Vorteil - Innovations Reportwww.innovations-report.de \u203a energie-und-elektrotechnik \u203a bericht-68679",
+    "link": "https://www.innovations-report.de/fachgebiete/energie-und-elektrotechnik/bericht-68679/",
+    "description": "07.08.2006 \u00b7 Diese neuen Contrinex-Analogsensoren sind technologisch f\u00fchrend und verf\u00fcgen \u00fcber einen bis zu dreifachen Erfassungsbereich gegen\u00fcber\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.innovations-report.de/fachgebiete/energie-und-elektrotechnik/bericht-68679/&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAN6BAgIEAE&usg=AOvVaw3hZoHi5R-QWldyrmtYH5YE",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Messwerterfassung: Analog vs. Digital | Yokogawa Industry Blogwww.yokogawa.com \u203a blog \u203a chemical-pharma \u203a messwerterfassung",
+    "link": "https://www.yokogawa.com/eu/blog/chemical-pharma/de/messwerterfassung/",
+    "description": "08.06.2017 \u00b7 pH-Sensoren messen nach dem Eintauchen, z.B. in eine Kalibrierl\u00f6sung, nicht sofort richtig. Der Sensor braucht Zeit, um mit der neuen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.yokogawa.com/eu/blog/chemical-pharma/de/messwerterfassung/&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAR6BAgBEAE&usg=AOvVaw3NvbmLbJN66HSu30mOkuwq",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Konverter macht analoge Sensoren fit f\u00fcr Industrie 4.0www.konstruktion-entwicklung.de \u203a konverter-macht-analoge-sensoren-fit...",
+    "link": "https://www.konstruktion-entwicklung.de/konverter-macht-analoge-sensoren-fit-fuer-industrie-40",
+    "description": "14.02.2020 \u00b7 Zur SPS 2019 hat IFM eine neue Serie IO-Link-Konverter vorgestellt, die Signale von analogen Sensoren in eine digitale\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.konstruktion-entwicklung.de/konverter-macht-analoge-sensoren-fit-fuer-industrie-40&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAV6BAgGEAE&usg=AOvVaw0Twqvhj4vvMfwJIZT7vJiX",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Analoge Sensoren | gro\u00dfes Messspektrum | ASC Sensorswww.asc-sensors.de \u203a analoge-sensoren",
+    "link": "https://www.asc-sensors.de/analoge-sensoren/",
+    "description": "Analoge Sensoren liefern eine gr\u00f6\u00dfere Bandbreite an Informationen als Sensoren mit digitalem Ausgangssignal - Flexible Datenverarbeitung.",
+    "googleLink": "http://www.google.com/url?q=https://www.asc-sensors.de/analoge-sensoren/&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAZ6BAgCEAE&usg=AOvVaw3k2531GttgSACxyh3ZYvD_",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Temperatursensoren - Analoge und digitale Ausgabe | Sensoren ...www.digikey.de \u203a products \u203a temperature-sensors-analog-and-digital-output",
+    "link": "https://www.digikey.de/products/de/sensors-transducers/temperature-sensors-analog-and-digital-output/518",
+    "description": "Sensoren, Wandler - Temperatursensoren - Analoge und digitale Ausgabe Auf Lager bei DigiKey. Jetzt bestellen! Sensoren, Wandler - Versand am selben Tag.",
+    "googleLink": "http://www.google.com/url?q=https://www.digikey.de/products/de/sensors-transducers/temperature-sensors-analog-and-digital-output/518&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAd6BAgDEAE&usg=AOvVaw0jngv9EX9VLS-uvla3OipL",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Analog Industrie-Sensoren g\u00fcnstig kaufen | eBaywww.ebay.de \u203a ... \u203a Sensoren \u203a Analog Industrie-Sensoren",
+    "link": "https://www.ebay.de/b/Analog-Industrie-Sensoren/181784/bn_76249893",
+    "description": "Ergebnissen 1 - 48 von 1886 \u00b7 Top-Angebote f\u00fcr Analog Industrie-Sensoren online entdecken bei eBay. Top Marken | G\u00fcnstige Preise | Gro\u00dfe Auswahl.",
+    "googleLink": "http://www.google.com/url?q=https://www.ebay.de/b/Analog-Industrie-Sensoren/181784/bn_76249893&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAh6BAgEEAE&usg=AOvVaw1hnegmPrne9keNlEt85MAU",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Analoge Induktive Sensoren - TURCKwww.turck.de \u203a attachment",
+    "link": "https://www.turck.de/attachment/d101301.pdf",
+    "description": "ANALOGE. INDUKTIVE. SENSOREN. Bitte senden Sie mir Unterlagen: Sensortechnik. \u2751 Induktive Sensoren. \u2751 Induktive Sensoren f\u00fcr. Schwenkantriebe.",
+    "googleLink": "http://www.google.com/url?q=https://www.turck.de/attachment/d101301.pdf&sa=U&ved=2ahUKEwiwiYqpv43xAhVtqJUCHdEXDF04ChAWMAl6BAgFEAE&usg=AOvVaw0Vgh-hJj745tfjNruu1p-N",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Analoge Sensoren \u2013 Leitfaden zur Fehlerbehebungwww.haascnc.com \u203a service \u203a analog-sensors---troubleshooting-guide---ngc",
+    "link": "https://www.haascnc.com/de/service/troubleshooting-and-how-to/troubleshooting/analog-sensors---troubleshooting-guide---ngc.html",
+    "description": "28.12.2020 \u00b7 Eine Haas-Maschine verf\u00fcgt je nach Jahrgang \u00fcber ein bis acht analoge Sensoren in verschiedenen Systemen in der gesamten Maschine.",
+    "googleLink": "http://www.google.com/url?q=https://www.haascnc.com/de/service/troubleshooting-and-how-to/troubleshooting/analog-sensors---troubleshooting-guide---ngc.html&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAB6BAgAEAE&usg=AOvVaw1VU5l2cKRQgKsDRPU4j-nC",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Anschlussbeispiel 7 - Analoge Sensoren anschliessen - Die ...www.allroundbastler.de \u203a sdm_downloads \u203a anschlussbeispiel-7-analoge-se...",
+    "link": "https://www.allroundbastler.de/sdm_downloads/anschlussbeispiel-7-analoge-sensoren-anschliessen/",
+    "description": "Anschlussbeispiel 7 \u2013 Analoge Sensoren anschliessen. Anschlussbeispiel 7 \u2013 Analoge Sensoren anschliessen. Jetzt herunterladen! Die Allroundbastler; Inh.",
+    "googleLink": "http://www.google.com/url?q=https://www.allroundbastler.de/sdm_downloads/anschlussbeispiel-7-analoge-sensoren-anschliessen/&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAF6BAgJEAE&usg=AOvVaw1zg2rfP2SxV-2O55JZl1qL",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "German - Beckhoff Information Systeminfosys.beckhoff.com \u203a content",
+    "link": "https://infosys.beckhoff.com/content/1031/ep4378/8395371531.html?id=7365975171781571171",
+    "description": "Analoge Sensoren, Anschluss-Beispiele 1: ... EP4378-1022 | EtherCAT Box mit 4 analogen Eing\u00e4ngen, 4 analogen Ausg\u00e4ngen, 8 digitalen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://infosys.beckhoff.com/content/1031/ep4378/8395371531.html%3Fid%3D7365975171781571171&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAJ6BAgIEAE&usg=AOvVaw1IQ5rV_xWhGGoF0zcvssD_",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "3700 Analoge induktive Leitf\u00e4higkeits-Sensoren | Hach Deutschland ...de.hach.com \u203a 3700-analoge-induktive-leitfahigkeits-sensoren \u203a family",
+    "link": "https://de.hach.com/leitfahigkeits-sensoren/3700-analoge-induktive-leitfahigkeits-sensoren/family?productCategoryId=23357839100",
+    "description": "Teilenummer: 3725E2T. Vergleichen. Geh\u00e4usematerial: Polypropylen, Kabell\u00e4nge: 6 m, Montage: Wechsel-Sonde (Convertible), EUR Preis: Kontakt.",
+    "googleLink": "http://www.google.com/url?q=https://de.hach.com/leitfahigkeits-sensoren/3700-analoge-induktive-leitfahigkeits-sensoren/family%3FproductCategoryId%3D23357839100&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAN6BAgHEAE&usg=AOvVaw3ZcwLYJFUteJKd7m9eksMA",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Der analoge Kompaktsensor f\u00fcr pH-Messung | Endress+Hauserwww.endress.com \u203a Produkte \u203a Analyse",
+    "link": "https://www.endress.com/de/messgeraete-fuer-die-prozesstechnik/fluessigkeitsanalyse-produktuebersicht/analoger-ph-sensor-CPF81",
+    "description": "Orbipac CPF81 ist die einfache analoge L\u00f6sung f\u00fcr pH-Messungen in rauen Umgebungen. Der Sensor misst zuverl\u00e4ssig und genau auch in faserigen Medien\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.endress.com/de/messgeraete-fuer-die-prozesstechnik/fluessigkeitsanalyse-produktuebersicht/analoger-ph-sensor-CPF81&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAR6BAgGEAE&usg=AOvVaw02OATO5NOc621S4KxhaKTd",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Der analoge Spezialsensor f\u00fcr die Redox-Messung in ...www.de.endress.com \u203a Produkte \u203a Analyse",
+    "link": "https://www.de.endress.com/CPS72",
+    "description": "Analoger Redox-Sensor Ceragel CPS72. Der Ceragel CPS72 ist ein analoger\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.de.endress.com/CPS72&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAV6BAgEEAE&usg=AOvVaw0C4iGLCoK1zBpu8_aNqIdK",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Vorteile von Sensoren mit analoger und digitaler Schnittstellewww.all-electronics.de \u203a Automatisierung",
+    "link": "https://www.all-electronics.de/automatisierung/vorteile-von-sensoren-mit-analoger-und-digitaler-schnittstelle.html",
+    "description": "05.02.2020 \u00b7 Die analoge Schnittstelle ist in der Prozessautomation nach wie vor sinnvoll, wenn der Anwender den Sensor an eine bestehende Steuerung\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.all-electronics.de/automatisierung/vorteile-von-sensoren-mit-analoger-und-digitaler-schnittstelle.html&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAZ6BAgCEAE&usg=AOvVaw2HpXBBYdc0Aap24lYh8OMN",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Analoge Hallsensoren - matronicmatronic.de \u203a produkte \u203a sensoren \u203a analoge-hallsensoren",
+    "link": "https://matronic.de/produkte/sensoren/analoge-hallsensoren/",
+    "description": "Allegro's linear position sensor IC portfolio supports analog, PWM and standard digital output protocols such as SENT (Single Edge Nibble Transmission) and\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://matronic.de/produkte/sensoren/analoge-hallsensoren/&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAd6BAgFEAE&usg=AOvVaw342DLAcPs_wVoczsUP8lcb",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Didactum | Analoge Sensoren - Technologie Portalwww.technologie-portal.de \u203a faq \u203a analoge-sensoren",
+    "link": "https://www.technologie-portal.de/faq/analoge-sensoren.html",
+    "description": "Zus\u00e4tzlich ist auf die maximale Kabell\u00e4nge des entsprechenden Sensors zu achten. Kann ich die analogen Sensoren im laufenden Betrieb in das Didactum Mess-\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.technologie-portal.de/faq/analoge-sensoren.html&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAh6BAgBEAE&usg=AOvVaw2-gF1N2uyT_M6NbolwPMeK",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Datenlogger mit Analogeingang f\u00fcr externe Sensoren - eplusewww.epluse.com \u203a Feuchte \u203a Feuchte Datenlogger",
+    "link": "https://www.epluse.com/de/produkte/feuchtemesstechnik/feuchte-temperatur-aufzeichnung/humlog20e/",
+    "description": "Datenlogger mit Analog- und Digitaleingang f\u00fcr externe Sensoren. Feuchte / Temperatur / Strom / Spannung / Pt100 / Thermoelement. Netzwerkf\u00e4hig durch\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.epluse.com/de/produkte/feuchtemesstechnik/feuchte-temperatur-aufzeichnung/humlog20e/&sa=U&ved=2ahUKEwj9_s2pv43xAhVLppUCHZ1MCbE4FBAWMAl6BAgDEAE&usg=AOvVaw15S-kIurEnpfmFkAaEJd32",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Digitalisierung von Sensoren: die Zukunft ist schon Realit\u00e4t - X ...www.x-sensors.de \u203a digitalisierung-von-industrie-sensoren",
+    "link": "https://www.x-sensors.de/de/digitalisierung-von-industrie-sensoren",
+    "description": "Wir erm\u00f6glichen die Digitalisierung der Sensoren und helfen Ihnen bei der Erfassung ... Es k\u00f6nnen sowohl analoge als auch digitale Sensoren integriert und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.x-sensors.de/de/digitalisierung-von-industrie-sensoren&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAB6BAgEEAE&usg=AOvVaw11vKjf8XXU_Vj2cF4AEpa8",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Baumer Leitfaden f\u00fcr analoge Sensor-Schnittstellenwww.baumer.com \u203a medias \u203a __secure__ \u203a Baumer_Analog_Sensor_...",
+    "link": "https://www.baumer.com/medias/__secure__/Baumer_Analog_Sensor_Interfaces_Guideline_V1.00_DE.pdf?mediaPK=8994714517534",
+    "description": "29.04.2020 \u00b7 Bei der Zwei-Leiter-Stromschleife ist der Sensor eine passive Stromsenke. Daf\u00fcr muss der Analogeingang der Steuereinrichtung eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.baumer.com/medias/__secure__/Baumer_Analog_Sensor_Interfaces_Guideline_V1.00_DE.pdf%3FmediaPK%3D8994714517534&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAF6BAgJEAE&usg=AOvVaw2frkpaOD7DsRTh8GAsSiRf",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "sensoren - CALLIOPEcalliope.cc \u203a calliope-mini \u203a erweiterungen \u203a sensoren",
+    "link": "https://calliope.cc/calliope-mini/erweiterungen/sensoren",
+    "description": "Der wesentliche Unterschied ist, dass der A0 Anschluss nur digital ist, wohingegen mit dem A1 Anschluss auch analoge Signale \u00fcbertragen werden k\u00f6nnen. Den\u00a0...\n\nAnschl\u00fcsse: GND, +3v3, C18 (SDA), C19 (SCL)",
+    "googleLink": "http://www.google.com/url?q=https://calliope.cc/calliope-mini/erweiterungen/sensoren&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAJ6BAgHEAE&usg=AOvVaw3N3Cvi6jphfXkTcdjxPd5X",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Verl\u00e4ngerungskabel f\u00fcr analoge Sensoren (EXT-BTA) | Techni ...www.techniscience.com \u203a ... \u203a Datalogging Vernier \u203a Datalogger",
+    "link": "https://www.techniscience.com/de/de/verlangerungskabel-fur-analoge-sensoren-ext-bta/product/1612/",
+    "description": "Artikelnummer: 100494. 21,42 \u20ac inkl. MwSt. Menge. Zum Warenkorb hinzuf\u00fcgen. Seite drucken. Beschreibung. Verl\u00e4ngerungskabel f\u00fcr analoge Sensoren\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.techniscience.com/de/de/verlangerungskabel-fur-analoge-sensoren-ext-bta/product/1612/&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAN6BAgIEAE&usg=AOvVaw2XPQhNIeViqluJQ-lZYkGp",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Messelektronik und Sensoren - Grundlagen der Messtechnik ...www.springer.com \u203a book",
+    "link": "https://www.springer.com/de/book/9783658005481",
+    "description": "Grundlagen der Messtechnik, Sensoren, analoge und digitale Signalverarbeitung. Autoren: Bernstein, Herbert. Vorschau. F\u00fcr Technikerschulen super geeignet\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.springer.com/de/book/9783658005481&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAR6BAgCEAE&usg=AOvVaw0DtV0nrSXkTYaY2HaHD6Sy",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Analoge Temperatursensoren | \u00dcbersicht | Sensoren | TI.comwww.ti.com \u203a de-de \u203a sensors \u203a temperature-sensors \u203a analog \u203a overview",
+    "link": "https://www.ti.com/de-de/sensors/temperature-sensors/analog/overview.html",
+    "description": "Analoge Temperatursensoren liefern ein sehr lineares Spannungs- oder Stromausgangssignal proportional zur Temperatur. Ihr geringer Stromverbrauch\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ti.com/de-de/sensors/temperature-sensors/analog/overview.html&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAV6BAgBEAE&usg=AOvVaw1P-tzgm_SCj9tGNpd07BVR",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Analoger Sensor (einzeln) - ETS ENERGIETECHNIK ST\u00dcBERwww.oelkontrolle.de \u203a ... \u203a \u00d6lniveauregler mit analogen Sensoren",
+    "link": "https://www.oelkontrolle.de/Einzelkomponenten/Analoge-Niveausonden/Analoger-Sensor-einzeln",
+    "description": "Analoge Sensoren dieser Serie werden zur kontinuierlichen \u00dcberwachung eingesetzt. Das Ausgangssignal von 4 - 20 mA l\u00e4sst sich sehr einfach beliebig vielen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oelkontrolle.de/Einzelkomponenten/Analoge-Niveausonden/Analoger-Sensor-einzeln&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAZ6BAgFEAE&usg=AOvVaw2E8EHwheuRd8-y-1xU6gWs",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Sensoren und Aktoren Digitaltechnik - PDF Kostenfreier Downloaddocplayer.org \u203a 598937-Sensoren-und-aktoren-digitaltechnik",
+    "link": "https://docplayer.org/598937-Sensoren-und-aktoren-digitaltechnik.html",
+    "description": "4 1.2 Analoge Sensoren Begriff: Mit analogen Sensoren lassen sich physikalische Gr\u00f6\u00dfen wie z. B. Weg und Temperatur als analoge elektrische Gr\u00f6\u00dfen z.",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/598937-Sensoren-und-aktoren-digitaltechnik.html&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAd6BAgAEAE&usg=AOvVaw2HG_XND7iuwJnYkxgvy8xG",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Analoge Sauerstoffsensoren - WTW - Xylem Analyticswww.xylemanalytics.com \u203a general-product \u203a analoge-sauerstoffsensoren--...",
+    "link": "https://www.xylemanalytics.com/de/general-product/id-166/analoge-sauerstoffsensoren---wtw",
+    "description": "Analoge Elektrochemische Sauerstoffsensoren. WTW Analoger Sauerstoff-\u200bSensor TriOxmatic\u00ae 700. Die TriOxmatic\u00ae mit 3-Elektrodensystem f\u00fcr die verl\u00e4ssliche\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.xylemanalytics.com/de/general-product/id-166/analoge-sauerstoffsensoren---wtw&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAh6BAgDEAE&usg=AOvVaw3-fGJ6xyz6J7e2DcqPRL32",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Analog Sensoren optisch - f\u00fcr das perfekte Stanzen & Umformenwww.unidor.info \u203a produkte \u203a sensoren \u203a analogsensorenoptisch",
+    "link": "https://www.unidor.info/produkte/sensoren/analogsensorenoptisch/index.html",
+    "description": "m\u00f6glich. Ein analoger Sensor erfasst den gesamten Weg / Bereich und gibt diesen als analoges Spannungs- oder. Stromsignal aus. Sensoren mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.unidor.info/produkte/sensoren/analogsensorenoptisch/index.html&sa=U&ved=2ahUKEwidsP6pv43xAhVjrpUCHeGFBFs4HhAWMAl6BAgGEAE&usg=AOvVaw0rQX2rLou-xE39zBiZzi1R",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "ARCUS SK08-AN2 KNX 2-fach Analogmodul f\u00fcr analoge Sensoren ...www.voltus.de \u203a ... \u203a Physikalische + Chemische Messtechik",
+    "link": "https://www.voltus.de/hausautomation/knx-eib/nach-hersteller/arcus-eds-o/sensorik-temperatur/physikalische-chemische-messtechik/arcus-sk08-an2-knx-2-fach-analogmodul-fuer-analoge-sensoren.html",
+    "description": "ARCUS SK08-AN2 KNX 2-fach Analogmodul f\u00fcr analoge Sensoren - In der Produktreihe S8 stehen Sensoren und Regler f\u00fcr eine Vielzahl physikalischer und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.voltus.de/hausautomation/knx-eib/nach-hersteller/arcus-eds-o/sensorik-temperatur/physikalische-chemische-messtechik/arcus-sk08-an2-knx-2-fach-analogmodul-fuer-analoge-sensoren.html&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAB6BAgFEAE&usg=AOvVaw0oR90CYb7swmAdZxXNhYRb",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Digitale und analoge Sensoren an einem Ger\u00e4t. Multiparameter ...prozesstechnik.industrie.de \u203a Chemie \u203a MSR-Technik (Chemie)",
+    "link": "https://prozesstechnik.industrie.de/chemie/digitale-und-analoge-sensoren-an-einem-geraet-2/",
+    "description": "26.04.2019 \u00b7 An die Analysenmessger\u00e4te lassen sich Memosens-, digitale sowie analoge Sensoren anschlie\u00dfen. Au\u00dferdem z\u00e4hlen ein hochaufl\u00f6sendes\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://prozesstechnik.industrie.de/chemie/digitale-und-analoge-sensoren-an-einem-geraet-2/&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAF6BAgHEAE&usg=AOvVaw1dz4wpKPP9pdjNhyRsEXDp",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Hochpr\u00e4zise Neigungs-Sensoren mit Analogausgang / LEVELMATICwww.wylerag.com \u203a analoger-neigungssensor-levelmatic",
+    "link": "https://www.wylerag.com/de/analoger-neigungssensor-levelmatic/",
+    "description": "Bei den Sensoren LEVELMATIC handelt es sich um einen analogen Sensor mit ... ANALOGE NEIGUNGSSENSOREN LEVELMATIC 31 und LEVELMATIC C.",
+    "googleLink": "http://www.google.com/url?q=https://www.wylerag.com/de/analoger-neigungssensor-levelmatic/&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAJ6BAgJEAE&usg=AOvVaw1NdNTYdtr3qpFHyJHqN6Io",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "HIM-Klimasensoren- kombinierte digitale und analoge Sensoren ...www.meteorologyshop.eu \u203a sensoren \u203a klimasensoren",
+    "link": "https://www.meteorologyshop.eu/sensoren/klimasensoren/",
+    "description": "Die Klimasensoren dienen der Erfassung von Parametern zur Steuerung von externen Ger\u00e4ten und / oder zur Erfassung analoger oder digitaler Messdaten.",
+    "googleLink": "http://www.google.com/url?q=https://www.meteorologyshop.eu/sensoren/klimasensoren/&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAN6BAgIEAE&usg=AOvVaw3PqcF3sPklOgctb7Mb_3JS",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Sensoren am Arduino: Analoge und digitale Daten messen ...www.amazon.de \u203a Sensoren-Arduino-verarbeiten-Wasserstand-Professional...",
+    "link": "https://www.amazon.de/Sensoren-Arduino-verarbeiten-Wasserstand-Professional-ebook/dp/B00W3X2I34",
+    "description": "Sensoren am Arduino: Analoge und digitale Daten messen, verarbeiten und anzeigen: Abstand, Gas, Schall, Schwei\u00df, Strom,Temperatur, Wasserstand und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.amazon.de/Sensoren-Arduino-verarbeiten-Wasserstand-Professional-ebook/dp/B00W3X2I34&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAR6BAgAEAE&usg=AOvVaw1TsDws5DjbxAYkeNoaUAYk",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Buttons und Analoge Sensoren lesen - Haackinghaacking.de \u203a analoge-sensoren-und-buttons-lesen",
+    "link": "https://haacking.de/analoge-sensoren-und-buttons-lesen/",
+    "description": "Buttons und Analoge Sensoren lesen. Buttons auswerten. Buttons auswerten ist simple. Mit digitalRead() kann das Spannungslevel am Pin gemessen werden. Ist\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://haacking.de/analoge-sensoren-und-buttons-lesen/&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAV6BAgBEAE&usg=AOvVaw0CbOYiAfqZ_kwxIQqEU9qR",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Analoger Abstandssensor, Analogausgang-Abstandssensor - alle ...www.directindustry.de \u203a industrie-hersteller \u203a analoger-abstandssensor-105...",
+    "link": "https://www.directindustry.de/industrie-hersteller/analoger-abstandssensor-105923.html",
+    "description": "Sensoren setzen Rotlicht oder Laser ein. Sie sind in langlebigen Kunststoff- oder Metallgeh\u00e4usen untergebracht und verf\u00fcgen \u00fcber analoge Strom- und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.directindustry.de/industrie-hersteller/analoger-abstandssensor-105923.html&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAZ6BAgDEAE&usg=AOvVaw31EtFIZP-uhXBmueTiv-jj",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Pulsotronicwww.pulsotronic.de \u203a jproofpulsotronic \u203a articleslist \u203a 18-testliste",
+    "link": "https://www.pulsotronic.de/de/component/jproofpulsotronic/articleslist/18-testliste?Itemid=100268",
+    "description": "SJ4-M18MB80-ANUI, 08313180410, induktiver Sensor DC analog, b\u00fcndig, analog, analog Strom/Spannung, Kabel. SJ7-M18MN80-ANUI, 08313180710\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.pulsotronic.de/de/component/jproofpulsotronic/articleslist/18-testliste%3FItemid%3D100268&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAd6BAgGEAE&usg=AOvVaw02bS0NWe4qGFT23IcBEk-c",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Frequenzumrichter-Analoge Sensoren anschlie\u00dfen, parametrierenwww.sourcetronic.com \u203a faq \u203a st500-analoge-sensoren-wie-werden-diese-a...",
+    "link": "https://www.sourcetronic.com/faq/st500-analoge-sensoren-wie-werden-diese-angeschlossen-und-parametriert/",
+    "description": "ST500er | Analoge Sensoren \u2013 Wie werden diese angeschlossen und parametriert? Es gibt eine Vielzahl von Sensoren (z.B. Drucksensoren,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sourcetronic.com/faq/st500-analoge-sensoren-wie-werden-diese-angeschlossen-und-parametriert/&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAh6BAgCEAE&usg=AOvVaw2VYU6ognxtLE5wLK6icXrv",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Analoge Sensoren Archive \u2013 Raspberry Pi Tutorialstutorials-raspberrypi.de \u203a tag \u203a analoge-sensoren",
+    "link": "https://tutorials-raspberrypi.de/tag/analoge-sensoren/",
+    "description": "Viele der urspr\u00fcnglich f\u00fcr den Arduino entwickelten Sensoren bieten keine digitale Schnittstelle und sind nur analog auslesbar. Das Problem dabei besteht,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://tutorials-raspberrypi.de/tag/analoge-sensoren/&sa=U&ved=2ahUKEwiXn7aqv43xAhUuppUCHW_JCFw4KBAWMAl6BAgEEAE&usg=AOvVaw3lR3ORZC75gOkDA5ti6Rki",
+    "page": 4,
+    "index": 9
+  }
+]

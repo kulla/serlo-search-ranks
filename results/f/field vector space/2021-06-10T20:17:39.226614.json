@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Vector Spaces and Field Extensions | SpringerLinklink.springer.com \u203a chapter",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-319-77649-1_12",
+    "description": "13.04.2018 \u00b7 Any extension field K of F is a vector space over F, using the addition operation in K and multiplication in K as the scalar multiplication. (All the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/chapter/10.1007/978-3-319-77649-1_12&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAB6BAgCEAE&usg=AOvVaw2f_ViKXJOX8Zs3bXAF5rxl",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Axioms for Fields and Vector Spaces - People @ EECS at UC ...people.eecs.berkeley.edu \u203a ~wkahan \u203a MathH110 \u203a Axioms",
+    "link": "https://people.eecs.berkeley.edu/~wkahan/MathH110/Axioms.pdf",
+    "description": "17.05.2000 \u00b7 W. Kahan. Page 1. Axioms for Fields and Vector Spaces. The subject matter of Linear Algebra can be deduced from a relatively small set of first.",
+    "googleLink": "http://www.google.com/url?q=https://people.eecs.berkeley.edu/~wkahan/MathH110/Axioms.pdf&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAF6BAgJEAE&usg=AOvVaw0DJK1A6FSOPBdvAsVTpMMB",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] 6. Fields and Subspaces Since linear algebra is such a powerful tool ...math.mit.edu \u203a ~mckernan \u203a Teaching \u203a Autumn",
+    "link": "https://math.mit.edu/~mckernan/Teaching/08-09/Autumn/18.700/l_6.pdf",
+    "description": "A field F is a set with two operations addition and multiplication,. +: F \u00d7 F \u2212\u2192 F ... There are two trivial subspaces of any vector space. The subset consisting of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.mit.edu/~mckernan/Teaching/08-09/Autumn/18.700/l_6.pdf&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAJ6BAgIEAE&usg=AOvVaw20R467v8JAOAh-sv-GsVF2",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] What is a Vector Space?www.math.toronto.edu \u203a gscott \u203a WhatVS",
+    "link": "http://www.math.toronto.edu/gscott/WhatVS.pdf",
+    "description": "I had trouble understanding abstract vector spaces when I took linear ... I give the formal definition of a vector space, I first need to define the concept of a field.",
+    "googleLink": "http://www.google.com/url?q=http://www.math.toronto.edu/gscott/WhatVS.pdf&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAN6BAgHEAE&usg=AOvVaw0Mbg8BiB5YlgCcscts5pss",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Field as a vector space \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Field_as_a_vector_space",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Field_as_a_vector_space",
+    "description": "Field as a vector space \u2013 Serlo. Sprache; Beobachten \u00b7 Bearbeiten \u00b7 UnderCon icon.svg. Diese Seite ist noch im Entstehen und noch nicht offizieller Bestandteil\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Field_as_a_vector_space&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAR6BAgGEAE&usg=AOvVaw0HnAyiQuMfBFJbXLWCUUiJ",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Change base Field of Vector Space - ASKSAGE: Sage Q&A Forumask.sagemath.org \u203a question \u203a change-base-field-of-...",
+    "link": "https://ask.sagemath.org/question/47554/change-base-field-of-vector-space/",
+    "description": "21.08.2019 \u00b7 Given a number field $L$, I can construct a vector space $V$ over the rational field as follows : V,fr,to = L.vector_space() Now, if I want to define\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ask.sagemath.org/question/47554/change-base-field-of-vector-space/&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAV6BAgDEAE&usg=AOvVaw1_u-dhR6JD8aLNj9bEZo0M",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Vector Spacessites.millersville.edu \u203a vectorspace \u203a vectorspace",
+    "link": "https://sites.millersville.edu/bikenaga/linear-algebra/vectorspace/vectorspace.html",
+    "description": "A vector space (which I'll define below) consists of two sets: A set of objects called vectors and a field (the scalars). Definition. A vector space V over a field F is a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://sites.millersville.edu/bikenaga/linear-algebra/vectorspace/vectorspace.html&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAZ6BAgEEAE&usg=AOvVaw1PKWk5MLNzB5EzN9l-96LO",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] The University of Sydney MATH2902 Vector Spaces Semester1 ...www.maths.usyd.edu.au \u203a bobh \u203a UoS \u203a MATH2902",
+    "link": "http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/2001t05.pdf",
+    "description": "Tutorial 5. 1. In each case decide whether or not the set S is a vector space over the field. F, relative to obvious operations of addition and scalar multiplication.",
+    "googleLink": "http://www.google.com/url?q=http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/2001t05.pdf&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAd6BAgAEAE&usg=AOvVaw07Dq9T4NxSfrd9PlUM9G2G",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Vector Spaceswww.ikbooks.com \u203a home \u203a samplechapter",
+    "link": "https://www.ikbooks.com/home/samplechapter?filename=76_Sample_Chapter.pdf",
+    "description": "space over the field R of real numbers with respect to the addition of matrices as vector addition and multiplication of a matrix by a scalar as scalar multiplication.",
+    "googleLink": "http://www.google.com/url?q=https://www.ikbooks.com/home/samplechapter%3Ffilename%3D76_Sample_Chapter.pdf&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAh6BAgBEAE&usg=AOvVaw3QxVBDr8CFyWF26ia7PLdy",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Vector Space -- from Wolfram MathWorldmathworld.wolfram.com \u203a VectorSpace",
+    "link": "https://mathworld.wolfram.com/VectorSpace.html",
+    "description": "be a vector space of dimension n over the field of q elements (where q is necessarily a power of a prime number). Then the number of distinct nonsingular linear\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/VectorSpace.html&sa=U&ved=2ahUKEwid77-51o3xAhUrrpUCHW8MDSI4FBAWMAl6BAgFEAE&usg=AOvVaw29ZISXBDneScLZQIfo2o5e",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Subfields as a vector space over the field | Math Forumsmathforums.com \u203a ... \u203a Linear Algebra",
+    "link": "https://mathforums.com/threads/subfields-as-a-vector-space-over-the-field.14293/",
+    "description": "25.08.2010 \u00b7 Any student of linear algebra knows that every field, F, can be considered as a vecrtor space over itself. For example the set of real numbers R\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathforums.com/threads/subfields-as-a-vector-space-over-the-field.14293/&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBAWMAB6BAgCEAE&usg=AOvVaw3KbWKDsmPnSNcZEynwsIAb",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] MTH6140 Linear Algebra II 1 Vector spaceswww.maths.qmul.ac.uk \u203a ~twm \u203a MTH6140",
+    "link": "http://www.maths.qmul.ac.uk/~twm/MTH6140/la21.pdf",
+    "description": "Definition 1.2 A vector space V over a field K is an algebraic system consisting of a non-empty set V equipped with a binary operation + (vector addition), and an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.maths.qmul.ac.uk/~twm/MTH6140/la21.pdf&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBAWMAF6BAgJEAE&usg=AOvVaw0AI0GgX7Z1vciGXYvlsiHU",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Vector Spaces over Arbitrary Fields | A Course on Abstract Algebrawww.worldscientific.com \u203a doi",
+    "link": "https://www.worldscientific.com/doi/10.1142/9789813229631_0020",
+    "description": "In an introductory course to Linear Algebra, the emphasis is usually on vector spaces and matrices over the field \u211d. However, probably eighty percent of the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.worldscientific.com/doi/10.1142/9789813229631_0020&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBAWMAJ6BAgIEAE&usg=AOvVaw0g2d-FjyOMNHMET_PWFdHa",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Vector spaces and linear maps - Stanford Universityweb.stanford.edu \u203a class \u203a vectorspaces",
+    "link": "https://web.stanford.edu/class/math61cm/vectorspaces.pdf",
+    "description": "8 of the text (over R, but it works over any field). Definition 1 A vector space (V,+,\u00b7) over a field F is a set V with two maps + : V \u00d7 V\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://web.stanford.edu/class/math61cm/vectorspaces.pdf&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBAWMAN6BAgHEAE&usg=AOvVaw3JzcrbGQVomyGsrRPb0iMP",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Vector Spaces and Linear Mapssma.epfl.ch \u203a ~field \u203a teaching",
+    "link": "http://sma.epfl.ch/~field/teaching/M163script14.pdf",
+    "description": "In examples, you need only consider the field F = R. 14.1 Vector spaces. Definition 14.1. A vector space over F is a set V with two operations,. V\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sma.epfl.ch/~field/teaching/M163script14.pdf&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBAWMAR6BAgGEAE&usg=AOvVaw2FMDjRIO-cPYorvmaGBSLS",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Vector Spaces: Definition & Example - Video & Lesson Transcript ...study.com \u203a Courses \u203a Math Courses",
+    "link": "https://study.com/academy/lesson/vector-spaces-definition-example.html",
+    "description": "25.11.2017 \u00b7 A field is a space of individual numbers, usually real or complex numbers. The specific axioms ...Dauer: 15:48Gepostet: 25.11.2017",
+    "googleLink": "http://www.google.com/url?q=https://study.com/academy/lesson/vector-spaces-definition-example.html&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBC3AjAFegQIAxAB&usg=AOvVaw1CbulWOjwukCUgHJbiIWaO",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "What is a Field, a Vector Space ? (Abstract Algebra) | Math Online ...tomcircle.wordpress.com \u203a 2017/03/06 \u203a what-is-a-...",
+    "link": "https://tomcircle.wordpress.com/2017/03/06/what-is-a-vector-space-abstract-algebra/",
+    "description": "06.03.2017 \u00b7 Suitable for Upper Secondary School and Junior College Math Students. Abstract Algebra is ...Dauer: 5:37Gepostet: 06.03.2017",
+    "googleLink": "http://www.google.com/url?q=https://tomcircle.wordpress.com/2017/03/06/what-is-a-vector-space-abstract-algebra/&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBC3AjAGegQIABAB&usg=AOvVaw1j7lxz3nHJuaukbClHsjlQ",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Lecture 2. The Categories of Vector Spaces PCMI Summer 2015 ...www.math.utah.edu \u203a ~bertram \u203a PCMI15 \u203a VectorSpaces",
+    "link": "https://www.math.utah.edu/~bertram/PCMI15/VectorSpaces.pdf",
+    "description": "Fp = {0,1, ..., p \u2212 1} together with \u201cmod p\u201d addition and multiplication is a field. 1. Page 2. 2. The standard vector space of dimension n\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.utah.edu/~bertram/PCMI15/VectorSpaces.pdf&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBAWMAd6BAgEEAE&usg=AOvVaw0347KcLbOi-X77NC2piSFA",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] 6. Vector Spaces - UC Davis Mathwww.math.ucdavis.edu \u203a ~linear \u203a old \u203a notes6",
+    "link": "https://www.math.ucdavis.edu/~linear/old/notes6.pdf",
+    "description": "Definition A vector space (over R) is a set V with two operations + and \u00b7 satisfying the following ... One can actually define vector spaces over any field. A field is a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.ucdavis.edu/~linear/old/notes6.pdf&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBAWMAh6BAgBEAE&usg=AOvVaw2WvcRCxvyn7tuKTscSTfHW",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Vector spaces - wiki.math.ntnu.nowiki.math.ntnu.no \u203a linearmethods \u203a basicspaces \u203a v...",
+    "link": "https://wiki.math.ntnu.no/linearmethods/basicspaces/vectorspaces",
+    "description": "If the field of scalars R is replaced with C one obtains instead a complex vector space. N.b. 1 The notion of a vector space and that of a linear space are identitical.",
+    "googleLink": "http://www.google.com/url?q=https://wiki.math.ntnu.no/linearmethods/basicspaces/vectorspaces&sa=U&ved=2ahUKEwjZ1L--1o3xAhWblZUCHe2kB5w4KBAWMAl6BAgFEAE&usg=AOvVaw3QpDxXKcM-e2yFZXs9QWsC",
+    "page": 4,
+    "index": 9
+  }
+]

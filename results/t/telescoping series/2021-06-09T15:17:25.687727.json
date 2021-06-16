@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Telescoping series - Wikipediaen.wikipedia.org \u203a wiki \u203a Telescoping_series",
+    "link": "https://en.wikipedia.org/wiki/Telescoping_series",
+    "description": "In general[edit] ... Telescoping sums are finite sums in which pairs of consecutive terms cancel each other, leaving only the initial and final terms. ... be a sequence of\u00a0...\nIn general \u00b7 More examples \u00b7 An application in ... \u00b7 Similar concepts",
+    "googleLink": "http://www.google.com/url?q=https://en.wikipedia.org/wiki/Telescoping_series&sa=U&ved=2ahUKEwiU-6DA0YrxAhXLPn0KHc8MCLYQFjAAegQICxAB&usg=AOvVaw2UI98_1zEOe2nZPdJ433dz",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Telescoping Series - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=XVkdhU6nJbo",
+    "description": "28.03.2018 \u00b7 It also explains how to use the telescoping series to find the sum of the infinite series by taking ...Dauer: 23:39Gepostet: 28.03.2018",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DXVkdhU6nJbo&sa=U&ved=2ahUKEwiU-6DA0YrxAhXLPn0KHc8MCLYQtwIwCnoECAQQAQ&usg=AOvVaw0qv-cztf86XNoPyqaOVm0E",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Telescoping Series , Finding the Sum, Example 1 - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=H8HVYiEqzBo",
+    "description": "01.07.2011 \u00b7 Thanks to all of you who support me on Patreon. You da real mvps! $1 per month helps!! :) https ...Dauer: 7:00Gepostet: 01.07.2011",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DH8HVYiEqzBo&sa=U&ved=2ahUKEwiU-6DA0YrxAhXLPn0KHc8MCLYQtwIwC3oECAMQAQ&usg=AOvVaw0jChvd6h_2felE8zIqEE-0",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Telescoping series (video) | Series | Khan Academywww.khanacademy.org \u203a ... \u203a Telescoping series",
+    "link": "https://www.khanacademy.org/math/integral-calculus/ic-series/ic-telescoping-series/v/telescoping-series",
+    "description": "27.11.2013 \u00b7 Telescoping series is a series where all terms cancel out except for the first and last one. This ...Dauer: 12:31Gepostet: 27.11.2013",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/integral-calculus/ic-series/ic-telescoping-series/v/telescoping-series&sa=U&ved=2ahUKEwiU-6DA0YrxAhXLPn0KHc8MCLYQtwIwDHoECAEQAQ&usg=AOvVaw2f6KEog_JlCpLxZlTY9LmI",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Telescoping Series - Sum | Brilliant Math & Science Wikibrilliant.org \u203a wiki \u203a telescoping-series",
+    "link": "https://brilliant.org/wiki/telescoping-series/",
+    "description": "A telescoping series is a series where each term u k u_k uk\u200b can be written as u k = t k \u2212 t k + 1 u_k = t_{k} - t_{k+1} uk\u200b=tk\u200b\u2212tk+1\u200b for some series t k t_{k}\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://brilliant.org/wiki/telescoping-series/&sa=U&ved=2ahUKEwiU-6DA0YrxAhXLPn0KHc8MCLYQFjANegQIBRAB&usg=AOvVaw2HSQhhhljFYgRv2EqA7BNc",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Telescoping Series - Oregon State Universitysites.science.oregonstate.edu \u203a SandS \u203a SeriesTests",
+    "link": "http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/SandS/SeriesTests/telescoping.html",
+    "description": "Telescoping Series \u00b7 the sum over n from 1 to infinity of 1/n - 1/( \u00b7 the sum over i from 1 to n of 1/i - 1/( \u00b7 = 1 - 1/(n+1) \u00b7 the sum over n from 1 to infinity of n - (n + 1) \u00b7 the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/SandS/SeriesTests/telescoping.html&sa=U&ved=2ahUKEwiU-6DA0YrxAhXLPn0KHc8MCLYQFjAOegQIChAB&usg=AOvVaw2Nx7qdFO1bAKUsnHY5lLPg",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Telescoping sums and series \u2013 Serlo \u2013 Wikibooks, Sammlung freier ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Telescoping_sums_and_series",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Telescoping_sums_and_series",
+    "description": "Telescoping sums and series \u2013 Serlo ... Telescoping series are certain series where summands cancel against each other. This makes evaluating them particularly\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Telescoping_sums_and_series&sa=U&ved=2ahUKEwiU-6DA0YrxAhXLPn0KHc8MCLYQFjAPegQIAhAB&usg=AOvVaw05e9IwFR6uvg9Sq-dM4kpz",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Calculus II - Special Series - Pauls Online Math Notestutorial.math.lamar.edu \u203a classes \u203a calcii \u203a series_spe...",
+    "link": "https://tutorial.math.lamar.edu/classes/calcii/series_special.aspx",
+    "description": "31.05.2018 \u00b7 In this section we will look at three series that either show up ... We will examine Geometric Series, Telescoping Series, and Harmonic Series.",
+    "googleLink": "http://www.google.com/url?q=https://tutorial.math.lamar.edu/classes/calcii/series_special.aspx&sa=U&ved=2ahUKEwiU-6DA0YrxAhXLPn0KHc8MCLYQFjAQegQICRAB&usg=AOvVaw0m8YTHjuqxgYCGHJ4h8Dfx",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Telescoping Series - Calcworkshopcalcworkshop.com \u203a ... \u203a Telescoping Series",
+    "link": "https://calcworkshop.com/sequences-series/telescoping-series/",
+    "description": "22.01.2020 \u00b7 The Telescoping Series! This type of infinite series utilizes the technique of Partial Fractions which is a way for us to express a rational function (\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://calcworkshop.com/sequences-series/telescoping-series/&sa=U&ved=2ahUKEwiU-6DA0YrxAhXLPn0KHc8MCLYQFjARegQICBAB&usg=AOvVaw0_5uaLlXBg66DwGRDcBxzb",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "How to Analyze a Telescoping Series - dummies - Dummies.comwww.dummies.com \u203a education \u203a math \u203a calculus",
+    "link": "https://www.dummies.com/education/math/calculus/how-to-analyze-a-telescoping-series/",
+    "description": "To see that this is a telescoping series, you have to use the partial fractions technique to rewrite. image1.png. All these terms now collapse, or telescope.",
+    "googleLink": "http://www.google.com/url?q=https://www.dummies.com/education/math/calculus/how-to-analyze-a-telescoping-series/&sa=U&ved=2ahUKEwjK6oDB0YrxAhXEFTQIHQC3DTA4ChAWMAB6BAgBEAE&usg=AOvVaw08f7JTuL0Gnw02o3AMis2v",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "telescoping series - German translation \u2013 Lingueewww.linguee.com \u203a english-german \u203a translation \u203a telescoping+series",
+    "link": "https://www.linguee.com/english-german/translation/telescoping+series.html",
+    "description": "Many translated example sentences containing \"telescoping series\" \u2013 German-\u200bEnglish dictionary and search engine for German translations.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.com/english-german/translation/telescoping%2Bseries.html&sa=U&ved=2ahUKEwjK6oDB0YrxAhXEFTQIHQC3DTA4ChAWMAF6BAgCEAE&usg=AOvVaw0CMBt9dsKX_aMxQB_PFcwj",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "How to analyze convergence and sum of a telescopic series? I can't ...math.stackexchange.com \u203a questions \u203a how-to-analy...",
+    "link": "https://math.stackexchange.com/questions/104918/how-to-analyze-convergence-and-sum-of-a-telescopic-series-i-cant-find-a-generi",
+    "description": "If a telescoping sum starts at n=m, then N\u2211n=m(an\u2212an+1)=am\u2212aN+1. and the telescoping series is thus\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/104918/how-to-analyze-convergence-and-sum-of-a-telescopic-series-i-cant-find-a-generi&sa=U&ved=2ahUKEwjK6oDB0YrxAhXEFTQIHQC3DTA4ChAWMAJ6BAgHEAE&usg=AOvVaw1_YGq2C9l0GNVYSft00qQv",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Proof of convergence of a telescoping series - Mathematics Stack ...math.stackexchange.com \u203a questions \u203a proof-of-con...",
+    "link": "https://math.stackexchange.com/questions/295514/proof-of-convergence-of-a-telescoping-series",
+    "description": "Show that the telescoping series below converges if and only if the limj\u2192\u221ecj is defined and finite. \u221e\u2211j=\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/295514/proof-of-convergence-of-a-telescoping-series&sa=U&ved=2ahUKEwjK6oDB0YrxAhXEFTQIHQC3DTA4ChAWMAN6BAgGEAE&usg=AOvVaw2m5OKHxByr_Fv8xMdZPEtF",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Telescoping Series -- from Wolfram MathWorldmathworld.wolfram.com \u203a TelescopingSeries",
+    "link": "https://mathworld.wolfram.com/TelescopingSeries.html",
+    "description": "Telescoping Series. SEE: Telescoping Sum. Wolfram Web Resources. Mathematica \u00bb. The #1 tool for creating Demonstrations and anything technical.",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/TelescopingSeries.html&sa=U&ved=2ahUKEwjK6oDB0YrxAhXEFTQIHQC3DTA4ChAWMAR6BAgAEAE&usg=AOvVaw1mwy-oIL3cC2h9-Ia7IsQg",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "The Telescoping Series | The Infinite Series Module - UBC Blogsblogs.ubc.ca \u203a infiniteseriesmodule \u203a units \u203a unit-1",
+    "link": "https://blogs.ubc.ca/infiniteseriesmodule/units/unit-1/the-telescoping-and-harmonic-series/the-telescoping-series/",
+    "description": "The Telescoping Series \u00b7 Recall that given a geometric series, we were able to establish convergence by deriving an expression for the partial sum, \u00b7 However,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://blogs.ubc.ca/infiniteseriesmodule/units/unit-1/the-telescoping-and-harmonic-series/the-telescoping-series/&sa=U&ved=2ahUKEwjK6oDB0YrxAhXEFTQIHQC3DTA4ChAWMAV6BAgFEAE&usg=AOvVaw2EFhB0jWHghyMmnFPbziqx",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Telescoping Sums, Series and Productswww.cut-the-knot.org \u203a Algebra \u203a TelescopingSums",
+    "link": "https://www.cut-the-knot.org/m/Algebra/TelescopingSums.shtml",
+    "description": "Telescoping Sums, Series and Products. Introduction. The term Telescoping sum applies to en expression of the form. \\displaystyle \\sum_{k=0\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.cut-the-knot.org/m/Algebra/TelescopingSums.shtml&sa=U&ved=2ahUKEwjK6oDB0YrxAhXEFTQIHQC3DTA4ChAWMAZ6BAgEEAE&usg=AOvVaw0KCGFzSzybr0nYbB8dMA_h",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Telescoping Series Test Calculator - Symbolabwww.symbolab.com \u203a ... \u203a Series \u203a Convergence",
+    "link": "https://www.symbolab.com/solver/telescoping-series-test-calculator",
+    "description": "Free Telescoping Series Test Calculator - Check convergence of telescoping series step-by-step.",
+    "googleLink": "http://www.google.com/url?q=https://www.symbolab.com/solver/telescoping-series-test-calculator&sa=U&ved=2ahUKEwjK6oDB0YrxAhXEFTQIHQC3DTA4ChAWMAd6BAgIEAE&usg=AOvVaw1YmtUPvTWGxAm7suWSgS9x",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Why are telescoping series called telescoping series? : math - Redditwww.reddit.com \u203a math \u203a comments \u203a why_are_tele...",
+    "link": "https://www.reddit.com/r/math/comments/17414q/why_are_telescoping_series_called_telescoping/",
+    "description": "Calculus II, Sequences and Series How did telescoping series (like ) get their name? The Wikipedia article doesn't mention it.",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/math/comments/17414q/why_are_telescoping_series_called_telescoping/&sa=U&ved=2ahUKEwjK6oDB0YrxAhXEFTQIHQC3DTA4ChAWMAh6BAgDEAE&usg=AOvVaw2LCihEL1OqhGu5mtBpL0Q1",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Telescoping Series: Definition & Examples | Study.comstudy.com \u203a Courses \u203a Math Courses",
+    "link": "https://study.com/academy/lesson/telescoping-series-definition-examples.html",
+    "description": "In this lesson, we explore a type of infinite series called the telescoping series. We define this series and look at examples of partial sums to...",
+    "googleLink": "http://www.google.com/url?q=https://study.com/academy/lesson/telescoping-series-definition-examples.html&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAB6BAgFEAE&usg=AOvVaw1TQQuKlafNP26i8P8_oAnn",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Why are telescoping series called telescoping series? : math - Redditwww.reddit.com \u203a math \u203a comments \u203a why_are_tele...",
+    "link": "https://www.reddit.com/r/math/comments/17414q/why_are_telescoping_series_called_telescoping/",
+    "description": "Calculus II, Sequences and Series How did telescoping series (like ) get their name? The Wikipedia article doesn't mention it.",
+    "googleLink": "http://www.google.com/url?q=https://www.reddit.com/r/math/comments/17414q/why_are_telescoping_series_called_telescoping/&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAF6BAgIEAE&usg=AOvVaw2ces2Ot9dcfFBz4YdnJSrw",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "telescoping series - Deutsch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a englisch-deutsch \u203a uebersetzung \u203a telescoping+series",
+    "link": "https://www.linguee.de/englisch-deutsch/uebersetzung/telescoping+series.html",
+    "description": "Viele \u00fcbersetzte Beispiels\u00e4tze mit \"telescoping series\" \u2013 Deutsch-Englisch W\u00f6rterbuch und Suchmaschine f\u00fcr Millionen von Deutsch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/englisch-deutsch/uebersetzung/telescoping%2Bseries.html&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAJ6BAgJEAE&usg=AOvVaw3znS7lIASk-Qf4uCK8Xskr",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Geometric and Telescoping Series Handout Reference - Squarespacestatic1.squarespace.com \u203a static \u203a Lesson_16_Geometric_and_Telesco...",
+    "link": "https://static1.squarespace.com/static/53bc694ee4b00ad4e0bd6d55/t/59b1a63180bd5e49f8058b6d/1504814643568/Lesson_16_Geometric_and_Telescoping_Series_Handout.pdf",
+    "description": "A telescoping series is an infinite series whose partial sums eventually only have a fixed number of terms after cancellation. To apply this technique, we need to\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://static1.squarespace.com/static/53bc694ee4b00ad4e0bd6d55/t/59b1a63180bd5e49f8058b6d/1504814643568/Lesson_16_Geometric_and_Telescoping_Series_Handout.pdf&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAN6BAgHEAE&usg=AOvVaw2oDq66ivQMEMaVqGKs9J8a",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "(PDF) The Basel Problem as a Telescoping Series - ResearchGatewww.researchgate.net \u203a publication \u203a 259734505_T...",
+    "link": "https://www.researchgate.net/publication/259734505_The_Basel_Problem_as_a_Telescoping_Series",
+    "description": "20.01.2021 \u00b7 There is a quiz about telescoping series at [9]. The \ufb01fth question asks: \u201cwhich one of the proofs uses a telescoping sum?\u201d The. choices are: 1)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/259734505_The_Basel_Problem_as_a_Telescoping_Series&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAR6BAgDEAE&usg=AOvVaw2Ct1KXta8CoEuPBF3B0r5I",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Telescoping Series - NRICH - Millennium Mathematics Projectnrich.maths.org \u203a ...",
+    "link": "https://nrich.maths.org/267",
+    "description": "Challenge Level. In 1654 Blaise Pascal published a general method for summing powers of positive integers, i.e. summing all the series. S_1\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://nrich.maths.org/267&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAV6BAgAEAE&usg=AOvVaw0DuAmbk1p2eKImvbgxiB3R",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Telescoping series - Roberto's Math Noteswww.robertosmathnotes.com \u203a uploads \u203a s1-4_telescoping_series",
+    "link": "https://www.robertosmathnotes.com/uploads/8/2/3/9/8239617/s1-4_telescoping_series.pdf",
+    "description": "Roberto's Notes on Infinite Series. Chapter 1: Sequences and series. Section 4. Telescoping series. What you need to know already: What you can learn here:.",
+    "googleLink": "http://www.google.com/url?q=https://www.robertosmathnotes.com/uploads/8/2/3/9/8239617/s1-4_telescoping_series.pdf&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAZ6BAgBEAE&usg=AOvVaw1eKy8Y1bJq03SujQ5wk2GE",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Telescoping Series Test Calculator - Symbolabwww.symbolab.com \u203a ... \u203a Series \u203a Convergence",
+    "link": "https://www.symbolab.com/solver/telescoping-series-test-calculator",
+    "description": "Free Telescoping Series Test Calculator - Check convergence of telescoping series step-by-step.",
+    "googleLink": "http://www.google.com/url?q=https://www.symbolab.com/solver/telescoping-series-test-calculator&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAd6BAgCEAE&usg=AOvVaw2LlW5LE3-QYZZNYUQLMeN7",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Telescoping series - xaktly.comxaktly.com \u203a TelescopingSeries",
+    "link": "https://xaktly.com/TelescopingSeries.html",
+    "description": "Telescoping series are one of just a few infinite series for which we can easily calculate the sum. A simple example of a telescoping series is. \u221e\u2211\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://xaktly.com/TelescopingSeries.html&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAh6BAgEEAE&usg=AOvVaw0E3qZ_ZIKOMAaXHBgTrV3T",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Telescoping Series and Sums - Overleaf, Online LaTeX Editorwww.overleaf.com \u203a articles \u203a hqdwpfhkvzyv",
+    "link": "https://www.overleaf.com/articles/arml-lecture-telescoping-series-and-sums/hqdwpfhkvzyv",
+    "description": "ARML Lecture: Telescoping Series and Sums. Open as TemplateView Source\u200bDownload PDF. Author. Justin Stevens. License. Creative Commons CC BY 4.0.",
+    "googleLink": "http://www.google.com/url?q=https://www.overleaf.com/articles/arml-lecture-telescoping-series-and-sums/hqdwpfhkvzyv&sa=U&ved=2ahUKEwi8mObB0YrxAhW1HjQIHedkA4E4FBAWMAl6BAgGEAE&usg=AOvVaw2MJTNVqLqTLEvbX9yeLVEZ",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Lecture 17: Series (II) Telescoping Series A telescoping series is a ...people.clas.ufl.edu \u203a chui \u203a files \u203a F13L17_Series-Part-II",
+    "link": "http://people.clas.ufl.edu/chui/files/F13L17_Series-Part-II.pdf",
+    "description": "Telescoping Series. A telescoping series is a special type of series for which many terms cancel in the n th partial sums. One way to determine whether a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://people.clas.ufl.edu/chui/files/F13L17_Series-Part-II.pdf&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAB6BAgBEAE&usg=AOvVaw2XQlnXYjPeLlvS8LWwJMFQ",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "telescoping series - Deutsch-Polnisch \u00dcbersetzung | PONSde.pons.com \u203a \u00fcbersetzung \u203a deutsch-polnisch \u203a telescoping+series",
+    "link": "https://de.pons.com/%C3%BCbersetzung/deutsch-polnisch/telescoping+series",
+    "description": "\u00dcbersetzung Deutsch-Polnisch f\u00fcr telescoping series im PONS Online-\u200bW\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion.",
+    "googleLink": "http://www.google.com/url?q=https://de.pons.com/%25C3%25BCbersetzung/deutsch-polnisch/telescoping%2Bseries&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAF6BAgHEAE&usg=AOvVaw0gEpIGhL49JAUf5g5VPSgt",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Telescoping Series - Calculus How Towww.calculushowto.com \u203a telescoping-series",
+    "link": "https://www.calculushowto.com/telescoping-series/",
+    "description": "01.07.2020 \u00b7 A telescoping series is any series with terms that cancel out with other terms. It's called \"telescopic\" because it collapses like a folding\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.calculushowto.com/telescoping-series/&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAJ6BAgIEAE&usg=AOvVaw3XkvVeZFVBCrDuvy9bUmUA",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Convergence and divergence in telescoping series | StudyPugwww.studypug.com \u203a calculus-help \u203a convergence-...",
+    "link": "https://www.studypug.com/calculus-help/convergence-divergence-of-telescoping-series",
+    "description": "There is no exact formula to see if the infinite series is a telescoping series, but it is very noticeable if you start to see terms cancel out. Most telescopic series\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.studypug.com/calculus-help/convergence-divergence-of-telescoping-series&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAN6BAgJEAE&usg=AOvVaw2n53ye635i0GiA-1Nhe7SS",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "telescoping series :: Englisch-Deutsch ... - dict.cc W\u00f6rterbuchwww.dict.cc \u203a englisch-deutsch \u203a telescoping+series",
+    "link": "https://www.dict.cc/englisch-deutsch/telescoping+series.html",
+    "description": "Englisch-Deutsch-\u00dcbersetzungen f\u00fcr telescoping series im Online-W\u00f6rterbuch dict.cc (Deutschw\u00f6rterbuch).",
+    "googleLink": "http://www.google.com/url?q=https://www.dict.cc/englisch-deutsch/telescoping%2Bseries.html&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAR6BAgGEAE&usg=AOvVaw3qvQzqWUc9URYprns2EzaY",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Telescoping series \u2013 Components, Formula, and Techniquewww.storyofmathematics.com \u203a telescoping-series",
+    "link": "https://www.storyofmathematics.com/telescoping-series",
+    "description": "What is a telescoping series? Identifying telescoping series can appear trickier than identifying simpler series such as arithmetic and geometric series. That's\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.storyofmathematics.com/telescoping-series&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAV6BAgEEAE&usg=AOvVaw2DRGzJ7Q2TjXWjXgPJO1jV",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Telescoping series - HandWikihandwiki.org \u203a wiki \u203a Telescoping_series",
+    "link": "https://handwiki.org/wiki/Telescoping_series",
+    "description": "26.12.2020 \u00b7 In mathematics, a telescoping series is a series whose partial sums eventually only have a finite number of terms after cancellation.",
+    "googleLink": "http://www.google.com/url?q=https://handwiki.org/wiki/Telescoping_series&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAZ6BAgAEAE&usg=AOvVaw24cK9nym-kKg7Gt8srC3bv",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "telescoping series | adamponting.comwww.adamponting.com \u203a telescoping-series",
+    "link": "https://www.adamponting.com/telescoping-series/",
+    "description": "telescoping series. To find \\sum_{k=1}^n u_k , write each term as t_k-t_{k+1} . Then u_1+u_2+u_3+\\dots+u_n=(t_1-t_2)+(t_2-t_3)+. This is analogous to\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.adamponting.com/telescoping-series/&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAd6BAgCEAE&usg=AOvVaw3RPNhjb7AqBExincxwLNNN",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Definition:Telescoping Series - ProofWikiproofwiki.org \u203a wiki \u203a Definition:Telescoping_Series",
+    "link": "https://proofwiki.org/wiki/Definition:Telescoping_Series",
+    "description": "20.11.2020 \u00b7 Definition. A telescoping series is a series whose partial sums eventually only have a fixed number of terms after cancellation through algebraic\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://proofwiki.org/wiki/Definition:Telescoping_Series&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAh6BAgFEAE&usg=AOvVaw3FToDxzst1wL6_cr5EgwA1",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Telescoping Series & P-Series Objectives: Be able to describe the ...slideplayer.com \u203a slide",
+    "link": "https://slideplayer.com/slide/10744607/",
+    "description": "Examples: Describe whether or not the series diverges or converges. ... Telescoping Series & P-Series Objectives: Be able to describe the convergence or\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://slideplayer.com/slide/10744607/&sa=U&ved=2ahUKEwiLyrrC0YrxAhVAHjQIHSbhAwU4HhAWMAl6BAgDEAE&usg=AOvVaw1sJSzbyYbgIYp94KhqfNPj",
+    "page": 3,
+    "index": 9
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "name": "7 weitere Zeilen",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Eigenschaften_bin%C3%A4rer_Relationen",
+    "description": "",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Eigenschaften bin\u00e4rer Relationen \u2013 Serlo \u201eMathe f\u00fcr Nicht ...https://de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:...",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Eigenschaften_bin%C3%A4rer_Relationen",
+    "description": "",
+    "googleLink": null,
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "stellige Relationen Eigenschaften von Relationenhttp://www.rw.cdl.uni-saarland.de \u203a Material \u203a Rel...",
+    "link": "http://www.rw.cdl.uni-saarland.de/~joba/Info1/Material/Relationen.pdf",
+    "description": "Eigenschaften bin\u00e4rer Relationen auf einer Menge A: Eine bin\u00e4re Relation R \u2286 A X A  ist reflexiv: \u2026 wenn jedes Element von A zu sich selbst in Relation steht:.",
+    "googleLink": null,
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "DM - Bin\u00e4re Relationenhttps://www.math.tu-cottbus.de \u203a lsgdi \u203a BinRel",
+    "link": "https://www.math.tu-cottbus.de/INSTITUT/lsgdi/DM/BinRel.html",
+    "description": "Inhalt: Bin\u00e4re Relationen R \u00cd A \u00d7A auf einer Menge A werden manchmal auch homogene (bin\u00e4re) Relationen genannt. Die (Nicht-) G\u00fcltigkeit einiger\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Klassifikation bin\u00e4rer Relationen - Mathepediahttps://mathepedia.de \u203a Relationen",
+    "link": "https://mathepedia.de/Relationen.html",
+    "description": "Klassifikation bin\u00e4rer Relationen. Gem\u00e4\u00df ihren Eigenschaften kann man die Relationen charakterisieren. ... Bei reflexiven Relationen stehen also die Elemente mit\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Eigenschaften von Relationenhttps://www2.informatik.hu-berlin.de \u203a tutorium",
+    "link": "https://www2.informatik.hu-berlin.de/~enseleir/tutorium/Relationen.pdf",
+    "description": "11.11.2016 \u2014 Welche folgender Relationen sind reflexiv? Eine Relation R auf einer Menge A hei\u00dft reflexiv, falls: Definition. \u2200x \u2208 A : xRx. Beispiel: A = {a,b,c}.",
+    "googleLink": null,
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "3. Relationenhttps://www.stksachs.uni-leipzig.de \u203a pdf \u203a propaed",
+    "link": "https://www.stksachs.uni-leipzig.de/files/media/pdf/lehrbuecher/mathematik/propaed/relationen.pdf",
+    "description": "Oft ist die obige Definition, insbesondere einer bin\u00e4ren Relation, nicht pr\u00e4zise genug, ... kann verwendet werden, um gewisse Eigenschaften von Relationen.",
+    "googleLink": null,
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Relation (Mathematik) \u2013 Wikipediahttps://de.wikipedia.org \u203a wiki \u203a Relation_(Mathematik)",
+    "link": "https://de.wikipedia.org/wiki/Relation_(Mathematik)",
+    "description": "Eine Relation (lateinisch relatio \u201eBeziehung\u201c, \u201eVerh\u00e4ltnis\u201c) ist allgemein eine Beziehung, die ... Zusammenhang der Eigenschaften bin\u00e4rer Relationen. Zwischen\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "\u00dcbungen zur Vorlesung ,,Mathematische Grundlagen der ...http://www.cis.uni-muenchen.de \u203a begleitmaterial",
+    "link": "http://www.cis.uni-muenchen.de/~micha/kurse/matheI-WS0607/begleitmaterial/Merkblatt_Eigenschaften_Relationen.pdf",
+    "description": "1 Die wichtigsten Eigenschaften bin\u00e4rer Relationen im \u00a8Uberblick. 1.1 Definition und Bedeutung der Attribute bin\u00e4rer Relationen. Die Relation hei\u00dft wenn gilt.",
+    "googleLink": null,
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Eigenschaften bin\u00e4rer Relationenhttp://152.96.52.69 \u203a bronstein2008 \u203a kap_5 \u203a node33",
+    "link": "http://152.96.52.69/webMathematica/canum/bronstein2008/kap_5/node33.html",
+    "description": "Eigenschaften bin\u00e4rer Relationen. Wichtige Eigenschaften einer bin\u00e4ren Relation in einer Menge A: R hei\u00dft\u00a0...",
+    "googleLink": null,
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Elementare Definitionen Eigenschaften von bin\u00e4ren Relationen ...files.ifi.uzh.ch \u203a rerg \u203a courses \u203a fgi_ss98 \u203a documents \u203a relations.4.pdf",
+    "link": "https://files.ifi.uzh.ch/rerg/arvo/courses/formale_grundlagen/fgi_ss98/documents/relations.4.pdf",
+    "description": "Relationen 2. Eigenschaften von bin\u00e4ren Relationen. \u2022 Eine bin\u00e4re Relation R X X ist. 1. Reflexiv: Jedes Element x steht zu sich selber in Relation. >x \u2030 X : (x\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://files.ifi.uzh.ch/rerg/arvo/courses/formale_grundlagen/fgi_ss98/documents/relations.4.pdf&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAB6BAgEEAE&usg=AOvVaw2sW5INy-QPsNB39HZjvpgj",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Relationenfiles.ifi.uzh.ch \u203a siclemat \u203a lehre \u203a ecl1 \u203a script \u203a html \u203a scriptse46",
+    "link": "https://files.ifi.uzh.ch/cl/siclemat/lehre/hs08/ecl1/script/html/scriptse46.html",
+    "description": "Eine bin\u00e4re Relation R zwischen Elementen zweier Mengen M und N ist eine Teilmenge des Kreuzproduktes ... Beispiele von Eigenschaften bin\u00e4rer Relationen",
+    "googleLink": "http://www.google.com/url?q=https://files.ifi.uzh.ch/cl/siclemat/lehre/hs08/ecl1/script/html/scriptse46.html&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAF6BAgJEAE&usg=AOvVaw0-THjrfBcI-qWRZMrnY_yR",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "bin\u00e4re Relation - Lexikon der Mathematik - Spektrumwww.spektrum.de \u203a Lexika \u203a Lexikon der Mathematik",
+    "link": "https://www.spektrum.de/lexikon/mathematik/binaere-relation/2273",
+    "description": "Formal ist eine bin\u00e4re Relation R auf einer Menge M eine Untermenge des kartesischen Produktes M2 ... Die wichtigsten Eigenschaften bin\u00e4rer Relationen sind:.",
+    "googleLink": "http://www.google.com/url?q=https://www.spektrum.de/lexikon/mathematik/binaere-relation/2273&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAJ6BAgHEAE&usg=AOvVaw1VaCpl5VzIjYsX59UnquJs",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Relationen = R Bin\u00e4re Relationen n \u2013 stellige Relationen ... - Yumpuwww.yumpu.com \u203a document \u203a view \u203a relationen-r-binare-relationen-n-ste...",
+    "link": "https://www.yumpu.com/de/document/view/18131230/relationen-r-binare-relationen-n-stellige-relationen-",
+    "description": "Eigenschaften bin\u00e4rer Relationen auf einer Menge A: Eine bin\u00e4re Relation R \u2286 A X A ist. reflexiv: \u2026 wenn jedes Element von A zu sich selbst in Relation steht:.",
+    "googleLink": "http://www.google.com/url?q=https://www.yumpu.com/de/document/view/18131230/relationen-r-binare-relationen-n-stellige-relationen-&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAN6BAgIEAE&usg=AOvVaw3iNfMyfeMlr77-WLBxu8xq",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "4. Relationen. Beschreibung einer bin\u00e4ren Relation - PDF Free ...docplayer.org \u203a 2200346-4-relationen-beschreibung-einer-binaeren-relation",
+    "link": "https://docplayer.org/2200346-4-relationen-beschreibung-einer-binaeren-relation.html",
+    "description": "74 L\u00f6sen Sie die Aufgaben p Ernest Peter Prop\u00e4deutikum Mathematik Informatik/\u200bWirtschaftsinformatik, Block Eigenschaften von Relationen Bei Relationen auf\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docplayer.org/2200346-4-relationen-beschreibung-einer-binaeren-relation.html&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAR6BAgAEAE&usg=AOvVaw0aJkgvvXLKvwawvRJQCZyn",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Eigenschaften von bin\u00e4ren Relationen | Matheloungewww.mathelounge.de \u203a eigenschaften-von-binaren-relationen",
+    "link": "https://www.mathelounge.de/189148/eigenschaften-von-binaren-relationen",
+    "description": "Bitte um Hilfe bei folgender Aufgabe: Welche der Eigenschaften (Reflexivitat, Antireflexivit\u00e4t, Symmetrie, ... 10|y \u2212 x Bitte mir kurzer\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/189148/eigenschaften-von-binaren-relationen&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAV6BAgCEAE&usg=AOvVaw3u76ZMIFs4vMCKyXthonc3",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Relationen und Funktionenuser.phil.hhu.de \u203a WiSe1415_mathGrundl \u203a Petersen_math_grundl_2",
+    "link": "https://user.phil.hhu.de/~petersen/WiSe1415_mathGrundl/Petersen_math_grundl_2.pdf",
+    "description": "Eigenschaften bin\u00e4rer Relationen. Sei R \u2286 A\u00d7A eine bin\u00e4re Relation auf A. R ist reflexiv g.d.w. f\u00fcr alle a \u2208 A gilt, dass aRa. Wiebke Petersen math. Grundlagen.",
+    "googleLink": "http://www.google.com/url?q=https://user.phil.hhu.de/~petersen/WiSe1415_mathGrundl/Petersen_math_grundl_2.pdf&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAZ6BAgDEAE&usg=AOvVaw3tutM16Y2JKVt9l7L-EL3P",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Relationen: Grundlegende Eigenschaftenhomepages.thm.de \u203a ...",
+    "link": "https://homepages.thm.de/~hg8070/dm10/ueb08lsg.pdf",
+    "description": "Aufgabe 1. Welche der folgenden Relationen R auf der Menge der Menschen ist reflexiv, sym- metrisch, antisymmetrisch, asymmetrisch oder transitiv? Es sei (x\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://homepages.thm.de/~hg8070/dm10/ueb08lsg.pdf&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAd6BAgBEAE&usg=AOvVaw0QeFQq3woMSSAfyZMNQI2f",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Formale Methoden 2 - Vorbereitungskurs zu \"Grundbegriffe der ...ls1-www.cs.tu-dortmund.de \u203a logidac \u203a 1-4_Wiederholung-Relationen",
+    "link": "https://ls1-www.cs.tu-dortmund.de/images/courses/logidac/fm/WS2015/Vorlesung/1-Wiederholung/1-4_Wiederholung-Relationen.pdf",
+    "description": "Eigenschaften: Reflexivit\u00e4t. Definition 4.11. Sei R \u2713 M \u21e5 M eine bin\u00e4re Relation auf einer Menge M. Die Relation R ist reflexiv, wenn (m, m) 2 R f\u00fcr alle m 2 M\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ls1-www.cs.tu-dortmund.de/images/courses/logidac/fm/WS2015/Vorlesung/1-Wiederholung/1-4_Wiederholung-Relationen.pdf&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAh6BAgGEAE&usg=AOvVaw3u3mTCcQnpXESxiyryq-qS",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Relationen und Funktionenuser.phil-fak.uni-duesseldorf.de \u203a ~petersen \u203a Petersen_math_grundl_2",
+    "link": "https://user.phil-fak.uni-duesseldorf.de/~petersen/WiSe1112_mathGrundl/Petersen_math_grundl_2.pdf",
+    "description": "Eigenschaften bin\u00e4rer Relationen. Sei R \u2286 A \u00d7 A eine bin\u00e4re Relation auf A. R ist re exiv g.d.w. f\u00fcr alle a \u2208 A gilt, dass aRa. Wiebke Petersen math. Grundlagen\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://user.phil-fak.uni-duesseldorf.de/~petersen/WiSe1112_mathGrundl/Petersen_math_grundl_2.pdf&sa=U&ved=2ahUKEwjE9uvEqIPxAhUCPa0KHTeKDJE4ChAWMAl6BAgFEAE&usg=AOvVaw0QQYRmUaDt1bxEwcr4XZTD",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Relation (Mathematik)www.biancahoegel.de \u203a mathe \u203a relation \u203a relation",
+    "link": "https://www.biancahoegel.de/mathe/relation/relation.html",
+    "description": "(auch bin\u00e4re Relation genannt) zwischen zwei Mengen A ... Die Eigenschaften surjektiv, injektiv und bijektiv werden in der Regel f\u00fcr Funktionen gebraucht und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.biancahoegel.de/mathe/relation/relation.html&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAB6BAgFEAE&usg=AOvVaw2iB-El2mchWJIDSYYWmLOb",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Relation (Mathematik)iis.uni-koblenz.de \u203a InformatikA \u203a Relation_(Mathematik)",
+    "link": "http://iis.uni-koblenz.de/WS2005-6/InformatikA/Relation_(Mathematik).pdf",
+    "description": "Wichtige Eigenschaften von bin\u00e4ren Relationen sind: Die Relation hei\u00dft wenn gilt und das bedeutet reflexiv (A = B). Jedes Element steht in Relation zu sich.",
+    "googleLink": "http://www.google.com/url?q=http://iis.uni-koblenz.de/WS2005-6/InformatikA/Relation_(Mathematik).pdf&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAF6BAgHEAE&usg=AOvVaw2qdvG4siWTNNRU5uINjoS5",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PDF] TECHNISCHE UNIVERSIT\u00c4T DRESDEN Fakult\u00e4t Mathematik und ...silo.tips \u203a download \u203a technische-universitt-dresden-fakultt-mathemati...",
+    "link": "https://silo.tips/download/technische-universitt-dresden-fakultt-mathematik-und-naturwissenschaften-fachric",
+    "description": "W\u00e4hlen Sie einige Eigenschaften f\u00fcr bin\u00e4re Relationen (z.B. reflexiv, irreflexiv. (\u200b\u2200x \u2208 A : (x, x) /\u2208 \u03f1), symmetrisch, antisymmetrisch, transitiv, streng transitiv.",
+    "googleLink": "http://www.google.com/url?q=https://silo.tips/download/technische-universitt-dresden-fakultt-mathematik-und-naturwissenschaften-fachric&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAJ6BAgIEAE&usg=AOvVaw1BEfeGNnSiRNH4sEnvfCfk",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Eigenschaften von bin\u00e4ren homogenen Relationen - Matheboardwww.matheboard.de \u203a archive \u203a thread",
+    "link": "https://www.matheboard.de/archive/585023/thread.html",
+    "description": "Eigenschaften von bin\u00e4ren homogenen Relationen im Mathe-Forum f\u00fcr Sch\u00fcler und Studenten \u2713 Antworten nach dem Prinzip Hilfe zur\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matheboard.de/archive/585023/thread.html&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAN6BAgJEAE&usg=AOvVaw1u_guX7AH4lLDZmsRfSHuz",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Relationen - Grundlagen Theoretischer Informatik I SoSe 2011 in Trierwww.uni-trier.de \u203a fileadmin \u203a prof \u203a INF \u203a TIN \u203a Folien \u203a GTI_I",
+    "link": "https://www.uni-trier.de/fileadmin/fb4/prof/INF/TIN/Folien/GTI_I/ss_2011/VL5.pdf",
+    "description": "Eigenschaften von bin\u00e4ren Relationen. Es sei R eine bin\u00e4re Relation \u00fcber M. R hei\u00dfe reflexiv gdw. \u2200x \u2208 M(xRx). R hei\u00dfe symmetrisch gdw. \u2200x, y \u2208 M(xRy\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-trier.de/fileadmin/fb4/prof/INF/TIN/Folien/GTI_I/ss_2011/VL5.pdf&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAR6BAgDEAE&usg=AOvVaw3tVxKRj2XRRs-eVkobtiAw",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Relation \u2013 BTWikiwww.uni-muenster.de \u203a BTWiki \u203a index.php \u203a Relation",
+    "link": "https://www.uni-muenster.de/IVV5WS/BTWiki/index.php/Relation",
+    "description": "15.10.2013 \u00b7 Eine bin\u00e4re Relation beschreibt auch die Beziehungen zwischen den ... Folgende Eigenschaften sind bei bin\u00e4ren Relationen \u00fcber A x A von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-muenster.de/IVV5WS/BTWiki/index.php/Relation&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAV6BAgCEAE&usg=AOvVaw3sSvu5S7UebYpOj2MLYQfw",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "DeWiki > Relation (Mathematik)dewiki.de \u203a Lexikon \u203a Relation_(Mathematik)",
+    "link": "https://dewiki.de/Lexikon/Relation_(Mathematik)",
+    "description": "4 Beispiele; 5 Eigenschaften zweistelliger Relationen. 5.1 Allgemeine Relationen ... Zusammenhang der Eigenschaften bin\u00e4rer Relationen. Zwischen den\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://dewiki.de/Lexikon/Relation_(Mathematik)&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAZ6BAgGEAE&usg=AOvVaw3oTHE6XJGqwfIvx4q9_K_5",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "5 Strukturierung durch Relationen und Funktionenlink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-3-8348-8632-3_5.pdf",
+    "description": "Es ist also sowohl sinnlos als auch unm\u00f6glich, eine (bin\u00e4re) Relation oder eine. Funktion per se auf die Eigenschaften ,,linkstotal\" bzw. \"rechtstotal\" zu\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-3-8348-8632-3_5.pdf&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAd6BAgAEAE&usg=AOvVaw1eDXwMoGwDV7HPq95ZWV84",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Was bisher geschah - HTWK Leipzigwww.imn.htwk-leipzig.de \u203a lehre \u203a modellierung \u203a mod15-relop",
+    "link": "http://www.imn.htwk-leipzig.de/~schwarz/lehre/ws15/modellierung/mod15-relop.pdf",
+    "description": "Eigenschaften bin\u00e4rer Relationen. Eine bin\u00e4re Relation R \u2286 M2 hei\u00dft reflexiv gdw. \u2200x \u2208 M : ((x, x) \u2208 R). z.B. R = {(a, a), (a, b), (b, b)}\u2286{a, b}2, =, \u2264, \u2291, \u2286.",
+    "googleLink": "http://www.google.com/url?q=http://www.imn.htwk-leipzig.de/~schwarz/lehre/ws15/modellierung/mod15-relop.pdf&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAh6BAgEEAE&usg=AOvVaw3KQfBKC-4RihbF3poIuD_g",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Diskrete Strukturenwww5.in.tum.de \u203a diskrete_strukturen \u203a 03-Grundlagen-Relationen",
+    "link": "https://www5.in.tum.de/lehre/vorlesungen/diskrete_strukturen/WS16/03-Grundlagen-Relationen.pdf",
+    "description": "Beispiele von bin\u00e4ren Relationen: < \u2286 \u2115 \u00d7 \u2115: nicht ... symmetrisch ist, wird \u00c4quivalenzrelation genannt. \u2022 Definiert die \u00c4hnlichkeit gewisser Eigenschaften.",
+    "googleLink": "http://www.google.com/url?q=https://www5.in.tum.de/lehre/vorlesungen/diskrete_strukturen/WS16/03-Grundlagen-Relationen.pdf&sa=U&ved=2ahUKEwihpKPFqIPxAhWviK0KHd57DN04FBAWMAl6BAgBEAE&usg=AOvVaw3IwGJb0uYa6fCNS5J9aEaU",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Relationen - Theoretische Informatikwww.theoretische-informatik.com \u203a relationen",
+    "link": "http://www.theoretische-informatik.com/relationen",
+    "description": "Man spricht in dieser Definition deshalb von einer bin\u00e4ren Relation, weil lediglich ... Durch die Eigenschaften der Reflexivit\u00e4t, der Symmetrie und der Transitivit\u00e4t\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.theoretische-informatik.com/relationen&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAB6BAgFEAE&usg=AOvVaw0dpPXrpT4v7P9xF9C9LS8J",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Bin\u00e4re Relation von Graphen - OnlineMathe - das mathe-forumwww.onlinemathe.de \u203a forum \u203a Binaere-Relation-von-Graphen",
+    "link": "https://www.onlinemathe.de/forum/Binaere-Relation-von-Graphen",
+    "description": "Hallo, ich habe eine Aufgabe bei der ich einen Graphen auf seine Relation auf verschiedene Eigenschaften pr\u00fcfen soll, zu dem soll ich den\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinemathe.de/forum/Binaere-Relation-von-Graphen&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAF6BAgIEAE&usg=AOvVaw2R-X1EDpzumgvvsCsWWbfe",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Ontologien - TU Freibergwww.mathe.tu-freiberg.de \u203a ~hebisch \u203a onto",
+    "link": "http://www.mathe.tu-freiberg.de/~hebisch/onto.pdf",
+    "description": "20.11.2006 \u00b7 hierarchie \u201cBin\u00e4re Relationen\u201d, wobei man den einzelnen Konzepten die in der ... 2 EIGENSCHAFTEN PARTIELL GEORDNETER MENGEN.",
+    "googleLink": "http://www.google.com/url?q=http://www.mathe.tu-freiberg.de/~hebisch/onto.pdf&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAJ6BAgHEAE&usg=AOvVaw2ZpWuOWVbmc4JB5xqoOuL8",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Mathematik f\u00fcr Informatikerfiles.hanser.de \u203a Files \u203a Article \u203a ARTK_LPR_9783446400542_0001",
+    "link": "https://files.hanser.de/Files/Article/ARTK_LPR_9783446400542_0001.pdf",
+    "description": "ten Eigenschaften interessiert, zerlegen Sie die Menge in Klassen, die ... sich vor allem f \u00a8ur die Visualisierung von bin\u00e4ren Relationen M \u00d7 N. Alle Elemen-.",
+    "googleLink": "http://www.google.com/url?q=https://files.hanser.de/Files/Article/ARTK_LPR_9783446400542_0001.pdf&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAN6BAgJEAE&usg=AOvVaw3oBxKyiI1C1ZfCncdq09uX",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Skript zu: Einfuehrung in die Informatik I: Bin\u00e4re Relationen (1)inf.informatik.uni-stuttgart.de \u203a ifi \u203a lehre \u203a htm \u203a rel1",
+    "link": "http://inf.informatik.uni-stuttgart.de/ifi/bs/lehre/ei1/1999/htm/rel1.htm",
+    "description": "Zwischen gerichteten Graphen und bin\u00e4ren Relationen besteht ein unmittelbarer ... F\u00fcr die Praxis bedeutsam sind Relationen mit speziellen Eigenschaften:.",
+    "googleLink": "http://www.google.com/url?q=http://inf.informatik.uni-stuttgart.de/ifi/bs/lehre/ei1/1999/htm/rel1.htm&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAR6BAgBEAE&usg=AOvVaw1-GbBQTlZrrnj29B3mn2vY",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "\u00c4quivalenzrelationen - lernen mit Serlo!de.serlo.org \u203a mathe \u203a \u00e4quivalenzrelationen",
+    "link": "https://de.serlo.org/mathe/56795/%C3%A4quivalenzrelationen",
+    "description": "Durch eine Zerlegung einer Menge mit Hilfe einer \u00c4quivalenzrelation k\u00f6nnen also ... bin\u00e4re Relation auf einer Grundmenge, die folgende Eigenschaften besitzt:.",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/mathe/56795/%25C3%25A4quivalenzrelationen&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAV6BAgCEAE&usg=AOvVaw0tXu7_8j5z1Jw5Ppv_jowM",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Bin\u00e4re Beziehung - Binary relation - xcv.wikide.xcv.wiki \u203a wiki \u203a Binary_relation",
+    "link": "https://de.xcv.wiki/wiki/Binary_relation",
+    "description": "Eigenschaften. Einige wichtige Eigenschaften, die eine homogene Relation R \u00fcber einer Menge X haben kann, sind:.",
+    "googleLink": "http://www.google.com/url?q=https://de.xcv.wiki/wiki/Binary_relation&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAZ6BAgGEAE&usg=AOvVaw1wgZze58XinUrrhlU86Izi",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Algebra f\u00fcr Informationssystemtechniker - TU Dresdentu-dresden.de \u203a algebra \u203a ressourcen \u203a dateien \u203a v-isy \u203a AlgebraIST08",
+    "link": "https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/antje-noack/ressourcen/dateien/v-isy/AlgebraIST08.pdf",
+    "description": "09.04.2018 \u00b7 Bin\u00e4re Relationen und ihre Eigenschaften. \u00c4quivalenzrelationen ... Sei A eine Menge und R \u2286 A \u00d7 A. Dann wird R eine (bin\u00e4re oder 2-stellige)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/antje-noack/ressourcen/dateien/v-isy/AlgebraIST08.pdf&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAd6BAgDEAE&usg=AOvVaw3cxLEXI24wZgD5FB-jka0C",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "Relation - Madipediamadipedia.de \u203a wiki \u203a Relation",
+    "link": "https://madipedia.de/wiki/Relation",
+    "description": "2-stellige Relationen hei\u00dfen auch \u201ebin\u00e4re Relationen\u201c, sie bestehen aus geordneten Paaren. ... Spezielle Relationseigenschaften und spezielle Relationen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://madipedia.de/wiki/Relation&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAh6BAgEEAE&usg=AOvVaw3hLoTqOh3W-LeVWrxNB6dU",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Einf\u00fchrung in Sprache und Grundbegriffe der Mathematik - Goethe ...www.uni-frankfurt.de \u203a Grundlagen-WS1011",
+    "link": "https://www.uni-frankfurt.de/43691698/Grundlagen-WS1011.pdf",
+    "description": "Sei nun R eine bin\u00e4re Relation auf M (Definitions\u2013 und Wertebereich stimmen also \u00fcberein). Es folgt nun in drei Gruppen eine Reihe von Eigenschaften bin\u00e4rer\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-frankfurt.de/43691698/Grundlagen-WS1011.pdf&sa=U&ved=2ahUKEwj4uNfFqIPxAhUCVK0KHaF7CV84HhAWMAl6BAgAEAE&usg=AOvVaw2ryiftjvy2y4Mbps-Hm18h",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Vorlesung im Wintersemester 2010/2011, Universitt Landauwww.uni-koblenz-landau.de \u203a fwgmaterial2011 \u203a folien \u203a vorlesung12",
+    "link": "https://www.uni-koblenz-landau.de/de/landau/fb7/mathematik/mitarbeiter/ehemalige/gunesch/fwgmaterial2011/folien/vorlesung12",
+    "description": "Sind A und B Mengen, dann ist jede Teilmenge von A\u00d7B eine (bin\u00e4re). Relation ... Beispiel (bin\u00e4re Relation). A := {2,3 ... Eigenschaften von Relationen. Es sei A\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-koblenz-landau.de/de/landau/fb7/mathematik/mitarbeiter/ehemalige/gunesch/fwgmaterial2011/folien/vorlesung12&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAB6BAgAEAE&usg=AOvVaw10eq6dILW2S76HnG3hOl7Y",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "MP: Eigenschaften der bin\u00e4ren Relation (Forum Matroids ...www.matheplanet.com \u203a matheplanet \u203a nuke \u203a html \u203a viewtopic",
+    "link": "https://www.matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=245690&post_id=1788661",
+    "description": "09.02.2020 \u00b7 Hallo, ich m\u00f6chte nur kurz wissen, ob ich die Eigenschaften f\u00fcr die gegebene bin\u00e4re Relation auf R^2 richtig bestimmt habe. F\u00fcr Symmetrie\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.matheplanet.com/matheplanet/nuke/html/viewtopic.php%3Ftopic%3D245690%26post_id%3D1788661&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAF6BAgJEAE&usg=AOvVaw2RuldWT25eVo4NVvu1U7Tw",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Mathematische Grundlagen der Informatikwww.seeblau.uni-konstanz.de \u203a algo \u203a lehre \u203a skript \u203a kap2",
+    "link": "https://www.seeblau.uni-konstanz.de/algo/lehre/ss08/mg/skript/kap2.pdf",
+    "description": "alle vier Eigenschaften gleichzeitig erf\u00fcllt sind. ... Eine bin\u00e4re Relation R \u2286 M \u00d7N hei\u00dft Funktion oder Abbildung, ... Wir zeigen die restlichen Eigenschaften:.",
+    "googleLink": "http://www.google.com/url?q=https://www.seeblau.uni-konstanz.de/algo/lehre/ss08/mg/skript/kap2.pdf&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAJ6BAgIEAE&usg=AOvVaw2yMHTV_FaNNxcThxYavQVH",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Diskrete Mathematik - Otto Hamborg Performanceswww.hamborg-berlin.de \u203a Mathe-Skripten \u203a 00_Vorlesung_Inhalte",
+    "link": "http://www.hamborg-berlin.de/Mathe-Skripten/Diskrete_Mathematik/00_Vorlesung_Inhalte.pdf",
+    "description": "A R. = 2. Eigenschaften von Relationen. Strukturierte Mengen. 08.12.2010 (ab S. 34) a) Eigenschaften bin\u00e4rer Relationen. Def. IV.6. Eigenschaften von R. M M.",
+    "googleLink": "http://www.google.com/url?q=http://www.hamborg-berlin.de/Mathe-Skripten/Diskrete_Mathematik/00_Vorlesung_Inhalte.pdf&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAN6BAgHEAE&usg=AOvVaw1GEPHPL6mSWFkkMapA2tIO",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Blatt 3: Theorie des Messens (ii)www.psychologie.uni-oldenburg.de \u203a Skalierung \u203a blatt-3-2003-04",
+    "link": "http://www.psychologie.uni-oldenburg.de/hans.colonius/personal%20webpage/courses/Skalierung/blatt-3-2003-04.pdf",
+    "description": "Einige Eigenschaften bin\u00e4rer Relationen: Sei R eine bin\u00e4re Relation auf der. Menge A. Die Relation hei\u00dft. 1. symmetrisch, wenn gilt aRb \u21d2 bRa,.",
+    "googleLink": "http://www.google.com/url?q=http://www.psychologie.uni-oldenburg.de/hans.colonius/personal%2520webpage/courses/Skalierung/blatt-3-2003-04.pdf&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAR6BAgGEAE&usg=AOvVaw1YwnUN6AKakWEoAx0ke6GY",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Relationen - WikiWikiWeb.dewikiwikiweb.de \u203a Relationen",
+    "link": "https://wikiwikiweb.de/Relationen",
+    "description": "Inhalt. Inhaltsverzeichnis. Inhalt; Eigenschaften. Reflexiv; Symmetrie; Antisymmetrie; Transitivit\u00e4t. \u00c4quivalenzrelationen; Ordnungsrelation; Bin\u00e4re Relationen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wikiwikiweb.de/Relationen&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAV6BAgEEAE&usg=AOvVaw3avP9a6fXPBXL2qAZZzg0y",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Relation (Mathematik) - Academic dictionaries and encyclopediasde-academic.com \u203a dic.nsf \u203a dewiki",
+    "link": "https://de-academic.com/dic.nsf/dewiki/1172285",
+    "description": "3 Beispiel; 4 Eigenschaften (bin\u00e4r). 4.1 Attribute f\u00fcr homogene Relationen; 4.2 Attribute f\u00fcr Relationen zwischen verschiedenen Mengen. 5 Relationszeichen; 6\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de-academic.com/dic.nsf/dewiki/1172285&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAZ6BAgCEAE&usg=AOvVaw2Gbu2_F5vKtM0-XA8CkOGh",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Relationen - WissensWert - Philoclopediawww.philoclopedia.de \u203a was-kann-ich-wissen \u203a metaphysik \u203a relation",
+    "link": "https://www.philoclopedia.de/was-kann-ich-wissen/metaphysik/relation/",
+    "description": "b. bin\u00e4re Relation: sie besteht zwischen zwei Entit\u00e4ten E1 und E2. c. tern\u00e4re Relation: ... Armstrong:[7] durch die intrinsischen Eigenschaften von E1 und E2. a3.",
+    "googleLink": "http://www.google.com/url?q=https://www.philoclopedia.de/was-kann-ich-wissen/metaphysik/relation/&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAd6BAgBEAE&usg=AOvVaw3JhL10hLEkWP43_eEr367p",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Logik Herweg 2015_16 00 Vorkurs Mengen Relationen Funktionenwww.cl.uni-heidelberg.de \u203a courses \u203a logik \u203a Woche01 \u203a Logik Herw...",
+    "link": "http://www.cl.uni-heidelberg.de/courses/ws15/logik/Woche01/Logik%20Herweg%202015_16%2000%20Vorkurs%20Mengen%20Relationen%20Funktionen.pdf",
+    "description": "Eigenschaften der Elemente im Modell und die Beziehungen zwischen ... Relationen zwischen den Elementen aus D ... Eine bin\u00e4re Relation R von der Menge.",
+    "googleLink": "http://www.google.com/url?q=http://www.cl.uni-heidelberg.de/courses/ws15/logik/Woche01/Logik%2520Herweg%25202015_16%252000%2520Vorkurs%2520Mengen%2520Relationen%2520Funktionen.pdf&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAh6BAgDEAE&usg=AOvVaw1DygYeFVX2bWpvrzcb12uL",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "[PDF] 2 Optimales Entscheiden unter Unsicherheit: Entscheidungskriterienstatsoz-neu.userweb.mwn.de \u203a lehre \u203a ET16_Folien_OnlineKap2_1",
+    "link": "https://statsoz-neu.userweb.mwn.de/lehre/2016_SoSe/Entscheidungstheorie/ET16_Folien_OnlineKap2_1.pdf",
+    "description": "Dann hei\u00dft jede nicht-leere Teilmenge R \u2282 M \u00d7M eine (bin\u00e4re) Relation ... Dennoch gelten f\u00fcr sie einige der zuvor definierten Eigenschaften, genauer:.",
+    "googleLink": "http://www.google.com/url?q=https://statsoz-neu.userweb.mwn.de/lehre/2016_SoSe/Entscheidungstheorie/ET16_Folien_OnlineKap2_1.pdf&sa=U&ved=2ahUKEwjB34HGqIPxAhUSlKwKHaVgAX84KBAWMAl6BAgFEAE&usg=AOvVaw2cdk_P6tYZ1D9vgvVJlhDV",
+    "page": 4,
+    "index": 9
+  }
+]

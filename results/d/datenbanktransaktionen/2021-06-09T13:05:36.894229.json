@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Datenbanktransaktionen - lernen mit Serlo!de.serlo.org \u203a informatik \u203a datenbanktransaktionen",
+    "link": "https://de.serlo.org/informatik/160256/datenbanktransaktionen",
+    "description": "Datenbanktransaktionen. Inhalt \u00fcberarbeiten. Teilen. Datenbankoperationen werden Transaktionen genannt. Eine Transaktion kann aus mehreren Befehlen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/160256/datenbanktransaktionen&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjAAegQIChAB&usg=AOvVaw1wjVo4GtkNgeIIeuLv5-WG",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Transaktionen - Transaktion in einer Datenbank ...datenbanken-verstehen.de \u203a dbms \u203a datenbank-tansaktion",
+    "link": "https://datenbanken-verstehen.de/datenbank-grundlagen/dbms/datenbank-tansaktion/",
+    "description": "Bewertung  3,3  (35)",
+    "googleLink": "http://www.google.com/url?q=https://datenbanken-verstehen.de/datenbank-grundlagen/dbms/datenbank-tansaktion/&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjABegQIBxAB&usg=AOvVaw2LVSbp3WcnOuOUZ2OxNB-y",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "ACID-Prinzip in Datenbanktransaktionen | Datenbank Blogdatenbanken-verstehen.de \u203a blog \u203a datenbankentwicklung \u203a datenbanktran...",
+    "link": "https://datenbanken-verstehen.de/blog/datenbankentwicklung/datenbanktransaktionen-acid-prinzip/",
+    "description": "Bewertung  3,8  (17)",
+    "googleLink": "http://www.google.com/url?q=https://datenbanken-verstehen.de/blog/datenbankentwicklung/datenbanktransaktionen-acid-prinzip/&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjACegQICBAB&usg=AOvVaw268TfFQXDUdKsqN5RXxvSZ",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Transaktion (Informatik) \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Transaktion_(Informatik)",
+    "link": "https://de.wikipedia.org/wiki/Transaktion_(Informatik)",
+    "description": "Als Transaktion (von lateinisch trans \u201e(hin-)\u00fcber\u201c, agere \u201etreiben, handeln, f\u00fchren\u201c\u200b: also w\u00f6rtlich: \u00dcberf\u00fchrung; dt. hier besser: Durchf\u00fchrung) wird in der\u00a0...\nBeispiel \u00b7 Aufbau von Transaktionen \u00b7 Ausf\u00fchrung von ... \u00b7 Verschachtelte ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Transaktion_(Informatik)&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjAJegQICRAB&usg=AOvVaw2acfVkzIx8jh_QBJ-22uGD",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Teil I \u2013 Einf\u00fchrung & Grundlagen 1.1 Was ist eine Transaktion?www.dbs.ethz.ch \u203a timi \u203a Vorlesungsunterlagen \u203a 1-Einfuehrung",
+    "link": "http://www.dbs.ethz.ch/education/timi/WS_03_04/Vorlesungsunterlagen/1-Einfuehrung.pdf",
+    "description": "Im Fall von klassischen Datenbanktransaktionen beziehen sich alle Operationen. (Lesen bzw. Schreiben von Datenobjekten) auf dasselbe Datenbanksystem.",
+    "googleLink": "http://www.google.com/url?q=http://www.dbs.ethz.ch/education/timi/WS_03_04/Vorlesungsunterlagen/1-Einfuehrung.pdf&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjAKegQIBhAB&usg=AOvVaw0mWZ-kzWIApWUt8x5R1JBK",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "database \u2014 Was ist eine Datenbanktransaktion? - it-swarm.com.dewww.it-swarm.com.de \u203a deutsch \u203a database",
+    "link": "https://www.it-swarm.com.de/de/database/was-ist-eine-datenbanktransaktion/957678184/",
+    "description": "Was ist eine Datenbanktransaktion? Kann jemand eine einfache (aber nicht einfachere als m\u00f6gliche) Erkl\u00e4rung f\u00fcr eine Transaktion im Zusammenhang mit der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.it-swarm.com.de/de/database/was-ist-eine-datenbanktransaktion/957678184/&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjALegQIABAB&usg=AOvVaw11v98OtURtdYW49aGrOUrS",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Skalierbares Anpassungsdesign: Datenbanktransaktionen ...docs.microsoft.com \u203a ... \u203a Apps erstellen \u203a Microsoft Dataverse \u203a Entwickler",
+    "link": "https://docs.microsoft.com/de-de/powerapps/developer/data-platform/scalable-customization-design/database-transactions",
+    "description": "15.01.2019 \u00b7 Das zweite in einer Reihe von Themen. Dieses Thema konzentriert sich auf die Auswirkungen von Datenbanktransaktionen auf das\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/powerapps/developer/data-platform/scalable-customization-design/database-transactions&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjAMegQIBBAB&usg=AOvVaw2pKi06En-unyHvN8vF7PLg",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Datenbanktransaktionen und Steuerung f\u00fcr optimistische ...docs.microsoft.com \u203a Azure \u203a Cosmos DB",
+    "link": "https://docs.microsoft.com/de-de/azure/cosmos-db/database-transactions-optimistic-concurrency",
+    "description": "04.12.2019 \u00b7 In diesem Artikel werden Datenbanktransaktionen und die Steuerung f\u00fcr optimistische Nebenl\u00e4ufigkeit in Azure Cosmos DB beschrieben.",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/azure/cosmos-db/database-transactions-optimistic-concurrency&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjANegQIAxAB&usg=AOvVaw3g3M-GvNt_r-1DfmlY9r6T",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Was ist eine Datenbanktransaktion? - QA Stackqastack.com.de \u203a programming \u203a what-is-a-database-transaction",
+    "link": "https://qastack.com.de/programming/974596/what-is-a-database-transaction",
+    "description": "[L\u00f6sung gefunden!] Eine Transaktion ist eine Arbeitseinheit, die Sie als \"Ganzes\" behandeln m\u00f6chten. Es muss entweder vollst\u00e4ndig oder\u2026",
+    "googleLink": "http://www.google.com/url?q=https://qastack.com.de/programming/974596/what-is-a-database-transaction&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjAOegQIAhAB&usg=AOvVaw00frplqtSD8zEf0jclhkff",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Datenbanktransaktion - Database transaction - xcv.wikide.xcv.wiki \u203a wiki \u203a Database_transaction",
+    "link": "https://de.xcv.wiki/wiki/Database_transaction",
+    "description": "17.02.2021 \u00b7 Eine Datenbanktransaktion symbolisiert eine Arbeitseinheit, die ... sich h\u00e4ufig auf diese Eigenschaften von Datenbanktransaktionen unter dem\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.xcv.wiki/wiki/Database_transaction&sa=U&ved=2ahUKEwiq8dSFtIrxAhUQLa0KHdfPCtMQFjAPegQIARAB&usg=AOvVaw02FyAqNapmCerfVg5nsK3Y",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Teil 5: Datenbank Transaktionen - dFPUGwww.dfpug.de \u203a teil5",
+    "link": "http://www.dfpug.de/loseblattsammlung%5Closeblatt%5Cauflage%5Close1%5C03_datenhaltung%5C04%5Ctei5_transaktionen/teil5.htm",
+    "description": "Teil 5: Datenbank Transaktionen. Bei allen Transaktionen geht es immer wieder um dasselbe Grundproblem: Wie stelle ich sicher, dass eine Abfolge von\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.dfpug.de/loseblattsammlung%255Closeblatt%255Cauflage%255Close1%255C03_datenhaltung%255C04%255Ctei5_transaktionen/teil5.htm&sa=U&ved=2ahUKEwj9iICGtIrxAhVCmK0KHcKyAQs4ChAWMAB6BAgBEAE&usg=AOvVaw0by7SWSUvlmRm3LRB7o_WG",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Ganz oder gar nicht - Datenbank- und SAP-Transaktionenhelp.sap.com \u203a saphelp_SCM700_ehp02 \u203a helpdata \u203a content",
+    "link": "https://help.sap.com/saphelp_SCM700_ehp02/helpdata/de/07/c9934258a5ca6ae10000000a155106/content.htm",
+    "description": "Datenbanktransaktionen k\u00f6nnen sich allerdings nicht \u00fcber mehrere ... Wenn ein Workprozess den Besitzer wechselt, dann muss die Datenbanktransaktion, mit\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://help.sap.com/saphelp_SCM700_ehp02/helpdata/de/07/c9934258a5ca6ae10000000a155106/content.htm&sa=U&ved=2ahUKEwj9iICGtIrxAhVCmK0KHcKyAQs4ChAWMAF6BAgEEAE&usg=AOvVaw3_29uU8bCsypuTHB9g1Bz3",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Verbalisierung von Datenbanktransaktionen - Digitale Bibliothek ...dl.gi.de \u203a handle",
+    "link": "https://dl.gi.de/handle/20.500.12116/30057",
+    "description": "Datenbanktransaktionen bestehen in der Regel aus mehreren Datenbankanweisungen und haben vielf\u00e4ltige Ver\u00e4nderungen des Datenbestandes zur Folge.",
+    "googleLink": "http://www.google.com/url?q=https://dl.gi.de/handle/20.500.12116/30057&sa=U&ved=2ahUKEwj9iICGtIrxAhVCmK0KHcKyAQs4ChAWMAJ6BAgIEAE&usg=AOvVaw20CQZjMXaDNarOj4XqGrZM",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Datenbank - Transaktionen Vorteile von COMMIT ... - Datenbankenwww.yumpu.com \u203a document \u203a view \u203a datenbank-transaktionen-vorteile-v...",
+    "link": "https://www.yumpu.com/de/document/view/20661332/datenbank-transaktionen-vorteile-von-commit-datenbanken",
+    "description": "Datenbank - Transaktionen. \u2022 Beginnen, wenn das erste ausf\u00fchrbare. SQL Statement arbeitet. \u2022 Enden mit einem der folgenden. Ereignisse: \u2013 COMMIT oder\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.yumpu.com/de/document/view/20661332/datenbank-transaktionen-vorteile-von-commit-datenbanken&sa=U&ved=2ahUKEwj9iICGtIrxAhVCmK0KHcKyAQs4ChAWMAN6BAgGEAE&usg=AOvVaw2g27hPi29kbyoEr23RLeWC",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Datenbank-Transaktionen von akademischer Seite: Behind the ...d-mueller.de \u203a blog \u203a datenbank-transaktionen-von-akademischer-seite-be...",
+    "link": "https://d-mueller.de/blog/datenbank-transaktionen-von-akademischer-seite-behind-the-scenes/",
+    "description": "Datenbank-Transaktionen von akademischer Seite: Behind the Scenes. Publiziert am 12. Januar 2011 von david\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://d-mueller.de/blog/datenbank-transaktionen-von-akademischer-seite-behind-the-scenes/&sa=U&ved=2ahUKEwj9iICGtIrxAhVCmK0KHcKyAQs4ChAWMAR6BAgAEAE&usg=AOvVaw1Nwr2sh4qSbTkhISR4NPP7",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Datenbanktransaktionat.wikiqube.net \u203a wiki \u203a Database_transaction",
+    "link": "https://at.wikiqube.net/wiki/Database_transaction",
+    "description": "Datenbanktransaktion - Database transaction. Aus Wikipedia ... verweisen h\u00e4ufig mit dem Akronym auf diese Eigenschaften von Datenbanktransaktionen ACID.",
+    "googleLink": "http://www.google.com/url?q=https://at.wikiqube.net/wiki/Database_transaction&sa=U&ved=2ahUKEwj9iICGtIrxAhVCmK0KHcKyAQs4ChAWMAV6BAgFEAE&usg=AOvVaw2-IuYHRg2WeoztmLfefzMc",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Datenblatt zu Database Event Monitor - McAfeewww.mcafee.com \u203a enterprise \u203a de-de \u203a assets \u203a data-sheets \u203a ds-data...",
+    "link": "https://www.mcafee.com/enterprise/de-de/assets/data-sheets/ds-database-event-monitor-for-siem.pdf",
+    "description": "Daten und setzt Datenbanktransaktionen zu anderen ... Zur Gew\u00e4hrleistung von Compliance ist die zuverl\u00e4ssige Pr\u00fcfung von Datenbank transaktionen.",
+    "googleLink": "http://www.google.com/url?q=https://www.mcafee.com/enterprise/de-de/assets/data-sheets/ds-database-event-monitor-for-siem.pdf&sa=U&ved=2ahUKEwj9iICGtIrxAhVCmK0KHcKyAQs4ChAWMAZ6BAgCEAE&usg=AOvVaw3bOQnl7KoAppBjg-G7Kwcc",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "14. Advanced JDBC - die Isolationsstufe von Datenbanktransaktionenprogrammerwiki.com \u203a article",
+    "link": "https://programmerwiki.com/article/19311128803/",
+    "description": "Erweiterte JDBC. \u2014\u2014 Isolationsstufe der Datenbanktransaktion. 1. Konzeptbeschreibung. Bei mehreren Transaktionen, die gleichzeitig ausgef\u00fchrt werden,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://programmerwiki.com/article/19311128803/&sa=U&ved=2ahUKEwj9iICGtIrxAhVCmK0KHcKyAQs4ChAWMAd6BAgHEAE&usg=AOvVaw2mGlOZfCRbwB0MnAF1LpI5",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "datenbanktransaktionen - Englisch \u00dcbersetzung - Deutsch Beispiele ...context.reverso.net \u203a \u00fcbersetzung \u203a datenbanktransaktionen",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/datenbanktransaktionen?d=0",
+    "description": "\u00dcbersetzung im Kontext von \u201edatenbanktransaktionen\u201c in Deutsch-Englisch von Reverso Context: Integration f\u00fcr konsistente Datenbanktransaktionen w\u00e4hrend\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://context.reverso.net/%25C3%25BCbersetzung/deutsch-englisch/datenbanktransaktionen%3Fd%3D0&sa=U&ved=2ahUKEwj9iICGtIrxAhVCmK0KHcKyAQs4ChAWMAh6BAgDEAE&usg=AOvVaw3Bc53waPnykeurNkGdWU_0",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Nachrichtenwarteschlangen in Datenbanktransaktionen - ICHI.PROichi.pro \u203a nachrichtenwarteschlangen-in-datenbanktransaktionen-2728869...",
+    "link": "https://ichi.pro/de/nachrichtenwarteschlangen-in-datenbanktransaktionen-272886947335954",
+    "description": "Wie viele skalierbare SaaS-Anwendungen verwendet die HighBond-Plattform von Galvanize eine ereignisgesteuerte Architektur. Wenn innerhalb eines\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ichi.pro/de/nachrichtenwarteschlangen-in-datenbanktransaktionen-272886947335954&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAB6BAgAEAE&usg=AOvVaw3lFspa3SMZgvgLd-N2eNXo",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Verbalisierung von Datenbanktransaktionen - IFIS Uni L\u00fcbeckwww.ifis.uni-luebeck.de \u203a lehre \u203a StuDiplBaArbeiten \u203a erledigte \u203a da_verbal",
+    "link": "https://www.ifis.uni-luebeck.de/lehre/StuDiplBaArbeiten/erledigte/da_verbal.html",
+    "description": "Diplomarbeit am Institut f\u00fcr Informationssysteme. Verbalisierung von Datenbanktransaktionen. Beschreibung. Zur Erf\u00fcllung von Rechtsvorschriften, wie zum\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ifis.uni-luebeck.de/lehre/StuDiplBaArbeiten/erledigte/da_verbal.html&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAF6BAgIEAE&usg=AOvVaw1PZBe99cC0gwxorWsCzd8c",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Grundz??ge der Nichtsequentiellen Programmierung ... - Amazon.dewww.amazon.de \u203a Grundz-Nichtsequentiellen-Programmierung-Programm...",
+    "link": "https://www.amazon.de/Grundz-Nichtsequentiellen-Programmierung-Programmiertechniken-Datenbanktransaktionen/dp/B01LP1KJOY",
+    "description": "Verteilte Systeme und Datenbanktransaktionen by Christian Maurer (2008-06-13\u200b) | Christian Maurer | ISBN: | Kostenloser Versand f\u00fcr alle B\u00fccher mit Versand\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.amazon.de/Grundz-Nichtsequentiellen-Programmierung-Programmiertechniken-Datenbanktransaktionen/dp/B01LP1KJOY&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAJ6BAgJEAE&usg=AOvVaw3U3lZWt4XIKFMX7MrX8FdN",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Datenbanktransaktion - Englisch \u00dcbersetzung - Deutsch Beispiele ...context.reverso.net \u203a \u00fcbersetzung \u203a deutsch-englisch \u203a Datenbanktransaktion",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/Datenbanktransaktion",
+    "description": "\u00dcbersetzung im Kontext von \u201eDatenbanktransaktion\u201c in Deutsch-Englisch von Reverso Context: Diese Einstellung ist die Anzahl von Sekunden, bevor eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://context.reverso.net/%25C3%25BCbersetzung/deutsch-englisch/Datenbanktransaktion&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAN6BAgHEAE&usg=AOvVaw0DgiWOnYaf2kN98G987xeC",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Zusammenfassung Datenbanktransaktionen - StuDocuwww.studocu.com \u203a Fachhochschule Aachen \u203a Informationssysteme",
+    "link": "https://www.studocu.com/de/document/fachhochschule-aachen/informationssysteme/zusammenfassungen/zusammenfassung-datenbanktransaktionen/8388589/view",
+    "description": "Datenbanktransaktionen. Definition Datenbanktransaktion. Eine Transaktion (in der Informatik) ist eine Folge von zusammengeh\u00f6renden Funktionen.",
+    "googleLink": "http://www.google.com/url?q=https://www.studocu.com/de/document/fachhochschule-aachen/informationssysteme/zusammenfassungen/zusammenfassung-datenbanktransaktionen/8388589/view&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAR6BAgEEAE&usg=AOvVaw1WV3jsovU8Nxav2cHd7xMK",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Grundz\u00fcge der Nichtsequentiellen Programmierung: Einf\u00fchrung in ...www.amazon.com \u203a Grundz\u00fcge-Nichtsequentiellen-P...",
+    "link": "https://www.amazon.com/Grundz%C3%BCge-Nichtsequentiellen-Programmierung-Programmiertechniken-Datenbanktransaktionen/dp/3540655611",
+    "description": "... f\u00fcr Betriebssysteme, Parallele ... und Datenbanktransaktionen (German Edition\u200b): 9783540655619: Computer Science Books @ Amazon.com.",
+    "googleLink": "http://www.google.com/url?q=https://www.amazon.com/Grundz%25C3%25BCge-Nichtsequentiellen-Programmierung-Programmiertechniken-Datenbanktransaktionen/dp/3540655611&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAV6BAgDEAE&usg=AOvVaw3ohbm0zr7TuTwsqlhyQ7-m",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "azure-docs.de-de/elastic-transactions-overview.md at master ...github.com \u203a MicrosoftDocs \u203a blob \u203a master \u203a articles \u203a azure-sql \u203a database",
+    "link": "https://github.com/MicrosoftDocs/azure-docs.de-de/blob/master/articles/azure-sql/database/elastic-transactions-overview.md",
+    "description": "Mithilfe elastischer Datenbanktransaktionen f\u00fcr Azure SQL-Datenbank und Azure SQL Managed Instance k\u00f6nnen Sie Transaktionen ausf\u00fchren, die sich \u00fcber\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://github.com/MicrosoftDocs/azure-docs.de-de/blob/master/articles/azure-sql/database/elastic-transactions-overview.md&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAZ6BAgCEAE&usg=AOvVaw0pvds2vbR6PKp_jDMNmS0S",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "database - Was ist eine Datenbanktransaktion?im-coder.com \u203a database - Was ist eine Datenbanktransaktion?",
+    "link": "https://im-coder.com/was-ist-eine-datenbanktransaktion.html",
+    "description": "Kann jemand eine einfache (aber nicht einfacher als m\u00f6glich) Erl\u00e4uterung der Transaktion als angewandte informatik (wenn auch kopiert von Wikipedia)?",
+    "googleLink": "http://www.google.com/url?q=https://im-coder.com/was-ist-eine-datenbanktransaktion.html&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAd6BAgBEAE&usg=AOvVaw1EmS7PlBL0bEbAmVVSO-AI",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "MSSQL unter Windows: Anzahl von Datenbanktransaktionen pro ...systemcenter.wiki \u203a ...",
+    "link": "https://systemcenter.wiki/?GetElement=Microsoft.SQLServer.Windows.CollectionRule.Database.TransactionsPerSec&Type=Rule&ManagementPack=Microsoft.SQLServer.Windows.Monitoring&Version=7.0.20.0&Language=DEU",
+    "description": "MSSQL unter Windows: Anzahl von Datenbanktransaktionen pro Sekunde. Microsoft.SQLServer.Windows.CollectionRule.Database.TransactionsPerSec (\u200bRule).",
+    "googleLink": "http://www.google.com/url?q=https://systemcenter.wiki/%3FGetElement%3DMicrosoft.SQLServer.Windows.CollectionRule.Database.TransactionsPerSec%26Type%3DRule%26ManagementPack%3DMicrosoft.SQLServer.Windows.Monitoring%26Version%3D7.0.20.0%26Language%3DDEU&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAh6BAgGEAE&usg=AOvVaw0dqkV1Opst23ebZ0otBWRs",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Grundz\u00fcge der Nichtsequentiellen Programmierung - Einf\u00fchrung in ...www.springer.com \u203a book",
+    "link": "https://www.springer.com/de/book/9783642584312",
+    "description": "... gemeinsame Kern von Vorlesungen \u00fcber Betriebssysteme, Parallele Algorithmen, Verteilte Systeme, Echtzeitprogrammierung und Datenbanktransaktionen.",
+    "googleLink": "http://www.google.com/url?q=https://www.springer.com/de/book/9783642584312&sa=U&ved=2ahUKEwiavNCGtIrxAhUBI6wKHSCVAws4FBAWMAl6BAgFEAE&usg=AOvVaw02X5LjhxY7SBqbrhuBwiTy",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Grundz??ge der Nichtsequentiellen Programmierung ... - Medimopsm.medimops.de \u203a ... \u203a IT-Ausbildung & -Berufe \u203a Softwareentwicklung",
+    "link": "https://m.medimops.de/christian-maurer-grundz-ge-der-nichtsequentiellen-programmierung-einf-hrung-in-die-konzepte-der-grundlegenden-programmiertechniken-f-r-betriebssysteme-parallele-verteilte-systeme-und-datenbanktransaktionen-taschenbuch-M03540655611.html",
+    "description": "Verteilte Systeme und Datenbanktransaktionen von Christian Maurer Taschenbuch bei medimops.de bestellen. Gebraucht & g\u00fcnstig kaufen bei medimops.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://m.medimops.de/christian-maurer-grundz-ge-der-nichtsequentiellen-programmierung-einf-hrung-in-die-konzepte-der-grundlegenden-programmiertechniken-f-r-betriebssysteme-parallele-verteilte-systeme-und-datenbanktransaktionen-taschenbuch-M03540655611.html&ved=2ahUKEwim44qItIrxAhUJjq0KHT1GCio4HhAWMAB6BAgAEAE&usg=AOvVaw0lzK-Sz9uL9enbj_OWMOym",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Verbalisierung von Datenbanktransaktionen (Kurzbeitrag)studylibde.com \u203a Ingenieurwissenschaft \u203a Informatik \u203a Datenbank",
+    "link": "https://studylibde.com/doc/1781358/verbalisierung-von-datenbanktransaktionen--kurzbeitrag-",
+    "description": "Verbalisierung von Datenbanktransaktionen Olaf Th. Buck Fa. Peter Pietsch, Organisationsberatung und Informationstechnologie Grosse Burgstrasse 55-57\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://studylibde.com/doc/1781358/verbalisierung-von-datenbanktransaktionen--kurzbeitrag-&ved=2ahUKEwim44qItIrxAhUJjq0KHT1GCio4HhAWMAF6BAgHEAE&usg=AOvVaw2PzMKhAfox2If7KuwP2RC9",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Datenbanktransaktion - GPIT online lernen - Karteikarten lernenwww.karteikarte.com \u203a card \u203a datenbanktransaktion",
+    "link": "https://www.karteikarte.com/card/2580774/datenbanktransaktion",
+    "description": "GPIT: Datenbanktransaktion - Transaktion \u00fcberf\u00fchrt einen Datenbestand von einem konsistentem Zustand in einem anderen konsistenten Zustand (w\u00e4hrend\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.karteikarte.com/card/2580774/datenbanktransaktion&ved=2ahUKEwim44qItIrxAhUJjq0KHT1GCio4HhAWMAJ6BAgJEAE&usg=AOvVaw3cnDvOkZDxRcFz4XOLn4_E",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "MySQL Transaktionen \u2013 F\u00fcr besonders sensitive Abl\u00e4ufe \u2013 PHP ...www.php-einfach.de \u203a Blog",
+    "link": "https://www.php-einfach.de/2020/07/mysql-transaktionen-fuer-besonders-sensitive-ablaeufe/",
+    "description": "18.07.2020 \u00b7 Mittels Datenbanktransaktion l\u00e4sst sich dies zu Gl\u00fcck gut verhindern. Ursachen f\u00fcr unterbrochene Script-Abl\u00e4ufe. Der Script-Ablauf kann durch\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.php-einfach.de/2020/07/mysql-transaktionen-fuer-besonders-sensitive-ablaeufe/&ved=2ahUKEwim44qItIrxAhUJjq0KHT1GCio4HhAWMAN6BAgIEAE&usg=AOvVaw05svcm-qMDMsr70KCk4Xjv",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "SQL-Anweisungen aus einer .NET-Anwendung absetzen - IBMwww.ibm.com \u203a docs \u203a com.ibm.swg.im.dbclient.adonet.doc \u203a doc",
+    "link": "https://www.ibm.com/docs/de/SSEPGG_11.1.0/com.ibm.swg.im.dbclient.adonet.doc/doc/t0011822.html",
+    "description": "Ein DB2Transaction -Objekt ist f\u00fcr das Rollback und das Festschreiben von Datenbanktransaktionen verantwortlich. Eine UPDATE-Anweisung in C#wird\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.ibm.com/docs/de/SSEPGG_11.1.0/com.ibm.swg.im.dbclient.adonet.doc/doc/t0011822.html&ved=2ahUKEwim44qItIrxAhUJjq0KHT1GCio4HhAWMAR6BAgFEAE&usg=AOvVaw03QxqAClO_KxZC5EvdefxM",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Mysqldump - MySQL, Datenbank, Transaktionen, innodbliving-sun.com \u203a Mysql",
+    "link": "https://living-sun.com/mysql/571935-mysqldump-single-transaction-option-mysql-database-transactions-innodb.html",
+    "description": "Kann jemand erkl\u00e4ren, wie mysqldump --single-transaction tats\u00e4chlich f\u00fcr Transaktionstabellen wie InnoDB funktioniert? Ich habe die offiziellen Unterlagen\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://living-sun.com/mysql/571935-mysqldump-single-transaction-option-mysql-database-transactions-innodb.html&ved=2ahUKEwim44qItIrxAhUJjq0KHT1GCio4HhAWMAV6BAgEEAE&usg=AOvVaw1hXecPM17OrdgapRqxflp2",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Datenbanken als Service: Ingenieursdienstleister EDAG setzt auf ...www.pressebox.de \u203a NUTANIX GERMANY GMBH",
+    "link": "https://www.pressebox.de/pressemitteilung/nutanix-inc/Datenbanken-als-Service-Ingenieursdienstleister-EDAG-setzt-auf-Nutanix-ERA/boxid/1056211",
+    "description": "27.04.2021 \u00b7 Datenbankbereitstellung in 4 Stunden statt 5 Tagen, um 50% schnellere Datenbanktransaktionen, Datenbankkopien und -klone auf\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.pressebox.de/pressemitteilung/nutanix-inc/Datenbanken-als-Service-Ingenieursdienstleister-EDAG-setzt-auf-Nutanix-ERA/boxid/1056211&ved=2ahUKEwim44qItIrxAhUJjq0KHT1GCio4HhAWMAZ6BAgBEAE&usg=AOvVaw0Z2htbtEtdC_tsTX6ofKTJ",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Verbalisierung von Datenbanktransaktionen. | Request PDFwww.researchgate.net \u203a publication \u203a 221324168_Verbalisierung_von_Dat...",
+    "link": "https://www.researchgate.net/publication/221324168_Verbalisierung_von_Datenbanktransaktionen",
+    "description": "Request PDF | On Jan 1, 2003, Olaf Th. Buck and others published Verbalisierung von Datenbanktransaktionen. | Find, read and cite all the research you need\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.researchgate.net/publication/221324168_Verbalisierung_von_Datenbanktransaktionen&ved=2ahUKEwim44qItIrxAhUJjq0KHT1GCio4HhAWMAd6BAgDEAE&usg=AOvVaw0rDiLL4SJ0mCkjHfFt9zq0",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "eBooks aus dem Bereich \"Computer\": Nichtsequentielle ...ebooks-fachzeitungen-de.ciando.com \u203a shop \u203a cid-65-computer \u203a seite",
+    "link": "https://ebooks-fachzeitungen-de.ciando.com/shop/cid-65-computer/seite/5847",
+    "description": "... Algorithmen, Verteilte Systeme und Datenbanktransaktionen bis Die quantitative Analyse von Gesch\u00e4ftsprozessen bei eBook-Shop von fachzeitungen.de.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://ebooks-fachzeitungen-de.ciando.com/shop/cid-65-computer/seite/5847&ved=2ahUKEwim44qItIrxAhUJjq0KHT1GCio4HhAWMAh6BAgCEAE&usg=AOvVaw2WtRfr5DflcsmEYrViKN_A",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "PSM zum \u00dcberwachen der Datenbankleistung verwendensupport.ptc.com \u203a Help \u203a Best_Practices_for_Developing_Applications \u203a m...",
+    "link": "http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/de/ThingWorx/Help/Best_Practices_for_Developing_Applications/monitoring_operating_system_database_performance_psm.html",
+    "description": "Daher verfolgt PSM nur benutzerseitige Datenbanktransaktionen. Wenn das Datenbank-Leistungsproblem in einem Scheduler, Zeitgeber oder asynchronen\u00a0...",
+    "googleLink": null,
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Die Protokolldatei der Vault-Datenbanktransaktion (ldf) ist zu gro\u00df ...knowledge.autodesk.com \u203a support \u203a caas \u203a sfdcarticles \u203a sfdcarticles \u203a DEU",
+    "link": "https://knowledge.autodesk.com/de/support/vault-products/troubleshooting/caas/sfdcarticles/sfdcarticles/DEU/Vault-database-transaction-log-file-ldf-is-too-large-can-it-be-shrinked.html",
+    "description": "Die Protokolldatei der Vault-Datenbanktransaktion (ldf) ist zu gro\u00df: kann sie verkleinert werden?",
+    "googleLink": "http://www.google.com/url?q=https://knowledge.autodesk.com/de/support/vault-products/troubleshooting/caas/sfdcarticles/sfdcarticles/DEU/Vault-database-transaction-log-file-ldf-is-too-large-can-it-be-shrinked.html&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBAWMAB6BAgAEAE&usg=AOvVaw2NkXu4xOZD07p5_tzIW1Sr",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Kapitel 11 - OSEwww.o-s-e.de \u203a oracle \u203a kap11",
+    "link": "http://www.o-s-e.de/oracle/kap11.htm",
+    "description": "... Datenbank-Managementsystems, Datenbanktransaktionen auszuf\u00fchren. Transaktionen sind Arbeitseinheiten, die als Gruppe in einer logischen Reihenfolge,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.o-s-e.de/oracle/kap11.htm&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBAWMAF6BAgFEAE&usg=AOvVaw1WoxrOiWzWsW_yATp2maKZ",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "Altova MapForce 2021 Enterprise Editionwww.altova.com \u203a Mapforce \u203a mapforceenterprise \u203a mff_db_transactions",
+    "link": "https://www.altova.com/manual/de/Mapforce/mapforceenterprise/mff_db_transactions.html",
+    "description": "Damit bei Datenbankausnahmen ein Rollback durchgef\u00fchrt werden kann, k\u00f6nnen Sie f\u00fcr das Mapping Datenbanktransaktionen konfigurieren. Sie k\u00f6nnen die\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.altova.com/manual/de/Mapforce/mapforceenterprise/mff_db_transactions.html&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBAWMAJ6BAgIEAE&usg=AOvVaw1BQvthAmckL15Ko91jDWcy",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Informationstechnologie und Informationssystemewww.diski-ai.com \u203a ...",
+    "link": "https://www.diski-ai.com/index.php?option=com_virtuemart&view=category&virtuemart_category_id=5&Itemid=1144&lang=de&limitstart=24",
+    "description": "Titel Einheitliche Theorie f\u00fcr korrekte parallele und fehlertolerante Ausf\u00fchrung von Datenbanktransaktionen. Volume 13. Autor/en: H. Hasse \u00b7 Price: 25,00 \u20ac.",
+    "googleLink": "http://www.google.com/url?q=https://www.diski-ai.com/index.php%3Foption%3Dcom_virtuemart%26view%3Dcategory%26virtuemart_category_id%3D5%26Itemid%3D1144%26lang%3Dde%26limitstart%3D24&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBAWMAN6BAgHEAE&usg=AOvVaw0bzHCoCzThGvWVLbRmS6JE",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Kapitel 12. Transactions and Concurrencyxy2401.com \u203a reference \u203a de-DE \u203a html \u203a transactio...",
+    "link": "https://xy2401.com/local-doc-hibernate-3.5/reference/de-DE/html/transactions.html",
+    "description": "Abgrenzung von Datenbanktransaktionen. Database, or system, transaction boundaries are always necessary. No communication with the database can occur\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://xy2401.com/local-doc-hibernate-3.5/reference/de-DE/html/transactions.html&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBAWMAR6BAgEEAE&usg=AOvVaw39J1TIaLZBiA3lUB8DoMuF",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Fehler #191: \u00bbKontoauszug verbuchen\u00ab nutzt keine ... - Kivitendowww.kivitendo.de \u203a redmine \u203a issues",
+    "link": "https://www.kivitendo.de/redmine/issues/191",
+    "description": "Die SL::BackTransaction::action_save_invoices nutzt keine Datenbanktransaktionen, f\u00fchrt aber pro zu verbuchendem Datensatz mehrere Aktionen auf der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.kivitendo.de/redmine/issues/191&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBAWMAV6BAgCEAE&usg=AOvVaw24NTD9VxlJCLlMDbQ8ZK51",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Datenbanktransaktionen - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=fZWE7l6IVl8",
+    "description": "27.05.2021 \u00b7 Table of Contents:00:24 - Motivation04:51 - Paralleler Zugriff - Lost Update06:21 ...Dauer: 15:12Gepostet: 27.05.2021",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DfZWE7l6IVl8&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBC3AjAGegQICRAB&usg=AOvVaw259wQnsOBjs9VUeFqf_aDj",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Transaktionen (Datenbank und Java EE / JTA) - Torsten Hornwww.torsten-horn.de \u203a techdocs \u203a jee-transaktionen",
+    "link": "https://www.torsten-horn.de/techdocs/jee-transaktionen.htm",
+    "description": "W\u00e4hrend f\u00fcr einfache Datenbank-Transaktionen mit nur einer Datenbank die Begin-, Commit- und Rollback-Kommandos ausreichen, wird f\u00fcr komplexere\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.torsten-horn.de/techdocs/jee-transaktionen.htm&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBAWMAd6BAgBEAE&usg=AOvVaw25mFJvJASuluu8m-uAbsLh",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Verarbeitung von Anwendungsfehlern - Software AG Documentationdocumentation.softwareag.com \u203a natural \u203a pg_furth_appl_err_proc",
+    "link": "https://documentation.softwareag.com/natural/nat426dmf/pg/pg_furth_appl_err_proc.htm",
+    "description": "Da die Ausf\u00fchrung des Anwendungsobjekts beendet wird, kann der Status von anh\u00e4ngigen Datenbanktransaktionen von Ma\u00dfnahmen betroffen sein, die durch\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://documentation.softwareag.com/natural/nat426dmf/pg/pg_furth_appl_err_proc.htm&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBAWMAh6BAgGEAE&usg=AOvVaw0uXnEGNDJrYmsajxdM6lgu",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Verwalten von Transaktionen (FireDAC) \u2013 RAD Studiodocwiki.embarcadero.com \u203a RADStudio \u203a Sydney \u203a Verwalten_von_Trans...",
+    "link": "http://docwiki.embarcadero.com/RADStudio/Sydney/de/Verwalten_von_Transaktionen_(FireDAC)",
+    "description": "... verwaltet werden. FireDAC enth\u00e4lt die Komponenten TFDConnection und TFDTransaction, mit denen Sie Datenbanktransaktionen behandeln k\u00f6nnen.",
+    "googleLink": "http://www.google.com/url?q=http://docwiki.embarcadero.com/RADStudio/Sydney/de/Verwalten_von_Transaktionen_(FireDAC)&sa=U&ved=2ahUKEwjJjLGItIrxAhUHlKwKHb8bC0Y4KBAWMAl6BAgDEAE&usg=AOvVaw2zSotHDuIdkJyCwyoMIzVr",
+    "page": 4,
+    "index": 9
+  }
+]

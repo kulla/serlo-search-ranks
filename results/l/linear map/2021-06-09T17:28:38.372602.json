@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Linear transformations - Math Insightmathinsight.org \u203a linear_transformation_definition_...",
+    "link": "https://mathinsight.org/linear_transformation_definition_euclidean",
+    "description": "Linear transformations. A linear transformation (or a linear map) is a function T:R\u200bn\u2192Rm that satisfies the following properties: ... for any vectors x,y\u2208Rn and any\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathinsight.org/linear_transformation_definition_euclidean&sa=U&ved=2ahUKEwjHrpvq7orxAhXPHzQIHZX_Cac4ChAWMAB6BAgJEAE&usg=AOvVaw1yhUTXpv_oWZDiBMGh17h5",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Linear Mappings and Bases - Ximeraximera.osu.edu \u203a laode \u203a linearAlgebra \u203a linearMap...",
+    "link": "https://ximera.osu.edu/laode/linearAlgebra/linearMapsAndChangesOfCoordinates/linearMappingsAndBases",
+    "description": "Properties of Linear Mappings. Let be vector spaces and and be linear maps. Then is linear. ... A linear map is invertible if there exists a linear map such that is the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ximera.osu.edu/laode/linearAlgebra/linearMapsAndChangesOfCoordinates/linearMappingsAndBases&sa=U&ved=2ahUKEwjHrpvq7orxAhXPHzQIHZX_Cac4ChAWMAF6BAgFEAE&usg=AOvVaw08xUk143Vshe8J8NMemDBX",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Linear map \u2013 Serlo \u2013 Wikibooks, Sammlung freier Lehr-, Sach- und ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Linear_map",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Linear_map",
+    "description": "Linear maps are special maps between vector spaces that are compatible with the vector space structure. They are one of the most important concepts of linear\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Linear_map&sa=U&ved=2ahUKEwjHrpvq7orxAhXPHzQIHZX_Cac4ChAWMAJ6BAgHEAE&usg=AOvVaw14FdH7VX0-t8JCzvWHLWNq",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Linear Algebra/Topic: Geometry of Linear Maps - Wikibooks, open ...en.wikibooks.org \u203a wiki \u203a Topic:_Geometry_of_Lin...",
+    "link": "https://en.wikibooks.org/wiki/Linear_Algebra/Topic:_Geometry_of_Linear_Maps",
+    "description": "The linear maps are nicer, more regular, in that for each map all of the domain is spread by the same factor. Linalg double function arrows.png \u00b7 Linalg negate\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://en.wikibooks.org/wiki/Linear_Algebra/Topic:_Geometry_of_Linear_Maps&sa=U&ved=2ahUKEwjHrpvq7orxAhXPHzQIHZX_Cac4ChAWMAN6BAgIEAE&usg=AOvVaw23Kmjr9OQGkkw9BavQwrnl",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Surjective, injective and bijective linear maps - StatLectwww.statlect.com \u203a matrix-algebra \u203a surjective-injec...",
+    "link": "https://www.statlect.com/matrix-algebra/surjective-injective-bijective-linear-maps",
+    "description": "Learn how to find out when a linear map (or transofrmation) is injective, surjective and bijective through lots of examples and solved exercises.",
+    "googleLink": "http://www.google.com/url?q=https://www.statlect.com/matrix-algebra/surjective-injective-bijective-linear-maps&sa=U&ved=2ahUKEwjHrpvq7orxAhXPHzQIHZX_Cac4ChAWMAR6BAgAEAE&usg=AOvVaw0sVLZQUO2Mo0XXx1m-HGwt",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Is a linear map (transformation) always a matrix multiplication ...math.stackexchange.com \u203a questions \u203a is-a-linear-m...",
+    "link": "https://math.stackexchange.com/questions/2547357/is-a-linear-map-transformation-always-a-matrix-multiplication",
+    "description": "The answer is yes. If you have a linear map \u03d5:V\u2192W, between finite dimensional vector spaces of dimension n resp k, then this gives rise to a matrix in the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/2547357/is-a-linear-map-transformation-always-a-matrix-multiplication&sa=U&ved=2ahUKEwjHrpvq7orxAhXPHzQIHZX_Cac4ChAWMAV6BAgCEAE&usg=AOvVaw2bFYLx-l-vpEXwL8fGhyFK",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Linear illustration - zxc.wikide.zxc.wiki \u203a wiki \u203a Lineare_Abbildung",
+    "link": "https://de.zxc.wiki/wiki/Lineare_Abbildung",
+    "description": "The set of linear mappings from a -vector space into a -vector space is a vector space over , more precisely: a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.zxc.wiki/wiki/Lineare_Abbildung&sa=U&ved=2ahUKEwjHrpvq7orxAhXPHzQIHZX_Cac4ChAWMAZ6BAgEEAE&usg=AOvVaw3A26Jz3BxcddzNXT75YqFp",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Linear Map - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a engineering \u203a linear-map",
+    "link": "https://www.sciencedirect.com/topics/engineering/linear-map",
+    "description": "In this section we review some basic structural results for bounded linear maps with finite\u2013dimensional ranges on Hilbert space. These results are used directly in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/engineering/linear-map&sa=U&ved=2ahUKEwjHrpvq7orxAhXPHzQIHZX_Cac4ChAWMAd6BAgGEAE&usg=AOvVaw2JXLRt5Q8h1hSxCqX63nTk",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "linear mapping - German translation \u2013 Lingueewww.linguee.com \u203a english-german \u203a translation \u203a linear+mapping",
+    "link": "https://www.linguee.com/english-german/translation/linear+mapping.html",
+    "description": "Many translated example sentences containing \"linear mapping\" \u2013 German-\u200bEnglish dictionary and search engine for German translations.\n\nHDRI capable graphics programs, display HDRI's in linear tone-mapping by default. horo.ch horo.ch: Standardm\u00e4\u00dfig werden sie ...\nThe key map dialog allows different mappings for keys according to the, state of the scroll-lock key. emtis.com emtis.com: Der Dia...",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.com/english-german/translation/linear%2Bmapping.html&sa=U&ved=2ahUKEwjHrpvq7orxAhXPHzQIHZX_Cac4ChAWMAh6BAgBEAE&usg=AOvVaw0TDDRFRsU3UW3wnq4vQ4WE",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "Jutho/LinearMaps.jl: A Julia package for defining and ... - GitHubgithub.com \u203a Jutho \u203a LinearMaps",
+    "link": "https://github.com/Jutho/LinearMaps.jl",
+    "description": "Linear maps are also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://github.com/Jutho/LinearMaps.jl&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAB6BAgAEAE&usg=AOvVaw15_v4Ggmyc3Z_9UMb8hTn5",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Linear maps - OpenStreetMap Wikiwiki.openstreetmap.org \u203a wiki \u203a Linear_maps",
+    "link": "https://wiki.openstreetmap.org/wiki/Linear_maps",
+    "description": "19.10.2020 \u00b7 Tisslington trail as a regular map (thin green line is cycle route). ... While most maps show a 2D view from above, Linear maps show a single\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.openstreetmap.org/wiki/Linear_maps&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAF6BAgIEAE&usg=AOvVaw2GdSvo6GTadgd8b-vv7Y8Y",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "linear-map - crates.io: Rust Package Registrycrates.io \u203a crates \u203a linear-map",
+    "link": "https://crates.io/crates/linear-map",
+    "description": "29.11.2017 \u00b7 A map implemented by searching linearly in a vector. Documentation is available at https://contain-rs.github.io/linear-map/linear_map.",
+    "googleLink": "http://www.google.com/url?q=https://crates.io/crates/linear-map&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAJ6BAgJEAE&usg=AOvVaw2Es_JK8MtaSBwR6QkJjMNd",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Chapter 4 Linear mapswww.math.nagoya-u.ac.jp \u203a ~richard \u203a teaching \u203a Chapter_4",
+    "link": "http://www.math.nagoya-u.ac.jp/~richard/teaching/f2014/Chapter_4.pdf",
+    "description": "Definition 4.2.1. Let V,W be two vector spaces over the same field F. A map T : V \u2192. W is a linear map if\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.math.nagoya-u.ac.jp/~richard/teaching/f2014/Chapter_4.pdf&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAN6BAgHEAE&usg=AOvVaw0k7DNaFMIbaJpjrow9HOBC",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Gossez's skew linear map and its pathological maximally monotone ...arxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/1807.06152",
+    "description": "We also discuss some new properties of Gossez's skew linear operator and its adjoint. While most of this paper uses elementary functional analysis, we\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1807.06152&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAR6BAgDEAE&usg=AOvVaw2w7CJ3afDVFU4kIAumIO7o",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "The Local Linear Map (LLM) | Neuroinformatics Groupni.www.techfak.uni-bielefeld.de \u203a ... \u203a NI",
+    "link": "https://ni.www.techfak.uni-bielefeld.de/models/llm",
+    "description": "The local linear map (LLM) has been shown to be a powerful tool for the fast learning of non-linear mappings, such as classification tasks in Computer Vision\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ni.www.techfak.uni-bielefeld.de/models/llm&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAV6BAgFEAE&usg=AOvVaw1X-mWf8Vi1jsniGk-AzCrP",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Linear Transformations | Brilliant Math & Science Wikibrilliant.org \u203a wiki \u203a linear-transformations",
+    "link": "https://brilliant.org/wiki/linear-transformations/",
+    "description": "A linear transformation is a function from one vector space to another that respects the underlying (linear) structure of each vector space. A linear transformation\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://brilliant.org/wiki/linear-transformations/&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAZ6BAgCEAE&usg=AOvVaw2ZBT4DFs934fhUiUl_UsEi",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Linear Maps on Hilbert Spaceslink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007/978-3-030-33143-6_10.pdf",
+    "description": "Recall that B(V,W) denotes the Banach space of bounded linear maps from V to W. 10.11 T\u2217 is a bounded linear map. Suppose V and W are Hilbert spaces and T\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007/978-3-030-33143-6_10.pdf&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAd6BAgEEAE&usg=AOvVaw1j3Dtn8MOuNiwcHdOrCVQx",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Linear map - definition of Linear map by The Free Dictionarywww.thefreedictionary.com \u203a Linear+map",
+    "link": "https://www.thefreedictionary.com/Linear+map",
+    "description": "Define Linear map. Linear map synonyms, Linear map pronunciation, Linear map translation, English dictionary definition of Linear map. Noun 1. linear operator\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.thefreedictionary.com/Linear%2Bmap&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAh6BAgBEAE&usg=AOvVaw0Rmgi7_p-4g6wIyZGUtJ0N",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "What is a linear mapping? - Quorawww.quora.com \u203a What-is-a-linear-mapping",
+    "link": "https://www.quora.com/What-is-a-linear-mapping",
+    "description": "Linear mappings work like ingredients in baking a cake. \u00b7 An example of a non-\u200blinear mapping is the distance it takes to stop your car when you're traveling at a\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.quora.com/What-is-a-linear-mapping&sa=U&ved=2ahUKEwi70f3q7orxAhVoJTQIHXKLDJA4FBAWMAl6BAgGEAE&usg=AOvVaw1-YtQ9hLizqZRW_jY-P1L9",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Composition of Linear Mappings - Maple Programming Helpwww.maplesoft.com \u203a support \u203a help \u203a maple \u203a view",
+    "link": "https://www.maplesoft.com/support/help/maple/view.aspx?path=MathApps%2FCompositionOfLinearMappings",
+    "description": "Composition of Linear Mappings Main Concept Any real matrix A gives rise to a linear transformation which maps each vector in to the matrix-vector product\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.maplesoft.com/support/help/maple/view.aspx%3Fpath%3DMathApps%252FCompositionOfLinearMappings&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAB6BAgGEAE&usg=AOvVaw3nXjTRyTFYRwjHhsdpc2L1",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Linear Maps Defined by Bases - Mathonlinemathonline.wikidot.com \u203a linear-maps-defined-by-b...",
+    "link": "http://mathonline.wikidot.com/linear-maps-defined-by-bases",
+    "description": "Linear Maps Defined by Bases. Recall from the Linear Maps page that if V and $\u200bW$ are vector spaces then a function $T : V \\to W$ is said to be a linear map or\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathonline.wikidot.com/linear-maps-defined-by-bases&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAF6BAgIEAE&usg=AOvVaw0xKA8gUWEu1gMc34B0FYgg",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Linear mapping, Linear transformation, Linear operator, Linear map ...solitaryroad.com \u203a ...",
+    "link": "https://solitaryroad.com/c207.html",
+    "description": "A linear mapping is a mapping V\u2192 W which takes ax + by into ax' + by' for all a and b if it takes vectors x and y in V into x' and y' in W. The numbers a and b may\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://solitaryroad.com/c207.html&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAJ6BAgJEAE&usg=AOvVaw33ILVjFE7ogB1RCRS4hTHj",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "linear transformation - PlanetMathplanetmath.org \u203a lineartransformation",
+    "link": "https://planetmath.org/lineartransformation",
+    "description": "22.03.2013 \u00b7 Classification, msc 15A04. Synonym, linear map. Synonym, vector space homomorphism. Synonym, linear mapping. Related topic, Matrix.",
+    "googleLink": "http://www.google.com/url?q=https://planetmath.org/lineartransformation&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAN6BAgHEAE&usg=AOvVaw2XVSt_3_kBe8g4yQ3eQFvN",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Linear map - Wikipedia - BMEstatic.hlt.bme.hu \u203a pages \u203a en.wikipedia.org \u203a wiki",
+    "link": "http://static.hlt.bme.hu/semantics/external/pages/endomorfizmus/en.wikipedia.org/wiki/Linear_map.html",
+    "description": "01.02.2019 \u00b7 Not to be confused with linear function. In mathematics, a linear map (also called a linear mapping, linear transformation or, in some contexts,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://static.hlt.bme.hu/semantics/external/pages/endomorfizmus/en.wikipedia.org/wiki/Linear_map.html&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAR6BAgFEAE&usg=AOvVaw17lNsBiYXoMOCEget_lfug",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "[PDF] 8. Linear Maps - Brandeispeople.brandeis.edu \u203a ~lian \u203a TsinghuaMathcamp2014 \u203a Chapters8-11",
+    "link": "http://people.brandeis.edu/~lian/TsinghuaMathcamp2014/Chapters8-11.pdf",
+    "description": "This is the abstraction of the notion of a linear transformation on Rn. 8.1. Basic definitions. Definition 8.1. Let U, V be vector spaces. A linear map L : U \u2192 V (\u200breads L\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://people.brandeis.edu/~lian/TsinghuaMathcamp2014/Chapters8-11.pdf&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAV6BAgAEAE&usg=AOvVaw0gsLS3EbMI7Io8EhTbjqs1",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Linear Maps on Hilbert Spaceslink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007/978-3-030-33143-6_10.pdf",
+    "description": "Recall that B(V,W) denotes the Banach space of bounded linear maps from V to W. 10.11 T\u2217 is a bounded linear map. Suppose V and W are Hilbert spaces and T\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007/978-3-030-33143-6_10.pdf&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAZ6BAgCEAE&usg=AOvVaw2NMpJ4Kmvjs0sgNHjlBNXx",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "The Action of a Linear Map on the Grassmann Manifold ...www.springerprofessional.de \u203a the-action-of-a-linear-map-on-the-grassman...",
+    "link": "https://www.springerprofessional.de/the-action-of-a-linear-map-on-the-grassmann-manifold/2182494",
+    "description": "The set of subspaces of a given vector space forms the Grassmann manifold, a linear non-singular operator.",
+    "googleLink": "http://www.google.com/url?q=https://www.springerprofessional.de/the-action-of-a-linear-map-on-the-grassmann-manifold/2182494&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAd6BAgDEAE&usg=AOvVaw0S-0xrWTl-63boDNQXVxq_",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] MATH1231 Algebra, 2017 Chapter 7: Linear maps - School of ...web.maths.unsw.edu.au \u203a ~danielch",
+    "link": "https://web.maths.unsw.edu.au/~danielch/fyalg15b/Chapter7Hand.pdf",
+    "description": "Let V,W = vector spaces /F. A function T : V \u2192 W is called a linear map or a linear transformation if following both hold. Addition Condition.",
+    "googleLink": "http://www.google.com/url?q=https://web.maths.unsw.edu.au/~danielch/fyalg15b/Chapter7Hand.pdf&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAh6BAgBEAE&usg=AOvVaw0RncwSTrMOtY7JLNTzYQF_",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "LINEAR TRANSFORMATION - Deutsch-\u00dcbersetzung - bab.la ...de.bab.la \u203a woerterbuch \u203a englisch-deutsch \u203a linear-transformation",
+    "link": "https://de.bab.la/woerterbuch/englisch-deutsch/linear-transformation",
+    "description": "\u00dcbersetzung f\u00fcr 'linear transformation' im kostenlosen Englisch-Deutsch W\u00f6rterbuch und viele weitere Deutsch-\u00dcbersetzungen.",
+    "googleLink": "http://www.google.com/url?q=https://de.bab.la/woerterbuch/englisch-deutsch/linear-transformation&sa=U&ved=2ahUKEwjW5-nr7orxAhVsppUCHYYbAQE4HhAWMAl6BAgEEAE&usg=AOvVaw2IGIbZTc733T6DdmbkhpPD",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Find Linear Transformation Based on Known Points | by Gergely D ...  towardsdatascience.com \u203a find-linear-transformation...",
+    "link": "https://towardsdatascience.com/find-linear-transformation-based-on-known-points-64785e987db0",
+    "description": "Find Linear Transformation Based on Known Points | by Gergely D ...",
+    "googleLink": "http://www.google.com/url?q=https://towardsdatascience.com/find-linear-transformation-based-on-known-points-64785e987db0&sa=U&ved=2ahUKEwjMw8vt7orxAhXIr5UCHTlvCo84KBAWMAF6BAgKEAE&usg=AOvVaw3FZFxcBT_n_N0ctB0bkIpX",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Linear Mapping and integration - MathOverflow  mathoverflow.net \u203a questions \u203a linear-mapping-and-...",
+    "link": "https://mathoverflow.net/questions/42204/linear-mapping-and-integration",
+    "description": "Linear Mapping and integration - MathOverflow",
+    "googleLink": "http://www.google.com/url?q=https://mathoverflow.net/questions/42204/linear-mapping-and-integration&sa=U&ved=2ahUKEwjMw8vt7orxAhXIr5UCHTlvCo84KBAWMAJ6BAgIEAE&usg=AOvVaw0JmQwXoyRsODID5b53KwTS",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Vector spaces and linear maps - Stanford University  web.stanford.edu \u203a class \u203a vectorspaces",
+    "link": "https://web.stanford.edu/class/math61cm/vectorspaces.pdf",
+    "description": "[PDF] Vector spaces and linear maps - Stanford University",
+    "googleLink": "http://www.google.com/url?q=https://web.stanford.edu/class/math61cm/vectorspaces.pdf&sa=U&ved=2ahUKEwjMw8vt7orxAhXIr5UCHTlvCo84KBAWMAN6BAgJEAE&usg=AOvVaw3LvoVu_TDr4K-p0xtd-czn",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Linear transformation in 3D \u2013 GeoGebra  www.geogebra.org \u203a EftumMDy",
+    "link": "https://www.geogebra.org/m/EftumMDy",
+    "description": "Linear transformation in 3D \u2013 GeoGebra",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/EftumMDy&sa=U&ved=2ahUKEwjMw8vt7orxAhXIr5UCHTlvCo84KBAWMAR6BAgHEAE&usg=AOvVaw0qt7pZKqP5aai2KDVwdLqt",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Transpose of a linear map - HandWiki  handwiki.org \u203a wiki \u203a Transpose_of_a_linear_map",
+    "link": "https://handwiki.org/wiki/Transpose_of_a_linear_map",
+    "description": "Transpose of a linear map - HandWiki",
+    "googleLink": "http://www.google.com/url?q=https://handwiki.org/wiki/Transpose_of_a_linear_map&sa=U&ved=2ahUKEwjMw8vt7orxAhXIr5UCHTlvCo84KBAWMAV6BAgFEAE&usg=AOvVaw2hRWJBY5q9sEXSlnXd8TQ4",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Switch Between Circular and Linear Map View - SnapGene  help.snapgene.com \u203a user_guide \u203a 1195100-display...",
+    "link": "https://help.snapgene.com/m/user_guide/l/1195100-display-a-circular-plasmid-as-a-horizontal-map",
+    "description": "Switch Between Circular and Linear Map View - SnapGene",
+    "googleLink": "http://www.google.com/url?q=https://help.snapgene.com/m/user_guide/l/1195100-display-a-circular-plasmid-as-a-horizontal-map&sa=U&ved=2ahUKEwjMw8vt7orxAhXIr5UCHTlvCo84KBAWMAZ6BAgDEAE&usg=AOvVaw0rice4io1JkQioqMLkdPS8",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "The Index of a Linear Map | The Unapologetic Mathematician  unapologetic.wordpress.com \u203a 2008/07/22 \u203a the-ind...",
+    "link": "https://unapologetic.wordpress.com/2008/07/22/the-index-of-a-linear-map/",
+    "description": "The Index of a Linear Map | The Unapologetic Mathematician",
+    "googleLink": "http://www.google.com/url?q=https://unapologetic.wordpress.com/2008/07/22/the-index-of-a-linear-map/&sa=U&ved=2ahUKEwjMw8vt7orxAhXIr5UCHTlvCo84KBAWMAd6BAgEEAE&usg=AOvVaw16H3P6OoKdte7zldMAJLE-",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "Linear Map of Matrices - EUDML  eudml.org \u203a doc",
+    "link": "https://eudml.org/doc/267194",
+    "description": "Linear Map of Matrices - EUDML",
+    "googleLink": "http://www.google.com/url?q=https://eudml.org/doc/267194&sa=U&ved=2ahUKEwjMw8vt7orxAhXIr5UCHTlvCo84KBAWMAh6BAgBEAE&usg=AOvVaw2BFTP97CcJMUTlSRxHZRK2",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Tutorial 2: Designing a Linear Map - DNASTAR  www.dnastar.com \u203a Documents \u203a tutorial2designing...",
+    "link": "https://www.dnastar.com/genvision_standalone_tutorials/Documents/tutorial2designingalinearmap.htm",
+    "description": "Tutorial 2: Designing a Linear Map - DNASTAR",
+    "googleLink": "http://www.google.com/url?q=https://www.dnastar.com/genvision_standalone_tutorials/Documents/tutorial2designingalinearmap.htm&sa=U&ved=2ahUKEwjMw8vt7orxAhXIr5UCHTlvCo84KBAWMAl6BAgGEAE&usg=AOvVaw1wH4XLXjpLVXB3JQRaVtFP",
+    "page": 4,
+    "index": 8
+  }
+]

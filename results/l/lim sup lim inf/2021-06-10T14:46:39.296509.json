@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Limes superior und Limes inferior \u2013 Wikipediade.wikipedia.org \u203a wiki \u203a Limes_superior_und_Limes_inferior",
+    "link": "https://de.wikipedia.org/wiki/Limes_superior_und_Limes_inferior",
+    "description": "bezeichnet, der Limes superior mit lim sup n \u2192 \u221e {\\displaystyle \\limsup _{n\\\u200brightarrow \\infty }} \\limsup_{n\\rightarrow\\infty} . \u00dcblich sind als Bezeichnung auch lim\u00a0...\nNotation \u00b7 Verallgemeinerung von ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikipedia.org/wiki/Limes_superior_und_Limes_inferior&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQFjAAegQIDBAB&usg=AOvVaw1rCVKmV-gDIW1525NHI4Qc",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Lim sup und Lim inf \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c \u2013 Wikibooks ...de.wikibooks.org \u203a wiki \u203a Mathe_f\u00fcr_Nicht-Freaks:_Lim_sup_und_Lim_inf",
+    "link": "https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Lim_sup_und_Lim_inf",
+    "description": "Lim sup und Lim inf \u2013 Serlo \u201eMathe f\u00fcr Nicht-Freaks\u201c ... Der Limes superior und der Limes inferior ist der gr\u00f6\u00dfte und der kleinste H\u00e4ufungspunkt einer Folge. Diese\u00a0...\nMotivation \u00b7 Definition \u00b7 Beispiele \u00b7 Zusammenhang mit ...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Mathe_f%25C3%25BCr_Nicht-Freaks:_Lim_sup_und_Lim_inf&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQFjABegQICRAB&usg=AOvVaw1kRh0L6fpH-4rQ4SfqoFl8",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Konvergenzradius, Konvergenzbereich, lim sup, limes superior ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=SQepdF-Lud4",
+    "description": "06.04.2015 \u00b7 Konvergenzradius, Konvergenzbereich, lim sup, limes superior, Unimathematik | Mathe ...Dauer: 1:39Gepostet: 06.04.2015",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DSQepdF-Lud4&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQtwIwD3oECAAQAQ&usg=AOvVaw193Jhn1XddoUfbW1jCZDGh",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[PDF] \u2014 Bitte wenden! \u2014 Institut f\u00fcr Analysis Analysis 1 Aufgabenzettel 8www.math.kit.edu \u203a iana1 \u203a lehre \u203a media \u203a loesungzettel8",
+    "link": "https://www.math.kit.edu/iana1/lehre/ana12018w/media/loesungzettel8.pdf",
+    "description": "06.12.2018 \u00b7 Wenn ja beweisen Sie die Aussage, wenn nein geben. Sie ein Gegenbeispiel an\u200b. a) limsup n\u2192\u221e. (an + bn) \u2264 lim sup n\u2192\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.kit.edu/iana1/lehre/ana12018w/media/loesungzettel8.pdf&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQFjAQegQIBRAB&usg=AOvVaw1yLF5FW8SgPUgcLGLY2hjk",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "[PDF] Humboldt-Universit\u00e4t zu Berlin Institut f\u00fcr Mathematik - Institut fuer ...www2.mathematik.hu-berlin.de \u203a UEBUNG \u203a Serie6_Loesung",
+    "link": "https://www2.mathematik.hu-berlin.de/~gaggle/W1213/ANALYSIS/UEBUNG/Serie6_Loesung.pdf",
+    "description": "(ii) Jede Teilfolge von (an)n\u2208N konvergiert gegen a. (iii) lim inf n\u2192\u221e an = lim sup n\u2192\u221e.",
+    "googleLink": "http://www.google.com/url?q=https://www2.mathematik.hu-berlin.de/~gaggle/W1213/ANALYSIS/UEBUNG/Serie6_Loesung.pdf&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQFjARegQIBhAB&usg=AOvVaw0-pJ1tqfJzDWz2l1fPqxtB",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Musterl\u00f6sungen zum \u00a8Ubungsblatt 8 - Institut f\u00fcr Mathematikwww.math.hu-berlin.de \u203a Lehre \u203a AnalysisI \u203a ML-UA-AnaI-WS17-08",
+    "link": "https://www.math.hu-berlin.de/~baum/Lehre/AnalysisI/ML-UA-AnaI-WS17-08.pdf",
+    "description": "Gilt limsup n\u2192\u221e xn < b, so existiert ein n0 \u2208 N so dass xn < b f\u00fcr alle n \u2265 n0. Gilt c < lim inf n\u2192\u221e xn , so existiert ein m0 \u2208 N so dass c<xn f\u00fcr alle n \u2265 m0. 2.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.hu-berlin.de/~baum/Lehre/AnalysisI/ML-UA-AnaI-WS17-08.pdf&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQFjASegQIARAB&usg=AOvVaw0xmJ15XPFpGdTrWMkS0aOm",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Mathe f\u00fcr Nicht-Freaks: Lim sup und Lim inf35.198.71.162 \u203a nightly \u203a html \u203a print \u203a Mathe_f\u00fcr_Nicht-Freaks@COLON...",
+    "link": "http://35.198.71.162/nightly/Benutzer%40COLON%40Valentin_Roland%40SLASH%40Analysis_1/864274/html/print/Mathe_f%C3%BCr_Nicht-Freaks%40COLON%40_Lim_sup_und_Lim_inf/875028.html",
+    "description": "Da jede konvergente Folge beschr\u00e4nkt ist, folgt sie unmittelbar aus der Definition von lim&ThinSpace;sup \u2061 \\limsup limsup und lim&ThinSpace;inf \u2061 \\liminf liminf.",
+    "googleLink": "http://www.google.com/url?q=http://35.198.71.162/nightly/Benutzer%2540COLON%2540Valentin_Roland%2540SLASH%2540Analysis_1/864274/html/print/Mathe_f%25C3%25BCr_Nicht-Freaks%2540COLON%2540_Lim_sup_und_Lim_inf/875028.html&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQFjATegQIAhAB&usg=AOvVaw2iH23z0e3gC7qW7lU8Lzro",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Limes superiorwww.math.uni-sb.de \u203a wittstock \u203a lehre \u203a analysis1 \u203a Vorlesung \u203a node62",
+    "link": "https://www.math.uni-sb.de/ag/wittstock/lehre/WS00/analysis1/Vorlesung/node62.html",
+    "description": "$\\displaystyle s :=\\lim\\limits_{n\\to\\infty. hei\u00dft Limes superior der Folge $ (a_n)_n$ und wird mit. $\\displaystyle \\limsup\\limits_{n\\to\\infty} a_n : bezeichnet.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-sb.de/ag/wittstock/lehre/WS00/analysis1/Vorlesung/node62.html&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQFjAUegQIAxAB&usg=AOvVaw0OG97of-0Kbe1AuoJY4G-t",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Limes superior und Limes inferior - Mathepediamathepedia.de \u203a Limes_superior_inferior",
+    "link": "https://mathepedia.de/Limes_superior_inferior.html",
+    "description": "... n } ) \\lim \\inf a_n := \\lim (\\inf\\{a_k:k\\geq n\\}) liminfan\u200b:=lim(inf{ak\u200b:k\u2265n}). Limes inferior, sofern die Werte existieren. Andere Schreibweise: lim \u2061 \u203e = lim \u2061 sup\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathepedia.de/Limes_superior_inferior.html&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQFjAVegQIChAB&usg=AOvVaw3YQGIc1o-nfk6aAWVwI0p9",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Definition: lim sup, lim inf | Folgen - NetMath - VCRPnetmath.vcrp.de \u203a downloads \u203a Skripte \u203a Dahn \u203a AnalysisIndividuell \u203a defi...",
+    "link": "https://netmath.vcrp.de/downloads/Skripte/Dahn/AnalysisIndividuell/AI03/definition_lim_sup_lim_inf.html",
+    "description": "Definition: lim sup, lim inf ... Definition. (Limes superior, Limes inferior) Es sei (an) eine beschr\u00e4nkte Folge von reellen Zahlen und H(an) die Menge aller\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://netmath.vcrp.de/downloads/Skripte/Dahn/AnalysisIndividuell/AI03/definition_lim_sup_lim_inf.html&sa=U&ved=2ahUKEwix86e-jI3xAhWICjQIHcpkB4sQFjAWegQIBxAB&usg=AOvVaw3esUE89-Wfkh79gjjzsgke",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "[PDF] 7 KONVERGENTE FOLGEN 35 und die gr\u00f6\u00dfe untere Schranke mit ...aam.uni-freiburg.de \u203a agru \u203a lehre \u203a old \u203a skript5",
+    "link": "https://aam.uni-freiburg.de/agru/lehre/old/ana1ws0405/skript5.pdf",
+    "description": "n\u2192\u221e(sup{ak|k \u2265 n}) der Limes superior der Folge, und lim inf n\u2192\u221e an := lim n\u200b\u2192\u221e(inf{ak|k \u2265 n}) hei\u00dft Limes inferior der Folge. Zu dieser Definition ist eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://aam.uni-freiburg.de/agru/lehre/old/ana1ws0405/skript5.pdf&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAB6BAgEEAE&usg=AOvVaw3ufippnrvKM_TlFU-f8oNO",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Aufgabe 7. Sei (x eine beschr\u00e4nkte Folge. Ist lim sup xn = lim inf xn ...analysis.math.uni-kiel.de \u203a sass \u203a aufg33",
+    "link": "http://analysis.math.uni-kiel.de/sass/aufg33.pdf",
+    "description": "Es gelte x\u221e := lim supn\u2192\u221e xn = lim infn\u2192\u221e xn. Sei yn := inf{xk | k \u2265 n}, zn := sup{xk | k \u2265 n} f\u00fcr alle n \u2208 N.",
+    "googleLink": "http://www.google.com/url?q=http://analysis.math.uni-kiel.de/sass/aufg33.pdf&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAF6BAgIEAE&usg=AOvVaw0ofpn8WP-TTSft91rcr7mQ",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Loesung zur Serie 6 - ETH :: D-MATH - ETH Z\u00fcrichwww2.math.ethz.ch \u203a analysis1_infk \u203a Loesung06-Ana1-D-INFK",
+    "link": "https://www2.math.ethz.ch/education/bachelor/lectures/hs2015/other/analysis1_infk/Loesung06-Ana1-D-INFK.pdf",
+    "description": "bn. (c) Es seien \u03b1 = lim sup n\u2192\u221e an und \u03b2 = lim inf.",
+    "googleLink": "http://www.google.com/url?q=https://www2.math.ethz.ch/education/bachelor/lectures/hs2015/other/analysis1_infk/Loesung06-Ana1-D-INFK.pdf&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAJ6BAgJEAE&usg=AOvVaw0hzztWWTfycI8G-20uVrNY",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Erste Hilfe in Analysis | 3.9 Limes Superior und Inferior \u2013 Oliver ...www.aleph1.info \u203a Erste Hilfe in Analysis \u203a 3. Folgen und Grenzwerte",
+    "link": "https://www.aleph1.info/?call=Puc&permalink=eha1_3.9",
+    "description": "limsupn xn = infn sn = infn x4 n = 1. Die Begriffe wirken auf viele Anf\u00e4nger aufgrund der lim-inf-sup-Kombination bedrohlich. Anschauliche Beschreibungen\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.aleph1.info/%3Fcall%3DPuc%26permalink%3Deha1_3.9&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAN6BAgHEAE&usg=AOvVaw01-d2XmFz4w3TU0iR7mBuf",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Wahrscheinlichkeitstheorie I - Fernuni Hagenwww.fernuni-hagen.de \u203a FACHSCHINF \u203a Wahrscheinlichkeitstheorie",
+    "link": "https://www.fernuni-hagen.de/FACHSCHINF/1262/Wahrscheinlichkeitstheorie.htm",
+    "description": "Bemerkung: offenbar gilt lim inf An \u00cc lim sup An. Wann hei\u00dft eine Mengenfolge isoton, antiton, monoton? Eine Mengenfolge An hei\u00dft: isoton, wenn An \u00cc An+1 n\u00ce\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.fernuni-hagen.de/FACHSCHINF/1262/Wahrscheinlichkeitstheorie.htm&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAR6BAgGEAE&usg=AOvVaw1xI2hC5LmZJsjrVvGhD6Ex",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Borel-Cantelli, Kolmogorow-Ungleichung, Starkes ... - G. Roolfsgroolfs.de \u203a Verschiedenespdf \u203a BorelCantelli",
+    "link": "http://groolfs.de/Verschiedenespdf/BorelCantelli.pdf",
+    "description": "Offensichtlich gilt: liminf n\u2192\u221e. An \u2286 lim sup n\u2192\u221e xn, denn wenn a in nur endlich vielen Ai nicht enthalten ist, dann ist es in unendlich vielen Ai enthalten.",
+    "googleLink": "http://www.google.com/url?q=http://groolfs.de/Verschiedenespdf/BorelCantelli.pdf&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAV6BAgDEAE&usg=AOvVaw36g9gFyfLICUVQ-Gyq85i6",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Vorbereitungsskript Stochastik Iwww.wim.uni-mannheim.de \u203a doering \u203a Skript_zur_Vorbereitung_01",
+    "link": "https://www.wim.uni-mannheim.de/media/Lehrstuehle/wim/doering/WIM_LS_Doering/Stochastik_HWS20/UEbungsblaetter/Skript_zur_Vorbereitung_01.pdf",
+    "description": "Infimum mit inf A. Dazu definiert man f\u00fcr eine Folge (xn)n\u2208N in R den Limes inferior von (xn)n\u2208N als lim inf n\u2192\u221e xn := sup n\u2208N inf k\u2265n xk = sup{inf{xk \u2208 R | k\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wim.uni-mannheim.de/media/Lehrstuehle/wim/doering/WIM_LS_Doering/Stochastik_HWS20/UEbungsblaetter/Skript_zur_Vorbereitung_01.pdf&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAZ6BAgFEAE&usg=AOvVaw1ZeiPMKVTEI-cKhuLVucbs",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Lim sup/Lim inf - OnlineMathe - das mathe-forumwww.onlinemathe.de \u203a forum \u203a Lim-supLim-inf",
+    "link": "https://www.onlinemathe.de/forum/Lim-supLim-inf",
+    "description": "Im Mathe-Forum OnlineMathe.de wurden schon tausende Fragen zur Mathematik beantwortet. So auch zum Thema Lim sup/Lim inf.",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinemathe.de/forum/Lim-supLim-inf&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAd6BAgAEAE&usg=AOvVaw2VNMVx_HtllQPKjhrDp3KE",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Wahrscheinlichkeitstheorie und Ma\u00dftheorie - Uni Ulmwww.uni-ulm.de \u203a website_uni_ulm \u203a mawi.inst.110 \u203a lehre \u203a Skript_7",
+    "link": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.110/lehre/ws12/WR/Skript_7.pdf",
+    "description": "F und lim inf An \u2208 F. Bemerkung 7.5.6. Die Indikatorfunktion von limsupAn ist limsup von Indikatorfunktio- nen: 1lim sup An = lim sup n\u2192\u221e. 1An . Analog f\u00fcr lim\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.110/lehre/ws12/WR/Skript_7.pdf&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAh6BAgBEAE&usg=AOvVaw1HZhM7Q6LvB1cBpn2EHpHI",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Basic properties of limsup and liminf 1 Equivalent definitionspeople.math.aau.dk \u203a ~cornean \u203a analyse2_F14 \u203a limsup-liminf",
+    "link": "https://people.math.aau.dk/~cornean/analyse2_F14/limsup-liminf.pdf",
+    "description": "We have max(S) = lim sup sn and min(S) = lim inf sn. Proof. We only show the first equality. In order to simplify notation we put L := limsup sn. There are two things\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://people.math.aau.dk/~cornean/analyse2_F14/limsup-liminf.pdf&sa=U&ved=2ahUKEwjtqLm_jI3xAhX7HzQIHQP5A8Q4ChAWMAl6BAgCEAE&usg=AOvVaw1fiWuu8krXh-4Y6xU50YNx",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "[PDF] Funktionenfolgen - Mathematics TU Grazwww.math.tugraz.at \u203a lv_masstheorie_ss_11 \u203a 08_funktionenfolgen",
+    "link": "https://www.math.tugraz.at/~ganster/lv_masstheorie_ss_11/08_funktionenfolgen.pdf",
+    "description": "fn me\u00dfbar. Wegen der Bemerkung zuvor sind dann auch limsup n fn , lim inf n.",
+    "googleLink": "http://www.google.com/url?q=https://www.math.tugraz.at/~ganster/lv_masstheorie_ss_11/08_funktionenfolgen.pdf&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAB6BAgFEAE&usg=AOvVaw1yeC74gUBeALyZCvvgVFyM",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "MP: Lim sup und Lim inf berechnen (Forum Matroids Matheplanet)matheplanet.com \u203a Analysis \u203a Folgen und Reihen",
+    "link": "https://matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=113509",
+    "description": "01.12.2008 \u00b7 +1/n=1 Da lim(n->\\inf,1/n) ->0 Es gilt Lim sup=Lim inf also hier 1! W\u00e4re nett wenn mir da jemand was zu sagen k\u00f6nnte! Sch\u00f6ne Gr\u00fcsse Denice\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://matheplanet.com/matheplanet/nuke/html/viewtopic.php%3Ftopic%3D113509&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAF6BAgIEAE&usg=AOvVaw1W-PB6G47GNM4HzK9Xs6we",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "Beziehung zwischen lim sup und lim inf | Matheloungewww.mathelounge.de \u203a beziehung-zwischen-lim-sup-und-lim-inf",
+    "link": "https://www.mathelounge.de/712784/beziehung-zwischen-lim-sup-und-lim-inf",
+    "description": "15.04.2020 \u00b7 Aufgabe: In Kapitel 3 wird folgendes definiert werden: $$ \\limsup _{n \\rightarrow \\\u200binfty} A_{ ... sicher bin, ob ich die Aufgabe richtig verstehe.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/712784/beziehung-zwischen-lim-sup-und-lim-inf&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAJ6BAgJEAE&usg=AOvVaw2c3sQuauyhn1MxTuS7DIWf",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Ereignisse und Wahrscheinlichkeitenmitschriebwiki.nomeata.de \u203a Stochastik1.pdf.2.pdf",
+    "link": "http://mitschriebwiki.nomeata.de/Stochastik1.pdf.2.pdf",
+    "description": "An = lim inf n\u2192\u221e. An := \u221e. \u22c3 k=1. \u221e. \u22c2 n=k. An hei\u00dft der Limes Inferior der Folge {An}. Bemerkung 1.2 Es gilt: \u03c9 \u2208 lim sup n\u2192\u221e. An \u21d4 \u2200k \u2208 N \u2203n \u2265 k : w\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mitschriebwiki.nomeata.de/Stochastik1.pdf.2.pdf&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAN6BAgHEAE&usg=AOvVaw3A8oJKD-LJP4HCQyDcjCeG",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Kapitel 18. Potenzreihenlink.springer.com \u203a content \u203a pdf",
+    "link": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-05701-8_7.pdf",
+    "description": "den Limes inferior und lim sup X k := sup X k~oo den Limes superior der Folge (\u200bxk); beides sind wohlbestimmte Elemente von iR. Anstelle von lim inf und lim sup\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/content/pdf/10.1007%252F978-3-662-05701-8_7.pdf&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAR6BAgCEAE&usg=AOvVaw3Efj1smsYKyvXcdDK3gx84",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] MIA \u2013 Analysis einer reellen Ver\u00e4nderlichen \u2013 WS 06/07 Kapitel III ...www.mathematik.uni-muenchen.de \u203a MIA \u203a KapIII.Anfang.pdf",
+    "link": "http://www.mathematik.uni-muenchen.de/~schotten/MIA/KapIII.Anfang.pdf",
+    "description": "06.11.2006 \u00b7 lim sup an := max H(an), lim inf an := minH(an). (8.10) Lemma: F\u00fcr eine beschr\u00e4nkte Folge sind die folgenden Aussagen \u00e4quivalent: 1. \u25e6 (an)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mathematik.uni-muenchen.de/~schotten/MIA/KapIII.Anfang.pdf&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAV6BAgBEAE&usg=AOvVaw3Ry8e6OrRgStCsAYvcm9Hn",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Erg\u00e4nzungen zur Analysis - Nikolai Nowaczyknikno.de \u203a wp-content \u203a uploads \u203a ergana",
+    "link": "http://nikno.de/wp-content/uploads/ergana.pdf",
+    "description": "Dann hei\u00dfen lim sup n\u2192\u221e an := h\u2217 bzw. lim inf n\u2192\u221e an := h\u2217 der Limes superior bzw. Limes inferior von (an). Konvention: F\u00fcr unbeschr\u00e4nkte Folgen (an)\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://nikno.de/wp-content/uploads/ergana.pdf&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAZ6BAgGEAE&usg=AOvVaw1-trJ3_THVlHcRRgpiB43E",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Ferienkurs Analysis 1www.ph.tum.de \u203a academics \u203a bsc \u203a break \u203a fk_MA9202_02_course",
+    "link": "https://www.ph.tum.de/academics/bsc/break/2016w/fk_MA9202_02_course.pdf",
+    "description": "04.04.2017 \u00b7 Definition: Limes superior und Limes inferior einer reellen Folge (an) sind: lim sup n\u2192\u221e an. := lim n\u2192\u221e an lim inf n\u2192\u221e an. := lim n\u2192\u221e an.",
+    "googleLink": "http://www.google.com/url?q=https://www.ph.tum.de/academics/bsc/break/2016w/fk_MA9202_02_course.pdf&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAd6BAgEEAE&usg=AOvVaw1w6sx3Seb61J7UGz-RWPHI",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Limes superior und Limes inferior - Mathematik-Onlinemathematik-online.de \u203a ...",
+    "link": "http://mathematik-online.de/F144.htm",
+    "description": "Eine Zahlenfolge konvergiert genau dann, wenn der gr\u00f6\u00dfte H\u00e4ufungspunkt Limes superior (lim sup) und der kleinste H\u00e4ufungspunkt Limes inferior (lim inf)\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://mathematik-online.de/F144.htm&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAh6BAgDEAE&usg=AOvVaw2skuHYZXkUm74Y7fx91gmW",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "What's the relation between $\\limsup$ and $\\inf\\sup ...math.stackexchange.com \u203a ...",
+    "link": "https://math.stackexchange.com/q/1547192",
+    "description": "Let Xn={xk:k\u2265n}. Then Xn+1\u2286Xn and therefore: infXn\u2264infXn+1\u2264supXn+1\u2264sup\u200bXn. This implies: an=supXn is a decreasing sequence and so limnan=infnan.",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/q/1547192&sa=U&ved=2ahUKEwjd76DAjI3xAhX4JDQIHdKuBj84FBAWMAl6BAgAEAE&usg=AOvVaw2wsCkI9bZ1d4lhgdHGcacD",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "[PDF] L\u00f6sungen 4 - Erreichbare Punktzahl: 20www.math.uni-bielefeld.de \u203a uploads \u203a 1516_ws_mit \u203a u-loesungen04",
+    "link": "https://www.math.uni-bielefeld.de/kassmann/data/uploads/1516_ws_mit/u-loesungen04.pdf",
+    "description": "fn(x), g3(x) = lim inf n\u2192\u221e fn(x), g4(x) = lim sup n\u2192\u221e fn(x) definierten Funktionen g1, g2, g3, g4 B(R)/B(R)-messbar sind. 1Die Existenz einer solchen Menge\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.math.uni-bielefeld.de/kassmann/data/uploads/1516_ws_mit/u-loesungen04.pdf&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAB6BAgAEAE&usg=AOvVaw1m4o9-YdFeky_QFCy-_9-3",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "[PDF] 1. Man bestimme lim sup n\u2192\u221e , lim inf n\u2192\u221e , sup und inf vonwww.mat.univie.ac.at \u203a ~huyer \u203a uebungeneinf",
+    "link": "http://www.mat.univie.ac.at/~huyer/uebungeneinf.pdf",
+    "description": "Man bestimme lim supn\u2192\u221e , lim infn\u2192\u221e , sup und inf von. {(\u22121)n n2. 2n2 \u2212 1. } , {(\u22121)n + n2. 2n2 \u2212 1. }. 2. Man bestimme lim supn\u2192\u221e , lim infn\u2192\u221e der\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.mat.univie.ac.at/~huyer/uebungeneinf.pdf&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAF6BAgHEAE&usg=AOvVaw1fwRlqGddK_EUb0DNJ25zU",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Skript zur Vorlesung Analysis I - TU Darmstadt/Mathematikwww.mathematik.tu-darmstadt.de \u203a Skripten \u203a SkriptAnaI_1516",
+    "link": "https://www.mathematik.tu-darmstadt.de/~haller/Skripten/SkriptAnaI_1516.pdf",
+    "description": "16.02.2016 \u00b7 ten) beschr\u00e4nkt und monoton wachsend (bzw. fallend), so ist (an) konvergent und es gilt lim n\u2192\u221e an = sup n\u2208N an. (bzw. lim n\u2192\u221e an = inf.",
+    "googleLink": "http://www.google.com/url?q=https://www.mathematik.tu-darmstadt.de/~haller/Skripten/SkriptAnaI_1516.pdf&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAJ6BAgIEAE&usg=AOvVaw1fIGpJYu7_ghYFN0Fu8WEw",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Aufgabenblatt 5 - geometric analysis - Freie Universit\u00e4t Berlingeometricanalysis.mi.fu-berlin.de \u203a uebungen \u203a ana1-ws2019_blatt5",
+    "link": "http://geometricanalysis.mi.fu-berlin.de/uebungen/WS1920/ana1-ws2019_blatt5.pdf",
+    "description": "19.11.2019 \u00b7 (i) Sei (an)n\u2208N eine reelle Zahlenfolge mit lim ... Der Limes lim n\u2192\u221e yn wird mit lim sup n\u2192\u221e xn oder limn\u2192\u221exn ... lim inf n\u2192\u221e xn oder limn\u2192\u221exn . (iii) Berechnen Sie den Limes inferior und den Limes superior der Folge.",
+    "googleLink": "http://www.google.com/url?q=http://geometricanalysis.mi.fu-berlin.de/uebungen/WS1920/ana1-ws2019_blatt5.pdf&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAN6BAgJEAE&usg=AOvVaw0lVP4YgmkYprF-fz78BBCQ",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Entscheiden Sie f\u00fcr folgende Folgen, ob liminf n\u2192\u221e an, limsup n ...www.mathelounge.de \u203a entscheiden-fur-folgende-folgen-liminf-limsup-exi...",
+    "link": "https://www.mathelounge.de/569330/entscheiden-fur-folgende-folgen-liminf-limsup-existieren",
+    "description": "Die Folge an hat eine Teilfolge, die gegen 1 und eine die gegen -1 konvergiert.. Sie hat genau zwei H\u00e4ufungspunkte, n\u00e4mlich -1 und 1. Also ist\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathelounge.de/569330/entscheiden-fur-folgende-folgen-liminf-limsup-existieren&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAR6BAgFEAE&usg=AOvVaw14xSFPzrptxacpH4lJoKF-",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Analysis I - Institut f\u00fcr Mathematik der TU Berlinwww3.math.tu-berlin.de \u203a Vorlesungen \u203a SoSe09 \u203a Ana1 \u203a Blatt5",
+    "link": "http://www3.math.tu-berlin.de/Vorlesungen/SoSe09/Ana1/Blatt5.pdf",
+    "description": "(i) Bestimmen Sie alle H\u00e4ufungspunkte sowie liminf und limsup der reellen ... (b) Die Folge (xn) konvergiert genau dann, falls lim sup n\u2192\u221e xn \u2264 lim inf n\u2192\u221e xn.",
+    "googleLink": "http://www.google.com/url?q=http://www3.math.tu-berlin.de/Vorlesungen/SoSe09/Ana1/Blatt5.pdf&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAV6BAgEEAE&usg=AOvVaw0mGDli_z6ZcIZc-gMRWSfF",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Lim sup/Lim inf - OnlineMathe - das mathe-forumwww.onlinemathe.de \u203a forum \u203a Lim-supLim-inf",
+    "link": "https://www.onlinemathe.de/forum/Lim-supLim-inf",
+    "description": "Im Mathe-Forum OnlineMathe.de wurden schon tausende Fragen zur Mathematik beantwortet. So auch zum Thema Lim sup/Lim inf.",
+    "googleLink": "http://www.google.com/url?q=https://www.onlinemathe.de/forum/Lim-supLim-inf&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAZ6BAgBEAE&usg=AOvVaw0EGhAwUNQtUOrQqf7HDBfa",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Wahrscheinlichkeitstheorie Mathematische Statistik SS 2011, Blatt 1 ...www.uni-muenster.de \u203a Stochastik \u203a lehre \u203a Aufgaben \u203a Blatt1",
+    "link": "https://www.uni-muenster.de/Stochastik/lehre/SS11/WT/Aufgaben/Blatt1.pdf",
+    "description": "lim inf n\u2192\u221e. An := \u221e. \u22c3 k=1. \u221e. \u22c2 j=k. Aj. Limes superior bzw. Limes inferior der Folge (An)n\u2208N. Zeigen Sie: a) limsup n\u2192\u221e. An ist die Menge aller Elemente\u200b,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-muenster.de/Stochastik/lehre/SS11/WT/Aufgaben/Blatt1.pdf&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAd6BAgCEAE&usg=AOvVaw14fjqbaiwt0vjZFPbD5HBQ",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] \u00a8Ubungen zur Vorlesung Wahrscheinlichkeitstheorie I ... - Uni-DUEwww.uni-due.de \u203a teaching \u203a blatt01",
+    "link": "https://www.uni-due.de/~hm0112/teaching/wt1-14ss/blatt01.pdf",
+    "description": "A\u2217 := limsup n\u2192\u221e. An := \u22c2m ... 1A\u2217 (\u03c9) = lim sup n\u2192\u221e. 1An (\u03c9). Hierbei bezeichnet. \u201d lim sup\u201c bzw. \u201d lim inf\u201c die aus der Analysis f\u00fcr Zahlenfolgen bekannten.",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-due.de/~hm0112/teaching/wt1-14ss/blatt01.pdf&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAh6BAgGEAE&usg=AOvVaw1q3TzJDHcS8eMPlU1iddY6",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Basic properties of limsup and liminf 1 Equivalent definitionspeople.math.aau.dk \u203a ~cornean \u203a analyse2_F14 \u203a limsup-liminf",
+    "link": "https://people.math.aau.dk/~cornean/analyse2_F14/limsup-liminf.pdf",
+    "description": "We have max(S) = lim sup sn and min(S) = lim inf sn. Proof. We only show the first equality. In order to simplify notation we put L := limsup sn. There are two things\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://people.math.aau.dk/~cornean/analyse2_F14/limsup-liminf.pdf&sa=U&ved=2ahUKEwi3yojBjI3xAhUpEzQIHR_hAt84HhAWMAl6BAgDEAE&usg=AOvVaw1F9iEsqxxE5JlfWYa6NYam",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Limes superior und inferior \u2013 GeoGebrawww.geogebra.org \u203a ...",
+    "link": "https://www.geogebra.org/m/tzfq73tv",
+    "description": "... (an) und wird mit lim sup an bezeichnet. Das Infimum der Menge aller H\u00e4ufungswerte hei\u00dft Limes Inferior der Folge (an) und wird mit lim inf an bezeichnet.",
+    "googleLink": "http://www.google.com/url?q=https://www.geogebra.org/m/tzfq73tv&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAB6BAgAEAE&usg=AOvVaw3-NLj_Cys7Br0gvnZP4TDQ",
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "[PDF] A Comprehensive Collection of Rules for Set Calculus.www.statistik.tu-dortmund.de \u203a Lehrstuehle \u203a Oekonometrie \u203a SetCalc...",
+    "link": "https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Oekonometrie/SetCalculus.pdf",
+    "description": "(3) liminf i\u2192\u221e. Ai \u2282 lim sup i\u2192\u221e. Ai. (4) The sets liminf i\u2192\u221e. Ai and lim sup i\u2192 \u221e ... If liminf i\u2192\u221e. Ai = limsup i\u2192\u221e. Ai, then we refer to this set by lim i\u2192\u221e. Ai.",
+    "googleLink": "http://www.google.com/url?q=https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Oekonometrie/SetCalculus.pdf&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAF6BAgIEAE&usg=AOvVaw3p4FgoWCwrzPi8p55i0EI9",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] Mathematische Symbole in Standard\u2013LaTeX - Latex Kurslatex-kurs.de \u203a kurse \u203a Symbole",
+    "link": "https://latex-kurs.de/kurse/SS15/DD/Symbole.pdf",
+    "description": "\\lim lim. \\limsuplim sup. \\liminf lim inf. \\sin sin. \\arcsin arcsin. \\sinh sinh. \\cos cos ... lim sup lim inf. 80. X-. 0 max. \\lim\\limits_{x Ito 0} lim. \\limsup\\limits_{x \\to 0}.",
+    "googleLink": "http://www.google.com/url?q=https://latex-kurs.de/kurse/SS15/DD/Symbole.pdf&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAJ6BAgHEAE&usg=AOvVaw3vr1b96F5QWW_O31cZdQ9S",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "[PDF] L\u00f6sungsvorschlag zu den Pr\u00e4senzaufgaben der 4. \u00dcbungmath.uni-paderborn.de \u203a Funktionentheorie_SS14 \u203a LoesungPraesenz",
+    "link": "https://math.uni-paderborn.de/fileadmin/mathematik/ag-partielle-differentialgleichungen/Lehre-UEbungszettel/Funktionentheorie_SS14/LoesungPraesenz/pl4.pdf",
+    "description": "29.04.2014 \u00b7 Es handelt sich damit bei an(z \u2212 z0)n nicht um eine Nullfolge und die. Reihe divergiert. Also ist R \u2264 lim sup | an an+1. |. Falls |z \u2212z0| < lim inf |\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.uni-paderborn.de/fileadmin/mathematik/ag-partielle-differentialgleichungen/Lehre-UEbungszettel/Funktionentheorie_SS14/LoesungPraesenz/pl4.pdf&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAN6BAgJEAE&usg=AOvVaw2EkHDue0HfnvYx2K5HYNao",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "Some Techniques on Lim Sup and Lim Inf - ResearchGatewww.researchgate.net \u203a publication \u203a 320368785_S...",
+    "link": "https://www.researchgate.net/publication/320368785_Some_Techniques_on_Lim_Sup_and_Lim_Inf",
+    "description": "31.03.2021 \u00b7 Download Citation | On Oct 12, 2017, Li-jiang ZENG published Some Techniques on Lim Sup and Lim Inf | Find, read and cite all the research\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/320368785_Some_Techniques_on_Lim_Sup_and_Lim_Inf&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAR6BAgGEAE&usg=AOvVaw2pJC3nY7MW81plvn4HsjHP",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Wahrscheinlichkeitstheorie Mathematische Statistik SS 2011, Blatt 1 ...www.uni-muenster.de \u203a Stochastik \u203a lehre \u203a Aufgaben \u203a Blatt1",
+    "link": "https://www.uni-muenster.de/Stochastik/lehre/SS11/WT/Aufgaben/Blatt1.pdf",
+    "description": "lim inf n\u2192\u221e. An := \u221e. \u22c3 k=1. \u221e. \u22c2 j=k. Aj. Limes superior bzw. Limes inferior der Folge (An)n\u2208N. Zeigen Sie: a) limsup n\u2192\u221e. An ist die Menge aller Elemente ,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-muenster.de/Stochastik/lehre/SS11/WT/Aufgaben/Blatt1.pdf&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAV6BAgEEAE&usg=AOvVaw2rDOV7jODLBYTNB0RXdv1S",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Real Analysis: 3.4. Lim Sup and Lim Inf - MathCS.orgmathcs.org \u203a analysis \u203a reals \u203a numseq \u203a limsup",
+    "link": "https://mathcs.org/analysis/reals/numseq/limsup.html",
+    "description": "Lim Sup and Lim Inf. When dealing with sequences there are two choices: the sequence converges; the sequence diverges. While we know how to deal with\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathcs.org/analysis/reals/numseq/limsup.html&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAZ6BAgBEAE&usg=AOvVaw2cRDxag4xrf2srYCEN9wZW",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "[PDF] \u00a8Ubungen zur Vorlesung Wahrscheinlichkeitstheorie I ... - Uni-DUEwww.uni-due.de \u203a teaching \u203a blatt01",
+    "link": "https://www.uni-due.de/~hm0112/teaching/wt1-14ss/blatt01.pdf",
+    "description": "A\u2217 := limsup n\u2192\u221e. An := \u22c2m ... 1A\u2217 (\u03c9) = lim sup n\u2192\u221e. 1An (\u03c9). Hierbei bezeichnet. \u201d lim sup\u201c bzw. \u201d lim inf\u201c die aus der Analysis f\u00fcr Zahlenfolgen bekannten.",
+    "googleLink": "http://www.google.com/url?q=https://www.uni-due.de/~hm0112/teaching/wt1-14ss/blatt01.pdf&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAd6BAgDEAE&usg=AOvVaw39f5lAOjj8X9oW2-LIqNXe",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "T212728 Artikel \"Lim sup und Lim inf\" - Wikimedia Phabricatorphabricator.wikimedia.org \u203a ...",
+    "link": "https://phabricator.wikimedia.org/T212728",
+    "description": "Artikel \"Lim sup und Lim inf\". Closed, DeclinedPublic. Actions. Edit Task; Edit Related Tasks... Create Subtask \u00b7 Edit Parent Tasks \u00b7 Edit Subtasks \u00b7 Merge\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://phabricator.wikimedia.org/T212728&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAh6BAgFEAE&usg=AOvVaw2b3QQv2N-UZv-hgKdJUAg_",
+    "page": 4,
+    "index": 8
+  },
+  {
+    "name": "Limit inferior and limit superior - Wikiwandwww.wikiwand.com \u203a Limit_superior_and_limit_inf...",
+    "link": "https://www.wikiwand.com/en/Limit_superior_and_limit_inferior",
+    "description": "... limit infimum, liminf, inferior limit, lower limit, or inner limit; limit superior is also known as supremum limit, limit supremum, limsup, superior limit, upper limit,\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wikiwand.com/en/Limit_superior_and_limit_inferior&sa=U&ved=2ahUKEwit0ePBjI3xAhWNHjQIHRA5C204KBAWMAl6BAgCEAE&usg=AOvVaw3lxnnlTqDImJBCDx6QdBdF",
+    "page": 4,
+    "index": 9
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Referenzattributewww.joachimhofmann.org \u203a 03 Referenzattribute+Objektdiagramme",
+    "link": "http://www.joachimhofmann.org/Klasse10/03%20Referenzattribute+Objektdiagramme/Hefteintrag%20Referenzattribute%20+%20Objektdiagramme.pdf",
+    "description": "Ein Attribut hei\u00dft Referenzattribut, wenn der Datentyp des Attributs eine andere schon bestehende Klasse ist (Gegenteil: primitives Attribut bei einem \u201enormalen\u201c Datentyp). Es referenziert/verweist damit auf ein eigenst\u00e4ndiges Objekt einer anderen Klasse.",
+    "googleLink": "http://www.google.com/url?q=http://www.joachimhofmann.org/Klasse10/03%2520Referenzattribute%2BObjektdiagramme/Hefteintrag%2520Referenzattribute%2520%2B%2520Objektdiagramme.pdf&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQFnoECAoQAg&usg=AOvVaw2Th3N4AxZ7eLQvpPmYvzfw",
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Referenzattribute - lernen mit Serlo!de.serlo.org \u203a informatik \u203a referenzattribute",
+    "link": "https://de.serlo.org/informatik/161293/referenzattribute",
+    "description": "M\u00f6chte man in einer Relation auf einen Datensatz in einer anderen Relation verweisen (=referenzieren), so spricht man von einer Referenz. Referenzen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/161293/referenzattribute&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQFjACegQIAxAB&usg=AOvVaw0mSuXU2-ZbwkX44m9MZB4E",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Referenzattribute - lernen mit Serlo!de.serlo.org \u203a informatik \u203a referenzattribute",
+    "link": "https://de.serlo.org/informatik/189054/referenzattribute",
+    "description": "Die Attributwerte sind Speicheradressen, also eine Folge von Zeichen, die dem Programm dabei hilft, das richtige Objekt im Speicher herauszusuchen und den\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.serlo.org/informatik/189054/referenzattribute&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQFjADegQIBhAB&usg=AOvVaw3qk2DQzgxA9E2zF_p2C69G",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "[PDF] Informatik 10wvsg.schulen2.regensburg.de \u203a Informatik \u203a 01_Objekte_und_Klassen",
+    "link": "https://wvsg.schulen2.regensburg.de/joomla/images/Faecher/Informatik/Informatik_10_neu/Skripten_und_Programme/01_Objekte_und_Klassen/01_Objekte_und_Klassen.pdf",
+    "description": "Referenzattribute sind Attribute, die sich auf eine andere Klasse beziehen. Im Gegensatz zu einfachen Attributen werden von einem Referenzattribut Objekte.",
+    "googleLink": "http://www.google.com/url?q=https://wvsg.schulen2.regensburg.de/joomla/images/Faecher/Informatik/Informatik_10_neu/Skripten_und_Programme/01_Objekte_und_Klassen/01_Objekte_und_Klassen.pdf&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQFjAIegQIBxAB&usg=AOvVaw0Z6C1hbZYGvlU7kEjLL4vr",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Java Tutorial Part 02 - Objektbeziehungen & Referenzattribute ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=_bdNU3p2o8Q",
+    "description": "25.09.2012 \u00b7 wie stellt man Beziehungen in Klassen- und Objektdiagramm dar?- wie realisiert man ...Dauer: 13:31Gepostet: 25.09.2012",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3D_bdNU3p2o8Q&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQtwIwCXoECAgQAQ&usg=AOvVaw2cXKRUxcVnl1HrUwQqMEQo",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "Go Home \u00bb Fachkonzept - Beziehung / Assoziation - inf-schulewww.inf-schule.de \u203a beziehungen \u203a gohome \u203a konzept_beziehungen",
+    "link": "https://www.inf-schule.de/programmierung/oopjava/beziehungen/gohome/konzept_beziehungen",
+    "description": "Referenzattribute. Wir betrachten als Beispiel ein Spiel -Objekt, das zwei Figur -\u200bObjekte steuern soll. Damit das Spiel -Objekt Zugriff auf die Figur -Objekte erh\u00e4lt,\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.inf-schule.de/programmierung/oopjava/beziehungen/gohome/konzept_beziehungen&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQFjAKegQIAhAB&usg=AOvVaw2rp55zxuJIL0JEjJr2xfBY",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "Referenzattribute - Objektdiagramme - itg-dah.infoitg-dah.info \u203a index.php \u203a modellierung \u203a 9-flappy-bird-und-diagramme",
+    "link": "https://itg-dah.info/index.php/info-10-processing/modellierung/9-flappy-bird-und-diagramme/1809-referenzattribute-objektdiagramme",
+    "description": "Referenzattribute - Objektdiagramme. In einer Klasse kann es neben (primitiven) Attribute auch Referenzattribute geben. Referenzattribute speichern eine\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://itg-dah.info/index.php/info-10-processing/modellierung/9-flappy-bird-und-diagramme/1809-referenzattribute-objektdiagramme&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQFjALegQIARAB&usg=AOvVaw2px9HXrU05B1SsGZgmRNQN",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Informatik Q11/Grundbegriffe \u2013 Projektwiki - ein Wiki mit Sch\u00fclern f\u00fcr ...projektwiki.zum.de \u203a wiki \u203a Informatik_Q11 \u203a Grundbegriffe",
+    "link": "https://projektwiki.zum.de/wiki/Informatik_Q11/Grundbegriffe",
+    "description": "15.03.2014 \u00b7 Ein Array mit Referenzattribut wird folgenderma\u00dfen deklariert: Klassenname der Klasse von Objekten, die in diesem Array gespeichert sind, in\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://projektwiki.zum.de/wiki/Informatik_Q11/Grundbegriffe&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQFjAMegQIABAB&usg=AOvVaw3WLUTV1cwZaY7MUEcAHIeQ",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "Attribute und Referenz-Attribute anlegen \u2013 objectiF RPM - microTOOLwww.microtool.de \u203a objectif-rpm-anwenden \u203a attribute-und-referenz-attrib...",
+    "link": "https://www.microtool.de/objectif-rpm-anwenden/attribute-und-referenz-attribute-anlegen/",
+    "description": "16.06.2017 \u00b7 Wir sprechen hier von einem Referenzattribut. Eine passende Klasse ProjectUser ist als Modellierungshilfe im Ordner Metamodell/ Entitytypen\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.microtool.de/objectif-rpm-anwenden/attribute-und-referenz-attribute-anlegen/&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQFjANegQIBRAB&usg=AOvVaw1AA8OsTlI_coHtioe0DVC2",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Referenzattribute festlegen - OVGUsaphelp.ucc.ovgu.de \u203a content",
+    "link": "http://saphelp.ucc.ovgu.de/NW750/DE/06/f23c4c638d11d4966d00a0c94260a5/content.htm",
+    "description": "Bei den Referenzattributen handelt es sich um persistente Attribute, die Referenzen auf andere persistente Objekte repr\u00e4sentieren. Um den Typ des\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://saphelp.ucc.ovgu.de/NW750/DE/06/f23c4c638d11d4966d00a0c94260a5/content.htm&sa=U&ved=2ahUKEwiG2N3zvorxAhURLa0KHSPzBhMQFjAOegQIBBAB&usg=AOvVaw2tD3OAzJi6QBWfa9zrEv5D",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Java Tutorial Part 02 - Objektbeziehungen & Referenzattribute ...https://www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=_bdNU3p2o8Q",
+    "description": "wie stellt man Beziehungen in Klassen- und Objektdiagramm dar?- wie realisiert man diese ...",
+    "googleLink": null,
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "[PDF] Informatik-Grundwissen zu Beginn der Oberstufe: JAVA, Klassen ...www.gfs-ebs.de \u203a media \u203a unterricht \u203a Informatik_Grundwissen_Obe...",
+    "link": "http://www.gfs-ebs.de/media/unterricht/grundwissen/Informatik_Grundwissen_Oberstufe.pdf",
+    "description": "Klasse. \u2713 Objektbeziehungen werden durch Referenzattribute realisiert. Mit diesen. Attributen speichert ein Objekt die Referenz auf ein anderes und kann somit.",
+    "googleLink": null,
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Eigene Klasse erstellen-Karteikarten | Quizletquizlet.com \u203a eigene-klasse-erstellen-flash-cards",
+    "link": "https://quizlet.com/de/326684485/eigene-klasse-erstellen-flash-cards/",
+    "description": "Klassendiagramm mit Referenzattribut,die auf andere Klassen verweisen. Deklaration Bedeutung? Festlegung. Deklaration von Attribute,was braucht?",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://quizlet.com/de/326684485/eigene-klasse-erstellen-flash-cards/&ved=2ahUKEwje3fT1vorxAhUFLKwKHevZAk04FBAWMAF6BAgHEAE&usg=AOvVaw0jFlXtYANrqtkYZpJSjEug",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "[PPT] Grundkonzepte der objektorientierten Programmierunginformatik.bildung-rp.de \u203a pps \u203a WB-X-3-GrundkonzepteOOPTeil2",
+    "link": "https://informatik.bildung-rp.de/fileadmin/user_upload/informatik.bildung-rp.de/Weiterbildung/pps/WB-X-3-GrundkonzepteOOPTeil2.pps",
+    "description": "Referenzattribut. Die Klasse TSpielmanager muss um Referenzattribute erweitert werden, mit deren Hilfe die Beziehungen zu anderen Objekten verwaltet\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://informatik.bildung-rp.de/fileadmin/user_upload/informatik.bildung-rp.de/Weiterbildung/pps/WB-X-3-GrundkonzepteOOPTeil2.pps&ved=2ahUKEwje3fT1vorxAhUFLKwKHevZAk04FBAWMAJ6BAgIEAE&usg=AOvVaw0Y4QfGxCWrvOqZwmW3ZG_L",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "[PDF] 13b - UML - Realisierung von Assoziationen - Aufgabenmasteroftheformulas.weebly.com \u203a uploads",
+    "link": "https://masteroftheformulas.weebly.com/uploads/5/4/8/7/54872499/13b_-_uml_-_realisierung_von_assoziationen_-_aufgaben.pdf",
+    "description": "Verwaltung der Referenzattribute (Listen) sind jeweils drei Methoden im Klassendiagramm definiert, welche folgende Operationen erm\u00f6glichen: - Objekt zur\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://masteroftheformulas.weebly.com/uploads/5/4/8/7/54872499/13b_-_uml_-_realisierung_von_assoziationen_-_aufgaben.pdf&ved=2ahUKEwje3fT1vorxAhUFLKwKHevZAk04FBAWMAN6BAgJEAE&usg=AOvVaw2qB6XQqceME9xslK-uAwWe",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "Referenzattribut - Englisch \u00dcbersetzung - Deutsch Beispiele ...context.reverso.net \u203a \u00fcbersetzung \u203a deutsch-englisch \u203a Referenzattribut",
+    "link": "https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/Referenzattribut",
+    "description": "\u00dcbersetzung im Kontext von \u201eReferenzattribut\u201c in Deutsch-Englisch von Reverso Context: Wenn das ausgew\u00e4hlte Referenzattribut \u00fcber keinen zugeordneten\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://context.reverso.net/%25C3%25BCbersetzung/deutsch-englisch/Referenzattribut&ved=2ahUKEwje3fT1vorxAhUFLKwKHevZAk04FBAWMAR6BAgEEAE&usg=AOvVaw1XfYRrReMMQd5K6co_2cKV",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "Wie kann ich Referenzattribute vor einem speichern? - Genera Codicewww.generacodice.com \u203a articolo \u203a wie-kann-ich-referenzattribute-vor-ein...",
+    "link": "https://www.generacodice.com/de/articolo/573606/wie-kann-ich-referenzattribute-vor-einem-speichern",
+    "description": "ich eine Reservierung Modell, das einen Termin Attribut als nimmt und ein virtuelles Attribut , der angibt, wie lange der Termin stattfinden wird. Das eigentli.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.generacodice.com/de/articolo/573606/wie-kann-ich-referenzattribute-vor-einem-speichern&ved=2ahUKEwje3fT1vorxAhUFLKwKHevZAk04FBAWMAV6BAgCEAE&usg=AOvVaw2K17ircKninv58In8JOgZU",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Mit Objekten arbeiten - fim.uni-passau.de - Universit\u00e4t Passauwww.fim.uni-passau.de \u203a fim \u203a schulen \u203a Dateien \u203a RLFBKlasse10",
+    "link": "https://www.fim.uni-passau.de/fileadmin/dokumente/fakultaeten/fim/schulen/Schulbuch_Informatik_10/Dateien/RLFBKlasse10.pdf",
+    "description": "Referenzattribute zuhoerer1 und zuhoerer2. E i t V di. 2 Zuh\u00f6rer. Experiment : Von dieser. Klasse zwei Objekte\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.fim.uni-passau.de/fileadmin/dokumente/fakultaeten/fim/schulen/Schulbuch_Informatik_10/Dateien/RLFBKlasse10.pdf&ved=2ahUKEwje3fT1vorxAhUFLKwKHevZAk04FBAWMAZ6BAgGEAE&usg=AOvVaw3QillOn_jH1G2t4TCWxttL",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Referenzattribute ( Siemens Digital Industries Software/NX) - Foren ...ww3.cad.de \u203a foren \u203a ubb \u203a Forum4 \u203a HTML",
+    "link": "https://ww3.cad.de/foren/ubb/Forum4/HTML/014785.shtml",
+    "description": "Hallo UG-ler. bis zur Version NX10 gab es bei den Expressions den befehl\"\u200bReferenzteilattribut\" und \"Referenzobjektattribut\". Wo finde ich diese nunmehr in der\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://ww3.cad.de/foren/ubb/Forum4/HTML/014785.shtml&ved=2ahUKEwje3fT1vorxAhUFLKwKHevZAk04FBAWMAd6BAgBEAE&usg=AOvVaw3Di-Ws0zyww4EUTKU1vguU",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "[PDF] OOM und OOP - Didaktik der Informatikddi.ifi.lmu.de \u203a tdi \u203a unterlagen \u203a kruemel-und-monster",
+    "link": "https://ddi.ifi.lmu.de/tdi/2009/unterlagen/kruemel-und-monster",
+    "description": "umsetzen implementieren. Referenzattribut class MAMPFI. {. // Attribute int positionX; int positionY; boolean verwundbar; char blickrichtung;. // Referenzattribute.",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://ddi.ifi.lmu.de/tdi/2009/unterlagen/kruemel-und-monster&ved=2ahUKEwje3fT1vorxAhUFLKwKHevZAk04FBAWMAh6BAgDEAE&usg=AOvVaw35sWDaDnM-EYJ5P6PPelXo",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Beziehungen zwischen Objekten - Gymnasium Pegnitzwww.gymnasium-pegnitz.de \u203a Unterricht \u203a Objektbeziehungen",
+    "link": "https://www.gymnasium-pegnitz.de/wp-content/uploads/faecher/informatik/unterrichtsmaterial/10/Unterricht/10_1_4BeziehungenZwischenObjekten(10)/Objektbeziehungen.pdf",
+    "description": "02.02.2019 \u00b7 Referenzattribute. Dabei werden nicht die Daten ... Das Attribut hauptstadt wird als Referenzattribut der Klasse Stadt deklariert. 1 public class\u00a0...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.gymnasium-pegnitz.de/wp-content/uploads/faecher/informatik/unterrichtsmaterial/10/Unterricht/10_1_4BeziehungenZwischenObjekten(10)/Objektbeziehungen.pdf&ved=2ahUKEwje3fT1vorxAhUFLKwKHevZAk04FBAWMAl6BAgAEAE&usg=AOvVaw2V9jE1aDxysCqDnf3vz7NA",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Wichtige JAVA-Begriffe - Zusammenfassung in Informatik - Know ...knowunity.de \u203a knows \u203a informatik-wichtige-java-begriffe-51427",
+    "link": "https://knowunity.de/knows/informatik-wichtige-java-begriffe-51427",
+    "description": "Referenzattribute ben\u00f6tigt zur Anzeige > 3 AMPEL LAMPE 1 < geh\u00f6rt zu Eine ... die Klasse AMPEL um drei Referenzattribute des Datentyps LAMPE erweitert.",
+    "googleLink": "http://www.google.com/url?q=https://knowunity.de/knows/informatik-wichtige-java-begriffe-51427&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAB6BAgFEAE&usg=AOvVaw02-4q1sHgpMRrTfbi2T_Hf",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "1.3 Klassen und Beziehungen - ppt video online herunterladenslideplayer.org \u203a slide",
+    "link": "https://slideplayer.org/slide/916461/",
+    "description": "13.01.2018 \u00b7 Beziehungen zwischen den Klassen: Umsetzung in Java durch Referenzattribute : public class Ampel { //Attribute: int positionX; int positionY;\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://slideplayer.org/slide/916461/&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAF6BAgJEAE&usg=AOvVaw3Zr_gAof5XVqssyAAhcg4N",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "modulares Konzept \u2013 Engine Alphaengine-alpha.org \u203a wiki \u203a modulares_Konzept",
+    "link": "https://engine-alpha.org/wiki/modulares_Konzept",
+    "description": "15.04.2017 \u00b7 Das Startskript behandelt die Inhalte Schreiben einer Klasse, Referenzattribute und Vererbung. Diese Inhalte sind Vorraussetzung f\u00fcr das\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://engine-alpha.org/wiki/modulares_Konzept&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAJ6BAgIEAE&usg=AOvVaw1pf9Exb-vTC3gQQa3pvLFo",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Objektorientierte Programmierung OOP mit Delphi - OSZ Handel 1www.oszhandel.de \u203a gymnasium \u203a faecher \u203a informatik \u203a delphi \u203a delphi_6",
+    "link": "https://www.oszhandel.de/gymnasium/faecher/informatik/delphi/delphi_6.htm",
+    "description": "ein Referenzattribut auf das Serverobjekt vereinbart wird; Methoden eingef\u00fchrt werden, die die ... Kunde : TKunde; // Referenzattribute auf die Objekte Betreuer: \u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.oszhandel.de/gymnasium/faecher/informatik/delphi/delphi_6.htm&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAN6BAgHEAE&usg=AOvVaw01FW1aI2X7iJj8YWFrNmq6",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Objekte und Klassen - Visual Basic | Microsoft Docsdocs.microsoft.com \u203a ... \u203a Leitfaden f\u00fcr Visual Basic \u203a Sprachfunktionen",
+    "link": "https://docs.microsoft.com/de-de/dotnet/visual-basic/programming-guide/language-features/objects-and-classes/",
+    "description": "26.05.2020 \u00b7 Objektmember. Ein Objekt ist ein Element einer Anwendung, das eine Instanz einer Klasse darstellt. Felder, Eigenschaften, Methoden und\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://docs.microsoft.com/de-de/dotnet/visual-basic/programming-guide/language-features/objects-and-classes/&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAR6BAgDEAE&usg=AOvVaw26CYgCdGaYNEK8Kkh5-lwC",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "2.6 GUI f\u00fcr andere Klassen - Lernpfad GUI-Programmierung mit ...www.brichzin.de \u203a unterricht \u203a Lernprogramm_javaeditor \u203a VerbindunGU...",
+    "link": "https://www.brichzin.de/unterricht/Lernprogramm_javaeditor/VerbindunGUIandereKlassen.html",
+    "description": "Man deklariert ein Referenzattribut vom Typ ZEIT in der Oberfl\u00e4chenklasse, erzeugt ein Objekt der Klasse ZEIT und weist es dem Referenzattribut zu.",
+    "googleLink": "http://www.google.com/url?q=https://www.brichzin.de/unterricht/Lernprogramm_javaeditor/VerbindunGUIandereKlassen.html&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAV6BAgBEAE&usg=AOvVaw15a9TP4LozcVtICa0jwbdT",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "SELFHTML: HTML/XHTML / Referenz /HTML-Attributreferenzwww-hera-b.desy.de \u203a ... \u203a HTML/XHTML \u203a HTML-Referenz",
+    "link": "http://www-hera-b.desy.de/subgroup/computing/IT/www/selfhtml/html/referenz/attribute.htm",
+    "description": "#CDATA. #CDATA steht f\u00fcr character data, zu deutsch: Zeichendaten. Es handelt sich um Text, der keine weiteren HTML-Elemente enthalten kann. In HTML ist\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www-hera-b.desy.de/subgroup/computing/IT/www/selfhtml/html/referenz/attribute.htm&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAZ6BAgEEAE&usg=AOvVaw1TJIbdcP673i08wx5UitGv",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "8 Baum in perfekter Komposition - studylibde.comstudylibde.com \u203a Ingenieurwissenschaft \u203a Informatik \u203a Datenstruktur",
+    "link": "https://studylibde.com/doc/5514339/8-baum-in-perfekter-komposition",
+    "description": "Jeder Knoten hat die Referenzattribute linkerNachfolger und rechterNachfolger. Gibt es keinen Nachfolger, so hat das Referenzattribut den Wert null.",
+    "googleLink": "http://www.google.com/url?q=https://studylibde.com/doc/5514339/8-baum-in-perfekter-komposition&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAd6BAgGEAE&usg=AOvVaw1Ih3szoIFVsdcYdVGHaOX0",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "reference attribute - Deutsch-\u00dcbersetzung \u2013 Linguee W\u00f6rterbuchwww.linguee.de \u203a englisch-deutsch \u203a uebersetzung \u203a reference+attribute",
+    "link": "https://www.linguee.de/englisch-deutsch/uebersetzung/reference+attribute.html",
+    "description": "\u00dcber dieses Referenzattribut k\u00f6nnen Sie auf \u00f6ffentliche [. ... mu\u00df zus\u00e4tzlich zur Objektreferenz ein Klassenidentifikator dem Referenzattribut zugeordnet werden.",
+    "googleLink": "http://www.google.com/url?q=https://www.linguee.de/englisch-deutsch/uebersetzung/reference%2Battribute.html&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAh6BAgAEAE&usg=AOvVaw2lU0flmDboCop57-NIl5pq",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Objektorientiertes Programmieren II - einfach erkl\u00e4rt! \u00b7 [mit Video]studyflix.de \u203a informatik \u203a objektorientiertes-programmieren-ii-425",
+    "link": "https://studyflix.de/informatik/objektorientiertes-programmieren-ii-425",
+    "description": "29.11.2018 \u00b7 Objektreferenzvariablen und Objekte in Java. Grunds\u00e4tzlich betrachten wir beim Umgang mit Objekten in Java zwei Dinge:\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://studyflix.de/informatik/objektorientiertes-programmieren-ii-425&sa=U&ved=2ahUKEwjYnLz2vorxAhVSRqwKHeSxDWA4HhAWMAl6BAgCEAE&usg=AOvVaw1aqsN4QcMzvrvaZyQpdYFW",
+    "page": 3,
+    "index": 9
+  }
+]

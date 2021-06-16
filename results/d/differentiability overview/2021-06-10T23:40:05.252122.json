@@ -1,0 +1,322 @@
+[
+  {
+    "name": "",
+    "link": "https://en.wikipedia.org/wiki/Differentiable_function?sa=X&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQ9QF6BAgFEAI",
+    "description": "In calculus (a branch of mathematics), a differentiable function of one real variable is a function whose derivative exists at each point in its domain. ... More generally, for x0 as an interior point in the domain of a function f, then f is said to be differentiable at x0 if and only if the derivative f \u2032(x0) exists.",
+    "googleLink": null,
+    "page": 0,
+    "index": 0
+  },
+  {
+    "name": "Differentiability - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a mathematics \u203a differentiability",
+    "link": "https://www.sciencedirect.com/topics/mathematics/differentiability",
+    "description": "In order to avoid confusion between G\u00e2teaux differentiability and differentiability, differentiable functions are usually called Frechet differentiable functions. It is an\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/mathematics/differentiability&sa=U&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQFjALegQICRAB&usg=AOvVaw2VO-_MWb8ZxkZc6JiZASdx",
+    "page": 0,
+    "index": 1
+  },
+  {
+    "name": "Differentiability - an overview | ScienceDirect Topicswww.sciencedirect.com \u203a topics \u203a engineering \u203a diff...",
+    "link": "https://www.sciencedirect.com/topics/engineering/differentiability",
+    "description": "which, evidently, is not differentiable in the point (0, 0) in the Fr\u00e9chet sense, the G\u00e2teaux differential in the point (0, 0) exists and is equal to zero since, in view of\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sciencedirect.com/topics/engineering/differentiability&sa=U&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQFjAMegQIAhAB&usg=AOvVaw260AztI0wRGLCE3b9He_wp",
+    "page": 0,
+    "index": 2
+  },
+  {
+    "name": "Differentiability and continuity (video) | Khan Academywww.khanacademy.org \u203a ab-differentiation-1-new",
+    "link": "https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-4/v/differentiability",
+    "description": "11.08.2017 \u00b7 People say that x^2 is differentiable at x=0. Why is this? It would seem like it is not ...Dauer: 9:38Gepostet: 11.08.2017",
+    "googleLink": "http://www.google.com/url?q=https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-4/v/differentiability&sa=U&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQtwIwDXoECAsQAQ&usg=AOvVaw1tjE5MIb3_WJa1tRp8Zzv4",
+    "page": 0,
+    "index": 3
+  },
+  {
+    "name": "Continuity and Differentiability - YouTubewww.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=fml0-ELYLaE",
+    "description": "25.03.2018 \u00b7 This calculus video tutorial provides a basic introduction into continuity and differentiability ...Dauer: 32:48Gepostet: 25.03.2018",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3Dfml0-ELYLaE&sa=U&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQtwIwDnoECAoQAQ&usg=AOvVaw1dcPTT4zgvrXkb7GzQ3WYo",
+    "page": 0,
+    "index": 4
+  },
+  {
+    "name": "The Derivative Functionweb.ma.utexas.edu \u203a users \u203a CurrentWeb",
+    "link": "https://web.ma.utexas.edu/users/m408n/m408c/CurrentWeb/LM2-8-6.php",
+    "description": "Why does it work? A hybrid chain rule. Implicit Differentiation. Introduction \u00b7 Examples \u00b7 Derivatives of Inverse Trigs via Implicit Differentiation \u00b7 A Summary\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://web.ma.utexas.edu/users/m408n/m408c/CurrentWeb/LM2-8-6.php&sa=U&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQFjAPegQICBAB&usg=AOvVaw1MoCCmunWF2MQYc3XZa2Ou",
+    "page": 0,
+    "index": 5
+  },
+  {
+    "name": "The definition of differentiability in higher dimensions - Math Insightmathinsight.org \u203a differentiability_multivariable_def...",
+    "link": "https://mathinsight.org/differentiability_multivariable_definition",
+    "description": "Introduction to differentiability in higher dimensions. The definition of differentiability in multivariable calculus formalizes what we meant in the introductory page\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathinsight.org/differentiability_multivariable_definition&sa=U&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQFjAQegQIBhAB&usg=AOvVaw1So6spmNke0dqGF9S9pakv",
+    "page": 0,
+    "index": 6
+  },
+  {
+    "name": "Sage Calculus Tutorial - Differentiability - SageMathwww.sagemath.org \u203a calctut \u203a differentiability",
+    "link": "https://www.sagemath.org/calctut/differentiability.html",
+    "description": "Another point of note is that if f is differentiable at c, then f is continuous at c. Let's go through a few examples and discuss their differentiability. First, consider the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.sagemath.org/calctut/differentiability.html&sa=U&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQFjARegQIARAB&usg=AOvVaw10Q1IIxU7_l5aS9V_g3FQI",
+    "page": 0,
+    "index": 7
+  },
+  {
+    "name": "1.7: Limits, Continuity, and Differentiability - Mathematics LibreTextsmath.libretexts.org \u203a Bookshelves \u203a Calculus \u203a 1.7:_...",
+    "link": "https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Active_Calculus_(Boelkins_et_al)/1%3A_Understanding_the_Derivative/1.7%3A_Limits_Continuity_and_Differentiability",
+    "description": "Introduction. In Section 1.2, we learned about how the concept of limits can be used to study the trend of a function near a fixed input\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.libretexts.org/Bookshelves/Calculus/Book%253A_Active_Calculus_(Boelkins_et_al)/1%253A_Understanding_the_Derivative/1.7%253A_Limits_Continuity_and_Differentiability&sa=U&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQFjASegQIBxAB&usg=AOvVaw3D6pdEZDbOS7ee7lMqOif6",
+    "page": 0,
+    "index": 8
+  },
+  {
+    "name": "Overview: continuity and differentiability \u2013 Serlo \u2013 Wikibooks ...de.wikibooks.org \u203a wiki \u203a Serlo:_EN:_Overview:_continuity_and_differen...",
+    "link": "https://de.wikibooks.org/wiki/Serlo:_EN:_Overview:_continuity_and_differentiability",
+    "description": "Overview: continuity and differentiability \u2013 Serlo. Sprache; Beobachten \u00b7 Bearbeiten. In this section we summarise the most important relationships and results\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://de.wikibooks.org/wiki/Serlo:_EN:_Overview:_continuity_and_differentiability&sa=U&ved=2ahUKEwiDz6zdg47xAhXEc30KHcWVDNgQFjATegQIAxAB&usg=AOvVaw1zCM_czCWEFR--pR6b8dnb",
+    "page": 0,
+    "index": 9
+  },
+  {
+    "name": "Differentiability and continuity | Derivatives introduction | AP ...www.youtube.com \u203a watch",
+    "link": "https://www.youtube.com/watch?v=xuAiQOzIkWY",
+    "description": "21.07.2017 \u00b7 Defining differentiability and getting an intuition for the relationship ... Differentiability and ...Dauer: 9:38Gepostet: 21.07.2017",
+    "googleLink": "http://www.google.com/url?q=https://www.youtube.com/watch%3Fv%3DxuAiQOzIkWY&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChC3AjAAegQIABAB&usg=AOvVaw28PfIeDEV3Ad4GBfPsCBbC",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Differentiability versus continuity - American Mathematical Societywww.ams.org \u203a journals \u203a bull",
+    "link": "https://www.ams.org/journals/bull/2019-56-02/S0273-0979-2018-01635-2/S0273-0979-2018-01635-2.pdf",
+    "description": "07.09.2018 \u00b7 In addition, we give an overview of the results concerning higher-order differentiation. This includes the Whitney extension theorem and the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.ams.org/journals/bull/2019-56-02/S0273-0979-2018-01635-2/S0273-0979-2018-01635-2.pdf&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChAWMAF6BAgHEAE&usg=AOvVaw1B5su70PaGnPnY0FRn5Bji",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "CBSE Class 12 - Introduction to Differentiability and Chain Rule ...unacademy.com \u203a lesson \u203a introduction-to-differenti...",
+    "link": "https://unacademy.com/lesson/introduction-to-differentiability-and-chain-rule/E0GTFEUM",
+    "description": "Get access to the latest Introduction to Differentiability and Chain Rule prepared with CBSE Class 12 course curated by Bhavya Batra on Unacademy to prepare\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://unacademy.com/lesson/introduction-to-differentiability-and-chain-rule/E0GTFEUM&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChAWMAJ6BAgIEAE&usg=AOvVaw18AftLzB3Zlt7IsoPJeHaY",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Differentiable - Math is Funwww.mathsisfun.com \u203a calculus \u203a differentiable",
+    "link": "https://www.mathsisfun.com/calculus/differentiable.html",
+    "description": "For x2 + 6x, its derivative of 2x + 6 exists for all Real Numbers. So we are still safe\u200b: x2 + 6x is differentiable. But what about this: Example: The function f\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.mathsisfun.com/calculus/differentiable.html&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChAWMAN6BAgJEAE&usg=AOvVaw3-Rn5xVkSBa59g0vgFER_6",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "Differentiability versus continuity: Restriction and extension ...arxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/1806.10994",
+    "description": "28.06.2018 \u00b7 In addition, we overview the results concerning higher order differentiation. This includes the Whitney extension theorem and the higher order\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1806.10994&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChAWMAR6BAgEEAE&usg=AOvVaw05KQGDHxscFiOmxC9eq57v",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "[PDF] A Review of Automatic Differentiation and its Efficient ... - arXivarxiv.org \u203a pdf",
+    "link": "https://arxiv.org/pdf/1811.05031",
+    "description": "14.01.2019 \u00b7 A Review of Automatic Differentiation ... Table 1: Summary of techniques to calculate derivatives. ... with a review of the fundamentals of AD.",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/pdf/1811.05031&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChAWMAV6BAgDEAE&usg=AOvVaw0nYMOi8det_9pKHm_Lpi2b",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Class 12 Continuity and Differentiability - Differentiability of a Functionwww.toppr.com \u203a ask \u203a content \u203a cbse \u203a maths \u203a dif...",
+    "link": "https://www.toppr.com/ask/content/cbse/class-12-engineering-medical/maths/continuity-and-differentiability/differentiability/",
+    "description": "Overview. Explain differentiability of a function, left differentiability, right differentiability, and non differentiable functions prove that a function differentiable at a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.toppr.com/ask/content/cbse/class-12-engineering-medical/maths/continuity-and-differentiability/differentiability/&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChAWMAZ6BAgFEAE&usg=AOvVaw29ScVSoNJVwwOVWq0zQcZI",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "[PDF] Automatic Differentiation in Machine Learning: a Survey - Journal of ...www.jmlr.org \u203a papers \u203a volume18",
+    "link": "https://www.jmlr.org/papers/volume18/17-468/17-468.pdf",
+    "description": "Without proper introduction, one might assume that AD is either a type of numerical or symbolic differentiation. Confusion can arise because AD does in fact\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.jmlr.org/papers/volume18/17-468/17-468.pdf&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChAWMAd6BAgGEAE&usg=AOvVaw3PncjxzDXqd9cdhCyxRRe2",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "Continuity and Differentiability Class 12 Notes Maths Chapter 5 ...www.learncbse.in \u203a continuity-and-differentiability-...",
+    "link": "https://www.learncbse.in/continuity-and-differentiability-class-12-notes/",
+    "description": "22.05.2019 \u00b7 Note: Every differentiable function is continuous but every continuous function is not differentiable. Differentiation: The process of finding a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.learncbse.in/continuity-and-differentiability-class-12-notes/&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChAWMAh6BAgBEAE&usg=AOvVaw0VLLVmt7Rpja8BgZijF8mz",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "2.3 Differentiability - Calculuscalculus.flippedmath.com \u203a 23-differentiability",
+    "link": "https://calculus.flippedmath.com/23-differentiability.html",
+    "description": "This lesson contains the following Essential Knowledge (EK) concepts for the *\u200bAP Calculus course. Click here for an overview of all the EK's in this course.",
+    "googleLink": "http://www.google.com/url?q=https://calculus.flippedmath.com/23-differentiability.html&sa=U&ved=2ahUKEwiztuvdg47xAhVbVisKHW4IBek4ChAWMAl6BAgCEAE&usg=AOvVaw0NqCLMSvQGGU485YzzzAFC",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "Sec. 1.7b - Differentiability and Linearization of a function \u00b7 Study ...math.mychamplain.ca \u203a sec-17b-differentiability-an...",
+    "link": "https://math.mychamplain.ca/sec-17b-differentiability-and-linearization-of-a-function.html",
+    "description": "Overview. We are about to wrap up Chapter 1 of the text, titled \u201cUnderstanding the Derivative.\u201d One key aspect of understanding the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.mychamplain.ca/sec-17b-differentiability-and-linearization-of-a-function.html&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAB6BAgDEAE&usg=AOvVaw11V44FPN4eAvGW335vq_wU",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Differentiable Weighted Finite-State Transducers | OpenReviewopenreview.net \u203a forum",
+    "link": "https://openreview.net/forum?id=MpStQoD73Mj",
+    "description": "We validate these algorithms with experiments in handwriting recognition and speech recognition. One-sentence Summary: A framework for automatic\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://openreview.net/forum%3Fid%3DMpStQoD73Mj&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAF6BAgJEAE&usg=AOvVaw1KTkYHxOVT1za-wOhDXxyx",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "gradSim: Differentiable simulation for system identification and ...openreview.net \u203a forum",
+    "link": "https://openreview.net/forum?id=c_E8kFWfhp0",
+    "description": "One-sentence Summary: Differentiable models of time-varying dynamics and image formation pipelines result in highly accurate physical parameter estimation\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://openreview.net/forum%3Fid%3Dc_E8kFWfhp0&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAJ6BAgHEAE&usg=AOvVaw0WgofAJP84D81yZckKKeJ8",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Solvers, Optimizers, and Automatic Differentiation \u2013 Quantitative ...julia.quantecon.org \u203a optimization_solver_packages",
+    "link": "https://julia.quantecon.org/more_julia/optimization_solver_packages.html",
+    "description": "Overview\u00b6. In this lecture we introduce a few of the Julia libraries that we've found particularly\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://julia.quantecon.org/more_julia/optimization_solver_packages.html&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAN6BAgIEAE&usg=AOvVaw0Y1vExOShhKwBCkI6evOwp",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "swift/DifferentiableProgramming.md at main \u00b7 apple/swift \u00b7 GitHubgithub.com \u203a apple \u203a swift \u203a blob \u203a main \u203a docs \u203a D...",
+    "link": "https://github.com/apple/swift/blob/main/docs/DifferentiableProgramming.md",
+    "description": "Differentiation is the process of computing derivatives. See the \"Math Introduction\u200b\" section below for more details. Derivatives are a fundamental tool in calculus\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://github.com/apple/swift/blob/main/docs/DifferentiableProgramming.md&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAR6BAgEEAE&usg=AOvVaw2WmV_Q8FnATfCLq9dV2JQc",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "[PDF] Linearity and differentiability Overview 15 2 November 2014 ...people.math.aau.dk \u203a ~matarne \u203a 14-lindif \u203a overview15",
+    "link": "https://people.math.aau.dk/~matarne/14-lindif/overview15.pdf",
+    "description": "Overview 15. 2 November 2014 ... I will review the one variable mean value theorem ... derivatives and (total) differentiability, S\u00e6tning 8 in supl3.pdf. I will also\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://people.math.aau.dk/~matarne/14-lindif/overview15.pdf&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAV6BAgCEAE&usg=AOvVaw0ofbAw5K8Rj1-lTxyfAcbO",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "[PDF] DIFFERENTIABLE STRUCTURES ON METRIC MEASURE SPACESmath.nyu.edu \u203a ~bkleiner \u203a expodiff",
+    "link": "http://math.nyu.edu/~bkleiner/expodiff.pdf",
+    "description": "04.08.2011 \u00b7 Overview of the proof of Theorem 1.3. 5. 3. Preliminaries. 9. 4. Finite dimensionality implies measurable differentiable structure. 13. 5. A Lip-lip\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://math.nyu.edu/~bkleiner/expodiff.pdf&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAZ6BAgFEAE&usg=AOvVaw27T9bRizrg-w-nFBLPwOtK",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "Differentiability versus continuity: Restriction and extension ...www.researchgate.net \u203a Home \u203a Restriction",
+    "link": "https://www.researchgate.net/publication/327523695_Differentiability_versus_continuity_Restriction_and_extension_theorems_and_monstrous_examples",
+    "description": "In addition, we give an overview of the results concerning higher-order differentiation. This includes the Whitney extension theorem and the higherorder\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/327523695_Differentiability_versus_continuity_Restriction_and_extension_theorems_and_monstrous_examples&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAd6BAgBEAE&usg=AOvVaw32XaI2mIYMQwwegQmYg9fb",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Class 12 Maths Revision Notes for Continuity and Differentiability of ...www.vedantu.com \u203a revision-notes \u203a cbse-class-12-...",
+    "link": "https://www.vedantu.com/revision-notes/cbse-class-12-maths-notes-chapter-5-continuity-and-differentiability",
+    "description": "If a Function is not continuous then it is not differentiable. Differentiation of Standard Functions. f(x).",
+    "googleLink": "http://www.google.com/url?q=https://www.vedantu.com/revision-notes/cbse-class-12-maths-notes-chapter-5-continuity-and-differentiability&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAh6BAgGEAE&usg=AOvVaw1PUzP3g3fCLNktIAdBOsP-",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "Differentiable | Swift for TensorFlowwww.tensorflow.org \u203a swift \u203a api_docs \u203a Protocols",
+    "link": "https://www.tensorflow.org/swift/api_docs/Protocols/Differentiable",
+    "description": "23.06.2020 \u00b7 Rate and review ... A type that mathematically represents a differentiable manifold ... A type representing a differentiable value's derivatives.",
+    "googleLink": "http://www.google.com/url?q=https://www.tensorflow.org/swift/api_docs/Protocols/Differentiable&sa=U&ved=2ahUKEwjqkZ3eg47xAhWST30KHQrhBFA4FBAWMAl6BAgAEAE&usg=AOvVaw04oe4VH5hv-0cenU-VANA8",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "On the differentiability of Cauchy horizons: Journal of Mathematical ...aip.scitation.org \u203a doi",
+    "link": "https://aip.scitation.org/doi/10.1063/1.533021",
+    "description": "Chru\u015bciel and Galloway constructed a Cauchy horizon that is nondifferentiable on a dense set. We prove that in a certain class of Cauchy horizons densely\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://aip.scitation.org/doi/10.1063/1.533021&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAB6BAgBEAE&usg=AOvVaw2W1Q1Gy9upHjqFAgrTXv8V",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "State Space Consistency and Differentiability | springerprofessional.dewww.springerprofessional.de \u203a product \u203a overview \u203a state-space-consistenc...",
+    "link": "https://www.springerprofessional.de/product/overview/state-space-consistency-and-differentiability/6496118",
+    "description": "State Space Consistency and Differentiability | springerprofessional.de Skip to main content. Newsletter; Deutsch ... host description. View Cookies. Name.",
+    "googleLink": "http://www.google.com/url?q=https://www.springerprofessional.de/product/overview/state-space-consistency-and-differentiability/6496118&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAF6BAgJEAE&usg=AOvVaw1Mucv09gjr6SOZWaRUZ6N6",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Web Lesson - Differentiability - Mr. Mathwww.mrmath.com \u203a lessons \u203a calculus \u203a differentiab...",
+    "link": "https://www.mrmath.com/lessons/calculus/differentiability/",
+    "description": "... define and understand differentiability; Define differentiability using a limit definition. Lesson Description. Not all functions have well-defined slope functions\u200b.",
+    "googleLink": "http://www.google.com/url?q=https://www.mrmath.com/lessons/calculus/differentiability/&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAJ6BAgHEAE&usg=AOvVaw2iUtOzYt6oggiDclgiYUut",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "Weak differentiability of product measures \u2014 Vrije Universiteit ...research.vu.nl \u203a publications \u203a weak-differentiability...",
+    "link": "https://research.vu.nl/en/publications/weak-differentiability-of-product-measures",
+    "description": "Applications of our theory to the ruin problem from insurance mathematics and to stochastic activity networks arising in project evaluation review techniques are\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://research.vu.nl/en/publications/weak-differentiability-of-product-measures&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAN6BAgIEAE&usg=AOvVaw1dIbCKZUYCHRdJlqRTQEdU",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Differentiability in Integral Calculus - Videos & Lessons | Study.comstudy.com \u203a academy \u203a topic \u203a differentiability-in-i...",
+    "link": "https://study.com/academy/topic/differentiability-in-integral-calculus.html",
+    "description": "Master the concept of differentiability as it's used in integral calculus by ... Overview; Exams; Course ... In this lesson, learn what that means for differentiability.",
+    "googleLink": "http://www.google.com/url?q=https://study.com/academy/topic/differentiability-in-integral-calculus.html&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAR6BAgAEAE&usg=AOvVaw0F_czgoKHF-ezyQatLDK8b",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "Continuity And Differentiability Class 12 Chapter 5 Notes and ... - Byjusbyjus.com \u203a Maths \u203a Math Article",
+    "link": "https://byjus.com/maths/continuity-and-differentiability-for-class-12/",
+    "description": "Introduction \u00b7 Continuity. Algebra of a continuous function \u00b7 Differentiability. Derivatives of composite functions \u00b7 Exponential and Logarithmic Functions \u00b7 Logarithmic\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://byjus.com/maths/continuity-and-differentiability-for-class-12/&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAV6BAgEEAE&usg=AOvVaw3_v3NazXUFigXE5KHj00Tk",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "[PDF] Continuity - Stanford Mathematicsmath.stanford.edu \u203a ~jmadnick",
+    "link": "http://math.stanford.edu/~jmadnick/T19.pdf",
+    "description": "Differentiability (Introduction) ... Def: A function f(x) is differentiable at x = a if its derivative f (a) exists. That is: ... Again: Differentiable functions are continuous.",
+    "googleLink": "http://www.google.com/url?q=http://math.stanford.edu/~jmadnick/T19.pdf&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAZ6BAgCEAE&usg=AOvVaw1Ro272-jMCoanB_xBVB9l3",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Introduction to differentiation: Conclusion - OpenLearn - Open ...www.open.edu \u203a openlearn \u203a content-section-2",
+    "link": "https://www.open.edu/openlearn/science-maths-technology/introduction-differentiation/content-section-2",
+    "description": "Following completion of this free OpenLearn course, Introduction to differentiation\u200b, as well as being able to 'differentiate', you should find that you are increasingly\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.open.edu/openlearn/science-maths-technology/introduction-differentiation/content-section-2&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAd6BAgFEAE&usg=AOvVaw3BIjJ8SBmOeRTDCbjwPMSH",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Limits and Differentiability - Applied Mathematicswww.dam.brown.edu \u203a people \u203a spsmith \u203a Calculus \u203a Derivatives",
+    "link": "https://www.dam.brown.edu/people/spsmith/Calculus/Derivatives.pdf",
+    "description": "30.09.1999 \u00b7 The following is a review of diferentiation. It supplements ... functions | X| and X1/\u200b3 are not differentiable at 0 for different reasons ? It is easy to\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dam.brown.edu/people/spsmith/Calculus/Derivatives.pdf&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAh6BAgGEAE&usg=AOvVaw14LlghMlWtl-Ufsijm8n6w",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Review 2.1-2.4 | Calc Medicwww.calc-medic.com \u203a unit-2-day-6",
+    "link": "https://www.calc-medic.com/unit-2-day-6",
+    "description": "Use formal limit definitions of continuity and differentiability ... Overview. Today students are working in pairs on another excellent activity from Bryan Passwater.",
+    "googleLink": "http://www.google.com/url?q=https://www.calc-medic.com/unit-2-day-6&sa=U&ved=2ahUKEwjTk9Deg47xAhWXbysKHTOhD6w4HhAWMAl6BAgDEAE&usg=AOvVaw3ezGxytVHNdOhD-EPundU2",
+    "page": 3,
+    "index": 9
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Const member functions in C++ - GeeksforGeekswww.geeksforgeeks.org \u203a const-member-functions-c",
+    "link": "https://www.geeksforgeeks.org/const-member-functions-c/",
+    "description": "27.03.2021 \u00b7 A function becomes const when the const keyword is used in the function's declaration. The idea of const functions is not to allow them to modify\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.geeksforgeeks.org/const-member-functions-c/&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAB6BAgDEAE&usg=AOvVaw38w9CKJefcgv4ur22pPcG4",
+    "page": 1,
+    "index": 0
+  },
+  {
+    "name": "Notation for set of constant functions - Mathematics Stack Exchangemath.stackexchange.com \u203a questions \u203a notation-for-...",
+    "link": "https://math.stackexchange.com/questions/1680967/notation-for-set-of-constant-functions",
+    "description": "How do I represent a set of functions where each function is a constant function that returns some arbitrary constant? For example, I would like to identify an\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/1680967/notation-for-set-of-constant-functions&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAF6BAgJEAE&usg=AOvVaw2pb8MMPkHYnMRNrUdX-0oU",
+    "page": 1,
+    "index": 1
+  },
+  {
+    "name": "Why is this the set of constant functions? - Mathematics Stack ...math.stackexchange.com \u203a questions \u203a why-is-this-t...",
+    "link": "https://math.stackexchange.com/questions/2604027/why-is-this-the-set-of-constant-functions",
+    "description": "Because you removed the absolute values around x1\u2212x2 (from the usual definition of continuity), so that x1\u2212x2 now can be negative. And that makes the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.stackexchange.com/questions/2604027/why-is-this-the-set-of-constant-functions&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAJ6BAgHEAE&usg=AOvVaw3hWo7ktmHdPeLLYfvydDur",
+    "page": 1,
+    "index": 2
+  },
+  {
+    "name": "Piecewise Constant Function -- from Wolfram MathWorldmathworld.wolfram.com \u203a PiecewiseConstantFunction",
+    "link": "https://mathworld.wolfram.com/PiecewiseConstantFunction.html",
+    "description": "The Heaviside step function, rectangle function, and square wave are examples of one-dimensional piecewise constant functions. Examples in two dimensions\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://mathworld.wolfram.com/PiecewiseConstantFunction.html&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAN6BAgIEAE&usg=AOvVaw3zY-zd_ryjCycIBH2P_jo3",
+    "page": 1,
+    "index": 3
+  },
+  {
+    "name": "What is meant with \"const\" at end of function declaration? - Stack ...stackoverflow.com \u203a questions \u203a what-is-meant-with...",
+    "link": "https://stackoverflow.com/questions/3141087/what-is-meant-with-const-at-end-of-function-declaration",
+    "description": "A \"const function\", denoted with the keyword const after a function declaration, makes it a compiler error for this class function to change a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://stackoverflow.com/questions/3141087/what-is-meant-with-const-at-end-of-function-declaration&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAR6BAgFEAE&usg=AOvVaw1D2otPClxKgSmxe0q-CE88",
+    "page": 1,
+    "index": 4
+  },
+  {
+    "name": "Approximation to Constant Functions by Electrostatic Fields due to ...link.springer.com \u203a article",
+    "link": "https://link.springer.com/article/10.1134/S1995080219010104",
+    "description": "08.04.2019 \u00b7 We study a uniform approximation to constant functions f(z) = const on compact subsets K of complex plane by logarithmic derivatives of\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://link.springer.com/article/10.1134/S1995080219010104&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAV6BAgGEAE&usg=AOvVaw21BcWFGfAEwUQp5ggwT84U",
+    "page": 1,
+    "index": 5
+  },
+  {
+    "name": "Functions - The Rust Reference - Learn Rust Programming Languagedoc.rust-lang.org \u203a reference \u203a items \u203a functions",
+    "link": "https://doc.rust-lang.org/reference/items/functions.html",
+    "description": "Const functions are not allowed to be async, and cannot use the extern function qualifier. Async functions. Functions may be qualified as async, and this can also\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://doc.rust-lang.org/reference/items/functions.html&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAZ6BAgEEAE&usg=AOvVaw2YQCl7G3OIFV7PKLzUM22r",
+    "page": 1,
+    "index": 6
+  },
+  {
+    "name": "Online Optimization of Smoothed Piecewise Constant Functionsproceedings.mlr.press \u203a ...",
+    "link": "http://proceedings.mlr.press/v54/cohen-addad17a.html",
+    "description": "Online Optimization of Smoothed Piecewise Constant Functions. Vincent Cohen-\u200bAddad, Varun Kanade. ; Proceedings of the 20th International Conference on\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://proceedings.mlr.press/v54/cohen-addad17a.html&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAd6BAgAEAE&usg=AOvVaw2Y-22KxJaUQDLSjCV7cSFv",
+    "page": 1,
+    "index": 7
+  },
+  {
+    "name": "(PDF) Approximation by piecewise constant functions in a BV metricwww.researchgate.net \u203a publication \u203a 2833401_App...",
+    "link": "https://www.researchgate.net/publication/2833401_Approximation_by_piecewise_constant_functions_in_a_BV_metric",
+    "description": "PDF | We study the approximation properties of piecewise constant functions with respect to triangular and rectangular finite elements in a metric... | Find, read\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.researchgate.net/publication/2833401_Approximation_by_piecewise_constant_functions_in_a_BV_metric&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAh6BAgCEAE&usg=AOvVaw1jrNl_VIkJIcnxjmLCYtDc",
+    "page": 1,
+    "index": 8
+  },
+  {
+    "name": "[PDF] Piecewise Constant Functions - Journal of Machine Learning ...jmlr.csail.mit.edu \u203a papers \u203a volume6",
+    "link": "http://jmlr.csail.mit.edu/papers/volume6/binev05a/binev05a.pdf",
+    "description": "Submitted 9/04; Revised 4/05; Published 9/05. Universal Algorithms for Learning Theory. Part I : Piecewise Constant Functions. Peter Binev. BINEV@MATH.SC.",
+    "googleLink": "http://www.google.com/url?q=http://jmlr.csail.mit.edu/papers/volume6/binev05a/binev05a.pdf&sa=U&ved=2ahUKEwjt86DNzJfxAhUyrJUCHfsPDxg4ChAWMAl6BAgBEAE&usg=AOvVaw3rT7mplIGXpnIYfxYndHnq",
+    "page": 1,
+    "index": 9
+  },
+  {
+    "name": "3.2.9 Examples with Piecewise Constant Functionswww.dgp.toronto.edu \u203a mooncake \u203a thesis \u203a node86",
+    "link": "https://www.dgp.toronto.edu/public_user/mooncake/thesis/node86.html",
+    "description": "is a piecewise constant function, albeit with an infinite number of pieces. We are, however, concerned with functions which may be described using a finite number\u200b\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.dgp.toronto.edu/public_user/mooncake/thesis/node86.html&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAB6BAgAEAE&usg=AOvVaw07cUgfqheTBMgkD8lq0qNg",
+    "page": 2,
+    "index": 0
+  },
+  {
+    "name": "Real Functions: Constant Functions - Math . infomath.info \u203a Algebra \u203a Constant_Functions",
+    "link": "https://math.info/Algebra/Constant_Functions/",
+    "description": "Real Functions: Constant Functions. An constant function is a function that always returns the same constant value. In other words, the constant function is the\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://math.info/Algebra/Constant_Functions/&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAF6BAgJEAE&usg=AOvVaw0Jw5nRFSvwKR3kdNLj_sOc",
+    "page": 2,
+    "index": 1
+  },
+  {
+    "name": "PHP constant() Function - W3Schoolswww.w3schools.com \u203a php \u203a func_misc_constant",
+    "link": "https://www.w3schools.com/php/func_misc_constant.asp",
+    "description": "The constant() function returns the value of a constant. Note: This function also works with class constants. Syntax. constant(constant). Parameter Values\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.w3schools.com/php/func_misc_constant.asp&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAJ6BAgHEAE&usg=AOvVaw0eCpr6hkvR84CkzkWjOxkx",
+    "page": 2,
+    "index": 2
+  },
+  {
+    "name": "Constant \u2014 FEniCS Project - dolfin.functions modulefenicsproject.org \u203a python \u203a programmers-reference",
+    "link": "https://fenicsproject.org/olddocs/dolfin/2017.2.0/python/programmers-reference/functions/constant/Constant.html",
+    "description": "Create constant-valued function with given value. Arguments. value: The value may be either a single scalar value, or a tuple/list of values for vector-valued\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://fenicsproject.org/olddocs/dolfin/2017.2.0/python/programmers-reference/functions/constant/Constant.html&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAN6BAgIEAE&usg=AOvVaw1CB2z_WHLv3Z3l3E4px-oN",
+    "page": 2,
+    "index": 3
+  },
+  {
+    "name": "11.12 \u2014 Const class objects and member functions | Learn C++www.learncpp.com \u203a cpp-tutorial \u203a const-class-obje...",
+    "link": "https://www.learncpp.com/cpp-tutorial/const-class-objects-and-member-functions/",
+    "description": "17.05.2021 \u00b7 A const member function is a member function that guarantees it will not modify the object or call any non-const member functions (as they may\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.learncpp.com/cpp-tutorial/const-class-objects-and-member-functions/&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAR6BAgBEAE&usg=AOvVaw3ABMhjGNCagvca_MR-BhRc",
+    "page": 2,
+    "index": 4
+  },
+  {
+    "name": "The number of constant functions possible from mathbbR class 11 ...www.vedantu.com \u203a question-answer \u203a the-number-...",
+    "link": "https://www.vedantu.com/question-answer/the-number-of-constant-functions-possible-from-class-11-maths-cbse-5f5a383f73443a0884c97d36",
+    "description": "Hence, Option B. 12 is the correct answer. Note: A constant function is a function whose (output) value is the same for every input value.",
+    "googleLink": "http://www.google.com/url?q=https://www.vedantu.com/question-answer/the-number-of-constant-functions-possible-from-class-11-maths-cbse-5f5a383f73443a0884c97d36&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAV6BAgEEAE&usg=AOvVaw1WFBjqqMi5NNR-iP87w2vU",
+    "page": 2,
+    "index": 5
+  },
+  {
+    "name": "Category:Constant functions - Wikimedia Commonscommons.wikimedia.org \u203a wiki \u203a Category:Constant...",
+    "link": "https://commons.wikimedia.org/wiki/Category:Constant_functions",
+    "description": "21.01.2021 \u00b7 Media in category \"Constant functions\". The following 23 files are in this category, out of 23 total. Algebra1 fnz fig037 pc.svg 164 \u00d7 128; 9 KB.",
+    "googleLink": "http://www.google.com/url?q=https://commons.wikimedia.org/wiki/Category:Constant_functions&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAZ6BAgDEAE&usg=AOvVaw09WTwBCDW-Klnbi0qkrc2l",
+    "page": 2,
+    "index": 6
+  },
+  {
+    "name": "constant function - Wiktionaryen.wiktionary.org \u203a wiki \u203a constant_function",
+    "link": "https://en.wiktionary.org/wiki/constant_function",
+    "description": "constant function (plural constant functions). (mathematics) A function whose value is the same for all the elements of its domain.",
+    "googleLink": "http://www.google.com/url?q=https://en.wiktionary.org/wiki/constant_function&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAd6BAgFEAE&usg=AOvVaw3iF3Mnk3GXRDS8M9-92m6H",
+    "page": 2,
+    "index": 7
+  },
+  {
+    "name": "Constant function Facts for Kids | KidzSearch.comwiki.kidzsearch.com \u203a wiki \u203a Constant_function",
+    "link": "https://wiki.kidzsearch.com/wiki/Constant_function",
+    "description": "In mathematics, a constant function is a function whose output value is the same for every input value. ... For example, the function y(x)=4 is a constant function\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://wiki.kidzsearch.com/wiki/Constant_function&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAh6BAgGEAE&usg=AOvVaw3oqkKqZCQ2IL8B4K3peWcq",
+    "page": 2,
+    "index": 8
+  },
+  {
+    "name": "What is a Constant Function? | Printable Summary | Virtual Nerdvirtualnerd.com \u203a worksheetHelper",
+    "link": "https://virtualnerd.com/worksheetHelper.php?tutID=Alg2_02_02_0011",
+    "description": "Summary \u00b7 A constant function is a special type of linear function that follows the form f(x) = b \u00b7 'b' is the y-intercept of the line and is just a constant \u00b7 A constant\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://virtualnerd.com/worksheetHelper.php%3FtutID%3DAlg2_02_02_0011&sa=U&ved=2ahUKEwiTseDNzJfxAhU-qZUCHellDbo4FBAWMAl6BAgCEAE&usg=AOvVaw2tupjyAA31XA_xj_XpFPgm",
+    "page": 2,
+    "index": 9
+  },
+  {
+    "name": "Constant functions | Wiskunde op Tilburg Universitywww.wiskundeoptiu.nl \u203a business-economics \u203a pow...",
+    "link": "https://www.wiskundeoptiu.nl/business-economics/chapter-1-functions-one-variable/power-functions-and-polynomial-functions-0",
+    "description": "Definition: A function of the form $$\\begin{align} y(x) & = c, \\end{align}$$ where $\u200bc$ is a number, is called a constant function.Remark 1: The graph of a constant\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://www.wiskundeoptiu.nl/business-economics/chapter-1-functions-one-variable/power-functions-and-polynomial-functions-0&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAB6BAgAEAE&usg=AOvVaw0s4WfUquZArkLpG7wiXE-l",
+    "page": 3,
+    "index": 0
+  },
+  {
+    "name": "Increasing, Decreasing, and Constant Functions - OER2Gooer2go.org \u203a ... \u203a Functions \u203a Properties of Functions",
+    "link": "http://oer2go.org/mods/en-boundless/www.boundless.com/algebra/textbooks/boundless-algebra-textbook/functions-4/properties-of-functions-30/increasing-decreasing-and-constant-functions-109-7708/index.html",
+    "description": "Constant Functions. In mathematics, a constant function is a function whose values do not vary, regardless of the input into the function. A function is a\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://oer2go.org/mods/en-boundless/www.boundless.com/algebra/textbooks/boundless-algebra-textbook/functions-4/properties-of-functions-30/increasing-decreasing-and-constant-functions-109-7708/index.html&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAF6BAgHEAE&usg=AOvVaw0Aq5wvWxh7140gF80XnUcH",
+    "page": 3,
+    "index": 1
+  },
+  {
+    "name": "Definition of Constant Function | Define Constant Function - Algebra ...www.icoachmath.com \u203a math_dictionary \u203a constant-...",
+    "link": "http://www.icoachmath.com/math_dictionary/constant-function.html",
+    "description": "Constant Function is a linear function of the form y = b, where b is a constant. It is also written as fx = b. The graph of a Constant Function is a horizontal line\u00a0...",
+    "googleLink": "http://www.google.com/url?q=http://www.icoachmath.com/math_dictionary/constant-function.html&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAJ6BAgJEAE&usg=AOvVaw1jBiBd69UEOkVHxWJlrSoJ",
+    "page": 3,
+    "index": 2
+  },
+  {
+    "name": "The number of constant functions that can be defined from {1,2 ...www.toppr.com \u203a ask \u203a question \u203a the-number-of-c...",
+    "link": "https://www.toppr.com/ask/question/the-number-of-constant-functions-that-can-be-defined-from-12100-to-abcz-is/",
+    "description": "Click here  to get an answer to your question \u270d\ufe0f The number of constant functions that can be defined from {1,2,....,100} to {a,b,c...z} is.",
+    "googleLink": "http://www.google.com/url?q=https://www.toppr.com/ask/question/the-number-of-constant-functions-that-can-be-defined-from-12100-to-abcz-is/&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAN6BAgIEAE&usg=AOvVaw0Vh4iJ7HYL9usUhNwBdkeX",
+    "page": 3,
+    "index": 3
+  },
+  {
+    "name": "Commutants in crossed product algebras for piecewise constant ...arxiv.org \u203a math",
+    "link": "https://arxiv.org/abs/1910.11166",
+    "description": "28.10.2019 \u00b7 The algebra of piece-wise constant functions does not separate ... by the function algebra become essential for many properties of the crossed\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://arxiv.org/abs/1910.11166&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAR6BAgCEAE&usg=AOvVaw2vTuG_ofHWQuk6kPqrr8QB",
+    "page": 3,
+    "index": 4
+  },
+  {
+    "name": "locally constant function in nLabncatlab.org \u203a nlab \u203a show \u203a locally+constant+function",
+    "link": "https://ncatlab.org/nlab/show/locally+constant+function",
+    "description": "03.07.2017 \u00b7 Locally constant functions. 1. Idea; 2. Definitions; 3. Examples; 4. Pattern. 1. Idea. A locally constant\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://ncatlab.org/nlab/show/locally%2Bconstant%2Bfunction&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAV6BAgBEAE&usg=AOvVaw0IMOQo27Y5-q84KoHQYU13",
+    "page": 3,
+    "index": 5
+  },
+  {
+    "name": "Implications of pure and constant functions [LWN.net]lwn.net \u203a Articles",
+    "link": "https://lwn.net/Articles/285332/",
+    "description": "10.06.2008 \u00b7 This article will focus on two particular attributes that GCC makes available to C developers: pure and const , which can declare a function as\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://lwn.net/Articles/285332/&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAZ6BAgFEAE&usg=AOvVaw3T8pclvgVn1i0t9GkVJW5B",
+    "page": 3,
+    "index": 6
+  },
+  {
+    "name": "Constant confusion: why I still use JavaScript function statementswww.freecodecamp.org \u203a news \u203a constant-confusio...",
+    "link": "https://www.freecodecamp.org/news/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd/",
+    "description": "16.08.2016 \u00b7 const helloWorld = () => 'Hello World!';. This is a function expression in ES2015 JavaScript and it's sexy as hell. It's beautiful to look at.",
+    "googleLink": "http://www.google.com/url?q=https://www.freecodecamp.org/news/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd/&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAd6BAgGEAE&usg=AOvVaw1i9_pJXmGGIHjhBG46s4ir",
+    "page": 3,
+    "index": 7
+  },
+  {
+    "name": "[PDF] Cut Pursuit: fast algorithms to learn piecewise constant functions on ...hal.archives-ouvertes.fr \u203a document",
+    "link": "https://hal.archives-ouvertes.fr/hal-01306779v4/document",
+    "description": "21.08.2017 \u00b7 of piecewise constant functions on general weighted graphs. 1.1. Notations. Let G = (V,E,w) be an unoriented weighted graph whose edge set\u00a0...",
+    "googleLink": "http://www.google.com/url?q=https://hal.archives-ouvertes.fr/hal-01306779v4/document&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAh6BAgDEAE&usg=AOvVaw3sa2bBYafTcxChDucaKSvt",
+    "page": 3,
+    "index": 8
+  },
+  {
+    "name": "Exact Bayesian regression of piecewise constant functionsprojecteuclid.org \u203a euclid.ba",
+    "link": "https://projecteuclid.org/euclid.ba/1340370708",
+    "description": "We derive an exact and efficient Bayesian regression algorithm for piecewise constant functions of unknown segment number, boundary locations, and levels.",
+    "googleLink": "http://www.google.com/url?q=https://projecteuclid.org/euclid.ba/1340370708&sa=U&ved=2ahUKEwjhgJrOzJfxAhUBqJUCHZpeCYU4HhAWMAl6BAgEEAE&usg=AOvVaw20exWAnLjEx1sL5SZ4Y55m",
+    "page": 3,
+    "index": 9
+  },
+  {
+    "name": "Cut Pursuit: Fast Algorithms to Learn Piecewise Constant Functions  proceedings.mlr.press \u203a landrieu16",
+    "link": "http://proceedings.mlr.press/v51/landrieu16.html",
+    "description": "Cut Pursuit: Fast Algorithms to Learn Piecewise Constant Functions",
+    "googleLink": null,
+    "page": 4,
+    "index": 0
+  },
+  {
+    "name": "Constant Functions - Power Tips - Power Tips - IDERA Community  community.idera.com \u203a powertips \u203a tips \u203a posts \u203a co...",
+    "link": "https://community.idera.com/database-tools/powershell/powertips/b/tips/posts/constant-functions",
+    "description": "Constant Functions - Power Tips - Power Tips - IDERA Community",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://community.idera.com/database-tools/powershell/powertips/b/tips/posts/constant-functions&ved=2ahUKEwjeq8XQzJfxAhVXppUCHT3fDF84KBAWMAJ6BAgJEAE&usg=AOvVaw1Szv7Yb6RO9vCMRlcOO6PL",
+    "page": 4,
+    "index": 1
+  },
+  {
+    "name": "[PDF] piecewise constant functions - (IGPM), RWTH Aachen  www.igpm.rwth-aachen.de \u203a Download \u203a reports \u203a pdf \u203a IGPM248",
+    "link": "https://www.igpm.rwth-aachen.de/Download/reports/pdf/IGPM248.pdf",
+    "description": "[PDF] piecewise constant functions - (IGPM), RWTH Aachen",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.igpm.rwth-aachen.de/Download/reports/pdf/IGPM248.pdf&ved=2ahUKEwjeq8XQzJfxAhVXppUCHT3fDF84KBAWMAN6BAgIEAE&usg=AOvVaw1Wa44eqT7SD-o23GtNikWb",
+    "page": 4,
+    "index": 2
+  },
+  {
+    "name": "Can non-constant variables access constant functions? | SoloLearn ...  www.sololearn.com \u203a Discuss \u203a can-non-constant-va...",
+    "link": "https://www.sololearn.com/Discuss/1311832/can-non-constant-variables-access-constant-functions",
+    "description": "Can non-constant variables access constant functions? | SoloLearn ...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.sololearn.com/Discuss/1311832/can-non-constant-variables-access-constant-functions&ved=2ahUKEwjeq8XQzJfxAhVXppUCHT3fDF84KBAWMAR6BAgHEAE&usg=AOvVaw0WqgLksnxB5BJaFGYLVmwX",
+    "page": 4,
+    "index": 3
+  },
+  {
+    "name": "RKHSs containing constant functions - MathOverflow  mathoverflow.net \u203a questions \u203a rkhss-containing-co...",
+    "link": "https://mathoverflow.net/questions/132732/rkhss-containing-constant-functions",
+    "description": "RKHSs containing constant functions - MathOverflow",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://mathoverflow.net/questions/132732/rkhss-containing-constant-functions&ved=2ahUKEwjeq8XQzJfxAhVXppUCHT3fDF84KBAWMAV6BAgGEAE&usg=AOvVaw1l2FId7WTPlGczArYgv_SM",
+    "page": 4,
+    "index": 4
+  },
+  {
+    "name": "Properties of Functions | Boundless Algebra  courses.lumenlearning.com \u203a chapter \u203a properties-of...",
+    "link": "https://courses.lumenlearning.com/boundless-algebra/chapter/properties-of-functions/",
+    "description": "Properties of Functions | Boundless Algebra",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://courses.lumenlearning.com/boundless-algebra/chapter/properties-of-functions/&ved=2ahUKEwjeq8XQzJfxAhVXppUCHT3fDF84KBAWMAZ6BAgDEAE&usg=AOvVaw0TpNmKB8tIX2zXsvUyR1Jv",
+    "page": 4,
+    "index": 5
+  },
+  {
+    "name": "Constant Functions in Verilog 2001 | Beyond Circuits  www.beyond-circuits.com \u203a wordpress \u203a 2008/11",
+    "link": "https://www.beyond-circuits.com/wordpress/2008/11/constant-functions/",
+    "description": "Constant Functions in Verilog 2001 | Beyond Circuits",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.beyond-circuits.com/wordpress/2008/11/constant-functions/&ved=2ahUKEwjeq8XQzJfxAhVXppUCHT3fDF84KBAWMAd6BAgCEAE&usg=AOvVaw18iuLbF4TKhaZZMJhxa8b0",
+    "page": 4,
+    "index": 6
+  },
+  {
+    "name": "constant - Documentation - Twig - The flexible, fast, and secure PHP ...  twig.symfony.com \u203a doc \u203a functions \u203a constant",
+    "link": "https://twig.symfony.com/doc/2.x/functions/constant.html",
+    "description": "constant - Documentation - Twig - The flexible, fast, and secure PHP ...",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://twig.symfony.com/doc/2.x/functions/constant.html&ved=2ahUKEwjeq8XQzJfxAhVXppUCHT3fDF84KBAWMAh6BAgBEAE&usg=AOvVaw1847_vHctle1zOE3ZvluYS",
+    "page": 4,
+    "index": 7
+  },
+  {
+    "name": "Constant Function: Simple Definition & Example - Calculus How To  www.calculushowto.com \u203a constant-function",
+    "link": "https://www.calculushowto.com/constant-function/",
+    "description": "Constant Function: Simple Definition & Example - Calculus How To",
+    "googleLink": "http://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.calculushowto.com/constant-function/&ved=2ahUKEwjeq8XQzJfxAhVXppUCHT3fDF84KBAWMAl6BAgAEAE&usg=AOvVaw1EQs22gY3g5kLr_9LS9GyC",
+    "page": 4,
+    "index": 8
+  }
+]
